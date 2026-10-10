@@ -1,0 +1,22 @@
+# Private / local only (not part of the submission)
+docs/
+report/*
+!report/*.pdf
+
+# Model weights and training artifacts: large, published on Hugging Face instead
+models/
+checkpoints/
+*.safetensors
+*.bin
+*.zip
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

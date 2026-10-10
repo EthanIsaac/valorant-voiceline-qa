@@ -1,0 +1,198 @@
+{
+  "dataset": "NgThVinh/ValorantAgentVoiceLines",
+  "revision": "c2e0d3493f44da5be07090d6ebb9b69ebbcb2060",
+  "agents": [
+    "astra",
+    "breach",
+    "brimstone",
+    "chamber",
+    "clove",
+    "cypher",
+    "deadlock",
+    "fade",
+    "gekko",
+    "harbor",
+    "iso",
+    "jett",
+    "kayo",
+    "killjoy",
+    "neon",
+    "omen",
+    "phoenix",
+    "raze",
+    "reyna",
+    "sage",
+    "skye",
+    "sova",
+    "tejo",
+    "viper",
+    "vyse",
+    "yoru"
+  ],
+  "min_duration_s": 0.5,
+  "cleaning_steps": [
+    [
+      "original",
+      12164
+    ],
+    [
+      "removed clips shorter than 0.5s",
+      11360
+    ]
+  ],
+  "split_sizes": [
+    {
+      "split": "train",
+      "clips": 9077,
+      "agents": 26,
+      "hours": 4.02,
+      "english_only": 8611
+    },
+    {
+      "split": "validation",
+      "clips": 1108,
+      "agents": 26,
+      "hours": 0.51,
+      "english_only": 1059
+    },
+    {
+      "split": "test",
+      "clips": 1175,
+      "agents": 26,
+      "hours": 0.52,
+      "english_only": 1070
+    }
+  ],
+  "clips_per_agent_per_split": {
+    "astra": {
+      "test": 48,
+      "train": 380,
+      "validation": 49
+    },
+    "breach": {
+      "test": 43,
+      "train": 348,
+      "validation": 40
+    },
+    "brimstone": {
+      "test": 39,
+      "train": 348,
+      "validation": 44
+    },
+    "chamber": {
+      "test": 44,
+      "train": 347,
+      "validation": 40
+    },
+    "clove": {
+      "test": 45,
+      "train": 344,
+      "validation": 44
+    },
+    "cypher": {
+      "test": 45,
+      "train": 359,
+      "validation": 45
+    },
+    "deadlock": {
+      "test": 49,
+      "train": 326,
+      "validation": 40
+    },
+    "fade": {
+      "test": 49,
+      "train": 330,
+      "validation": 44
+    },
+    "gekko": {
+      "test": 52,
+      "train": 415,
+      "validation": 54
+    },
+    "harbor": {
+      "test": 42,
+      "train": 332,
+      "validation": 36
+    },
+    "iso": {
+      "test": 38,
+      "train": 317,
+      "validation": 38
+    },
+    "jett": {
+      "test": 41,
+      "train": 318,
+      "validation": 34
+    },
+    "kayo": {
+      "test": 42,
+      "train": 366,
+      "validation": 47
+    },
+    "killjoy": {
+      "test": 45,
+      "train": 360,
+      "validation": 55
+    },
+    "neon": {
+      "test": 46,
+      "train": 336,
+      "validation": 42
+    },
+    "omen": {
+      "test": 41,
+      "train": 398,
+      "validation": 46
+    },
+    "phoenix": {
+      "test": 39,
+      "train": 338,
+      "validation": 40
+    },
+    "raze": {
+      "test": 49,
+      "train": 365,
+      "validation": 39
+    },
+    "reyna": {
+      "test": 39,
+      "train": 366,
+      "validation": 47
+    },
+    "sage": {
+      "test": 40,
+      "train": 351,
+      "validation": 38
+    },
+    "skye": {
+      "test": 49,
+      "train": 347,
+      "validation": 40
+    },
+    "sova": {
+      "test": 52,
+      "train": 327,
+      "validation": 41
+    },
+    "tejo": {
+      "test": 35,
+      "train": 296,
+      "validation": 33
+    },
+    "viper": {
+      "test": 63,
+      "train": 373,
+      "validation": 42
+    },
+    "vyse": {
+      "test": 46,
+      "train": 348,
+      "validation": 48
+    },
+    "yoru": {
+      "test": 54,
+      "train": 342,
+      "validation": 42
+    }
+  }
+}

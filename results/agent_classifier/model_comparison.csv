@@ -1,0 +1,4 @@
+model,model_id,params_millions,best_epoch,val_accuracy,val_f1_macro,test_accuracy,test_f1_macro,train_runtime_s,val_eval_runtime_s,cpu_load_s,cpu_ms_per_clip,pipeline_agreement,selected
+distilhubert,ntu-spml/distilhubert,23.7,5.0,0.8592057761732852,0.8586435770654588,0.8229787234042554,0.8193660493732415,332.942,7.3509,0.09,162.7,0.995,False
+wav2vec2,facebook/wav2vec2-base,94.6,4.0,0.9178700361010831,0.9176332352014731,0.9046808510638298,0.9049420152431249,1067.8404,17.7475,0.32,477.7,1.0,True
+wavlm,microsoft/wavlm-base-plus,94.6,5.0,0.6425992779783394,0.589628189277894,0.6059574468085106,0.5643734906880374,1102.3473,28.9177,0.65,603.6,0.995,False

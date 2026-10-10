@@ -1,0 +1,32 @@
+{
+  "seed": 42,
+  "dataset": "NgThVinh/ValorantAgentVoiceLines",
+  "dataset_revision": "c2e0d3493f44da5be07090d6ebb9b69ebbcb2060",
+  "candidates": {
+    "distilhubert": "ntu-spml/distilhubert",
+    "wav2vec2": "facebook/wav2vec2-base",
+    "wavlm": "microsoft/wavlm-base-plus"
+  },
+  "audio": {
+    "sampling_rate": 16000,
+    "max_seconds": 4.0,
+    "min_seconds": 0.5
+  },
+  "hyperparameters": {
+    "num_epochs": 5,
+    "learning_rate": 3e-05,
+    "warmup_ratio": 0.1,
+    "batch_size": 16,
+    "fp16": true,
+    "feature_encoder": "frozen",
+    "eval_batch_size": 1
+  },
+  "selection_rule": "highest val_accuracy; ties within 0.01 go to lowest cpu_ms_per_clip",
+  "selected_model": "wav2vec2",
+  "versions": {
+    "transformers": "4.57.6",
+    "torch": "2.11.0+cu130"
+  },
+  "gpu": "Tesla T4",
+  "run_at_utc": "2026-10-10T21:07:25+00:00"
+}

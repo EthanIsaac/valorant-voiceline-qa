@@ -9,12 +9,21 @@ ISOM5240 (HKUST) project, with **Riot Games** as the case study. Every VALORANT 
 ## Repository layout
 
 ```
-notebooks/          Google Colab notebooks (fine-tuning and model comparisons)
-results/            metrics produced by the notebooks (CSV/JSON) and the experiment results Excel
-streamlit_app.py    Streamlit app (deployed on Streamlit Community Cloud)
-requirements.txt    app dependencies (CPU-only PyTorch)
-samples/            five test-set voice lines used as app examples
-static/             app images: banner (composed from official agent portraits) and author portrait
+notebooks/            Google Colab notebooks (fine-tuning and model comparisons)
+results/              metrics produced by the notebooks (CSV/JSON) and the experiment results Excel
+
+streamlit_app.py      app entry point: page setup, shared layout, navigation
+app_pages/
+  qa_check.py         QA check: a tester checks one recording
+  performance.py      performance test: the app's accuracy on held-out test clips (linked from the footer)
+voiceline_qa/         business layer (no Streamlit): audio loading, the three checks, evaluation
+ui/                   presentation layer: theme, stylesheet, visual components
+tests/                unit tests of the business layer (python -m pytest tests)
+
+samples/              five held-out test clips offered as examples in the QA check
+evaluation/           performance-test set: 104 held-out test clips (4 per agent) and their script lines
+static/               app images: banner (composed from official agent portraits) and author portrait
+requirements.txt      app dependencies (CPU-only PyTorch)
 ```
 
 Run the app locally: `pip install -r requirements.txt && streamlit run streamlit_app.py`

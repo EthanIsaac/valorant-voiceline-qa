@@ -1,0 +1,105 @@
+file,agent,audio_name,script_line,duration_s,seen_in_train
+AstraAstralFormNoCharges1.flac,astra,AstraAstralFormNoCharges1,Need more astral stars.,1.313,False
+AstraEnemySageBarrierDown.flac,astra,AstraEnemySageBarrierDown,Drop that mystic healer!,1.328,False
+AstraLetsRushC2.flac,astra,AstraLetsRushC2,Let's rush C.,0.99,True
+AstraMatchStartSplit.flac,astra,AstraMatchStartSplit,"I like flowers and stuff, but this place no give flavor. No gold, where's the signs, the bling-blings, come on!",6.59,False
+BreachAllyJettCommend.flac,breach,BreachAllyJettCommend,"Damn, Jett, have you ever considered a life of crime? I have contacts. Let me know.",5.38,False
+BreachBarrierDown7.flac,breach,BreachBarrierDown7,Hit them back!,0.937,False
+BreachLastKillMelee1.flac,breach,BreachLastKillMelee1,"Never been in a knife fight, have you?",1.784,False
+BreachMatchWin1.flac,breach,BreachMatchWin1,Hell yeah! Who's up for another?,2.273,False
+BrimstoneAllyPhoenixCommend.flac,brimstone,BrimstoneAllyPhoenixCommend,"Phoenix, if you keep pulling stunts like that, you can brag as much as you like.",4.342,False
+BrimstoneMatchPoint1.flac,brimstone,BrimstoneMatchPoint1,"You've earned this win, let's make it official!",2.293,False
+BrimstoneMatchStartSplit.flac,brimstone,BrimstoneMatchStartSplit,I would hate working here. You couldn't pay me to sit at a desk.,3.328,False
+BrimstoneOnMyWay1.flac,brimstone,BrimstoneOnMyWay1,On my way.,0.67,True
+ChamberClearThisArea1.flac,chamber,ChamberClearThisArea1,Clear here.,0.744,True
+ChamberFlawless2.flac,chamber,ChamberFlawless2,How did they think this would end?,1.968,False
+ChamberResurrect.flac,chamber,ChamberResurrect,That was unpleasant.,1.44,False
+ChamberSpikeSpottedASpawn1.flac,chamber,ChamberSpikeSpottedASpawn1,Spike in Attacker Spawn.,1.704,True
+CloveClutch1.flac,clove,CloveClutch1,"Brand new, that one!",1.287,False
+CloveKill2.flac,clove,CloveKill2,Have a kip!,0.632,False
+CloveLastKill2.flac,clove,CloveLastKill2,"Don't get back up, sweetheart.",1.796,False
+CloveLead2.flac,clove,CloveLead2,"I feel bad for them, I really do. Just not enough to stop winning.",4.904,False
+CypherAllyKilljoyChat.flac,cypher,CypherAllyKilljoyChat,"Oh, oh dear no sweetheart! We must protect you.",3.226,False
+CypherEnemyPhoenixLastKill.flac,cypher,CypherEnemyPhoenixLastKill,No rebirth for you.,1.369,False
+CypherPick.flac,cypher,CypherPick,Nothing stays hidden from me. Nothing.,2.808,False
+CypherThanks1.flac,cypher,CypherThanks1,My thanks.,0.757,False
+DeadlockAllyFadeCommend.flac,deadlock,DeadlockAllyFadeCommend,"Fade, now you're just showing off.",2.949,False
+DeadlockEnemiesASpawn1.flac,deadlock,DeadlockEnemiesASpawn1,Multiple targets Attacker Spawn!,1.664,True
+DeadlockMatchStart3.flac,deadlock,DeadlockMatchStart3,The greatest battles ever fought are written in storybooks. May they write about this one.,5.136,False
+DeadlockUltMissed1.flac,deadlock,DeadlockUltMissed1,Nothing there.,0.803,False
+FadeBuying1.flac,fade,FadeBuying1,I will buy.,0.72,False
+FadeEnemiesASpawn1.flac,fade,FadeEnemiesASpawn1,Enemies Attacker Spawn!,1.392,True
+FadeRoundStart1.flac,fade,FadeRoundStart1,"One dream ends, another begins.",2.472,False
+FadeSpikeSpottedC1.flac,fade,FadeSpikeSpottedC1,Spike C.,0.792,False
+GekkoAllyYoruBarrierDown.flac,gekko,GekkoAllyYoruBarrierDown,"Yoru, good luck!",0.968,False
+GekkoLetsGoB1.flac,gekko,GekkoLetsGoB1,Let's go B.,0.664,True
+GekkoPushingOut1.flac,gekko,GekkoPushingOut1,I'm pushing out.,0.606,True
+GekkoReconB1.flac,gekko,GekkoReconB1,Sending recon B.,0.996,False
+HarborEnemyASpawn1.flac,harbor,HarborEnemyASpawn1,Target Attacker Spawn.,1.344,False
+HarborEnemyHarborLastKill.flac,harbor,HarborEnemyHarborLastKill,"When we are at peace, I would meet you again.",2.568,False
+HarborStack1.flac,harbor,HarborStack1,Let's stack up.,0.811,True
+HarborStickTogether1.flac,harbor,HarborStickTogether1,Stick together.,0.8,True
+IsoBarrierDown5.flac,iso,IsoBarrierDown5,"We're close, hit them hard!",1.821,False
+IsoComeback2.flac,iso,IsoComeback2,"Hey, who has a good song for 'we were losing but now things are looking up'? You know, like uh, redemption arc.",6.925,False
+IsoLetsGoA1.flac,iso,IsoLetsGoA1,Let's go A.,0.683,True
+IsoPushingOut1.flac,iso,IsoPushingOut1,I'm pushing out.,0.806,True
+JettCantUse1.flac,jett,JettCantUse1,I can't use that.,0.767,True
+JettLetsGoB1.flac,jett,JettLetsGoB1,Let's go B.,0.575,True
+JettNeedSomeoneC1.flac,jett,JettNeedSomeoneC1,Someone go C.,0.917,True
+JettUltAlmost1.flac,jett,JettUltAlmost1,My ult's almost ready.,1.288,True
+KAYOAllySageMatchStart.flac,kayo,KAYOAllySageMatchStart,"It is strange, Sage. Where I'm from, you're no medic, only a weapon.",4.673,False
+KAYOEnemyDSpawn1.flac,kayo,KAYOEnemyDSpawn1,Target Defender Spawn.,1.347,False
+KAYOLowHP2.flac,kayo,KAYOLowHP2,Is Killjoy here? I could use some repairs.,2.419,False
+KAYOPing1.flac,kayo,KAYOPing1,There.,0.566,True
+KilljoyKill9.flac,killjoy,KilljoyKill9,Finished.,0.505,True
+KilljoyRoundStart4.flac,killjoy,KilljoyRoundStart4,"Everyone makes fun of German efficiency, haha. Just keep laughing as you use all my gear.",6.362,False
+KilljoySpikeDown1.flac,killjoy,KilljoySpikeDown1,Our spike carrier is dead.,1.388,True
+KilljoyUltCaught1.flac,killjoy,KilljoyUltCaught1,Caught one.,0.72,False
+NeonEncouraging1.flac,neon,NeonEncouraging1,We've got this.,0.972,True
+NeonEnemyC1.flac,neon,NeonEnemyC1,Enemy C.,0.84,True
+NeonOffer1.flac,neon,NeonOffer1,"I can buy, who needs what?",1.752,False
+NeonSneakC1.flac,neon,NeonSneakC1,Let's sneak C.,0.88,True
+OmenEnemyViperKill.flac,omen,OmenEnemyViperKill,Experiment complete.,1.38,False
+OmenKill4.flac,omen,OmenKill4,Killed.,0.656,True
+OmenLowHP1.flac,omen,OmenLowHP1,You think you can kill me?,2.413,True
+OmenNeedSomeoneC1.flac,omen,OmenNeedSomeoneC1,Someone go C.,0.994,True
+PhoenixEnemySageLastKill.flac,phoenix,PhoenixEnemySageLastKill,"Easy, Sage.",1.227,False
+PhoenixHeadshot1.flac,phoenix,PhoenixHeadshot1,Sit down!,0.777,True
+PhoenixHello3.flac,phoenix,PhoenixHello3,What's up?,0.545,True
+PhoenixRunnerUp2.flac,phoenix,PhoenixRunnerUp2,Next time I'm gettin' first place!,1.823,False
+RazeAllyCypherRoundStart.flac,raze,RazeAllyCypherRoundStart,"Cypher, I'm so sorry about breaking all your stuff. I mean, I won't stop, but I am sorry.",5.616,False
+RazeDefuseSpike1.flac,raze,RazeDefuseSpike1,Defuse it!,0.663,False
+RazeKill6.flac,raze,RazeKill6,One down.,0.785,True
+RazeLastRound1.flac,raze,RazeLastRound1,Spend those creds before we lose them.,1.684,False
+ReynaAllyKAYORoundStart.flac,reyna,ReynaAllyKAYORoundStart,"Focus your hate at the enemy, KAY/O, it is wasted on me.",4.964,False
+ReynaLead1.flac,reyna,ReynaLead1,"If you've never seen a massacre, this is what it looks like.",3.788,False
+ReynaMatchStart4.flac,reyna,ReynaMatchStart4,"I've stood over so many corpses. A few more, does not matter.",4.277,False
+ReynaMatchStartAscent.flac,reyna,ReynaMatchStartAscent,This poor place. It clings to life. A city after my own heart,5.618,False
+SageBarrierDown16.flac,sage,SageBarrierDown16,Fight!,0.599,False
+SageFlawless2.flac,sage,SageFlawless2,Unscathed! I'm delighted.,2.175,False
+SageKill2.flac,sage,SageKill2,Return to dust.,0.979,False
+SageMatchWinBind.flac,sage,SageMatchWinBind,This city is safe once more.,1.855,False
+SkyeCommend1.flac,skye,SkyeCommend1,Good on ya.,1.054,False
+SkyeEnemyMid1.flac,skye,SkyeEnemyMid1,Enemy spotted Mid.,1.161,True
+SkyeFakingB1.flac,skye,SkyeFakingB1,I'm faking B.,0.949,True
+SkyeRunnerUp2.flac,skye,SkyeRunnerUp2,Strong finish. Could be even stronger.,2.357,False
+SovaEnemiesB1.flac,sova,SovaEnemiesB1,Multiple enemies B!,1.06,True
+SovaHoldingPosition1.flac,sova,SovaHoldingPosition1,Holding position.,0.892,True
+SovaRoundStart2.flac,sova,SovaRoundStart2,"Level heads until we're home, yes? Good.",2.666,False
+SovaSneakA1.flac,sova,SovaSneakA1,Let's sneak A.,0.903,True
+TejoDefuseResumed2.flac,tejo,TejoDefuseResumed2,Don't interrupt me again.,1.978,False
+TejoHelp1.flac,tejo,TejoHelp1,A little help.,0.747,True
+TejoLurking1.flac,tejo,TejoLurking1,I'm lurking.,0.849,True
+TejoYes1.flac,tejo,TejoYes1,Yes.,0.536,True
+ViperGoingMid1.flac,viper,ViperGoingMid1,Heading Mid.,0.808,True
+ViperKill1.flac,viper,ViperKill1,Ended.,0.816,True
+ViperMeleeKill1.flac,viper,ViperMeleeKill1,Not worth the bullets.,1.433,False
+ViperSpikeSpottedDSpawn1.flac,viper,ViperSpikeSpottedDSpawn1,Spike's in Defender Spawn.,1.516,True
+VyseAce3.flac,vyse,VyseAce3,"If any of you mattered, you'd be alive.",3.27,False
+VyseAllyRazeRoundStart.flac,vyse,VyseAllyRazeRoundStart,"So, you use explosives to propel yourself, Raze. That's... that's creative. I think I like it.",8.234,False
+VyseArcRoseDestroyed3.flac,vyse,VyseArcRoseDestroyed3,My blind is dead.,1.225,False
+VyseDefuseLate2.flac,vyse,VyseDefuseLate2,"Okay, okay.",1.878,True
+YoruEnemyYoruMatchStart.flac,yoru,YoruEnemyYoruMatchStart,"That's me over there! Great, now I can kick my own ass.",4.971,False
+YoruLastRound1.flac,yoru,YoruLastRound1,Spend your money now. There's no bank in hell.,3.037,False
+YoruPingUtility1.flac,yoru,YoruPingUtility1,Enemy utility here.,1.207,True
+YoruSpikeSpottedMid1.flac,yoru,YoruSpikeSpottedMid1,Spike is Mid.,0.883,True

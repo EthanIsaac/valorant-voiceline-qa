@@ -85,7 +85,7 @@ def lost_terms(source, translation):
 
 # ---------------------------------------------------------------- models
 
-@st.cache_resource(show_spinner="Loading the three models (first visit only, about a minute)...")
+@st.cache_resource(show_spinner=False)
 def load_models():
     classifier = pipeline("audio-classification", model=CLASSIFIER_ID, device=-1)
     asr = pipeline("automatic-speech-recognition", model=ASR_ID, device=-1)
@@ -133,6 +133,36 @@ def word_diff_html(reference, hypothesis):
     return " ".join(parts), errors, out.wer
 
 
+STEPS = ["Identifying agent", "Transcribing voice line", "Translating to Spanish"]
+
+
+def loading_bar(slot, step, label=None):
+    """Game-style loading bar: one segment per QA step; earlier steps full, current one animated."""
+    segments = "".join(f'<div class="seg {"done" if i < step else "active" if i == step else ""}"></div>'
+                       for i in range(len(STEPS)))
+    slot.markdown(
+        f'<div class="vq-load"><div class="top"><span>{label or STEPS[step]}<span class="dots"></span></span>'
+        f'<span>{step + 1}/{len(STEPS)}</span></div><div class="segs">{segments}</div></div>', unsafe_allow_html=True)
+
+
+def queued(slot, step):
+    slot.markdown(f'<div class="vq-load queued"><div class="top"><span>Queued: {STEPS[step].lower()}</span>'
+                  f'<span>{step + 1}/{len(STEPS)}</span></div></div>', unsafe_allow_html=True)
+
+
+def footer():
+    """Riot's required notice, shown on every page state."""
+    st.markdown(
+        f'<div class="vq-footer">Voice-Line QA was created under Riot Games\' "Legal Jibber Jabber" policy using assets '
+        "owned by Riot Games. Riot Games does not endorse or sponsor this project.<br>"
+        "This is a non-commercial student project for HKUST ISOM5240 and is not an official Riot Games website or tool. "
+        "Voice lines from the NgThVinh/ValorantAgentVoiceLines dataset; agent art via valorant-api.com. "
+        f'Models: <a href="https://huggingface.co/{CLASSIFIER_ID}">agent classifier</a>, '
+        f'<a href="https://huggingface.co/{ASR_ID}">speech-to-text</a>, '
+        f'<a href="https://huggingface.co/{TRANSLATOR_ID}">translation</a>. '
+        f'<a href="{GITHUB_URL}">Source code</a>.</div>', unsafe_allow_html=True)
+
+
 # ---------------------------------------------------------------- page
 
 st.set_page_config(page_title="Voice-Line QA | Educational project", page_icon="🎧", layout="centered")
@@ -168,6 +198,24 @@ h1, h2, h3, .vq-display { font-family: 'Anton', sans-serif !important; text-tran
 .vq-diff { font-size: 1.05rem; line-height: 1.9; }
 .vq-card del { color: #FF8A94; text-decoration: line-through; } .vq-card ins { color: #2BD9A1; text-decoration: none; }
 .vq-es { font-size: 1.25rem; }
+.vq-load { background: #1F2731; border-left: 4px solid #FF4655; padding: .9rem 1.2rem 1.1rem; margin: .6rem 0 1rem;
+           clip-path: polygon(0 0, 100% 0, 100% calc(100% - 16px), calc(100% - 16px) 100%, 0 100%); }
+.vq-load .top { display: flex; justify-content: space-between; font-family: 'Anton', sans-serif; font-size: 1.1rem;
+                text-transform: uppercase; letter-spacing: .08em; margin-bottom: .6rem; }
+.vq-load .top span:last-child { color: #FF4655; font-variant-numeric: tabular-nums; }
+.vq-load .dots::after { content: ""; animation: vq-dots 1.2s steps(4) infinite; }
+.vq-load .segs { display: flex; gap: 8px; padding: 0 6px; }
+.vq-load .seg { flex: 1; height: 12px; background: #0F1923; transform: skewX(-25deg); position: relative; overflow: hidden; }
+.vq-load .seg.done { background: #FF4655; }
+.vq-load .seg.active { background: #FF465533; }
+.vq-load .seg.active::after { content: ""; position: absolute; top: 0; bottom: 0; width: 45%;
+                              background: linear-gradient(90deg, transparent, #FF4655, transparent);
+                              animation: vq-sweep 1.1s ease-in-out infinite; }
+.vq-load.queued { opacity: .45; border-left-color: #ECE8E166; padding-bottom: .5rem; }
+.vq-load.queued .top { margin: 0; font-size: .95rem; } .vq-load.queued .top span:last-child { color: inherit; }
+@keyframes vq-sweep { from { left: -45%; } to { left: 100%; } }
+@keyframes vq-dots { 0% { content: ""; } 25% { content: "."; } 50% { content: ".."; } 75% { content: "..."; } }
+@media (prefers-reduced-motion: reduce) { .vq-load .seg.active::after, .vq-load .dots::after { animation: none; } }
 .vq-footer { font-size: .8rem; opacity: .75; border-top: 1px solid #ECE8E133; margin-top: 2rem; padding-top: .8rem; }
 </style>
 """, unsafe_allow_html=True)
@@ -184,8 +232,6 @@ st.markdown(
     "Check a recorded voice line in one step: <b>who</b> is speaking, whether the recording <b>matches the "
     "script</b>, and a <b>draft Spanish subtitle</b> for the localization team."
     f'<div class="vq-strip">{strip}</div>', unsafe_allow_html=True)
-
-classifier, asr, translator, normalizer = load_models()
 
 # ---------------------------------------------------------------- input
 
@@ -211,18 +257,33 @@ if audio_bytes:
     st.audio(audio_bytes, format=audio_format)
 
 if not st.button("Run QA check", type="primary", disabled=not audio_bytes):
+    footer()
     st.stop()
 
 try:
     waveform, waveform_4s, duration = load_audio(audio_bytes)
 except Exception:
     st.error("Could not read this audio file. Please upload a WAV, FLAC, OGG or MP3 recording.")
+    footer()
     st.stop()
 if duration > MAX_UPLOAD_SECONDS:
     st.error(f"This recording is {duration:.0f} s long; voice lines are a few seconds. Please upload up to {MAX_UPLOAD_SECONDS} s.")
+    footer()
     st.stop()
 
 timings = {}
+
+# All three sections appear at once: the current step shows the loading bar, later steps wait in the queue
+slots = []
+for title in ["1 · Who is speaking?", "2 · Does it match the script?", "3 · Spanish subtitle draft"]:
+    st.markdown(f"### {title}")
+    slots.append(st.empty())
+for step, slot in enumerate(slots):
+    queued(slot, step)
+
+loading_bar(slots[0], 0, "Loading models (first run only, about a minute)")
+classifier, asr, translator, normalizer = load_models()
+loading_bar(slots[0], 0)
 
 # ---------------------------------------------------------------- 1. agent
 
@@ -232,7 +293,6 @@ timings["Agent"] = time.perf_counter() - start
 
 best = top3[0]["label"]
 name, _, colour = AGENTS[best]
-st.markdown("### 1 · Who is speaking?")
 verdict = ""
 if expected_agent:
     verdict = ('<span class="vq-badge vq-ok">Matches the file\'s agent</span>' if best == expected_agent else
@@ -241,7 +301,7 @@ rows = "".join(
     f'<div class="vq-row"><img src="{agent_image(p["label"])}" alt=""><span class="label">{AGENTS[p["label"]][0]}</span>'
     f'<div class="bar"><div style="width:{p["score"]:.0%}"></div></div><span class="pct">{p["score"]:.0%}</span></div>'
     for p in top3)
-st.markdown(
+slots[0].markdown(
     f'<div class="vq-card" style="background: linear-gradient(90deg, #{colour}cc, #1F2731 70%);">'
     f'<div class="vq-agent"><img class="portrait" src="{agent_image(best, "fullportrait")}" alt="{name}">'
     f'<div><div class="name">{name}</div><div>{top3[0]["score"]:.0%} confidence</div>{verdict}</div></div></div>'
@@ -249,11 +309,11 @@ st.markdown(
 
 # ---------------------------------------------------------------- 2. transcript vs script
 
+loading_bar(slots[1], 1)
 start = time.perf_counter()
 transcript = asr({"raw": waveform, "sampling_rate": TARGET_SR})["text"].strip()
 timings["Transcript"] = time.perf_counter() - start
 
-st.markdown("### 2 · Does it match the script?")
 body = f"<b>Heard:</b> {html.escape(transcript)}"
 if script_line.strip():
     diff, errors, wer = word_diff_html(normalizer(script_line), normalizer(transcript))
@@ -263,21 +323,21 @@ if script_line.strip():
     if errors:
         body += (f"<div class='vq-diff'>{diff}</div><small>Compared word by word, ignoring case, punctuation "
                  "and spelling variants: <del>in the script</del> → <ins>heard instead</ins>.</small>")
-st.markdown(f'<div class="vq-card">{body}</div>', unsafe_allow_html=True)
+slots[1].markdown(f'<div class="vq-card">{body}</div>', unsafe_allow_html=True)
 
 # ---------------------------------------------------------------- 3. Spanish subtitle
 
 text_to_translate = script_line.strip() or transcript
+loading_bar(slots[2], 2)
 start = time.perf_counter()
 sentences = split_sentences(text_to_translate)
 spanish = " ".join(o["translation_text"] for o in translator(sentences, **TRANSLATION_SETTINGS)) if sentences else ""
 timings["Spanish"] = time.perf_counter() - start
 
-st.markdown("### 3 · Spanish subtitle draft")
 lost = lost_terms(text_to_translate, spanish)
 check = ('<span class="vq-badge vq-ok">Names and callouts kept</span>' if not lost else
          f'<span class="vq-badge vq-bad">Check: {html.escape(", ".join(lost))} changed or missing</span>')
-st.markdown(
+slots[2].markdown(
     f'<div class="vq-card">{check}<p class="vq-es" style="margin-top:.6rem">{html.escape(spanish)}</p>'
     f'<small>Translated from the {"script line" if script_line.strip() else "transcript"}, one sentence at a time. '
     "A machine draft for a human translator, not a final subtitle.</small></div>", unsafe_allow_html=True)
@@ -285,14 +345,4 @@ st.markdown(
 st.caption("Processing time on CPU: " + " · ".join(f"{k} {v:.1f} s" for k, v in timings.items())
            + f" · clip length {duration:.1f} s")
 
-# ---------------------------------------------------------------- footer
-
-st.markdown(
-    f'<div class="vq-footer">Voice-Line QA was created under Riot Games\' "Legal Jibber Jabber" policy using assets '
-    "owned by Riot Games. Riot Games does not endorse or sponsor this project.<br>"
-    "This is a non-commercial student project for HKUST ISOM5240 and is not an official Riot Games website or tool. "
-    "Voice lines from the NgThVinh/ValorantAgentVoiceLines dataset; agent art via valorant-api.com. "
-    f'Models: <a href="https://huggingface.co/{CLASSIFIER_ID}">agent classifier</a>, '
-    f'<a href="https://huggingface.co/{ASR_ID}">speech-to-text</a>, '
-    f'<a href="https://huggingface.co/{TRANSLATOR_ID}">translation</a>. '
-    f'<a href="{GITHUB_URL}">Source code</a>.</div>', unsafe_allow_html=True)
+footer()

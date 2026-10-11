@@ -20,3 +20,7 @@ venv/
 .DS_Store
 .vscode/
 .idea/
+
+# Local tooling (not part of the submission)
+.agents/
+.claude/

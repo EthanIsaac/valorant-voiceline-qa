@@ -1,0 +1,4 @@
+model,model_id,params_millions,wer,exact_match,substitutions,deletions,insertions,reference_words,gpu_seconds_test_set,cpu_load_s,cpu_ms_per_clip,cpu_agreement,selected
+wav2vec2,facebook/wav2vec2-base-960h,94.4,0.30199486470472053,0.3205607476635514,1120,283,126,5063,21.6,1.63,377.8,1.0,False
+whisper_tiny,openai/whisper-tiny.en,37.8,0.1548489038119692,0.5925233644859813,553,109,122,5063,123.8,2.15,1411.8,1.0,False
+whisper_base,openai/whisper-base.en,72.6,0.11751925735729804,0.6682242990654206,430,82,83,5063,174.4,6.44,2796.7,1.0,True

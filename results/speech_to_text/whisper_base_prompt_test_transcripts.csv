@@ -1,0 +1,1071 @@
+agent,audio_name,spoken_text,reference,whisper_base_raw,whisper_base_clip_wer,whisper_base_prompt_raw,whisper_base_prompt_clip_wer
+astra,AstraAllyPhoenixRoundStart,"Eh, Phoenix, chalk it to all this aggrandizement.",eh phoenix chalk it to all this aggrandizement,"Hey, Phoenix, chocolates with all this are grand dice mints.",1.0,"Hey, Phoenix, chocolates with all this agran dice mint.",0.875
+astra,AstraAllySageCommend,"Mad love, Sage. Come on, girl. That win's gotta be worth a smile!",mad love sage come on girl that win has got to be worth a smile,"Mad love, Sage. Come on girl, that wind's gonna be worth a smile.",0.2,"Mad love, Sage. Come on, girl. That wind's gonna be worth a smile.",0.2
+astra,AstraAstralFormNoCharges1,Need more astral stars.,need more astral stars,Need more astro-stars?,0.25,Need more astro stars?,0.25
+astra,AstraAstralFormNoCharges2,Need more astral stars.,need more astral stars,Need more astrostars?,0.5,Need more Astra stars?,0.25
+astra,AstraAstralFormReminder1,I got enough time to go into the astral form.,i got enough time to go into the astral form,I got enough time to go into the astrofoam.,0.2,I got enough time to go into the Astra form.,0.1
+astra,AstraBarrierDown5,"Oh, eternity blesses us!",0 eternity blesses us,"Oh, eternity blesses us!",0.0,"Oh, eternity blesses us.",0.0
+astra,AstraCalloutMid1,Mid.,mid,mid,0.0,Mid,0.0
+astra,AstraCantUse1,I cannot use that.,i cannot use that,I cannot use that.,0.0,I cannot use that.,0.0
+astra,AstraCantUse2,I cannot use that.,i cannot use that,I cannot use that.,0.0,I cannot use that.,0.0
+astra,AstraCaution1,Enemy activity.,enemy activity,Enemy activity.,0.0,Enemy activity.,0.0
+astra,AstraCaution2,Enemy activity.,enemy activity,Enemy activity!,0.0,Enemy activity.,0.0
+astra,AstraEnemyC1,Enemy spotted C.,enemy spotted c,Enemy spotted sea.,0.3333333333333333,Enemy Spotted Sea.,0.3333333333333333
+astra,AstraEnemyC2,Enemy spotted C.,enemy spotted c,"Enemy spotted, C.",0.0,"Enemy spotted, C.",0.0
+astra,AstraEnemyOmenKill,"Ghost boy, bye bye!",ghost boy bye bye,"Ghost Boy, buh-bye!",0.25,"Ghostboy, buh-bye!",0.75
+astra,AstraEnemyReynaKill,That creature is dead.,that creature is dead,That creature is dead.,0.0,That creature is dead.,0.0
+astra,AstraEnemySageBarrierDown,Drop that mystic healer!,drop that mystic healer,Drop that Mr. Killer!,0.5,Drop that Mr. Killer!,0.5
+astra,AstraFakingC1,I'm faking C.,i am faking c,I'm faking sea.,0.25,I'm Faking Sea.,0.25
+astra,AstraFakingC2,I'm faking C.,i am faking c,I'm fake and see.,0.75,I'm Fakin' Sea.,0.5
+astra,AstraHello3,Hello.,hello,Hello!,0.0,Hello!,0.0
+astra,AstraKill12,Just swag.,just swag,Just swag!,0.0,Just swag!,0.0
+astra,AstraLetsGoC1,Let's go C.,let us go c,Let's go see.,0.25,Let's go see.,0.25
+astra,AstraLetsGoC2,Let's go C.,let us go c,Let's go see!,0.25,Let's go see!,0.25
+astra,AstraLetsRotate1,Let's rotate.,let us rotate,Let's rotate!,0.0,Let's rotate!,0.0
+astra,AstraLetsRotate2,Let's rotate.,let us rotate,Let's rotate!,0.0,Let's rotate!,0.0
+astra,AstraLetsRushC1,Let's rush C.,let us rush c,Let's rush see.,0.25,Let's rush C.,0.0
+astra,AstraLetsRushC2,Let's rush C.,let us rush c,Let's rush sea.,0.25,Let's rush C!,0.0
+astra,AstraMatchMVP1,"MVP me-o! Was this a dream-o? Chale, give me pinch-o!",mvp me 0 was this a dream 0 chale give me pinch 0,M-V-P-M-E-O? Was this the dream or... Shall I give me a picture?,0.8461538461538461,"MVP, Mio, was this the dream or? Shall I give me a picture?",0.6153846153846154
+astra,AstraMatchPoint2,"We saw the beginning, and the continuation. Now, the end.",we saw the beginning and the continuation now the end,"We saw the beginning and the continuation. Now, the end.",0.0,"We saw the beginning and the continuation. Now, the end.",0.0
+astra,AstraMatchStartSplit,"I like flowers and stuff, but this place no give flavor. No gold, where's the signs, the bling-blings, come on!",i like flowers and stuff but this place no give flavor no gold where is the signs the bling blings come on,I like flowers and stuff. But this plays no gift flavor. No gold! Who's the size? The bling bling bling! Come on!,0.2727272727272727,"I like flowers and stuff, but this plays no gift flavor. No gold! Who's the site? The Bling Blings, c'mon!",0.2727272727272727
+astra,AstraNebulaCast1,Blocking vision.,blocking vision,blocking vision.,0.0,Blocking Vision.,0.0
+astra,AstraNebulaCast2,Blocking vision.,blocking vision,Blocking Vision!,0.0,Blocking Vision!,0.0
+astra,AstraNeedSomeoneMid1,Someone go Mid.,someone go mid,Someone go mid.,0.0,Someone go mid.,0.0
+astra,AstraNeedSomeoneMid2,Someone go Mid.,someone go mid,Someone go mid.,0.0,Someone go mid.,0.0
+astra,AstraPingCaution1,Careful here.,careful here,Careful here.,0.0,Careful here.,0.0
+astra,AstraPingCaution2,Careful here.,careful here,Careful here!,0.0,Careful here.,0.0
+astra,AstraPingSpike1,Spike is here.,spike is here,Spike is here.,0.0,Spike is here.,0.0
+astra,AstraPingSpike2,Spike is here.,spike is here,Spike is here!,0.0,Spike is here.,0.0
+astra,AstraSpikeDown1,Our spike's down.,our spike is down,I'll spikes down.,0.75,I'll spikes down.,0.75
+astra,AstraSpikeDown2,Our spike's down.,our spike is down,I'll spikes down.,0.75,I'll spikes down.,0.75
+astra,AstraSpikePlanted1,Spike planted.,spike planted,Spike planted!,0.0,Spike planted.,0.0
+astra,AstraSpikePlanted2,Spike planted.,spike planted,Spike planted!,0.0,Spike planted.,0.0
+astra,AstraUltDown1,My ult's not ready.,my ult is not ready,My ult's not ready!,0.0,My ult's not ready.,0.0
+astra,AstraUltDown2,My ult's not ready.,my ult is not ready,My old snot's ready.,0.6,My ult's not ready.,0.0
+breach,BreachAce4,Anyone else want to try me?!,anyone else want to try me,Anyone else want to try me?,0.0,Anyone else want to try me?,0.0
+breach,BreachAllyBrimstoneRoundStart,"Hey Brimmy, remind me to play you this riff I recorded once we're done. I-I think it's a winner.",hey brimmy remind me to play you this riff i recorded once we are done i i think it is a winner,"Hey, Brimmy! Remind me to play you this riff I recorded once we're done. I think it's a winner.",0.045454545454545456,"Hey Brimmy, remind me to play you this riff I recorded once we're done. I think it's a winner.",0.045454545454545456
+breach,BreachAllyJettCommend,"Damn, Jett, have you ever considered a life of crime? I have contacts. Let me know.",damn jett have you ever considered a life of crime i have contacts let me know,"Damn, Jet, have you ever considered a life of crime? I have contacts. Let me know.",0.0625,"Damn, Jett, have you ever considered a life of crime? I have contacts. Let me know.",0.0
+breach,BreachAllyRazeChat,"Oh man, just awful. A tragedy.",0 man just awful a tragedy,"Oh man, just awful tragedy.",0.16666666666666666,"Oh man, just awful, a tragedy.",0.0
+breach,BreachAllySkyeChat,So long as it's leg day!,so long as it is leg day,So long as it's leg day!,0.0,So long as it's leg day.,0.0
+breach,BreachBarrierDown7,Hit them back!,hit them back,Hit them back.,0.0,Hit them back.,0.0
+breach,BreachClutch4,Is that the best you've got?,is that the best you have got,Is that the best you've got?,0.0,Is that the best you've got?,0.0
+breach,BreachEnemyCypherLastKill,Didn't see me coming.,did not see me coming,Didn't see me coming.,0.0,Didn't see me coming.,0.0
+breach,BreachEnemyKilljoyBarrierDown,I'll make that Killjoy cry!,i will make that killjoy cry,I'll make that Killjoy cry!,0.0,I'll make that Killjoy cry.,0.0
+breach,BreachEnemyPhoenixMatchStart,Let that Phoenix run his mouth. We'll shut him up soon enough.,let that phoenix run his mouth we will shut him up soon enough,Let that phoenix run his mouth. We'll shut them up soon enough.,0.07692307692307693,Let that Phoenix runner's mouth. We'll shut them up soon enough.,0.23076923076923078
+breach,BreachEnemySageBarrierDown,I'll destroy their Sage!,i will destroy their sage,I'll destroy their sage.,0.0,I'll destroy their sage.,0.0
+breach,BreachFaking1,I'm faking.,i am faking,I'm faking!,0.0,I'm faking!,0.0
+breach,BreachFaking2,I'm faking.,i am faking,I'm faking.,0.0,I'm faking.,0.0
+breach,BreachFlawless4,I could've left my arms at home.,i could have left my arms at home,I could have left my arms at home.,0.0,I could have left my arms at home.,0.0
+breach,BreachLastKill3,We bring enough body bags?,we bring enough body bags,We bring enough body bags?,0.0,We bring enough body bags?,0.0
+breach,BreachLastKill5,"Kill everyone, and our job gets a whole lot easier.",kill everyone and our job gets a whole lot easier,"Kill everyone, and our job gets a whole lot easier.",0.0,"Kill everyone, and our job gets a whole lot easier.",0.0
+breach,BreachLastKillMelee1,"Never been in a knife fight, have you?",never been in a knife fight have you,"Never been in a knife fight, have you?",0.0,"Never been in a knife fight, have you?",0.0
+breach,BreachLurking1,I'm lurking.,i am lurking,I'm lurking!,0.0,I'm lurking!,0.0
+breach,BreachLurking2,I'm lurking.,i am lurking,I'm lurking.,0.0,I'm lurking.,0.0
+breach,BreachMatchStart7,"I don't need these arms to fight, but they're fun. Might as well use 'em.",i do not need these arms to fight but they are fun might as well use em,"I don't need these arms to fight, but they're fun. Might as well use them.",0.058823529411764705,"I don't need these arms to fight, but they're fun. Might as well use them.",0.058823529411764705
+breach,BreachMatchWin1,Hell yeah! Who's up for another?,hell yeah who is up for another,Hell yeah! Who's up for another?,0.0,Hell yeah! Who's up for another?,0.0
+breach,BreachNeedSomeoneA1,Someone go A.,someone go a,Someone go A.,0.0,Someone go A.,0.0
+breach,BreachNeedSomeoneA2,Someone go A.,someone go a,Someone go A.,0.0,Someone go A!,0.0
+breach,BreachNoCharges1,Out of charges.,out of charges,Alt of charges.,0.3333333333333333,Alt of Charges.,0.3333333333333333
+breach,BreachPingUtility1,Enemy utility here.,enemy utility here,Enemy utility here.,0.0,Enemy utility here.,0.0
+breach,BreachPingUtility2,Enemy utility here.,enemy utility here,Enemy utility here.,0.0,Enemy utility here.,0.0
+breach,BreachRotating1,Rotating.,rotating,Rotating.,0.0,Rotating.,0.0
+breach,BreachRotating2,Rotating.,rotating,Rotating.,0.0,Rotating.,0.0
+breach,BreachRush1,Rush them.,rush them,Rush them!,0.0,Rush them!,0.0
+breach,BreachRush2,Rush them.,rush them,Rush them!,0.0,Rush them!,0.0
+breach,BreachSneakB1,Let's sneak B.,let us sneak b,Let's sneak B!,0.0,Let's sneak B!,0.0
+breach,BreachSneakB2,Let's sneak B.,let us sneak b,Let's sneak B!,0.0,Let's sneak B.,0.0
+breach,BreachSpikeA1,Spike's A.,spike is a,Spikes A!,0.6666666666666666,"Spikes, A!",0.6666666666666666
+breach,BreachSpikeA2,Spike's A.,spike is a,Spikes A!,0.6666666666666666,Spikes A!,0.6666666666666666
+breach,BreachSpikePickedUp1,Got the spike.,got the spike,Got the spike!,0.0,Got the spike?,0.0
+breach,BreachSpikePickedUp2,Got the spike.,got the spike,Got the spike!,0.0,Got the spike!,0.0
+breach,BreachStackC1,Let's stack C.,let us stack c,Let's stack C!,0.0,Let's stack C!,0.0
+breach,BreachStackC2,Let's stack C.,let us stack c,Let's stack C!,0.0,Let's stack C.,0.0
+breach,BreachThanks1,Tack-tack.,tack tack,Suck Tuck.,1.0,Tuck-tuck.,1.0
+breach,BreachThanks2,Tack-tack.,tack tack,"Talk, touch.",1.0,"Talk, talk.",1.0
+brimstone,BrimstoneAce1,Get off my lawn!,get off my lawn,Get off my lawn!,0.0,Get off my lawn!,0.0
+brimstone,BrimstoneAllyBreachCommend,"You did well, Breach. Don't expect a hug.",you did well breach do not expect a hug,"You did well, Breach. Don't expect a hug.",0.0,"You did well, Breach. Don't expect a hug.",0.0
+brimstone,BrimstoneAllyKAYOMatchStart,"There's something about you, KAY/O. Don't know what it is yet, but I like it.",there is something about you kay 0 do not know what it is yet but i like it,"There's something about you, Kale. Don't know what it is yet, but I like it.",0.1111111111111111,"There's something about you, KO. Don't know what it is yet, but I like it.",0.1111111111111111
+brimstone,BrimstoneAllyKilljoyRoundStart,"Killjoy, control your bots! That turret keeps looking at me funny.",killjoy control your bots that turret keeps looking at me funny,"Killjoy, control your bots. That turret keeps looking at me funny.",0.0,"Killjoy, control your bots. That turret keeps looking at me funny.",0.0
+brimstone,BrimstoneAllyNeonRoundStart,"Let's roll, Neon. Show us what that K-SEC training did for ya.",let us roll neon show us what that k sec training did for ya,Let's roll me on. Show us what that K-Sec training did for you.,0.21428571428571427,"Let's roll, Neon. Show us what that K-Sec training did for you.",0.07142857142857142
+brimstone,BrimstoneAllyPhoenixCommend,"Phoenix, if you keep pulling stunts like that, you can brag as much as you like.",phoenix if you keep pulling stunts like that you can brag as much as you like,"Phoenix, if you keep pulling stunts like that, you can brag as much as you like.",0.0,"Phoenix, if you keep pulling stunts like that, you can brag as much as you like.",0.0
+brimstone,BrimstoneAllyViperBarrierDown,Steady Viper.,steady viper,"Steady, Viper.",0.0,"Steady, Viper.",0.0
+brimstone,BrimstoneDefuseComplete2,Sorry to spoil the party.,sorry to spoil the party,Sorry to spoil the party.,0.0,Sorry to spoil the party.,0.0
+brimstone,BrimstoneEnemyCypherRoundStart,So they got a Cypher. He'll see what we want him to see.,so they got a cipher he will see what we want him to see,So they got a cipher. He'll see what we want him to see.,0.0,So they got a cipher. He'll see what we want him to see.,0.0
+brimstone,BrimstoneEnemyPhoenixMatchStart,"We're fighting a Phoenix? Book your vacations now, this is gonna be exhausting.",we are fighting a phoenix book your vacations now this is going to be exhausting,We're fighting a phoenix? Book your vacations now. This is gonna be exhausting.,0.0,We're fighting a Phoenix? Book your vacations now. This is gonna be exhausting.,0.0
+brimstone,BrimstoneFlawless2,Ain't much room for improvement!,aint much room for improvement,Ain't much room for improvement.,0.0,Ain't much room for improvement.,0.0
+brimstone,BrimstoneHeadshot1,Headshot!,headshot,Headshot.,0.0,Headshot.,0.0
+brimstone,BrimstoneHello3,Hello.,hello,Hello?,0.0,Hello?,0.0
+brimstone,BrimstoneKill3,Goner.,goner,Gunner.,1.0,Gunner.,1.0
+brimstone,BrimstoneKill8,Gotcha.,gotcha,Gotcha.,0.0,Gotcha.,0.0
+brimstone,BrimstoneMatchPoint1,"You've earned this win, let's make it official!",you have earned this win let us make it official,You've earned this win. Let's make it official.,0.0,You've earned this win. Let's make it official.,0.0
+brimstone,BrimstoneMatchStart2,They can throw the whole playbook at us. I've seen it all before.,they can throw the whole playbook at us i have seen it all before,They can throw the whole playbook at us. I've seen it all before.,0.0,They can throw the whole playbook at us. I've seen it all before.,0.0
+brimstone,BrimstoneMatchStart5,They've got one ugly lookin' crew. No offense to any of us.,they have got one ugly lookin crew no offense to any of us,They've got one ugly looking crew. No offense to any of us.,0.07692307692307693,They've got one ugly looking crew. No offense to any of us.,0.07692307692307693
+brimstone,BrimstoneMatchStartDefense1,They picked the wrong day to mess with our world.,they picked the wrong day to mess with our world,They picked the wrong day to mess with our world.,0.0,They picked the wrong day to mess with our world.,0.0
+brimstone,BrimstoneMatchStartSplit,I would hate working here. You couldn't pay me to sit at a desk.,i would hate working here you could not pay me to sit at a desk,I would hate working here. You couldn't pay me to sit at a desk.,0.0,I would hate working here. You couldn't pay me to sit at a desk.,0.0
+brimstone,BrimstoneNeedSomeoneMid1,Someone go Mid.,someone go mid,Someone go mid.,0.0,Someone go mid.,0.0
+brimstone,BrimstoneNeedSomeoneMid2,Someone go Mid.,someone go mid,Someone go mid.,0.0,Someone go mid.,0.0
+brimstone,BrimstoneOffer1,"I've got cash, anyone need something?",i have got cash anyone need something,I've got cash. Anyone need something?,0.0,I've got cash. Anyone need something?,0.0
+brimstone,BrimstoneOffer2,"I've got cash, anyone need something?",i have got cash anyone need something,I've got cash. Anyone need something?,0.0,I've got cash. Anyone need something?,0.0
+brimstone,BrimstoneOnMyWay1,On my way.,on my way,On my way.,0.0,On my way.,0.0
+brimstone,BrimstoneOnMyWay2,On my way.,on my way,On my way.,0.0,On my way.,0.0
+brimstone,BrimstoneRush1,Rush them.,rush them,Rush them.,0.0,Rush them.,0.0
+brimstone,BrimstoneRush2,Rush them.,rush them,Rush them!,0.0,Rush them!,0.0
+brimstone,BrimstoneSorry1,Sorry.,sorry,Sorry.,0.0,Sorry.,0.0
+brimstone,BrimstoneSorry2,Sorry.,sorry,Sorry.,0.0,Sorry.,0.0
+brimstone,BrimstoneSpikeSpottedDSpawn1,Spike in Defender Spawn.,spike in defender spawn,Spike and Defender spawn.,0.25,Spike and defender spawn.,0.25
+brimstone,BrimstoneSpikeSpottedDSpawn2,Spike in Defender Spawn.,spike in defender spawn,Spike and defender spawn.,0.25,Spike and defender spawn.,0.25
+brimstone,BrimstoneSpreadOut1,Let's spread out.,let us spread out,Let's spread out.,0.0,Let's spread out.,0.0
+brimstone,BrimstoneSpreadOut2,Let's spread out.,let us spread out,Let's spread out.,0.0,Let's spread out.,0.0
+brimstone,BrimstoneStickTogether1,Stick together.,stick together,Stick together.,0.0,Stick together.,0.0
+brimstone,BrimstoneStickTogether2,Stick together.,stick together,Stick together.,0.0,Stick together.,0.0
+brimstone,BrimstoneThrifty1,"Any cheaper, and it'd be just me and a bottle of scotch.",any cheaper and it would be just me and a bottle of scotch,Any cheaper to be just me and a bottle of scotch.,0.23076923076923078,Any cheaper to be just me and a bottle of scotch.,0.23076923076923078
+brimstone,BrimstoneWatching1,Watching here.,watching here,Watching here.,0.0,Watching here.,0.0
+brimstone,BrimstoneWatching2,Watching here.,watching here,Watching here.,0.0,Watching here.,0.0
+chamber,ChamberAllyBrimstoneMatchStart2,"Monsieur Brimstone, as promised I have found your next recruit. You are off the hook, as they say. Forgive me for doing your job!",monsieur brimstone as promised i have found your next recruit you are off the hook as they say forgive me for doing your job,"Mercy of Brimstone, as promised I have found your next recruit. You are off-sea hook, as they say. Forgive me for doing your job.",0.125,"Mercy Brimstone, as promised I have found your next recruit. You are off-sea hook, as they say. Forgive me for doing your job.",0.08333333333333333
+chamber,ChamberAllyViperMatchStart2,"Viper, your suit is a little stifling, no? When you go meet the new agent, maybe pack something light, Manila is quite warm this time of year.",viper your suit is a little stifling no when you go meet the new agent maybe pack something light manila is quite warm this time of year,"Viper, your suit is a little stifling, no? When you go meet the new agent, maybe pack something light. Manila is quite warm this time of year.",0.0,"Viper, your suit is a little stifling, no? When you go meet the new agent, maybe pack something light. Manila is quite warm this time of year.",0.0
+chamber,ChamberBarrierDown2,Kick them out.,kick them out,Kick them out.,0.0,Kick them out.,0.0
+chamber,ChamberCaution1,Someone's close.,someone is close,Someone's close.,0.0,Someone's close.,0.0
+chamber,ChamberCaution2,Someone's close.,someone is close,Someone's close.,0.0,Someone's close.,0.0
+chamber,ChamberClearThisArea1,Clear here.,clear here,Clear here.,0.0,Clear here.,0.0
+chamber,ChamberClearThisArea2,Clear here.,clear here,Clear here.,0.0,Clear here.,0.0
+chamber,ChamberClutch3,"Did you see their faces? Sorry, I should not laugh.",did you see their faces sorry i should not laugh,"Did you seize our faces? Sorry, I should not laugh.",0.2,"Did you seize our faces? Sorry, I should not laugh.",0.2
+chamber,ChamberComeback3,Now they are nervous.,now they are nervous,Now they are nervous.,0.0,Now they are nervous.,0.0
+chamber,ChamberEnemyChamberBarrierDown,No loose ends.,no loose ends,No loose ends.,0.0,No loose ends.,0.0
+chamber,ChamberFlawless2,How did they think this would end?,how did they think this would end,How did they sink this would end?,0.14285714285714285,How did they sink this would end?,0.14285714285714285
+chamber,ChamberGoingB1,Going B.,going b,Going B.,0.0,Going B.,0.0
+chamber,ChamberGoingB2,Going B.,going b,Going B.,0.0,Going B.,0.0
+chamber,ChamberHeadshot4,I can't miss!,i can not miss,I can't miss.,0.0,I can't miss.,0.0
+chamber,ChamberHealing1,Need healing.,need healing,Neat healing.,0.5,Neat healing.,0.5
+chamber,ChamberHealing2,Need healing.,need healing,Need healing.,0.0,Neat healing.,0.5
+chamber,ChamberLetsRushC1,Let's rush C.,let us rush c,Let's rush C.,0.0,Let's rush C.,0.0
+chamber,ChamberLetsRushC2,Let's rush C.,let us rush c,Let's rush sea.,0.25,Let's rush C.,0.0
+chamber,ChamberLurking1,I'm lurking.,i am lurking,I'm lurking.,0.0,I'm lurking.,0.0
+chamber,ChamberLurking2,I'm lurking.,i am lurking,I'm lurking.,0.0,I'm lurking.,0.0
+chamber,ChamberMatchStart3,"If you die today, I will remember you forever. It has been an honor.",if you die today i will remember you forever it has been an honor,"If you die today, I will remember you forever. It has been an honor.",0.0,"If you die today, I will remember you forever. It has been an honor.",0.0
+chamber,ChamberMatchStart4,None of this nonsense. We should win big and look good doing it.,none of this nonsense we should win big and look good doing it,None of this a win is a win nonsense. We should win big and look good doing it.,0.38461538461538464,None of this a win is a win nonsense. We should win big and look good doing it.,0.38461538461538464
+chamber,ChamberNeedUtilityHere1,Need util here.,need util here,Need you till here.,0.6666666666666666,Need you till here.,0.6666666666666666
+chamber,ChamberNeedUtilityHere2,Need util here.,need util here,Need you till here!,0.6666666666666666,Need you till here!,0.6666666666666666
+chamber,ChamberPingCaution1,Careful there.,careful there,Careful's there.,0.5,Careful there.,0.0
+chamber,ChamberPingCaution2,Careful there.,careful there,Careful there.,0.0,Careful there.,0.0
+chamber,ChamberRendezvousCantPlace1,Out of range.,out of range,Out of range.,0.0,Out of range.,0.0
+chamber,ChamberRendezvousCantPlace2,Out of range.,out of range,Out of range.,0.0,Out of range.,0.0
+chamber,ChamberRendezvousKill1,Farewell.,farewell,Farewell!,0.0,Farewell.,0.0
+chamber,ChamberRendezvousPlaceFirst1,This should do.,this should do,This should do.,0.0,This should do.,0.0
+chamber,ChamberResurrect,That was unpleasant.,that was unpleasant,That was unpleasant.,0.0,That was unpleasant.,0.0
+chamber,ChamberSneakC1,Let's sneak C.,let us sneak c,Let's sneak see.,0.25,Let's sneak see.,0.25
+chamber,ChamberSneakC2,Let's sneak C.,let us sneak c,Let's sneak sea.,0.25,Let's sneak sea.,0.25
+chamber,ChamberSpikeDown1,Spike is down.,spike is down,Spike is down.,0.0,Spike is down.,0.0
+chamber,ChamberSpikeDown2,Spike is down.,spike is down,Spike is down.,0.0,Spike is down.,0.0
+chamber,ChamberSpikeSpottedASpawn1,Spike in Attacker Spawn.,spike in attacker spawn,Spake in to take our spawn!,1.0,Spake in to take our spawn!,1.0
+chamber,ChamberSpikeSpottedASpawn2,Spike in Attacker Spawn.,spike in attacker spawn,Spiking attacker spawn.,0.5,Spiking attacker spawn.,0.5
+chamber,ChamberStackB1,Let's stack B.,let us stack b,Let's stack B.,0.0,Let's stack B.,0.0
+chamber,ChamberStackB2,Let's stack B.,let us stack b,Let's stack B.,0.0,Let's stack B.,0.0
+chamber,ChamberStackMid1,Let's stack Mid.,let us stack mid,Let's stack mid.,0.0,Let's stack Mid.,0.0
+chamber,ChamberStackMid2,Let's stack Mid.,let us stack mid,Let's stack mid!,0.0,Let's stack Mid!,0.0
+clove,CloveAce3,Fear me mortals!,fear me mortals,Fear me mortals!,0.0,Fear me mortals!,0.0
+clove,CloveBarrierDown4,Come on then!,come on then,Come on in!,0.3333333333333333,Come on in!,0.3333333333333333
+clove,CloveBarrierDown7,I don't quit.,i do not quit,I don't quit.,0.0,I don't quit.,0.0
+clove,CloveBarrierDown9,I won't settle for a draw!,i will not settle for a draw,I won't settle for the draw!,0.14285714285714285,I won't settle for the draw.,0.14285714285714285
+clove,CloveBuying1,I'm gonna buy.,i am going to buy,I'm gonna buy.,0.0,I'm gonna buy.,0.0
+clove,CloveBuying2,I'm gonna buy.,i am going to buy,I'm gonna buy.,0.0,I'm gonna buy.,0.0
+clove,CloveCantUse1,I can't use that.,i can not use that,I can't use that.,0.0,I can't use that.,0.0
+clove,CloveCantUse2,I can't use that.,i can not use that,I can't use that.,0.0,I can't use that.,0.0
+clove,CloveCantUseDead1,I can't use that.,i can not use that,I can't use that!,0.0,I can't use that!,0.0
+clove,CloveCantUseDead2,I can't use that.,i can not use that,I can't use that.,0.0,I can't use that.,0.0
+clove,CloveClutch1,"Brand new, that one!",brand new that one,I knew that one.,0.5,I knew that one.,0.5
+clove,CloveEnemyBreachBarrierDown,Stop their Breach before he stops us.,stop their breach before he stops us,stop their breach before he stops us.,0.0,Stop their breach before he stops us.,0.0
+clove,CloveEnemyMid1,Enemy spotted Mid.,enemy spotted mid,Enemy spotted med.,0.3333333333333333,"Enemy spotted, Med.",0.3333333333333333
+clove,CloveEnemyMid2,Enemy spotted Mid.,enemy spotted mid,"Enemy spotted, med.",0.3333333333333333,"Enemy spotted, Mid.",0.0
+clove,CloveFaking1,I'm faking.,i am faking,I'm faking.,0.0,I'm faking.,0.0
+clove,CloveFaking2,I'm faking.,i am faking,I'm faking!,0.0,I'm faking!,0.0
+clove,CloveHeadshot4,No bother.,no bother,No bother!,0.0,No bother.,0.0
+clove,CloveHoldingPosition1,Holding position.,holding position,Holding position.,0.0,Holding position.,0.0
+clove,CloveHoldingPosition2,Holding position.,holding position,Holding position.,0.0,Holding possession.,0.5
+clove,CloveKill2,Have a kip!,have a kip,of a cat.,0.6666666666666666,Avaket.,1.0
+clove,CloveLastKill2,"Don't get back up, sweetheart.",do not get back up sweetheart,Don't get back up sweetheart.,0.0,"Don't get back up, sweetheart.",0.0
+clove,CloveLead2,"I feel bad for them, I really do. Just not enough to stop winning.",i feel bad for them i really do just not enough to stop winning,I feel bad for them. I really do. Just not enough to stop winning.,0.0,I feel bad for them. I really do. Just not enough to stop winning.,0.0
+clove,CloveLetsRush1,Let's rush them.,let us rush them,Let's rush them!,0.0,Let's rush them!,0.0
+clove,CloveLetsRush2,Let's rush them.,let us rush them,Let's rush them!,0.0,Let's rush them!,0.0
+clove,CloveMatchPoint2,"It's been grand, but I've got places to avoid and people to ignore, so let's finish this thing!",it has been grand but i have got places to avoid and people to ignore so let us finish this thing,"It's been grand, but I've got places to avoid and people to ignore, so let's finish this hang.",0.047619047619047616,"It's been grand, but I've got places to avoid and people to ignore, so let's finish this hang.",0.047619047619047616
+clove,CloveMatchStart9,"Wait, wait, wait. I have a rock in my shoe. Nice, free rock.",wait wait wait i have a rock in my shoe nice free rock,"Wait, wait, wait, have a rock in my shoe. Nice, free rock.",0.07692307692307693,"Wait, wait, wait, have a rock in my shoe. Nice, free rock.",0.07692307692307693
+clove,CloveMatchStartFracture,"Your party stumbles upon the rubble of a science experiment gone wrong. The souls of the dead wander the halls, it reeks of Kingdom.",your party stumbles upon the rubble of a science experiment gone wrong the souls of the dead wander the halls it reeks of kingdom,"Your party stumbles upon the rubble of a science experiment gone wrong. The souls of the dead wander the halls, at reeks of kingdom.",0.041666666666666664,Your party stumbles upon the rubble of a science experiment gone wrong. The souls of the dead wander the halls. It reeks of kingdom.,0.0
+clove,CloveMeleeKill1,Knock knock.,knock knock,Knock knock!,0.0,Knock knock!,0.0
+clove,CloveNeedSomeoneA1,Someone go A.,someone go a,Someone go eat.,0.3333333333333333,Someone go A.,0.0
+clove,CloveNeedSomeoneA2,Someone go A.,someone go a,Someone go away!,0.3333333333333333,Someone go away!,0.3333333333333333
+clove,ClovePlantSpike1,Plant the spike!,plant the spike,Plant the spike!,0.0,Plant the spike!,0.0
+clove,ClovePlantSpike2,Plant the spike!,plant the spike,Plant the spike.,0.0,Plant the spike.,0.0
+clove,ClovePush1,Let's push.,let us push,Let's push!,0.0,Let's push!,0.0
+clove,ClovePush2,Let's push.,let us push,Let's push!,0.0,Let's push!,0.0
+clove,CloveRoundStart9,"Outside of this gig, immortality doesn't have as many day to day benefits as you think.",outside of this gig immortality does not have as many day to day benefits as you think,"Outside of this gig, immortality doesn't have as many day-to-day benefits as you think.",0.0,"Outside of this gig, immortality doesn't have as many day-to-day benefits as you think.",0.0
+clove,CloveRoundWon3,Simple and clean! Well done!,simple and clean well done,Simple and clean! Well done!,0.0,Simple and clean. Well done.,0.0
+clove,CloveSpikeC1,Spike's C.,spike is c,Spike C!,0.3333333333333333,Spike C!,0.3333333333333333
+clove,CloveSpikeC2,Spike's C.,spike is c,Spikes See!,1.0,"Spikes, C.",0.6666666666666666
+clove,CloveSpikePlanted1,Spike planted.,spike planted,Spike planted.,0.0,Spike planted.,0.0
+clove,CloveSpikePlanted2,Spike planted.,spike planted,Spike planted!,0.0,Spike planted.,0.0
+clove,CloveStackB1,Let's stack B.,let us stack b,Let's stack B.,0.0,Let's stack B.,0.0
+clove,CloveStackB2,Let's stack B.,let us stack b,Let's Stock Be!,0.5,Let's Stock B.,0.25
+clove,CloveStickTogether1,Stick together.,stick together,Stick together.,0.0,Stick together.,0.0
+clove,CloveStickTogether2,Stick together.,stick together,Stick together!,0.0,Stick together.,0.0
+clove,CloveUltKill3,Think I'll stay!,think i will stay,Think I'll stay.,0.0,"Thank you, stay.",0.75
+cypher,CypherAce2,"Ah, you forget. I've always been a killer.",ah you forget i have always been a killer,"Are you forget, I'm always being a killer.",0.3333333333333333,"Are you forget, I'm always being a killer.",0.3333333333333333
+cypher,CypherAllyKilljoyChat,"Oh, oh dear no sweetheart! We must protect you.",00 dear no sweetheart we must protect you,"Oh, oh dear, no sweetheart! We must protect you!",0.0,"Oh, oh dear, no sweetheart, we must protect you!",0.0
+cypher,CypherAllyPhoenixRoundStart,"Phoenix! Our little star, keep that furnace burning, okay?",phoenix our little star keep that furnace burning okay,"Phoenix, our little star. Keep that furnace burning, okay?",0.0,"Phoenix, our little star. Keep that furnace burning, okay?",0.0
+cypher,CypherAllyReynaCommend,"Reyna, jeez! Leave some for the rest of us! Or don't! I'm-I-I am sorry.",reyna jeez leave some for the rest of us or do not i am i i am sorry,"Rain a cheese, leave some for the rest of us. Or don'ts. I am sorry.",0.4444444444444444,"Reyna, Jeez, leave some for the rest of us. Or don'ts. I am sorry.",0.2777777777777778
+cypher,CypherAllyViperChat,"You know, Viper, the name Sabine really fits you.",you know viper the name sabine really fits you,"You know, Viper, the name Sabine really fits you.",0.0,"Yoru, Viper, the name Sabine really fits you.",0.2222222222222222
+cypher,CypherClearThisArea1,Clear this area.,clear this area,Clear this area.,0.0,Clear this area.,0.0
+cypher,CypherClearThisArea2,Clear this area.,clear this area,Clear this area.,0.0,Clear this area.,0.0
+cypher,CypherDefuseSpike1,Defuse the spike!,defuse the spike,Defuse the spike.,0.0,Defuse the spike.,0.0
+cypher,CypherDefuseSpike2,Defuse the spike!,defuse the spike,if you use the spike.,1.0,Defuse the spike.,0.0
+cypher,CypherEnemiesC1,Many enemies C!,many enemies c,Many enemies see.,0.3333333333333333,Many enemies see.,0.3333333333333333
+cypher,CypherEnemiesC2,Many enemies C!,many enemies c,Many enemies see.,0.3333333333333333,Many enemies see.,0.3333333333333333
+cypher,CypherEnemyPhoenixLastKill,No rebirth for you.,no rebirth for you,Nor rebirth for you.,0.25,No rebirth for you.,0.0
+cypher,CypherEnemySageKill,Healer killed.,healer killed,Killer killed.,0.5,Hilar killed.,0.5
+cypher,CypherEnemyYoruRoundStart,"Remember, the rift walker is over there. Never think you're safe.",remember the rift walker is over there never think you are safe,"Remember, the Riftwalker is over there. Never think you're safe.",0.16666666666666666,"Remember, the Riftwalker is over there. Never think you're safe.",0.16666666666666666
+cypher,CypherFallBack1,Fall back.,fall back,Fall back.,0.0,Fall back.,0.0
+cypher,CypherFallBack2,Fall back.,fall back,Fall back.,0.0,Fall back.,0.0
+cypher,CypherFlawless3,No one left to send a message? Oh well,no one left to send a message 0 well,No one left to send a message. Oh well.,0.0,No one left to send a message. Oh well.,0.0
+cypher,CypherGoHere1,Let's go here.,let us go here,Let's go here.,0.0,Let's go here.,0.0
+cypher,CypherGoHere2,Let's go here.,let us go here,Let's go here.,0.0,Let's go here.,0.0
+cypher,CypherHeadshot3,Eagle-eyed.,eagle eyed,Eagle-eyed.,0.0,Eagle-eyed.,0.0
+cypher,CypherHeadshot5,Trick shot.,trick shot,Trick shots.,0.5,Trick shots.,0.5
+cypher,CypherKill2,Put down.,put down,Put down.,0.0,Put down.,0.0
+cypher,CypherLastKill1,"Oops, no one to interrogate!",oops no one to interrogate,Oops. No one to interrogate.,0.0,"Oops, no one to interrogate.",0.0
+cypher,CypherLastKill2,Squashed the last bug.,squashed the last bug,Squash the last bug.,0.25,Squash the last bug.,0.25
+cypher,CypherLetsGoA1,Let's go A.,let us go a,Let's go A!,0.0,Let's go A!,0.0
+cypher,CypherLetsGoA2,Let's go A.,let us go a,Let's go A.,0.0,Let's go A.,0.0
+cypher,CypherLetsGoHere1,Let's go here.,let us go here,Let's go here.,0.0,Let's go here.,0.0
+cypher,CypherLetsGoHere2,Let's go here.,let us go here,Let's go here.,0.0,Let's go here.,0.0
+cypher,CypherLowHP2,"Ugh, I hate visiting underground doctors.",ugh i hate visiting underground doctors,I hate visiting underground doctors.,0.16666666666666666,I hate visiting underground doctors.,0.16666666666666666
+cypher,CypherMatchPoint1,I saw their desperation. Let's use that.,i saw their desperation let us use that,I saw the desperation. Let's use that.,0.125,I saw the desperation. Let's use that.,0.125
+cypher,CypherOnMyWay1,On my way.,on my way,on my way.,0.0,On my way.,0.0
+cypher,CypherOnMyWay2,On my way.,on my way,on my way.,0.0,On my way.,0.0
+cypher,CypherPick,Nothing stays hidden from me. Nothing.,nothing stays hidden from me nothing,Nothing stays hidden from me. Nothing.,0.0,Nothing stays hidden from me. Nothing.,0.0
+cypher,CypherPlaceUtility4,That goes there.,that goes there,That goes there.,0.0,That goes there.,0.0
+cypher,CypherPlaySlow1,Let's play slow.,let us play slow,Let's play slow.,0.0,Let's play slow.,0.0
+cypher,CypherPlaySlow2,Let's play slow.,let us play slow,Let's play slow.,0.0,Let's play slow.,0.0
+cypher,CypherSpikeDown1,Our spike carrier is killed.,our spike carrier is killed,Our spike carrier is killed.,0.0,Our spike carrier is killed.,0.0
+cypher,CypherSpikeDown2,Our spike carrier is killed.,our spike carrier is killed,Our spy carrier is killed.,0.2,Our spike career is killed.,0.2
+cypher,CypherThanks1,My thanks.,my thanks,My thanks.,0.0,My thanks.,0.0
+cypher,CypherThanks2,My thanks.,my thanks,My thanks.,0.0,My thanks.,0.0
+cypher,CypherThanks3,My thanks.,my thanks,May thanks.,0.5,May thanks.,0.5
+cypher,CypherWatching1,Watching this spot.,watching this spot,watching this spot.,0.0,Watching this spot.,0.0
+cypher,CypherWatching2,Watching this spot.,watching this spot,Watching this spot.,0.0,Watching this spot.,0.0
+deadlock,DeadlockAce4,Is there no one else?,is there no one else,Is there no one else?,0.0,Is there no one else?,0.0
+deadlock,DeadlockAllyFadeCommend,"Fade, now you're just showing off.",fade now you are just showing off,"Fade, now you're just showing off.",0.0,"Fade, now you're just showing off.",0.0
+deadlock,DeadlockAllyKAYOCommend,"Technology at its finest, well done KAY/O.",technology at its finest well done kay 0,"technology at its finest. Well done, KO.",0.25,"Technology at its finest. Well done, KO.",0.25
+deadlock,DeadlockAllySkyeMatchStart,"Skye, no matter where you start the fight, we finish it together.",skye no matter where you start the fight we finish it together,"Skye, no matter where you start the fight, we finish it together.",0.0,"Skye, no matter where you start the fight, we finish it together.",0.0
+deadlock,DeadlockBarrierMeshCast1,Blocking movement.,blocking movement,blocking movement.,0.0,Flocking movement.,0.5
+deadlock,DeadlockBarrierMeshCast3,Blocking movement.,blocking movement,blocking movement.,0.0,Blocking movement.,0.0
+deadlock,DeadlockBarrierMeshUnviable1,Deployment failed.,deployment failed,Deployment failed.,0.0,Deployment failed.,0.0
+deadlock,DeadlockBarrierMeshUnviable2,Deployment failed.,deployment failed,Deployment failed.,0.0,Deployment failed.,0.0
+deadlock,DeadlockEncouraging1,We can do this.,we can do this,We can do this!,0.0,We can do this!,0.0
+deadlock,DeadlockEncouraging2,We can do this.,we can do this,We can do this.,0.0,We can do this.,0.0
+deadlock,DeadlockEncouraging3,We can do this.,we can do this,We can do this.,0.0,We can do this.,0.0
+deadlock,DeadlockEnemiesASpawn1,Multiple targets Attacker Spawn!,multiple targets attacker spawn,Multiple targets attack respawn.,0.5,"Multiple targets, attack, respond.",0.5
+deadlock,DeadlockEnemiesASpawn2,Multiple targets Attacker Spawn!,multiple targets attacker spawn,Multiple targets attack or spawn.,0.5,"Multiple targets, attackers spawn.",0.25
+deadlock,DeadlockEnemiesMid1,Multiple targets Mid!,multiple targets mid,"Multiple targets, mid.",0.0,"Multiple targets, Mid.",0.0
+deadlock,DeadlockEnemiesMid2,Multiple targets Mid!,multiple targets mid,"Multiple targets, MIG!",0.3333333333333333,"Multiple targets, Mid.",0.0
+deadlock,DeadlockFakingC1,I'm faking C.,i am faking c,I'm faking sea.,0.25,I'm faking sea.,0.25
+deadlock,DeadlockFakingC2,I'm faking C.,i am faking c,I'm faking sea.,0.25,I'm faking sea.,0.25
+deadlock,DeadlockGoingB1,Going B.,going b,Going B.,0.0,Going B.,0.0
+deadlock,DeadlockGoingB2,Going B.,going b,Going B.,0.0,Going B.,0.0
+deadlock,DeadlockHeadshot2,Good riddance.,good riddance,Good riddance.,0.0,Good riddance.,0.0
+deadlock,DeadlockKill10,Ha det bra.,ha det bra,Hologra!,1.0,Hologra!,1.0
+deadlock,DeadlockKill5,Target down.,target down,Target down.,0.0,Target down.,0.0
+deadlock,DeadlockMatchStart3,The greatest battles ever fought are written in storybooks. May they write about this one.,the greatest battles ever fought are written in storybooks may they write about this one,The greatest battles ever fought are written in storybooks. Made they write about this one.,0.06666666666666667,The greatest battles ever fought are written in storybooks. Made they write about this one.,0.06666666666666667
+deadlock,DeadlockMatchStartIcebox,"The crisp air, the crunch of ice, reminds me of home.",the crisp air the crunch of ice reminds me of home,The crisp air. The crunch of ice. Reminds me of home.,0.0,"The crisp air, the crunch of ice. Reminds me of home.",0.0
+deadlock,DeadlockMatchWin1,This is our victory.,this is our victory,This is our victory.,0.0,This is our victory.,0.0
+deadlock,DeadlockNeedSomeoneA1,Someone go A.,someone go a,Someone go A!,0.0,Someone go A!,0.0
+deadlock,DeadlockNeedSomeoneA2,Someone go A.,someone go a,Someone go A.,0.0,Someone go A.,0.0
+deadlock,DeadlockPlayForPicks1,Play for picks.,play for picks,Play for picks.,0.0,Play for picks.,0.0
+deadlock,DeadlockPlayForPicks2,Play for picks.,play for picks,Play for picks.,0.0,Play for picks.,0.0
+deadlock,DeadlockSorry1,Sorry.,sorry,Sorry.,0.0,Sorry.,0.0
+deadlock,DeadlockSorry2,Sorry.,sorry,Sorry.,0.0,Sorry.,0.0
+deadlock,DeadlockSorry3,Sorry.,sorry,Sorry.,0.0,Sorry.,0.0
+deadlock,DeadlockSpikeSpottedB1,Spike spotted B.,spike spotted b,Spike spotted B.,0.0,Spike spotted B.,0.0
+deadlock,DeadlockSpikeSpottedB2,Spike spotted B.,spike spotted b,Spike spotted B.,0.0,Spike spotted B.,0.0
+deadlock,DeadlockSpikeSpottedMid1,Spike spotted Mid.,spike spotted mid,Spike spotted mid.,0.0,Spike spotted Mid.,0.0
+deadlock,DeadlockSpikeSpottedMid2,Spike spotted Mid.,spike spotted mid,Spike spotted mid.,0.0,Spike spotted Mid.,0.0
+deadlock,DeadlockUltMissed1,Nothing there.,nothing there,Nothing there.,0.0,Nothing there.,0.0
+deadlock,DeadlockUltMissed2,Nothing there.,nothing there,Nothing there.,0.0,Nothing there.,0.0
+fade,FadeAllyCypherRoundStart,"You have such a way with information, Cypher. After this, let's trade notes.",you have such a way with information cipher after this let us trade notes,"You have such a way with information cipher. After this, let's trade notes.",0.0,"You have such a way with information, Cypher. After this, let's trade notes.",0.0
+fade,FadeAllyOmenMatchStart,"Omen, with me. Nightmare thrives in the dark.",omen with me nightmare thrives in the dark,"Omen, with me! Nightmare thrives in the dark.",0.0,"Omen, with me, Nightmare thrives in the dark.",0.0
+fade,FadeBarrierDown1,Push them back!,push them back,Push them back!,0.0,Push them back!,0.0
+fade,FadeBarrierDown2,They are terrified.,they are terrified,They are terrified.,0.0,They are terrified.,0.0
+fade,FadeBarrierDown9,"Give me a challenge, ya?",give me a challenge ya,"Give me a challenge, ya.",0.0,"Give me a challenge, ya.",0.0
+fade,FadeBuying1,I will buy.,i will buy,I will bye.,0.3333333333333333,I will bye.,0.3333333333333333
+fade,FadeBuying2,I will buy.,i will buy,I will buy.,0.0,I will bye.,0.3333333333333333
+fade,FadeComeback1,You see? There's still plenty of fun to be had.,you see there is still plenty of fun to be had,"You see, there's still plenty of fun to be had.",0.0,"You see, there's still plenty of fun to be had.",0.0
+fade,FadeCommend1,Not bad.,not bad,Not bad.,0.0,Not bad.,0.0
+fade,FadeCommend2,Not bad.,not bad,Not bad!,0.0,Not bad.,0.0
+fade,FadeCommend3,Not bad.,not bad,Not bad.,0.0,Not bad.,0.0
+fade,FadeDefuseComplete1,"Push a button, save the day, easy.",push a button save the day easy,"Push a button, save the day, easy.",0.0,"Push a button, save the day, easy.",0.0
+fade,FadeEncouraging1,We've got this.,we have got this,We've got this.,0.0,We've got this.,0.0
+fade,FadeEncouraging2,We've got this.,we have got this,We've got this.,0.0,We've got this.,0.0
+fade,FadeEncouraging3,We've got this.,we have got this,We've got this.,0.0,We've got this.,0.0
+fade,FadeEnemiesASpawn1,Enemies Attacker Spawn!,enemies attacker spawn,Enemies attack or spawn.,0.6666666666666666,"Enemies, Attackers Spong.",0.6666666666666666
+fade,FadeEnemiesASpawn2,Enemies Attacker Spawn!,enemies attacker spawn,Enemies. Attack or spawn.,0.6666666666666666,"Enemies, Attackerspawn.",0.6666666666666666
+fade,FadeEnemyFadeKill,"Silence, dream seer!",silence dream seer,"Silence, Dreamseer.",0.6666666666666666,"Silence, Dreamseer.",0.6666666666666666
+fade,FadeEnemyYoruBarrierDown,Yoru can't hide from me.,yoru can not hide from me,Yoro can't hide from me.,0.16666666666666666,Yoru can't hide from me.,0.0
+fade,FadeFakingC1,I'm faking C.,i am faking c,I'm faking sea.,0.25,I'm faking C.,0.0
+fade,FadeFakingC2,I'm faking C.,i am faking c,I'm faking sea.,0.25,I'm faking sea.,0.25
+fade,FadeLead3,You don't need nightmare powers to see them shaking.,you do not need nightmare powers to see them shaking,You don't need nightmare powers to see them shaking.,0.0,You don't need nightmare powers to see them shaking.,0.0
+fade,FadeLetsGoC1,Let's go C.,let us go c,Let's go see.,0.25,Let's go see.,0.25
+fade,FadeLetsGoC2,Let's go C.,let us go c,Let's go see.,0.25,Let's go see.,0.25
+fade,FadeLetsRotate1,Let's rotate.,let us rotate,Let's rotate.,0.0,Let's rotate.,0.0
+fade,FadeLetsRotate2,Let's rotate.,let us rotate,Let's rotate.,0.0,Let's rotate.,0.0
+fade,FadeNo1,No.,no,No.,0.0,No.,0.0
+fade,FadePingGun1,Weapon here.,weapon here,Weapon here.,0.0,Weapon here.,0.0
+fade,FadePingGun2,Weapon here.,weapon here,Weapon here.,0.0,Weapon here.,0.0
+fade,FadeRoundStart1,"One dream ends, another begins.",one dream ends another begins,"One dream ends, another begins.",0.0,"One dream ends, another begins.",0.0
+fade,FadeRoundWon2,Keep hitting them like that and this job is done.,keep hitting them like that and this job is done,Keep hitting them like that and this job is done.,0.0,Keep hitting them like that and this job is done.,0.0
+fade,FadeSeizeCast3,We'll catch them!,we will catch them,We'll catch them.,0.0,We'll catch them.,0.0
+fade,FadeSeizeCast4,We'll catch them!,we will catch them,We'll catch them.,0.0,We'll catch them.,0.0
+fade,FadeSneakMid1,Let's sneak Mid.,let us sneak mid,Let's sneak mid!,0.0,Let's sneak mid!,0.0
+fade,FadeSneakMid2,Let's sneak Mid.,let us sneak mid,Let's sneak mid.,0.0,Let's sneak mid.,0.0
+fade,FadeSorry1,Pardon.,pardon,pardon,0.0,Pardon.,0.0
+fade,FadeSorry2,Pardon.,pardon,Pardon.,0.0,Pardon.,0.0
+fade,FadeSorry3,Pardon.,pardon,Pardon.,0.0,Pardon.,0.0
+fade,FadeSpikeC1,Spike's C.,spike is c,Spike C.,0.3333333333333333,Spike C.,0.3333333333333333
+fade,FadeSpikeC2,Spike's C.,spike is c,Spike C.,0.3333333333333333,Spike C.,0.3333333333333333
+fade,FadeSpikeSpottedC1,Spike C.,spike c,Spike C.,0.0,Spike C.,0.0
+fade,FadeSpikeSpottedC2,Spike C.,spike c,Spike C.,0.0,Spike C.,0.0
+fade,FadeStackMid1,Let's stack Mid.,let us stack mid,Let's stack mid!,0.0,Let's stack Mid!,0.0
+fade,FadeStackMid2,Let's stack Mid.,let us stack mid,Let's stack mid.,0.0,Let's stack Mid.,0.0
+fade,FadeWatching1,Watching here.,watching here,watching here.,0.0,Watching here.,0.0
+fade,FadeWatching2,Watching here.,watching here,Watching here.,0.0,Watching here.,0.0
+gekko,GekkoAllyHarborBarrierDown,"Look out for us, coach.",look out for us coach,"Look out for us, coach.",0.0,"Look out for us, Coach.",0.0
+gekko,GekkoAllyNeonBarrierDown,"Got your back, Neon!",got your back neon,"Got your back, neon.",0.0,"Got your back, Neon.",0.0
+gekko,GekkoAllyNeonChat,I did? I did. Wingman... stole my wallet?,i did i did wingman stole my wallet,I did. I did. Wingman stole my wallet.,0.0,I did? I did. Wingmen stole my wallet?,0.125
+gekko,GekkoAllyReynaBarrierDown,"Show us how it's done, Reyna.",show us how it is done reyna,"Show us how it's done, Reina!",0.14285714285714285,"Show us how it's done, Reyna.",0.0
+gekko,GekkoAllyYoruBarrierDown,"Yoru, good luck!",yoru good luck,"Yoru, good luck!",0.0,"Yoru, good luck.",0.0
+gekko,GekkoCaution1,Enemy close.,enemy close,Enemy close!,0.0,Enemy close.,0.0
+gekko,GekkoCaution2,Enemy close.,enemy close,Enemy close.,0.0,Enemy close.,0.0
+gekko,GekkoClutch1,Let's go!,let us go,Let's go!,0.0,Let's go!,0.0
+gekko,GekkoDizzyCast2,Dizzy's up!,dizzy is up,Dizzy's up!,0.0,Dizzy's up!,0.0
+gekko,GekkoEnemyA1,Enemy A.,enemy a,Enemy A!,0.0,Enemy A!,0.0
+gekko,GekkoEnemyA2,Enemy A.,enemy a,Enemy A!,0.0,Enemy A!,0.0
+gekko,GekkoEnemyC1,Enemy C.,enemy c,Enemy C.,0.0,Enemy C.,0.0
+gekko,GekkoEnemyC2,Enemy C.,enemy c,Enemy C.,0.0,Enemy C.,0.0
+gekko,GekkoEnemyGekkoBarrierDown,"Hey other me, sorry in advance!",hey other me sorry in advance,"Hey, other me! Sorry in advance!",0.0,"Hey, other me! Sorry in advance!",0.0
+gekko,GekkoHeadshot4,"Yeah, it's like that!",yeah it is like that,"Yeah, it's like that.",0.0,"Yeah, it's like that.",0.0
+gekko,GekkoLastKill4,"That's right, you tell 'em.",that is right you tell em,"That's right, you tell him.",0.16666666666666666,"That's right, you tell them.",0.16666666666666666
+gekko,GekkoLead2,We are too damn good at this.,we are too damn good at this,We are too damn good at this.,0.0,We are too damn good at this.,0.0
+gekko,GekkoLetsGoB1,Let's go B.,let us go b,Let's go be.,0.25,Let's go B!,0.0
+gekko,GekkoLetsGoB2,Let's go B.,let us go b,Let's go be.,0.25,Let's go B!,0.0
+gekko,GekkoLetsRushB1,Let's rush B.,let us rush b,Let's rush B.,0.0,Let's rush B.,0.0
+gekko,GekkoLetsRushB2,Let's rush B.,let us rush b,Let's first be.,0.5,Let's refresh B.,0.25
+gekko,GekkoMeleeKill2,"Tag, you're out.",tag you are out,"Tag, you're out.",0.0,"Tag, you're out.",0.0
+gekko,GekkoOneKillLeft1,One more.,one more,One more.,0.0,One more.,0.0
+gekko,GekkoOneKillLeft2,One more.,one more,One more.,0.0,One more.,0.0
+gekko,GekkoPingGun1,Gun here.,gun here,Gun here!,0.0,Gun here.,0.0
+gekko,GekkoPushingOut1,I'm pushing out.,i am pushing out,I'm pushing out.,0.0,I'm pushing out.,0.0
+gekko,GekkoPushingOut2,I'm pushing out.,i am pushing out,I'm pushing out.,0.0,I'm pushing out.,0.0
+gekko,GekkoReconB1,Sending recon B.,sending recon b,Sending recon be.,0.3333333333333333,Sending recon B.,0.0
+gekko,GekkoReconB2,Sending recon B.,sending recon b,Sennie Reconby.,1.0,Senni Reconby.,1.0
+gekko,GekkoReconC1,Sending recon C.,sending recon c,Sending Reconcie.,0.6666666666666666,Sending Reconcie.,0.6666666666666666
+gekko,GekkoReconC2,Sending recon C.,sending recon c,Senni Reconcie,1.0,Senni Reconcie,1.0
+gekko,GekkoRunnerUp2,"Heh, not bad.",heh not bad,"Hey, not bad.",0.3333333333333333,"Hey, not bad.",0.3333333333333333
+gekko,GekkoRushingA1,I'm rushing A.,i am rushing a,I'm Russian A.,0.25,I'm Russian A.,0.25
+gekko,GekkoRushingA2,I'm rushing A.,i am rushing a,I'm rushing A.,0.0,I'm rushing A.,0.0
+gekko,GekkoSpreadOut1,Let's spread out.,let us spread out,Let's spread out.,0.0,Let's spread out!,0.0
+gekko,GekkoUltAlmost1,Thrash is almost ready.,thrash is almost ready,Bash is almost ready.,0.25,Bash is almost ready.,0.25
+gekko,GekkoUltAlmost2,Thrash is almost ready.,thrash is almost ready,Thresh is almost ready.,0.25,Thresh is almost ready.,0.25
+gekko,GekkoUltDown1,She's not ready.,she is not ready,She's not ready.,0.0,She's not ready.,0.0
+gekko,GekkoUltDown2,She's not ready.,she is not ready,She's not ready.,0.0,She's not ready.,0.0
+gekko,GekkoUltEnemyRecast2,She's still gunning for ya!,she is still gunning for ya,She's still gunning for ya!,0.0,She's still gunning for ya!,0.0
+gekko,GekkoUltHit3,Thrash got 'em!,thrash got em,Thresh got him!,0.6666666666666666,Thrash Gotham!,0.6666666666666666
+harbor,HarborAllyBreachChat,"Breach, you still haven't apologized to me for that job you tried in Bengaluru.",breach you still have not apologized to me for that job you tried in bengaluru,Breach! You still haven't apologized to me for that job you tried in Bengaluru.,0.0,"Breach, you still haven't apologized to me for that job you tried in Bengaluru.",0.0
+harbor,HarborAllyBrimstoneCommend,Round of applause for Mister Top Brass!,round of applause for mister top brass,Round of applause for Mr. Topbrass.,0.2857142857142857,Round of applause for Mr. Topbrass.,0.2857142857142857
+harbor,HarborAllyYoruMatchStart,"So, Yoru, you painted over the priceless samurai mask? Huh, interesting choice.",so yoru you painted over the priceless samurai mask huh interesting choice,"So, Yoru, you painted over the priceless samurai mask? Interesting choice.",0.08333333333333333,"So, Yoru, you painted over the priceless samurai mask? Interesting choice.",0.08333333333333333
+harbor,HarborBarrierDown12,It's not over.,it is not over,It's not over.,0.0,It's not over.,0.0
+harbor,HarborBarrierDown2,Now roll over them!,now roll over them,Now roll over them.,0.0,Now roll over them.,0.0
+harbor,HarborBarrierDown8,Maybe they'll surprise us.,maybe they will surprise us,Maybe they'll surprise us.,0.0,Maybe they'll surprise us.,0.0
+harbor,HarborEnemiesC1,Multiple targets C!,multiple targets c,"Multiple Daggett, see.",0.6666666666666666,"Multiple Daggett, C.",0.3333333333333333
+harbor,HarborEnemiesC2,Multiple targets C!,multiple targets c,Multiple dog at sea.,1.0,"Multiple targets, C.",0.0
+harbor,HarborEnemyA1,Target A.,target a,Target A!,0.0,Target A!,0.0
+harbor,HarborEnemyA2,Target A.,target a,Talk-a-tee!,1.0,Doggetty!,1.0
+harbor,HarborEnemyASpawn1,Target Attacker Spawn.,target attacker spawn,"Target, attack a spawn.",0.6666666666666666,"Target, Attackerspawn.",0.6666666666666666
+harbor,HarborEnemyASpawn2,Target Attacker Spawn.,target attacker spawn,"Target, attack a spawn.",0.6666666666666666,"Target, Attack a spawn.",0.6666666666666666
+harbor,HarborEnemyChamberMatchStart,There's a Chamber over there. Guy can't go three steps without bringing all his fancy guns.,there is a chamber over there guy can not go 3 steps without bringing all his fancy guns,There's a chamber over there. Guy can't go three steps without bringing all his fancy guns.,0.0,There's a chamber over there. Guy can't go three steps without bringing all his fancy guns.,0.0
+harbor,HarborEnemyHarborLastKill,"When we are at peace, I would meet you again.",when we are at peace i would meet you again,"When we are at peace, I would meet you again.",0.0,"When we are at peace, I would meet you again.",0.0
+harbor,HarborEnemyYoruKill,Lone wolf.,lone wolf,"Ha, lone wolf.",0.5,"Ha, lone wolf.",0.5
+harbor,HarborForgotSpike2,"Can't plant the spike if we leave it here, people!",can not plant the spike if we leave it here people,"Can't plant the spike if we leave it here, people!",0.0,"Can't plant the spike if we leave it here, people.",0.0
+harbor,HarborHoldPositions1,Let's hold positions.,let us hold positions,Let's hold positions.,0.0,Let's hold positions.,0.0
+harbor,HarborHoldPositions2,Let's hold positions.,let us hold positions,Let's hold positions.,0.0,Let's hold positions.,0.0
+harbor,HarborLead3,"Wow, we are destroying them!",wow we are destroying them,"Wow, we are destroying them!",0.0,"Wow, we are destroying them!",0.0
+harbor,HarborLetsAttack1,Let's attack.,let us attack,Let's attack.,0.0,Let's attack.,0.0
+harbor,HarborLetsAttack2,Let's attack.,let us attack,Let's attack!,0.0,Let's attack!,0.0
+harbor,HarborMatchStart6,This artifact is not my only source of strength.,this artifact is not my only source of strength,This artifact is not my only source of strength.,0.0,This artifact is not my only source of strength.,0.0
+harbor,HarborMatchStartAscent,"The pillars on that domed building are Corinthian, the last of the three classical orders. How are you not excited?!",the pillars on that domed building are corinthian the last of the 3 classical orders how are you not excited,The pillars on that domed building are Corinthian. Last of the three classical orders. How are you not excited?,0.05,"The pillars on that domed building are Corinthian, last of the three classical orders. How are you not excited?",0.05
+harbor,HarborNoCharges1,No charges.,no charges,No charges.,0.0,No charges.,0.0
+harbor,HarborNoCharges2,No charges.,no charges,No charges.,0.0,No charges.,0.0
+harbor,HarborRoundStart9,Take them out before they even pull the trigger.,take them out before they even pull the trigger,Take them out before they even bowl the trigger.,0.1111111111111111,Take them out before they even bowl the trigger.,0.1111111111111111
+harbor,HarborSneakC1,Let's sneak C.,let us sneak c,Let's sneak see.,0.25,Let's sneak see.,0.25
+harbor,HarborSneakC2,Let's sneak C.,let us sneak c,Let's nique see.,0.5,Let's sneak sea.,0.25
+harbor,HarborSpikeB1,Spike's B.,spike is b,Spikes B!,0.6666666666666666,"Spikes, B!",0.6666666666666666
+harbor,HarborSpikeB2,Spike's B.,spike is b,Spikes B.,0.6666666666666666,"Spikes, B.",0.6666666666666666
+harbor,HarborSpikeC1,Spike's C.,spike is c,Spike C.,0.3333333333333333,Spike C.,0.3333333333333333
+harbor,HarborSpikeC2,Spike's C.,spike is c,Spike C.,0.3333333333333333,Spike C.,0.3333333333333333
+harbor,HarborSpikeMid1,Spike's Mid.,spike is mid,Spike's Mid!,0.0,Spike's Mid.,0.0
+harbor,HarborSpikeMid2,Spike's Mid.,spike is mid,Spike's Mid.,0.0,Spike's Mid.,0.0
+harbor,HarborStack1,Let's stack up.,let us stack up,Let's stack up!,0.0,Let's stack up!,0.0
+harbor,HarborStack2,Let's stack up.,let us stack up,Let's stack up.,0.0,Let's stack up.,0.0
+harbor,HarborStickTogether1,Stick together.,stick together,Stick together.,0.0,Stick together.,0.0
+harbor,HarborStickTogether2,Stick together.,stick together,Stick together!,0.0,Stick together!,0.0
+harbor,HarborTriple1,Got three.,got 3,Got three.,0.0,Got three.,0.0
+harbor,HarborTriple2,Got three.,got 3,Got three.,0.0,Got three.,0.0
+harbor,HarborUltReady1,Ultimate ready.,ultimate ready,Ultimate Ready!,0.0,Ultimate ready.,0.0
+harbor,HarborUltReady2,Ultimate ready.,ultimate ready,Ultimate Ready!,0.0,Ultimate ready.,0.0
+iso,IsoAllyDeadlockCommend,"Deadlock, that was textbook. Well done!",deadlock that was textbook well done,That lock? That was textbook. Well done.,0.3333333333333333,"Deadlock, that was textbook. Well done.",0.0
+iso,IsoAllyOmenMatchStart,"Omen, they say that once you took a contract, their death was inescapable. Anyway, I'm glad we're friends.",omen they say that once you took a contract their death was inescapable anyway i am glad we are friends,"They say that once you took a contract, their death was inescapable. Anyway, I'm glad we're friends.",0.05,"Omen, they say that once you took a contract, their death was inescapable. Anyway, I'm glad we're friends.",0.0
+iso,IsoBarrierDown18,I hope this one's exciting.,i hope this one is exciting,I hope this one's exciting.,0.0,I hope this one's exciting.,0.0
+iso,IsoBarrierDown5,"We're close, hit them hard!",we are close hit them hard,We're close. Hit them hard.,0.0,We're close. Hit them hard.,0.0
+iso,IsoComeback2,"Hey, who has a good song for 'we were losing but now things are looking up'? You know, like uh, redemption arc.",hey who has a good song for we were losing but now things are looking up you know like redemption arc,"Hey, who has a good song for we were losing, but now things are looking up, you know, like a redemption arc?",0.047619047619047616,"Hey, who has a good song for we were losing, but now things are looking up, you know, like a redemption arc?",0.047619047619047616
+iso,IsoEnemyA1,Enemy spotted A.,enemy spotted a,"Enemy spotted, A.",0.0,"Enemy spotted, A.",0.0
+iso,IsoEnemyA2,Enemy spotted A.,enemy spotted a,Enemy spotted A.,0.0,"Enemy spotted, A.",0.0
+iso,IsoEnemyIsoKill,I got Iso.,i got iso,I got ISIL.,0.3333333333333333,I got Iso.,0.0
+iso,IsoEnemyOmenKill,Omen's gone.,omen has gone,Omen's gone.,0.0,Omen's gone.,0.0
+iso,IsoEnemyRazeKill,I stopped their Raze.,i stopped their raze,I stopped to raise.,0.5,"I stopped there, Raze.",0.25
+iso,IsoKill8,Next.,next,Next.,0.0,Next.,0.0
+iso,IsoLastKill1,Let's pack it up.,let us pack it up,Let's pack it up.,0.0,Let's pack it up.,0.0
+iso,IsoLastRound1,Spend everything on this one.,spend everything on this one,Spend everything on this one.,0.0,Spend everything on this one.,0.0
+iso,IsoLetsGoA1,Let's go A.,let us go a,Let's go A.,0.0,Let's go A.,0.0
+iso,IsoLetsGoA2,Let's go A.,let us go a,Let's go A!,0.0,Let's go A!,0.0
+iso,IsoLetsRushA1,Let's rush A.,let us rush a,Let's rush A.,0.0,Let's rush A.,0.0
+iso,IsoLetsRushA2,Let's rush A.,let us rush a,Let's rush A.,0.0,Let's rush A.,0.0
+iso,IsoLetsRushB1,Let's rush B.,let us rush b,Let's rush B.,0.0,Let's rush B.,0.0
+iso,IsoLetsRushB2,Let's rush B.,let us rush b,Let's rush B.,0.0,Let's rush B.,0.0
+iso,IsoMatchStart3,"What's the mission? Kill contract? Sorry, I forgot to read the brief.",what is the mission kill contract sorry i forgot to read the brief,What's the mission? Kill contract? Sorry. I forgot to read the brief.,0.0,What's the mission? Kill contract? Sorry. I forgot to read the brief.,0.0
+iso,IsoMatchStartAttack2,They can't defuse a spike if they're dead.,they can not defuse a spike if they are dead,They can diffuse a spike if they're dead.,0.2,They can defuse a spike if they're dead.,0.1
+iso,IsoNeedSomeoneA1,Someone go A.,someone go a,Someone go A.,0.0,Someone go A.,0.0
+iso,IsoNeedSomeoneA2,Someone go A.,someone go a,Someone go A.,0.0,Someone go A.,0.0
+iso,IsoNeedUtilityHere1,Need util here.,need util here,Need you till here.,0.6666666666666666,Need you till here.,0.6666666666666666
+iso,IsoNeedUtilityHere2,Need util here.,need util here,Need you tell here.,0.6666666666666666,Need you till here.,0.6666666666666666
+iso,IsoPushingOut1,I'm pushing out.,i am pushing out,I'm pushing out.,0.0,I'm pushing out.,0.0
+iso,IsoPushingOut2,I'm pushing out.,i am pushing out,I'm pushing out.,0.0,I'm pushing out.,0.0
+iso,IsoReloading1,Reloading.,reloading,Reloading.,0.0,Reloading.,0.0
+iso,IsoRoundStart8,Forgive me if I overextend. Old habit.,forgive me if i overextend old habit,"Forgive me of our extend, old habit.",0.42857142857142855,"Forgive me of our extend, old habit.",0.42857142857142855
+iso,IsoSorry1,I'm sorry.,i am sorry,I'm sorry.,0.0,I'm sorry.,0.0
+iso,IsoSorry2,I'm sorry.,i am sorry,I'm sorry.,0.0,I'm sorry.,0.0
+iso,IsoSorry3,I'm sorry.,i am sorry,I'm sorry.,0.0,I'm sorry.,0.0
+iso,IsoSpikePickedUp1,Got the spike.,got the spike,got the spike.,0.0,Got the spike.,0.0
+iso,IsoSpikePickedUp2,Got the spike.,got the spike,Got the spike.,0.0,Got the spike.,0.0
+iso,IsoSpikePlanted1,Spike planted.,spike planted,Spike planted.,0.0,Spike planted.,0.0
+iso,IsoSpikePlanted2,Spike planted.,spike planted,Spike Planet.,0.5,Spike Planet.,0.5
+iso,IsoUltEnemyCast,It's you and me!,it is you and me,It's you and me!,0.0,It's you and me!,0.0
+iso,IsoUltKill2,Well fought.,well fought,Well fought.,0.0,Well fought.,0.0
+jett,JettAllyBrimstoneCommend,"Hell yeah, Brimstone! The best defense, is a good offense.",hell yeah brimstone the best defense is a good offense,"Hell yeah, Brimstone. The best defense is a good offense.",0.0,"Hell yeah, Brimstone. The best defense is a good offense.",0.0
+jett,JettAllyGekkoBarrierDown,"Come on, Gekko. Let's get it!",come on gekko let us get it,"Come on, Gecko, let's get it.",0.14285714285714285,"Come on, Gekko, let's get it.",0.0
+jett,JettAllyRazeCommend,"There's my bombshell! Crushed it, girl.",there is my bombshell crushed it girl,"There's my bombshell! Crushed it, girl.",0.0,"There's my bombshell, crushed it, girl.",0.0
+jett,JettBarrierDown13,Let's crack them open.,let us crack them open,Let's crack them open.,0.0,Let's crack them open.,0.0
+jett,JettCalloutC1,C Site.,c site,See you soon!,1.5,C site.,0.0
+jett,JettCalloutC2,C Site.,c site,See you soon!,1.5,C site.,0.0
+jett,JettCantUse1,I can't use that.,i can not use that,I can't use that.,0.0,I can't use that.,0.0
+jett,JettDefuseSpike1,Defuse the spike!,defuse the spike,defuse the spike.,0.0,Defuse the spike.,0.0
+jett,JettDefuseSpike2,Defuse the spike!,defuse the spike,Diffuse the spike.,0.3333333333333333,Defuse the spike.,0.0
+jett,JettEnemyCypherBarrierDown,I'll find their Cypher.,i will find their cipher,I'll find their cipher.,0.0,I'll find their cipher.,0.0
+jett,JettEnemyJettKill,Clone killed.,clone killed,Clone killed.,0.0,Clone killed.,0.0
+jett,JettEnemyJettRoundStart,Their Jett has nothin' on me. I got her.,their jett has nothin on me i got her,Their jet has nothing on me. I got her.,0.2222222222222222,Their Jett has nothing on me. I got her.,0.1111111111111111
+jett,JettEnemyOmenBarrierDown,"I'll show you scary, Omen.",i will show you scary omen,I'll show you Scary Omen.,0.0,"I'll show you, Scary Omen.",0.0
+jett,JettEnemySageRoundStart2,Her slow fields are so annoying!,her slow fields are so annoying,Her slow fields are so annoying.,0.0,Her slow fields are so annoying.,0.0
+jett,JettLead2,Damn right we're crushing it!,damn right we are crushing it,"Damn right, we're crushing it!",0.0,"Damn right, we're crushing it!",0.0
+jett,JettLetsGoB1,Let's go B.,let us go b,Let's go be.,0.25,Let's go B!,0.0
+jett,JettLetsGoB2,Let's go B.,let us go b,Let's go be.,0.25,Let's go B!,0.0
+jett,JettLetsRushC1,Let's rush C.,let us rush c,Let's rush see.,0.25,Let's rush C.,0.0
+jett,JettLetsRushC2,Let's rush C.,let us rush c,Let's rush C.,0.0,Let's rush C.,0.0
+jett,JettMatchStartLotus,This place gives me the creeps. Feels like we're being watched.,this place gives me the creeps feels like we are being watched,This place gives me the crepes. Feels like we're being watched.,0.08333333333333333,This place gives me the crepes. Feels like we're being watched.,0.08333333333333333
+jett,JettNeedSomeoneC1,Someone go C.,someone go c,Someone go see.,0.3333333333333333,Someone go see.,0.3333333333333333
+jett,JettNeedSomeoneC2,Someone go C.,someone go c,Someone go see.,0.3333333333333333,Someone go see.,0.3333333333333333
+jett,JettReloading1,Reloading.,reloading,Reloading!,0.0,Reloading.,0.0
+jett,JettReloading2,Reloading.,reloading,reloading.,0.0,Reloading.,0.0
+jett,JettRoundStart3,"Wind, show me where to go.",wind show me where to go,"Wind, show me where to go.",0.0,"Wind, show me where to go.",0.0
+jett,JettSaving1,I'm gonna save.,i am going to save,I'm gonna save.,0.0,I'm gonna save.,0.0
+jett,JettSaving2,I'm gonna save.,i am going to save,I'm gonna save.,0.0,I'm gonna save.,0.0
+jett,JettSpikeA1,Spike's A.,spike is a,Spikes A!,0.6666666666666666,Spikes A,0.6666666666666666
+jett,JettSpikeA2,Spike's A.,spike is a,Spikes A.,0.6666666666666666,"Spikes, A.",0.6666666666666666
+jett,JettSpreadOut1,Let's spread out.,let us spread out,Let's spread out.,0.0,Let's spread out.,0.0
+jett,JettSpreadOut2,Let's spread out.,let us spread out,Let's spread out.,0.0,Let's spread out!,0.0
+jett,JettStack1,Let's stack up.,let us stack up,Let's stack up.,0.0,Let's stack up.,0.0
+jett,JettStack2,Let's stack up.,let us stack up,Let's stack up!,0.0,Let's stack up!,0.0
+jett,JettTakePoint1,I'll take point.,i will take point,I'll take point.,0.0,I'll take point.,0.0
+jett,JettTakePoint2,I'll take point.,i will take point,I'll take point.,0.0,I'll take point.,0.0
+jett,JettUltAlmost1,My ult's almost ready.,my ult is almost ready,My alt's almost ready.,0.2,My alt's almost ready.,0.2
+jett,JettUltAlmost2,My ult's almost ready.,my ult is almost ready,My alt's almost ready.,0.2,My ult's almost ready.,0.0
+jett,JettWatching1,Watching here.,watching here,watching here.,0.0,Watching here.,0.0
+jett,JettWatching2,Watching here.,watching here,watching here.,0.0,"Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington, Washington",85.0
+kayo,KAYOAllyBreachMatchStart,"Breach, after this, billiards. I like taking your money.",breach after this billiards i like taking your money,"Breach, after this, fill it. I like taking your money.",0.2222222222222222,"Breach, after this, Billiot, I like taking your money.",0.1111111111111111
+kayo,KAYOAllyRazeBarrierDown,"Explosives ready, Raze!",explosives ready raze,EXPLOSENCE RAY RAYS!,1.0,Explosance Ray Raze.,0.6666666666666666
+kayo,KAYOAllySageMatchStart,"It is strange, Sage. Where I'm from, you're no medic, only a weapon.",it is strange sage where i am from you are no medic only a weapon,"It is strange sage. Where I'm from, you're nomadic. Only a weapon.",0.13333333333333333,"It is Strange Sage, where I'm from, you're nomadic, only a weapon.",0.13333333333333333
+kayo,KAYOBarrierDown18,Let's get this done.,let us get this done,Let's get this done.,0.0,Let's get this done.,0.0
+kayo,KAYOClutch3,I'm built different.,i am built different,I'm Bill different.,0.25,I'm Bill different.,0.25
+kayo,KAYOComeback1,Never back down.,never back down,Never back down.,0.0,Never back down.,0.0
+kayo,KAYODefuseComplete1,Try again.,try again,Try again.,0.0,Try again.,0.0
+kayo,KAYOEnemyASpawn1,Target Attacker Spawn.,target attacker spawn,Target Attackers Spa.,0.6666666666666666,Target Attackers Spa.,0.6666666666666666
+kayo,KAYOEnemyASpawn2,Target Attacker Spawn.,target attacker spawn,Target Attackers Bar!,0.6666666666666666,"Target, Attackerspaw!",0.6666666666666666
+kayo,KAYOEnemyAstraMatchStart,"An enemy Astra. Powerful, but killable.",an enemy astra powerful but killable,"An enemy astra, powerful, but killable.",0.0,"An enemy Astra, Conful, but Killable.",0.16666666666666666
+kayo,KAYOEnemyDSpawn1,Target Defender Spawn.,target defender spawn,Target Defender Spot!,0.3333333333333333,Target Defender Spa.,0.3333333333333333
+kayo,KAYOEnemyDSpawn2,Target Defender Spawn.,target defender spawn,Target Defender Spa!,0.3333333333333333,"Target, defenders far.",0.6666666666666666
+kayo,KAYOEnemyJettRoundStart,Let's see their Jett fight without wind.,let us see their jett fight without wind,Let's see their jet fight without wind.,0.125,Let's see their jet fight without wind.,0.125
+kayo,KAYOFRAGMENTCast2,Throwing charge.,throwing charge,Throwing thought.,0.5,Throw in thought.,1.5
+kayo,KAYOFRAGMENTCast3,Grenade!,grenade,Grenade!,0.0,Grenade!,0.0
+kayo,KAYOFRAGMENTCast5,Grenade!,grenade,Grenades!,1.0,Raze!,1.0
+kayo,KAYOFRAGMENTCast7,Throwing charge.,throwing charge,They're all in charge.,2.0,Throwing charge.,0.0
+kayo,KAYOHoldPositions1,Let's hold positions.,let us hold positions,Let's hold positions.,0.0,Let's hold positions.,0.0
+kayo,KAYOHoldPositions2,Let's hold positions.,let us hold positions,Let's hold positions.,0.0,Let's hold positions.,0.0
+kayo,KAYOKill8,Hostile KIA.,hostile kia,"Lost out, KIA!",1.0,"Hostile, KIA.",0.0
+kayo,KAYOKill9,Target 86'd.,target 86 would,Target 86.,0.3333333333333333,Target 86.,0.3333333333333333
+kayo,KAYOLetsAttack1,Let's attack.,let us attack,Let's attack!,0.0,Let's attack!,0.0
+kayo,KAYOLetsAttack2,Let's attack.,let us attack,Let's attack!,0.0,Let's attack!,0.0
+kayo,KAYOLowHP2,Is Killjoy here? I could use some repairs.,is killjoy here i could use some repairs,It's Killjoy here. I can use some repairs.,0.25,It's Killjoy here. I can use some repairs.,0.25
+kayo,KAYOLurking1,I'm lurking.,i am lurking,I'm lucky.,0.3333333333333333,I'm lucky.,0.3333333333333333
+kayo,KAYOLurking2,I'm lurking.,i am lurking,I'm looking!,0.3333333333333333,I'm looking.,0.3333333333333333
+kayo,KAYOMatchWinBreeze,"Okay humans, now you can swim.",okay humans now you can swim,"Okay humans, now you can swim.",0.0,"Okay, humans, now you can swim.",0.0
+kayo,KAYOPing1,There.,there,There!,0.0,There!,0.0
+kayo,KAYOPing2,There.,there,There!,0.0,There!,0.0
+kayo,KAYORoundStart3,Catch a breath. Not that I need to of course.,catch a breath not that i need to of course,"Catch a breath. Not that I need to, of course.",0.0,"Catch a breath. Not that I need to, of course.",0.0
+kayo,KAYORoundStart9,"I'll survive a dent or two, can't say the same for you fragile humans.",i will survive a dent or 2 can not say the same for you fragile humans,I'll survive a dent or two. Can't say the same for you fragile humans.,0.0,I'll survive a dent or two. Can't say the same for you fragile humans.,0.0
+kayo,KAYORoundWon1,Let's go kill them all again.,let us go kill them all again,Let's go kill them all again.,0.0,Let's go kill them all again.,0.0
+kayo,KAYORoundWon4,I love war.,i love war,I love war!,0.0,I love war.,0.0
+kayo,KAYORunnerUp2,They were in my sights.,they were in my sights,They were in my sight!,0.2,They were in my site.,0.2
+kayo,KAYOTriple1,Three kills!,3 kills,Three kills!,0.0,Three kills.,0.0
+kayo,KAYOTriple2,Three kills!,3 kills,Three kills!,0.0,Three kills.,0.0
+kayo,KAYOUltDown1,My ult's not ready.,my ult is not ready,My ult is not ready.,0.0,My ult is not ready.,0.0
+kayo,KAYOUltDown2,My ult's not ready.,my ult is not ready,My ult's not ready!,0.0,My ult's not ready.,0.0
+kayo,KAYOUltReboot2,Core systems restored.,core systems restored,Core systems restored.,0.0,Core systems restored.,0.0
+kayo,KAYOUltReboot5,Resuming your termination.,resuming your termination,Resuming your termination.,0.0,Resuming your termination.,0.0
+kayo,KAYOWatching1,Watching here.,watching here,watching here,0.0,Watching here.,0.0
+kayo,KAYOWatching2,Watching here.,watching here,watching here,0.0,Watching here.,0.0
+killjoy,KilljoyAllyCypherMatchStart,"Cypher, my condenser cables are missing from the lab again. Put them back please, thank you.",cipher my condenser cables are missing from the lab again put them back please thank you,"Cypher, my condenser cables are missing from the lab again. Put them back please, thank you.",0.0,"Cypher, my condenser cables are missing from the lab again. Put them back please, thank you.",0.0
+killjoy,KilljoyAllyNeonChat,"Neon, how much power do you generate, exactly? If I could just attach this meter-",neon how much power do you generate exactly if i could just attach this meter,"Niana, how much power do you generate, exactly? If I could just attach this meter?",0.06666666666666667,"Neon, how much power do you generate, exactly? If I could just attach this meter?",0.0
+killjoy,KilljoyAllyRazeCommend,"Okay Raze, fine, your tinkering may... have made my tech better. Nice work.",okay raze fine your tinkering may have made my tech better nice work,"Okay, raise fine. Your tinkering may have made my tech better. Nice work.",0.07692307692307693,"Okay, Raze, fine, your tinkering may have made my tech better. Nice work.",0.0
+killjoy,KilljoyAllyViperCommend,"Viper, I'm speechless, and I always have something to say.",viper i am speechless and i always have something to say,"Viper, I'm speechless. And I always have something to say.",0.0,"Viper, I'm speechless, and I always have something to say.",0.0
+killjoy,KilljoyBotAssist2,Alley-oop!,alley oop,"Allie, oop!",0.5,Alliope.,1.0
+killjoy,KilljoyClearThisArea1,Flush this area out.,flush this area out,Blush this area out.,0.25,Blush this area out.,0.25
+killjoy,KilljoyClearThisArea2,Flush this area out.,flush this area out,Flash this area out!,0.25,Flash this area out.,0.25
+killjoy,KilljoyComeback3,"Oh, this is a much better trajectory!",0 this is a much better trajectory,"Oh, this is a much better trajectory.",0.0,"Oh, this is a much better trajectory.",0.0
+killjoy,KilljoyEnemyReynaKill,Reyna killed.,reyna killed,Rayna killed!,0.5,Reyna killed.,0.0
+killjoy,KilljoyEnemySageKill,Sage killed.,sage killed,Sage Killed,0.0,Sage killed.,0.0
+killjoy,KilljoyGoingB1,Going B.,going b,I'm going B.,1.0,Go and be.,1.5
+killjoy,KilljoyGoingB2,Going B.,going b,Going B.,0.0,Going B.,0.0
+killjoy,KilljoyHeadshot4,Perfect accuracy.,perfect accuracy,Perfect accuracy.,0.0,Perfect accuracy.,0.0
+killjoy,KilljoyKill9,Finished.,finished,Finished!,0.0,Finished.,0.0
+killjoy,KilljoyLastKill2,You tried.,you tried,You tried.,0.0,You tried.,0.0
+killjoy,KilljoyMatchMVP1,"Ah, my genius doesn't stop in the lab!",ah my genius does not stop in the lab,"Oh, my genius doesn't stop in the lab.",0.1111111111111111,"Oh, my genius doesn't stop in the lab.",0.1111111111111111
+killjoy,KilljoyNanoswarmCast1,Placing swarm grenade.,placing swarm grenade,Placing Swamp Grenade.,0.3333333333333333,Placing Swarm Grenade.,0.0
+killjoy,KilljoyNanoswarmCast2,Placing swarm grenade.,placing swarm grenade,Placing Swarm Grenade.,0.0,Placing Swarm Grenade.,0.0
+killjoy,KilljoyNiceTry1,Good try.,good try,Good try!,0.0,Good try!,0.0
+killjoy,KilljoyNiceTry2,Good try.,good try,Good try!,0.0,Good try!,0.0
+killjoy,KilljoyNiceTry3,Good try.,good try,Good try!,0.0,Good try!,0.0
+killjoy,KilljoyNo1,No.,no,No.,0.0,No.,0.0
+killjoy,KilljoyNo2,No.,no,No.,0.0,No.,0.0
+killjoy,KilljoyOnCooldown1,Can't use that yet,can not use that yet,Can't use that yet.,0.0,Can't use that yet.,0.0
+killjoy,KilljoyOnCooldown2,Can't use that yet,can not use that yet,Can't use that yet.,0.0,Can't use that yet.,0.0
+killjoy,KilljoyPushOut1,Let's push out.,let us push out,Let's push out.,0.0,Let's push out.,0.0
+killjoy,KilljoyPushOut2,Let's push out.,let us push out,Let's push out!,0.0,Let's push out!,0.0
+killjoy,KilljoyRequest1,Can I get this?,can i get this,Can I get this?,0.0,Can I get this?,0.0
+killjoy,KilljoyRequest2,Can I get this?,can i get this,Can I get this?,0.0,Can I get this?,0.0
+killjoy,KilljoyRoundStart4,"Everyone makes fun of German efficiency, haha. Just keep laughing as you use all my gear.",everyone makes fun of german efficiency haha just keep laughing as you use all my gear,Everyone makes fun of German efficiency. Ha ha! Just keep laughing as you use all my gear.,0.125,Everyone makes fun of German efficiency. Ha ha! Just keep laughing as you use all my gear.,0.125
+killjoy,KilljoySaving1,I'm saving.,i am saving,I'm saving.,0.0,I'm saving.,0.0
+killjoy,KilljoySaving2,I'm saving.,i am saving,I'm saving.,0.0,I'm saving.,0.0
+killjoy,KilljoySpikeDown1,Our spike carrier is dead.,our spike carrier is dead,Our spike carrier is dead.,0.0,Our spike carrier is dead.,0.0
+killjoy,KilljoySpikeDown2,Our spike carrier is dead.,our spike carrier is dead,Ask bike carrier is dead!,0.4,Asth spike carrier is dead.,0.2
+killjoy,KilljoyThrifty1,How about I only bring a ruler next time,how about i only bring a ruler next time,How about I only bring a ruler next time?,0.0,How about I only bring a ruler next time?,0.0
+killjoy,KilljoyTurretDestroyed1,"Ugh, turret down.",ugh turret down,"Ugh, throw it down!",0.6666666666666666,"Ugh, throw it down!",0.6666666666666666
+killjoy,KilljoyTurretDestroyed2,"Ugh, turret down.",ugh turret down,"Ugh, turn it down!",0.6666666666666666,"Ugh, turn it down!",0.6666666666666666
+killjoy,KilljoyUltCaught1,Caught one.,caught one,COT 1,0.5,Caught 1.,0.0
+killjoy,KilljoyUltDown1,My ult's not ready.,my ult is not ready,My elf's not ready.,0.2,My elf's not ready.,0.2
+killjoy,KilljoyUltDown2,My ult's not ready.,my ult is not ready,My earlts not ready.,0.4,My ult's not ready.,0.0
+killjoy,KilljoyWatching1,Watching this.,watching this,Watching this.,0.0,Watching this.,0.0
+killjoy,KilljoyWatching2,Watching this.,watching this,watching this.,0.0,Watching this.,0.0
+neon,NeonAllyBrimstoneRoundStart,"Let's go, Brim. Ex-Kingdom represent!",let us go brim ex kingdom represent,"Let's go, Rim! X Kingdom represents!",0.42857142857142855,"Let's go, Brim. X Kingdom represents.",0.2857142857142857
+neon,NeonBarrierDown4,Shoot them! Always works.,shoot them always works,Shoot them! Always works!,0.0,Shoot them. Always works.,0.0
+neon,NeonBarrierDown5,I suggest we keep winning.,i suggest we keep winning,I suggest we keep winning!,0.0,I suggest we keep winning.,0.0
+neon,NeonEncouraging1,We've got this.,we have got this,We've got this!,0.0,We've got this!,0.0
+neon,NeonEncouraging2,We've got this.,we have got this,We've got this!,0.0,We've got this!,0.0
+neon,NeonEncouraging3,We've got this.,we have got this,We've got this!,0.0,We've got this!,0.0
+neon,NeonEnemy1,Enemy spotted.,enemy spotted,Enemy spotted!,0.0,Enemy spotted.,0.0
+neon,NeonEnemy2,Enemy spotted.,enemy spotted,Enemy spotted!,0.0,Enemy spotted!,0.0
+neon,NeonEnemyC1,Enemy C.,enemy c,Enemy C.,0.0,Enemy C.,0.0
+neon,NeonEnemyC2,Enemy C.,enemy c,Let me see.,1.5,Enemy C.,0.0
+neon,NeonFaking1,I'm faking.,i am faking,I'm faking.,0.0,I'm faking.,0.0
+neon,NeonFaking2,I'm faking.,i am faking,I'm faking.,0.0,I'm faking.,0.0
+neon,NeonHoldPositions1,Let's hold positions.,let us hold positions,That's all positions.,0.75,That's all positions!,0.75
+neon,NeonHoldPositions2,Let's hold positions.,let us hold positions,Let's hold positions.,0.0,Let's hold positions.,0.0
+neon,NeonKill7,Go away!,go away,Go away.,0.0,Go away.,0.0
+neon,NeonLastRound1,"Spend your cash, don't look back.",spend your cash do not look back,Spend your cash. Don't look back.,0.0,"Spend your cash, don't look back.",0.0
+neon,NeonLetsRotate1,Let's rotate.,let us rotate,Let's rotate.,0.0,Let's rotate.,0.0
+neon,NeonLetsRotate2,Let's rotate.,let us rotate,Let's rotate!,0.0,Let's rotate!,0.0
+neon,NeonMatchStart4,Another site on the brink of destruction. At least we're consistent.,another site on the brink of destruction at least we are consistent,Another site on the brink of destruction. At least we're consistent.,0.0,Another site on the brink of destruction. At least we're consistent.,0.0
+neon,NeonMatchStart5,"Look, I'm glad you're all here. There, I said it.",look i am glad you are all here there i said it,"Look, I'm glad you're all here. There, I said it.",0.0,"Look, I'm glad you're all here. There, I said it.",0.0
+neon,NeonMatchStartAttack2,"Here's the plan; whatever they got, tear it down.",here is the plan whatever they got tear it down,"Here's the plan. Whatever they got, tear it down.",0.0,"Here's the plan. Whatever they got, tear it down.",0.0
+neon,NeonNeedSomeoneB1,Someone go B.,someone go b,Someone go be.,0.3333333333333333,Someone go be.,0.3333333333333333
+neon,NeonNeedSomeoneB2,Someone go B.,someone go b,Someone go be.,0.3333333333333333,Someone go be.,0.3333333333333333
+neon,NeonOffer1,"I can buy, who needs what?",i can buy who needs what,I can buy. Who needs what?,0.0,I can buy. Who needs what?,0.0
+neon,NeonOffer2,"I can buy, who needs what?",i can buy who needs what,I can buy. Who needs what?,0.0,I can buy. Who needs what?,0.0
+neon,NeonOnCooldown1,Not ready yet.,not ready yet,Not ready yet.,0.0,Not ready yet.,0.0
+neon,NeonOnCooldown2,Not ready yet.,not ready yet,Not ready yet.,0.0,Not ready yet.,0.0
+neon,NeonPingGun1,Gun here.,gun here,Gun here!,0.0,Gun here!,0.0
+neon,NeonPingGun2,Gun here.,gun here,Gun here!,0.0,Gun here!,0.0
+neon,NeonPlantSpike1,Plant the spike!,plant the spike,Plant the spike!,0.0,Plant the spike!,0.0
+neon,NeonPlantSpike2,Plant the spike!,plant the spike,Black the Spike.,0.3333333333333333,Plant the spike.,0.0
+neon,NeonRoundStart7,"Fight till the end, no matter what.",fight till the end no matter what,"Fight till the end, no matter what.",0.0,"Fight till the end, no matter what.",0.0
+neon,NeonRunnerUp3,Not the worst.,not the worst,Not the worst.,0.0,Not the worst.,0.0
+neon,NeonSneakC1,Let's sneak C.,let us sneak c,Let's snake see!,0.5,Let's snake see!,0.5
+neon,NeonSneakC2,Let's sneak C.,let us sneak c,Let's sneak see.,0.25,"Let's sneak, see.",0.25
+neon,NeonSpikeC1,Spike's C.,spike is c,Spike C!,0.3333333333333333,Spike C!,0.3333333333333333
+neon,NeonSpikeC2,Spike's C.,spike is c,Spike C.,0.3333333333333333,Spike C.,0.3333333333333333
+neon,NeonSpikeDown1,Our spike's down.,our spike is down,Our spike's down.,0.0,Our spike's down.,0.0
+neon,NeonSpikeDown2,Our spike's down.,our spike is down,Our spikes down!,0.5,Our spike's down!,0.0
+neon,NeonSpikeSpottedC1,Spike C.,spike c,Spike C.,0.0,Spike C,0.0
+neon,NeonSpikeSpottedC2,Spike C.,spike c,Spike C,0.0,Spike C,0.0
+neon,NeonSpreadOut1,Let's spread out.,let us spread out,Let's spread out.,0.0,Let's spread out!,0.0
+neon,NeonSpreadOut2,Let's spread out.,let us spread out,Let's spread out.,0.0,Let's spread out.,0.0
+neon,NeonUltKill3,Zapped!,zapped,Zapped!,0.0,Zapped!,0.0
+omen,OmenAffirmation1,Agreed.,agreed,Agreed.,0.0,Agreed.,0.0
+omen,OmenAffirmation2,Agreed.,agreed,Agreed.,0.0,Agreed.,0.0
+omen,OmenAllyIsoBarrierDown,"Iso, take them one by one.",iso take them one by one,"I so, take them one by one.",0.3333333333333333,"Iso, take them one by one.",0.0
+omen,OmenAllyReynaMatchStart,"Reyna, the souls you consume. Do you hear their voices as I do?",reyna the souls you consume do you hear their voices as i do,"Rayna, the souls you consume, do you hear their voices as I do?",0.07692307692307693,"Reyna, the souls you consume, do you hear their voices as I do?",0.0
+omen,OmenAllySkyeMatchStart,"Skye the life weaver. The power to create, to destroy. Which path will you embrace, I wonder?",skye the life weaver the power to create to destroy which path will you embrace i wonder,"Sky the life weaver. The power to create, to destroy. Which path will you embrace, I wonder?",0.058823529411764705,"Skye, the life weaver, the power to create, to destroy. Which path will you embrace, I wonder?",0.0
+omen,OmenAllyViperMatchStart2,"Sabine, look at the monsters we've become. At least you have flesh to hide your horror.",sabine look at the monsters we have become at least you have flesh to hide your horror,"Sabine, look at the monsters we've become. At least you have flesh to hide your horror.",0.0,"Sabine, look at the monsters we've become. At least you have flesh to hide your horror.",0.0
+omen,OmenAllyYoruRoundStart,"Where should we go, rift walker? They cannot watch everywhere at once.",where should we go rift walker they cannot watch everywhere at once,"Where should we go, Riftwalker? They cannot watch everywhere at once.",0.16666666666666666,"Where should we go, Riftwalker? They cannot watch everywhere at once.",0.16666666666666666
+omen,OmenBarrierDown2,Hold our ground.,hold our ground,Hold our ground.,0.0,Hold our ground.,0.0
+omen,OmenClutch1,You forget your place.,you forget your place,You forget your place.,0.0,You forget your place.,0.0
+omen,OmenComeback2,I feel like myself. Catch them. Again.,i feel like myself catch them again,I feel like myself. Catch them. Again.,0.0,I feel like myself. Catch them. Again.,0.0
+omen,OmenDarkCoverCast3,Shadows traveling.,shadows traveling,Shadows traveling.,0.0,Shadow's Traveling.,1.0
+omen,OmenDarkCoverCast4,Shadows traveling.,shadows traveling,Shadows traveling.,0.0,Shadows traveling.,0.0
+omen,OmenDefuseComplete1,Their spike is defused.,their spike is defused,The spike is diffused.,0.5,The spike is defused.,0.25
+omen,OmenEnemyAstraLastKill,"The Astra is gone, and her mysteries with her.",the astra is gone and her mysteries with her,"The Astra is gone, and her mysteries with her.",0.0,"The Astra is gone, and her mysteries with her.",0.0
+omen,OmenEnemyCloveBarrierDown,Clove's antics stop now.,clove is antics stop now,Cloves antics stop now.,0.4,Clove's antics stop now.,0.0
+omen,OmenEnemySageRoundStart,Keep hunting them down! Their Sage cannot protect them all.,keep hunting them down their sage cannot protect them all,Keep hunting them down. This age cannot protect them all.,0.2,Keep hunting them down. The Sage cannot protect them all.,0.1
+omen,OmenEnemySkyeLastKill,"What would you have become, Skye? Ugh, it doesn't matter now.",what would you have become skye ugh it does not matter now,"What would you have become, Skye? It doesn't matter now.",0.08333333333333333,"What would you have become, Skye? It doesn't matter now.",0.08333333333333333
+omen,OmenEnemyViperKill,Experiment complete.,experiment complete,experiment complete.,0.0,Experiment complete.,0.0
+omen,OmenFlawless3,History has already forgotten you.,history has already forgotten you,History has already forgotten you.,0.0,History has already forgotten you.,0.0
+omen,OmenHeadshot3,Pitiful.,pitiful,Pitiful.,0.0,Pitiful.,0.0
+omen,OmenHeadshot5,You were a mistake.,you were a mistake,You were a mistake.,0.0,You were a mistake.,0.0
+omen,OmenKill10,No more.,no more,No more.,0.0,No more.,0.0
+omen,OmenKill4,Killed.,killed,killed.,0.0,Killed.,0.0
+omen,OmenLead2,Sad fools standing in our way.,sad fools standing in our way,Sad fools standing in our way.,0.0,Sad fools standing in our way.,0.0
+omen,OmenLowHP1,You think you can kill me?,you think you can kill me,You think you can kill me?,0.0,You think you can kill me?,0.0
+omen,OmenNeedSomeoneC1,Someone go C.,someone go c,Someone go see.,0.3333333333333333,Someone go see.,0.3333333333333333
+omen,OmenNeedSomeoneC2,Someone go C.,someone go c,Someone go see.,0.3333333333333333,Someone go see.,0.3333333333333333
+omen,OmenParanoiaKill3,Boo.,boo,Boo!,0.0,Boo!,0.0
+omen,OmenParanoiaKill4,Boo.,boo,Go!,1.0,Go!,1.0
+omen,OmenRoundStart1,I'll make them remember... they're only human.,i will make them remember they are only human,I'll make them remember. They're only human.,0.0,I'll make them remember. They're only human.,0.0
+omen,OmenRoundStart2,My burden never ends.,my burden never ends,My burden never ends.,0.0,My burden never ends.,0.0
+omen,OmenShroudedStepUnviable1,Can't go there.,can not go there,Can't go there.,0.0,Kentko there.,0.75
+omen,OmenShroudedStepUnviable2,Can't go there.,can not go there,Can't go there.,0.0,Can't call there.,0.25
+omen,OmenSpikePlanted1,Spike planted.,spike planted,Spike planted.,0.0,Spite planted.,0.5
+omen,OmenSpikePlanted2,Spike planted.,spike planted,Spike planted.,0.0,Spike planted.,0.0
+omen,OmenStackMid1,Let's stack Mid.,let us stack mid,Let's stack mid!,0.0,Let's stack Mid!,0.0
+omen,OmenStackMid2,Let's stack Mid.,let us stack mid,Let's stack mid.,0.0,Let's stack Mid.,0.0
+omen,OmenUltAllyCast,Watch them run.,watch them run,Watch them run.,0.0,Watch them run.,0.0
+omen,OmenUltInterrupt1,Damn it!,damn it,Damn it!,0.0,Damn it!,0.0
+omen,OmenUltInterrupt2,Damn it!,damn it,Damn it!,0.0,Damn it!,0.0
+omen,OmenUltKill2,Boo.,boo,Boo.,0.0,Boo.,0.0
+phoenix,PhoenixAllyAstraCommend,"Oh Astra with the galaxy brain, yeah!",0 astra with the galaxy brain yeah,"Oh, Astro with that galaxy brain, yeah!",0.2857142857142857,"Oh, Astra with that galaxy brain, yeah!",0.14285714285714285
+phoenix,PhoenixAllyBrimstoneMatchStart,"Yo Brim, don't go tweaking your back out there. Leave the fancy stuff to the young'uns.",yo brim do not go tweaking your back out there leave the fancy stuff to the young uns,"Yo, brim, don't go tweaking your back out there. Lead the fancy stuff to the youngins.",0.16666666666666666,"Yo, Brim, don't go tweaking your back out there. Lead the fancy stuff to the youngins.",0.16666666666666666
+phoenix,PhoenixAllyCypherMatchStart,"Remember fam, winning takes sacrifice, right Cypher? Sacrifice? Like chess? Our chess game? Come on, I know you got it.",remember fam winning takes sacrifice right cipher sacrifice like chess our chess game come on i know you got it,"Remember fam, winning takes sacrifice. Right cypher? Sacrifice? Like chess? Our chess game? Come on, I know you got it.",0.0,"Remember fam, winning takes sacrifice. Right cypher? Sacrifice? Like chess? Our chess game? Come on, I know you got it.",0.0
+phoenix,PhoenixAllyRazeRoundStart,"Raze, plug me into the tunes, yeah, I know you got the good stuff.",raze plug me into the tunes yeah i know you got the good stuff,"Raise. Plug me into the tunes. Yeah, I know you got the good stuff.",0.07142857142857142,"Raze, plug me into the tunes, yeah I know you got the good stuff.",0.0
+phoenix,PhoenixBarrierDown2,Stop them! This is our turf!,stop them this is our turf,Stop them! This is our turf!,0.0,Stop them! This is R. Turf!,0.16666666666666666
+phoenix,PhoenixBarrierDown5,Let's get the advantage.,let us get the advantage,Let's get the advantage.,0.0,Let's get the advantage.,0.0
+phoenix,PhoenixCantUse1,Can't use that.,can not use that,Can't use that.,0.0,Can't use that.,0.0
+phoenix,PhoenixComeback3,They're in for a rude awakenin'.,they are in for a rude awakenin,Darren for a rude awakening.,0.5714285714285714,Daring for a rude awakening.,0.5714285714285714
+phoenix,PhoenixEncouraging1,We got this.,we got this,We've got this!,0.3333333333333333,We got this!,0.0
+phoenix,PhoenixEncouraging2,We got this.,we got this,We got this.,0.0,We got this.,0.0
+phoenix,PhoenixEncouraging3,We got this.,we got this,We've got this.,0.3333333333333333,We've got this.,0.3333333333333333
+phoenix,PhoenixEnemies1,Bunch of guys here!,bunch of guys here,Bunch of guys here.,0.0,Buncha guys here!,0.5
+phoenix,PhoenixEnemies2,Bunch of guys here!,bunch of guys here,Don't you guys hear?,1.0,Don't you guys hear?,1.0
+phoenix,PhoenixEnemyJettMatchStart,"They got a Jett too? Nah, there's only one wind girl, and she's ours. That's a fake!",they got a jett too nah there is only one wind girl and she is ours that is a fake,"They got a jet, too. Nah. There's only one wingo, and she's ours. That's a fake.",0.15,"They got a Jett 2? Nah, there's only one Wingo, and she's ours. That's a fake.",0.15
+phoenix,PhoenixEnemySageLastKill,"Easy, Sage.",easy sage,Easy Sage!,0.0,Easy Sage.,0.0
+phoenix,PhoenixGoingA1,Going A.,going a,Go in A!,1.0,Go in A!,1.0
+phoenix,PhoenixHeadshot1,Sit down!,sit down,Sit down!,0.0,Sit down!,0.0
+phoenix,PhoenixHeadshot5,"Eh, what're you doin'?!",eh what are you doin,What are you doing?,0.4,What are you doing?,0.4
+phoenix,PhoenixHello3,What's up?,what is up,What's up?,0.0,What's up?,0.0
+phoenix,PhoenixHoldingPosition1,Holding position.,holding position,Hold in position.,1.0,Hold in position.,1.0
+phoenix,PhoenixHoldingPosition2,Holding position.,holding position,Hold in position.,1.0,Hold in position.,1.0
+phoenix,PhoenixLead3,"Who else is havin' a great time? Just me? Tsk, ah, I'm gutted!",who else is havin a great time just me tsk ah i am gutted,"Who else is having a great time? Just me. Oh, I'm gutted.",0.21428571428571427,"Who else is having a great time? Just me. Oh, I'm gutted.",0.21428571428571427
+phoenix,PhoenixLetsAttack1,Let's attack.,let us attack,Let's attack!,0.0,Let's attack!,0.0
+phoenix,PhoenixLetsAttack2,Let's attack.,let us attack,Let's attack!,0.0,Let's attack!,0.0
+phoenix,PhoenixLetsRushA1,Let's rush A.,let us rush a,Let's Rushy!,0.5,Let's rush E!,0.25
+phoenix,PhoenixLetsRushA2,Let's rush A.,let us rush a,Let's Roshi!,0.5,Let's Roshi!,0.5
+phoenix,PhoenixManyEnemiesHere1,Many enemies here.,many enemies here,Many enemies here.,0.0,Many enemies here.,0.0
+phoenix,PhoenixManyEnemiesHere2,Many enemies here.,many enemies here,Many enemies here.,0.0,Many enemies here.,0.0
+phoenix,PhoenixMatchStart3,"Yes, yes, it's me, autographs if we survive, yeah?",yes yes it is me autographs if we survive yeah,"Yes, yes, it's me, autographs if we survive, yeah?",0.0,"Yes, yes, it's me, autographs if we survive, yeah?",0.0
+phoenix,PhoenixMatchWin3,They're done! Who's up next?,they are done who is up next,They're done! Who's up next?,0.0,They're done. Who's up next?,0.0
+phoenix,PhoenixMatchWin4,And that's how it gets done!,and that is how it gets done,And that's how it gets done.,0.0,And that's how it gets done.,0.0
+phoenix,PhoenixOffer1,Anyone need something?,anyone need something,Anyone needs something.,0.3333333333333333,Anyone need something?,0.0
+phoenix,PhoenixOffer2,Anyone need something?,anyone need something,Anyone needs something.,0.3333333333333333,Anyone needs something.,0.3333333333333333
+phoenix,PhoenixOffer3,Anyone need something?,anyone need something,Anyone need something?,0.0,Anyone need some of them?,1.0
+phoenix,PhoenixPlantSpike1,Plant the spike!,plant the spike,Plan the spike!,0.3333333333333333,Plant the spike!,0.0
+phoenix,PhoenixPlantSpike2,Plant the spike!,plant the spike,Block the spike!,0.3333333333333333,Plant the spike.,0.0
+phoenix,PhoenixRunnerUp2,Next time I'm gettin' first place!,next time i am gettin 1st place,"Next time I'm getting first, please.",0.2857142857142857,"Next time I'm getting first, please.",0.2857142857142857
+phoenix,PhoenixStackMid1,Let's stack Mid.,let us stack mid,Let's stack mid!,0.0,Let's stack Mid!,0.0
+phoenix,PhoenixStackMid2,Let's stack Mid.,let us stack mid,Let's stack mid!,0.0,Let's stack mid.,0.0
+raze,RazeAffirmation1,Okay.,okay,Okay!,0.0,Hook KAY!,2.0
+raze,RazeAffirmation2,Okay.,okay,Okay!,0.0,KAY!,1.0
+raze,RazeAllyBreachCommend,Did you see Breach back there? That's how it's done.,did you see breach back there that is how it is done,Did you see Breach back there? That's how it's done.,0.0,Did you see Breach back there? That's how it's done.,0.0
+raze,RazeAllyCypherRoundStart,"Cypher, I'm so sorry about breaking all your stuff. I mean, I won't stop, but I am sorry.",cipher i am so sorry about breaking all your stuff i mean i will not stop but i am sorry,"Cypher, I'm so sorry about breaking all your stuff. I mean, I won't stop, but I am sorry.",0.0,"Cypher, I'm so sorry about breaking all your stuff. I mean, I won't stop, but I am sorry.",0.0
+raze,RazeAllyKilljoyBarrierDown,Killjoy. You and me until the end.,killjoy you and me until the end,"Thank you Joy, you and me until the end.",0.42857142857142855,"Killjoy, you and me until the end.",0.0
+raze,RazeAllyKilljoyRoundStart,"Killjoy, don't overthink it! Sometimes, you just need to hit them with explosives.",killjoy do not overthink it sometimes you just need to hit them with explosives,"Killjoy! Don't overthink it! Sometimes, you just need to hit them with explosives.",0.0,"Killjoy, don't overthink it. Sometimes you just need to hit them with explosives.",0.0
+raze,RazeBarrierDown16,Let's flush them out.,let us flush them out,Let's Flushing Out!,0.4,Let's flush them out.,0.0
+raze,RazeBarrierDown17,Let's make 'em dance!,let us make em dance,Let's make him dance.,0.2,Let's make them dance.,0.2
+raze,RazeBoomBotKill3,Ouch.,ouch,Ouch!,0.0,Ouch!,0.0
+raze,RazeBoomBotKill4,Ouch.,ouch,Ouch!,0.0,Ouch.,0.0
+raze,RazeBoomBotMultiKill1,They didn't move?!,they did not move,They didn't move?,0.0,They didn't move?,0.0
+raze,RazeBoomBotMultiKill2,They didn't move?!,they did not move,They didn't move!,0.0,They didn't move!,0.0
+raze,RazeBoomBotMultiKill3,I didn't expect that!,i did not expect that,I didn't expect that!,0.0,I didn't expect that!,0.0
+raze,RazeBoomBotMultiKill4,I didn't expect that!,i did not expect that,Ha! I didn't expect that!,0.2,I didn't expect that.,0.0
+raze,RazeDefuseSpike1,Defuse it!,defuse it,defuse it!,0.0,Defuse it!,0.0
+raze,RazeDefuseSpike2,Defuse it!,defuse it,Use it.,0.5,Decuse it.,0.5
+raze,RazeEnemiesDSpawn1,Enemies in Defender Spawn!,enemies in defender spawn,Enemies in Defender Spawn.,0.0,Enemies in Defender spawn.,0.0
+raze,RazeEnemiesDSpawn2,Enemies in Defender Spawn!,enemies in defender spawn,enemies and defenders spawn.,0.5,The enemies and defenders spawn.,0.75
+raze,RazeEnemyMid1,Enemy spotted Mid.,enemy spotted mid,Enemy spotted mid.,0.0,Enemy spotted mid.,0.0
+raze,RazeEnemyMid2,Enemy spotted Mid.,enemy spotted mid,Enemy spotted mid.,0.0,"Enemy spotted, Mid.",0.0
+raze,RazeGoingA1,Going A.,going a,Boeing A,0.5,Boeing A,0.5
+raze,RazeGoingA2,Going A.,going a,Going gay.,0.5,Going gay.,0.5
+raze,RazeKill1,Ha! Got one!,ha got one,Ha! Got one!,0.0,Ha! Got one!,0.0
+raze,RazeKill2,Boom!,boom,Boom!,0.0,Boom!,0.0
+raze,RazeKill6,One down.,one down,One down.,0.0,One down.,0.0
+raze,RazeLastRound1,Spend those creds before we lose them.,spend those creds before we lose them,Spend those cries before we lose them.,0.14285714285714285,Spend those cries before we lose them.,0.14285714285714285
+raze,RazeLastRound2,Spend those creds before we lose them.,spend those creds before we lose them,Spend those cries before we lose them.,0.14285714285714285,Spend those cries before we lose them.,0.14285714285714285
+raze,RazeLetsRush1,Let's rush them.,let us rush them,Let's rush them!,0.0,Let's rush them!,0.0
+raze,RazeLetsRush2,Let's rush them.,let us rush them,Let's rush them.,0.0,Let's rush them.,0.0
+raze,RazePaintShellsCast1,Grenade!,grenade,Grenade!,0.0,Grenade!,0.0
+raze,RazePaintShellsCast2,Grenade!,grenade,Grenade!,0.0,Grenade!,0.0
+raze,RazePaintShellsCast3,Grenade!,grenade,Grenade!,0.0,Grenade!,0.0
+raze,RazePaintShellsKill3,Boom!,boom,Home.,1.0,Home.,1.0
+raze,RazePaintShellsKill4,Boom!,boom,Boom!,0.0,Boom!,0.0
+raze,RazeRequest1,Can I get a drop?,can i get a drop,Can I get a drop?,0.0,Can I get a drop?,0.0
+raze,RazeRequest2,Can I get a drop?,can i get a drop,Can I get a drop?,0.0,Can I get a drop?,0.0
+raze,RazeRoundStart11,"Okay, I only have, like, seventy-eight grenades left? Hopefully that's enough.",okay i only have like 78 grenades left hopefully that is enough,"Okay, I only have like 78 grenades left. Hopefully that's enough.",0.0,"Okay, I only have like 78 grenades left. Hopefully that's enough.",0.0
+raze,RazeRoundStart6,Paint? Check. Charges? Check. Brakes? ''chuckles'' Nowhere in sight.,paint check charges check brakes chuckles nowhere in sight,"Paint, check. Charges, check. Brakes. Nowhere in sight.",0.1111111111111111,"Paint, check. Charges, check. Rakes. Nowhere in sight.",0.2222222222222222
+raze,RazeRoundWon1,And that's how we do it.,and that is how we do it,And that's how we do it.,0.0,And that's how we do it.,0.0
+raze,RazeSneakB1,Let's sneak B.,let us sneak b,Let's make beer.,0.5,Let's sneak beer.,0.25
+raze,RazeSneakB2,Let's sneak B.,let us sneak b,Let's link B.,0.25,Let's Nink B.,0.25
+raze,RazeSpreadOut1,Let's spread out.,let us spread out,It's spread out.,0.5,It's spread out.,0.5
+raze,RazeSpreadOut2,Let's spread out.,let us spread out,Let's spread out!,0.0,Let's spread out!,0.0
+raze,RazeUltKill3,Boom!,boom,Boom!,0.0,"Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse, Vyse",85.0
+raze,RazeUltKill4,Boom!,boom,Boom!,0.0,Boom!,0.0
+reyna,ReynaAce3,Die meaningless.,die meaningless,Die meaningless.,0.0,Die meaningless.,0.0
+reyna,ReynaAllyKAYORoundStart,"Focus your hate at the enemy, KAY/O, it is wasted on me.",focus your hate at the enemy kay 0 it is wasted on me,"Focus your hate at the enemy, KO. It is wasted on me.",0.15384615384615385,"Focus your hate at the enemy, KO. It is wasted on me.",0.15384615384615385
+reyna,ReynaAllyPhoenixMatchStart,"See you on the front lines, Phoenix. Save some enemies for me.",see you on the front lines phoenix save some enemies for me,"See you in the front lines, Phoenix. Save some enemies for me.",0.08333333333333333,"See you in the front lines, Phoenix. Save some enemies for me.",0.08333333333333333
+reyna,ReynaBarrierDown3,At least they kept it interesting.,at least they kept it interesting,At least they kept it interesting.,0.0,Oddly as they kept it interesting.,0.3333333333333333
+reyna,ReynaCantUse1,Can't use that.,can not use that,can use that.,0.25,Can't use that.,0.0
+reyna,ReynaCantUse2,Can't use that.,can not use that,can use it.,0.5,You can use it.,0.75
+reyna,ReynaEnemyBrimstoneBarrierDown,I'll show that Brimstone true power!,i will show that brimstone true power,I'll show that Brimstone true power.,0.0,I'll show that Brimstone true power.,0.0
+reyna,ReynaEnemyDSpawn1,Enemy in Defender Spawn.,enemy in defender spawn,Enemy in defender spawn.,0.0,Enemy and defender spawn.,0.25
+reyna,ReynaEnemyDSpawn2,Enemy in Defender Spawn.,enemy in defender spawn,"And I mean, defend the respond.",1.5,Enemy defenders spawn.,0.5
+reyna,ReynaEnemyJettRoundStart,"Their Jett is playing hard to get. Alright, I'll play.",their jett is playing hard to get alright i will play,"their jet is playing hard to get. All right, I'll play.",0.2727272727272727,"Their jet is playing hard to get. All right, I'll play.",0.2727272727272727
+reyna,ReynaEnemyMid1,Enemy spotted Mid.,enemy spotted mid,"Enemy spotted, meet.",0.3333333333333333,"Enemy spotted, mid.",0.0
+reyna,ReynaEnemyMid2,Enemy spotted Mid.,enemy spotted mid,Enemies but admit.,1.0,"Enemy spotted, Mid.",0.0
+reyna,ReynaEnemySageBarrierDown,Who will heal their healer?,who will heal their healer,Who will heal their healer?,0.0,Who will heal their healer?,0.0
+reyna,ReynaGoingA1,Going A.,going a,GoING E!,0.5,Goangi.,1.0
+reyna,ReynaGoingA2,Going A.,going a,Going A.,0.0,Goin' A!,0.5
+reyna,ReynaHeadshot4,No need to suffer.,no need to suffer,No need to suffer.,0.0,No need to suffer.,0.0
+reyna,ReynaLastKillMVP2,How sad. You're just like everyone else.,how sad you are just like everyone else,How sad. You're just like everyone else.,0.0,How sad. You're just like everyone else.,0.0
+reyna,ReynaLead1,"If you've never seen a massacre, this is what it looks like.",if you have never seen a massacre this is what it looks like,"If you've never seen a massacre, this is what it looks like.",0.0,"If you've never seen a massacre, this is what it looks like.",0.0
+reyna,ReynaLead3,They're starting to panic. I can feel their pulse quickening from here.,they are starting to panic i can feel their pulse quickening from here,They're starting to panic. I can feel their pulse quickening from here.,0.0,They're starting to panic. I can feel their pulse quickening from here.,0.0
+reyna,ReynaMatchStart4,"I've stood over so many corpses. A few more, does not matter.",i have stood over so many corpses a few more does not matter,have stood over so many corpses. A few more does not matter.,0.07692307692307693,I've stood over so many corpses. A few more does not matter.,0.0
+reyna,ReynaMatchStart5,"This enemy's nothing special. Still human, still mortal.",this enemy is nothing special still human still mortal,This enemy is nothing special. Still human. Still mortal.,0.0,"This enemy is nothing special, still human, still mortal.",0.0
+reyna,ReynaMatchStartAscent,This poor place. It clings to life. A city after my own heart,this poor place it clings to life a city after my own heart,"This poor place, it links to life. A city after my own heart.",0.07692307692307693,"This poor place, it links to life. A city after my own heart.",0.07692307692307693
+reyna,ReynaPush1,Push forward.,push forward,Push forward.,0.0,Push forward.,0.0
+reyna,ReynaPush2,Push forward.,push forward,Push forward.,0.0,Push forward.,0.0
+reyna,ReynaPushOut1,Let's push out.,let us push out,Let's push out.,0.0,Let's push out.,0.0
+reyna,ReynaPushOut2,Let's push out.,let us push out,Let's push out.,0.0,Let's push out.,0.0
+reyna,ReynaRoundStart7,"Stay alive! I want their life, not yours.",stay alive i want their life not yours,Still alive. I want their life not yours.,0.125,"Still alive. I want their life, not yours.",0.125
+reyna,ReynaSaving2,Saving.,saving,Saving.,0.0,Saving.,0.0
+reyna,ReynaSneakA1,Let's sneak A.,let us sneak a,Let's sneak A.,0.0,Let's sneak A.,0.0
+reyna,ReynaSneakA2,Let's sneak A.,let us sneak a,Let's sneak A!,0.0,Let's sneak A.,0.0
+reyna,ReynaSpikeDown1,Our spike's down.,our spike is down,our spikes down.,0.5,Our spikes down.,0.5
+reyna,ReynaSpikeDown2,Our spike's down.,our spike is down,Our spikes down.,0.5,Our spikes down.,0.5
+reyna,ReynaSpikeSpottedA1,Spike is A.,spike is a,Spike you say.,0.6666666666666666,"Spike, you see?",0.6666666666666666
+reyna,ReynaSpikeSpottedA2,Spike is A.,spike is a,Spiky say.,1.0,Spikey C.,1.0
+sage,SageAllyAstraMatchStart,"Astra, your perspective is so vast. I have so much I'd like to learn from you.",astra your perspective is so vast i have so much i would like to learn from you,"Astra, your perspective is so vast. I have so much I'd like to learn from you.",0.0,"Astra, your perspective is so vast. I have so much I'd like to learn from you.",0.0
+sage,SageAllyCypherBarrierDown,"Find them, Cypher.",find them cipher,"Find them, Cypher.",0.0,"Find them, Cypher.",0.0
+sage,SageAllyKAYOMatchStart,"Be careful, KAY/O. I don't know how many times I can bring you back.",be careful kay 0 i do not know how many times i can bring you back,"Be careful, Kale. I don't know how many times I can bring you back.",0.125,"Be careful, Kayle. I don't know how many times I can bring you back.",0.125
+sage,SageAllyPhoenixCommend,"Your star shines bright, Phoenix.",your star shines bright phoenix,"Your star shines bright, Phoenix.",0.0,"Your star shines bright, Phoenix.",0.0
+sage,SageAllyReynaChat,"Reyna, there are better ways to survive than your path.",reyna there are better ways to survive than your path,"Reyna, there are better ways to survive than your path.",0.0,"Reyna, there are better ways to survive than your path.",0.0
+sage,SageAllyReynaCommend,"That was worrisome, Reyna.",that was worrisome reyna,"That was worrisome, Rayna.",0.25,"That was worrisome, Reyna.",0.0
+sage,SageAllyReynaMatchStart,Work with me Reyna. Your enthusiasm and my caution both have qualities on the battlefield.,work with me reyna your enthusiasm and my caution both have qualities on the battlefield,"Work with me, Reina. Your enthusiasm and my caution both have qualities on the battlefield.",0.06666666666666667,"Work with me, Reyna. Your enthusiasm and my caution both have qualities on the battlefield.",0.0
+sage,SageBarrierDown15,As one!,as one,as one.,0.0,As one.,0.0
+sage,SageBarrierDown16,Fight!,fight,Fight!,0.0,Fight!,0.0
+sage,SageDefuseComplete2,They had no right to do this.,they had no right to do this,They had no right to do this.,0.0,They had no right to do this.,0.0
+sage,SageEnemiesMid1,Many enemies Mid!,many enemies mid,Many enemies meet.,0.3333333333333333,Many enemies mid.,0.0
+sage,SageEnemiesMid2,Many enemies Mid!,many enemies mid,Many enemies mid.,0.0,Many enemies mid.,0.0
+sage,SageEnemyASpawn1,Enemy in Attacker Spawn.,enemy in attacker spawn,Enemy and attack respawn.,0.75,Enemy and attack respawn.,0.75
+sage,SageEnemyASpawn2,Enemy in Attacker Spawn.,enemy in attacker spawn,Enemy in attack respond.,0.5,Enemy in attack respond.,0.5
+sage,SageEnemyOmenMatchStart,I wonder what torture their Omen is going through. Is it like ours? Poor soul.,i wonder what torture their omen is going through is it like ours poor soul,I wonder what torture their omen is going through. Is it like ours? Poor soul.,0.0,I wonder what torture their Omen is going through. Is it like ours? Poor soul.,0.0
+sage,SageEnemyPhoenixRoundStart2,Their Phoenix may feel immortal. I shall remind him just how mortal he truly is.,their phoenix may feel immortal i shall remind him just how mortal he truly is,Their phoenix may feel immortal. I shall remind him just how mortal he truly is.,0.0,Their Phoenix may feel immortal. I shall remind him just how mortal he truly is.,0.0
+sage,SageEnemySageKill,Imposter killed.,imposter killed,Imposter killed.,0.0,Imposter killed.,0.0
+sage,SageFlawless2,Unscathed! I'm delighted.,unscathed i am delighted,Unscathed. I'm delighted.,0.0,"Unscathed, I'm delighted.",0.0
+sage,SageGoHere1,Let's go here.,let us go here,Let's go here.,0.0,Let's go here.,0.0
+sage,SageGoHere2,Let's go here.,let us go here,Let's go here.,0.0,Let's go here.,0.0
+sage,SageHeadshot3,Headshot.,headshot,Headshot.,0.0,Headshot.,0.0
+sage,SageKill2,Return to dust.,return to dust,We tend to dust.,0.6666666666666666,We tend to dust.,0.6666666666666666
+sage,SageLead3,Phenomenal! We trained for this.,phenomenal we trained for this,Phenomenal. We train for this.,0.2,"Phenomenal, we train for this.",0.2
+sage,SageLetsGoHere1,Let's go here.,let us go here,Let's go here.,0.0,Let's go here.,0.0
+sage,SageLetsGoHere2,Let's go here.,let us go here,Let's go here.,0.0,Let's go here.,0.0
+sage,SageLetsRushB1,Let's rush B.,let us rush b,Let's rush B.,0.0,Let's Rush B.,0.0
+sage,SageLetsRushB2,Let's rush B.,let us rush b,Let's brush B!,0.25,Let's Brush B!,0.25
+sage,SageMatchStart3,"This place. I can feel its pain, it aches for redemption.",this place i can feel its pain it aches for redemption,"This place, I can feel its pain, its aches for redemption.",0.09090909090909091,"This place, I can feel its pain, its aches for redemption.",0.09090909090909091
+sage,SageMatchStartHaven,"This place. I can feel its pain, it aches for redemption.",this place i can feel its pain it aches for redemption,"This place, I can feel its pain, its aches for redemption.",0.09090909090909091,"This place, I can feel its pain, its aches for redemption.",0.09090909090909091
+sage,SageMatchWinBind,This city is safe once more.,this city is safe once more,This city is safe once more.,0.0,This city is safe once more.,0.0
+sage,SageRoundStart1,"My power does not ebb. Ask for aid, and you shall receive.",my power does not ebb ask for aid and you shall receive,"My power does not ebb. Ask for aid, and you shall receive.",0.0,"My power does not ebb. Ask for aid, and you shall receive.",0.0
+sage,SageRoundStart2,"Look at me, and know that I am by your side.",look at me and know that i am by your side,Look at me. I know that I am by your side.,0.09090909090909091,"Look at me, I know that I am by your side.",0.09090909090909091
+sage,SageRoundStart6,"Together, we will bury them under their transgressions.",together we will bury them under their transgressions,"Together, we will bury them under their transgressions.",0.0,"Together, we will bury them under their transgressions.",0.0
+sage,SageRoundStart7,Let them try to get through me.,let them try to get through me,Let them try to get through me.,0.0,Let them try to get through me.,0.0
+sage,SageSneakA1,Let's sneak A.,let us sneak a,Let's sneak A.,0.0,Let's sneak A.,0.0
+sage,SageSneakA2,Let's sneak A.,let us sneak a,Let's sneak A.,0.0,Let's sneak A.,0.0
+sage,SageSneakB1,Let's sneak B.,let us sneak b,Let's sneak B.,0.0,Let's sneak B.,0.0
+sage,SageSneakB2,Let's sneak B.,let us sneak b,Let's sneak B.,0.0,Let's sneak B.,0.0
+sage,SageSpikeSpottedASpawn1,Spike is in Attacker Spawn.,spike is in attacker spawn,Spike is in attack response.,0.4,Spike is in attack respawn.,0.4
+sage,SageSpikeSpottedASpawn2,Spike is in Attacker Spawn.,spike is in attacker spawn,Spike is in attack response.,0.4,Spike is in attack response.,0.4
+skye,SkyeAllyBreachMatchStart,"Breach, you big beaut, get up here. The front line's got room for one more animal.",breach you big beaut get up here the front line has got room for one more animal,"Preach a big butte, get up here. The front line's got room for one more animal.",0.17647058823529413,"Breach a big butte, get up here. The front line's got room for one more animal.",0.11764705882352941
+skye,SkyeBarrierDown14,"Find the weak point, and break it.",find the weak and break it,Find the weak point and break it.,0.0,Find the weak point and break it.,0.0
+skye,SkyeBarrierDown4,We gotta get our land back.,we got to get our land back,We gotta get our land back.,0.0,We gotta get our land back.,0.0
+skye,SkyeCalloutC1,C Site.,c site,Seaside.,1.0,C site.,0.0
+skye,SkyeCalloutC2,C Site.,c site,See site.,0.5,C site.,0.0
+skye,SkyeComeback1,They think they put us in the dirt! They're gonna find out we weren't buried! Just planted.,they think they put us in the dirt they are going to find out we were not buried just planted,They think they put us in the dirt. They're gonna find out we weren't buried. Just planted.,0.0,They think they put us in the dirt. They're going to find out we weren't buried. Just planted.,0.0
+skye,SkyeCommend1,Good on ya.,good on ya,"Hold on, ya!",0.3333333333333333,"Hold on, yeah!",0.6666666666666666
+skye,SkyeCommend2,Good on ya.,good on ya,Good on ya!,0.0,Good on ya.,0.0
+skye,SkyeCommend3,Good on ya.,good on ya,"Good one, yeah.",0.6666666666666666,"Good one, yeah.",0.6666666666666666
+skye,SkyeEnemyKilljoyMatchStart,That Killjoy thinks a few bots will keep her safe? Give me a break!,that killjoy thinks a few bots will keep her safe give me a break,That killjoy thinks a few bots will keep her safe? Give me a break.,0.0,That Killjoy thinks a few bots will keep her safe? Give me a break.,0.0
+skye,SkyeEnemyMid1,Enemy spotted Mid.,enemy spotted mid,Enemy spotted mid!,0.0,"Enemy spotted, Mid.",0.0
+skye,SkyeEnemyMid2,Enemy spotted Mid.,enemy spotted mid,Enemy spotted mid!,0.0,"Enemy spotted, Mid.",0.0
+skye,SkyeEnemySageLastKill,"You made this happen, Sage.",you made this happen sage,"He made this happen, Sage.",0.2,He made this happen site.,0.4
+skye,SkyeEnemySovaBarrierDown,Leave that Sova to me.,leave that sova to me,Leave that sober to me.,0.2,Leave that Sova to me.,0.0
+skye,SkyeEnemySovaRoundStart,That Sova's gonna put his eye out with all that tech. Mhm. His other eye I mean.,that sova is going to put his eye out with all that tech his other eye i mean,"That sofa's gonna put his eye out with all that tech. He's other eye, I mean.",0.16666666666666666,"That Sova's gonna put his eye out with all that tech. His other eye, I mean.",0.0
+skye,SkyeFakingB1,I'm faking B.,i am faking b,I'm faking B.,0.0,I'm faking B.,0.0
+skye,SkyeFakingB2,I'm faking B.,i am faking b,I'm faking B.,0.0,I'm faking B.,0.0
+skye,SkyeFakingC1,I'm faking C.,i am faking c,I'm faking sea.,0.25,I'm faking C.,0.0
+skye,SkyeFakingC2,I'm faking C.,i am faking c,I'm faking sea.,0.25,I'm faking sea.,0.25
+skye,SkyeGuidingLightHit1,Blinded.,blinded,Blinded.,0.0,Blinded.,0.0
+skye,SkyeGuidingLightHit2,Blinded.,blinded,Blinded.,0.0,Blinded.,0.0
+skye,SkyeHelp1,I need help!,i need help,I need help.,0.0,I need help.,0.0
+skye,SkyeHelp2,I need help!,i need help,I need help.,0.0,I need help.,0.0
+skye,SkyeHelp3,I need help!,i need help,I need help.,0.0,I need help.,0.0
+skye,SkyeKill6,One down.,one down,One down!,0.0,One down.,0.0
+skye,SkyeLastKill3,That's the last of 'em.,that is the last of em,It's the last of them.,0.3333333333333333,It's the last of them.,0.3333333333333333
+skye,SkyeLetsRushC1,Let's rush C.,let us rush c,Let's rush C.,0.0,Let's rush C.,0.0
+skye,SkyeLetsRushC2,Let's rush C.,let us rush c,Let's rush C!,0.0,Let's Brush C!,0.25
+skye,SkyeMeleeKill2,Didn't think I was that quiet!,did not think i was that quiet,I just didn't think I was that quiet.,0.2857142857142857,I didn't think I was that quiet.,0.14285714285714285
+skye,SkyeNeedSomeoneB1,Someone go B.,someone go b,Someone go B!,0.0,Someone go B!,0.0
+skye,SkyeNeedSomeoneB2,Someone go B.,someone go b,Someone go B.,0.0,Someone go B!,0.0
+skye,SkyeNeedSomeoneMid1,Someone go Mid.,someone go mid,Someone go mid.,0.0,Someone go mid.,0.0
+skye,SkyeNeedSomeoneMid2,Someone go Mid.,someone go mid,Someone go mid!,0.0,Someone go mid!,0.0
+skye,SkyeNiceTry1,Solid try.,solid try,Solid try.,0.0,Solid try.,0.0
+skye,SkyeNiceTry2,Solid try.,solid try,Solitry!,1.0,Solid try.,0.0
+skye,SkyeNiceTry3,Solid try.,solid try,Solid try!,0.0,Solid try!,0.0
+skye,SkyeOnCooldown1,Not ready yet.,not ready yet,Not ready yet.,0.0,Not ready yet.,0.0
+skye,SkyeOnCooldown2,Not ready yet.,not ready yet,Nobody yet.,0.6666666666666666,Nobody yet.,0.6666666666666666
+skye,SkyePlayForPicks1,Play for picks.,play for picks,life of pigs.,1.0,Play for pigs.,0.3333333333333333
+skye,SkyePlayForPicks2,Play for picks.,play for picks,Play for picks.,0.0,Play for picks.,0.0
+skye,SkyeRoundStart5,"I feel something over there. Can't place it. Like us, but, different.",i feel something over there can not place it like us but different,"I feel something over there. Can't place it. Like us, but different.",0.0,"I feel something over there. Can't place it. Like us, but... different.",0.0
+skye,SkyeRunnerUp2,Strong finish. Could be even stronger.,strong finish could be even stronger,Strong finish could be even stronger.,0.0,"Strong finish, could be even stronger.",0.0
+skye,SkyeThanks1,"Cheers, mate!",cheers mate,Cheers mate!,0.0,Cheers mate!,0.0
+skye,SkyeThanks2,"Cheers, mate!",cheers mate,"She is, mate.",1.0,"She is, mate.",1.0
+skye,SkyeThanks3,"Cheers, mate!",cheers mate,"Cheers, mate!",0.0,"Cheers, mate!",0.0
+skye,SkyeTrailblazerStun1,They're concussed.,they are concussed,They can cussed!,0.6666666666666666,They can cussed.,0.6666666666666666
+skye,SkyeTrailblazerStun2,They're concussed.,they are concussed,They can cussed.,0.6666666666666666,They can cussed.,0.6666666666666666
+skye,SkyeTriple1,That's three.,that is 3,That's three.,0.0,That's three.,0.0
+skye,SkyeTriple2,That's three.,that is 3,That's three.,0.0,That's three.,0.0
+sova,SovaBarrierDown16,Deep breath.,deep breath,Deep breath.,0.0,Deep breath.,0.0
+sova,SovaEnemiesB1,Multiple enemies B!,multiple enemies b,Multiple enemies be.,0.3333333333333333,"Multiple enemies, B.",0.0
+sova,SovaEnemiesB2,Multiple enemies B!,multiple enemies b,Multiple enemies be.,0.3333333333333333,"Multiple enemies, B.",0.0
+sova,SovaFakingC1,I'm faking C.,i am faking c,I'm faking sea.,0.25,I'm faking sea.,0.25
+sova,SovaFakingC2,I'm faking C.,i am faking c,I'm faking sea.,0.25,I'm faking sea.,0.25
+sova,SovaGoingA1,Going A.,going a,Going A.,0.0,Going A.,0.0
+sova,SovaGoingA2,Going A.,going a,Going A.,0.0,Going A.,0.0
+sova,SovaGoingB1,Going B.,going b,going to be.,1.0,Going to be...,1.5
+sova,SovaGoingB2,Going B.,going b,Going B.,0.0,Going B.,0.0
+sova,SovaHoldingPosition1,Holding position.,holding position,Holding position.,0.0,Holding position.,0.0
+sova,SovaHoldingPosition2,Holding position.,holding position,Holding position.,0.0,Holding position.,0.0
+sova,SovaKill1,Shot down.,shot down,Shot down.,0.0,Shot down.,0.0
+sova,SovaKill2,Neutralized.,neutralized,Neutralized.,0.0,Neutralized.,0.0
+sova,SovaLastKill5,Be at rest.,be at rest,Be at rest.,0.0,Be at rest.,0.0
+sova,SovaLastKillMVP,I've survived much worse than you.,i have survived much worse than you,I've survived much worse than you.,0.0,I've survived much worse than you.,0.0
+sova,SovaLastKillMelee1,You should pay more attention.,you should pay more attention,You should pay more attention.,0.0,You should pay more attention.,0.0
+sova,SovaLetsGoA1,Let's go A.,let us go a,Let's go A!,0.0,Let's go A!,0.0
+sova,SovaLetsGoA2,Let's go A.,let us go a,Let's go A.,0.0,Let's go A.,0.0
+sova,SovaLetsGoB1,Let's go B.,let us go b,Let's go be!,0.25,Let's go B!,0.0
+sova,SovaLetsGoB2,Let's go B.,let us go b,Let's go be.,0.25,Let's go B.,0.0
+sova,SovaLetsRushB1,Let's rush B.,let us rush b,Let's rush be.,0.25,Let's rush B.,0.0
+sova,SovaLetsRushB2,Let's rush B.,let us rush b,Let's rush B.,0.0,Let's rush B.,0.0
+sova,SovaLetsRushC1,Let's rush C.,let us rush c,Let's rush see.,0.25,Let's rush C.,0.0
+sova,SovaLetsRushC2,Let's rush C.,let us rush c,Let's rush tea!,0.25,Let's rush tea.,0.25
+sova,SovaLurking1,I'm lurking.,i am lurking,I'm lurking.,0.0,I'm lurking.,0.0
+sova,SovaLurking2,I'm lurking.,i am lurking,I'm lurking.,0.0,I'm lurking.,0.0
+sova,SovaMatchPoint1,We can end it now. Once more!,we can end it now once more,"We can end it now, once more.",0.0,"We can end it now, once more.",0.0
+sova,SovaPick,"Wherever they run, I will find them.",wherever they run i will find them,"Whatever they run, I will find them.",0.14285714285714285,"Whatever they run, I will find them.",0.14285714285714285
+sova,SovaPlayForPicks1,Play for picks.,play for picks,Play for picks!,0.0,Play for picks.,0.0
+sova,SovaPlayForPicks2,Play for picks.,play for picks,Play for Peaks.,0.3333333333333333,Play for Peaks.,0.3333333333333333
+sova,SovaQuadra1,Now four.,now 4,Now for...,1.0,Now for...,1.0
+sova,SovaQuadra2,Now four.,now 4,Now for...,1.0,Now for...,1.0
+sova,SovaRoundStart2,"Level heads until we're home, yes? Good.",level heads until we are home yes good,"Level heads until we're home, yes? Good.",0.0,"Level heads until we're home, yes? Good.",0.0
+sova,SovaRoundStart9,Enemies close. Eyes up.,enemies close eyes up,Enemies close. Eyes up.,0.0,Enemies close. Eyes up.,0.0
+sova,SovaRunnerUp3,I am pleased.,i am pleased,I am pleased.,0.0,I am pleased.,0.0
+sova,SovaSneakA1,Let's sneak A.,let us sneak a,Let's sneak A!,0.0,Let's sneak A!,0.0
+sova,SovaSneakA2,Let's sneak A.,let us sneak a,Let's sneak A.,0.0,Let's sneak A.,0.0
+sova,SovaSneakB1,Let's sneak B.,let us sneak b,Let's sneak B.,0.0,Let's sneak B.,0.0
+sova,SovaSneakB2,Let's sneak B.,let us sneak b,Let's sneak B.,0.0,Let's sneak B.,0.0
+sova,SovaSpikeDropped1,Spike dropped.,spike dropped,Spike dropped.,0.0,Spike dropped.,0.0
+sova,SovaSpikeDropped2,Spike dropped.,spike dropped,Spike dropped.,0.0,Spike dropped.,0.0
+sova,SovaStackA1,Let's stack A.,let us stack a,Let's stick A.,0.25,Let's stick A!,0.25
+sova,SovaStackA2,Let's stack A.,let us stack a,Let's stack A.,0.0,Let's stack A.,0.0
+tejo,TejoAce1,Don't mess with an old soldier.,do not mess with an old soldier,Don't mess with an old soldier.,0.0,Don't mess with an old soldier.,0.0
+tejo,TejoAllyVyseKill,Got their Vyse.,got their vyse,God their vice.,0.6666666666666666,God their vise.,0.6666666666666666
+tejo,TejoDefuseResumed2,Don't interrupt me again.,do not interrupt me again,Don't interrupt me again.,0.0,Don't interrupt me again.,0.0
+tejo,TejoEnemiesDSpawn1,Multiple enemies Defender Spawn!,multiple enemies defender spawn,Multiple enemies defend their spawn.,0.5,"Multiple enemies, the friend they respond.",1.0
+tejo,TejoEnemiesDSpawn2,Multiple enemies Defender Spawn!,multiple enemies defender spawn,Multiple enemies defend respond.,0.5,"Multiple enemies, defenders spawn.",0.25
+tejo,TejoEnemyGekkoLastKill,"Rest in peace, Mateo.",rest in peace mateo,"Rest in peace, Mateo.",0.0,"Rest in peace, Mateo.",0.0
+tejo,TejoEnemyMid1,Enemy spotted Mid.,enemy spotted mid,Enemy spotted mid.,0.0,"Enemy spotted, Mid.",0.0
+tejo,TejoEnemyMid2,Enemy spotted Mid.,enemy spotted mid,"Enemy spotted, mid.",0.0,"Enemy spotted, Mid.",0.0
+tejo,TejoFaking1,I'm faking.,i am faking,I'm freaking...,0.6666666666666666,I'm freaking.,0.3333333333333333
+tejo,TejoFaking2,I'm faking.,i am faking,I'm faking.,0.0,I'm faking.,0.0
+tejo,TejoHelp1,A little help.,a little help,A little help.,0.0,A little help.,0.0
+tejo,TejoHelp2,A little help.,a little help,A little help.,0.0,A little help.,0.0
+tejo,TejoKill9,One down.,one down,One down.,0.0,One down.,0.0
+tejo,TejoLastRound2,You want to survive? Bring the right gun.,you want to survive bring the right gun,You want to survive? Bring the right gun.,0.0,You want to survive? Bring the right gun.,0.0
+tejo,TejoLead1,"I'm used to difficult work, this is not so difficult.",i am used to difficult work this is not so difficult,I'm used to difficult work. This is not so difficult.,0.0,I'm used to difficult work. This is not so difficult.,0.0
+tejo,TejoLurking1,I'm lurking.,i am lurking,I'm lurking.,0.0,I'm lurking.,0.0
+tejo,TejoLurking2,I'm lurking.,i am lurking,I'm lurking.,0.0,I'm lurking.,0.0
+tejo,TejoOneKillLeft1,One last kill.,one last kill,One last kill.,0.0,One last kill.,0.0
+tejo,TejoQuadra1,That's four.,that is 4,That's four.,0.0,That's four.,0.0
+tejo,TejoQuadra2,That's four.,that is 4,That's four.,0.0,That's four.,0.0
+tejo,TejoSpikeA1,Spike is A.,spike is a,Spike is A.,0.0,Spike is A.,0.0
+tejo,TejoSpikeA2,Spike is A.,spike is a,Spike is A.,0.0,Spike is A.,0.0
+tejo,TejoSpikeSpottedB1,Spike spotted B.,spike spotted b,Spike Sportet B.,0.3333333333333333,"Spike Spotted, B.",0.0
+tejo,TejoSpikeSpottedB2,Spike spotted B.,spike spotted b,Spike Sportet B.,0.3333333333333333,Spike Sportet B.,0.3333333333333333
+tejo,TejoSpikeSpottedMid1,Spike spotted Mid.,spike spotted mid,SPAC SPOT AT MID.,1.0,Spike Spot at Mid.,0.6666666666666666
+tejo,TejoSpikeSpottedMid2,Spike spotted Mid.,spike spotted mid,"Spike Spotted, mid.",0.0,"Spike Spotted, Mid.",0.0
+tejo,TejoStealthDroneHitFive1,Five suppressed.,5 suppressed,Five suppressed.,0.0,Five suppressed.,0.0
+tejo,TejoStealthDroneHitFive2,Five suppressed.,5 suppressed,Five suppressed.,0.0,Five suppressed.,0.0
+tejo,TejoStealthDroneHitOne1,One suppressed.,one suppressed,One suppressed.,0.0,One suppressed.,0.0
+tejo,TejoStealthDroneHitOne2,One suppressed.,one suppressed,Once we pressed.,1.5,Once repressed.,1.0
+tejo,TejoYes1,Yes.,yes,Yes.,0.0,Yes.,0.0
+viper,ViperAffirmation1,Agreed.,agreed,Agreed.,0.0,Agreed.,0.0
+viper,ViperAffirmation2,Agreed.,agreed,Agreed.,0.0,Agreed.,0.0
+viper,ViperAllyKilljoyRoundStart,"You did well, little mouse. Keep it up.",you did well little mouse keep it up,"You did well, little mouse. Keep it up.",0.0,"You did well, little mouse. Keep it up.",0.0
+viper,ViperBarrierDown16,"Isolate them, and kill them.",isolate them and kill them,I select them and kill them.,0.4,I select them and kill them.,0.4
+viper,ViperCaution1,Enemies close.,enemies close,Enemies close.,0.0,Enemies close.,0.0
+viper,ViperCaution2,Enemies close.,enemies close,Enemy's close.,1.0,Enemies close.,0.0
+viper,ViperClutch2,You only thought that was close.,you only thought that was close,You only thought that was close.,0.0,You only thought that was close.,0.0
+viper,ViperComeback2,They had their fun. Now it's my turn.,they had their fun now it is my turn,They had their fun. Now it's my turn.,0.0,They had their fun. Now it's my turn.,0.0
+viper,ViperCommend1,I'm... impressed.,i am impressed,I'm impressed.,0.0,I'm impressed.,0.0
+viper,ViperCommend2,I'm... impressed.,i am impressed,I'm impressed.,0.0,I'm impressed.,0.0
+viper,ViperEnemyPhoenixRoundStart,Fire needs oxygen. Let me replace this Phoenix's air.,fire needs oxygen let me replace this phoenix is air,Fire needs oxygen. Let me replace this Phoenix's air.,0.0,Fire needs oxygen. Let me replace this Phoenix's air.,0.0
+viper,ViperEnemySovaRoundStart,I'll crush their Sova's spirit.,i will crush their sova is spirit,"Oh, crush their sober spirit.",0.5714285714285714,"Oh, crush their silver spirit.",0.5714285714285714
+viper,ViperFakingB1,I'm faking B.,i am faking b,I'm faking Bee.,0.25,I'm faking B.,0.0
+viper,ViperFakingB2,I'm faking B.,i am faking b,I'm thinking B.,0.25,I'm Faking Bee.,0.25
+viper,ViperGoingC1,Going C.,going c,Go and see.,1.5,Go and see.,1.5
+viper,ViperGoingC2,Going C.,going c,Go and see.,1.5,Go and see.,1.5
+viper,ViperGoingMid1,Heading Mid.,heading mid,heading mid.,0.0,"Heading, Mid.",0.0
+viper,ViperKill1,Ended.,ended,End it.,2.0,End it.,2.0
+viper,ViperLastRound2,We can't take anything with us after this.,we can not take anything with us after this,We can't take anything with us after this.,0.0,We can't take anything with us after this.,0.0
+viper,ViperMatchPoint1,They're in the coffin. Time to bury them.,they are in the coffin time to bury them,They're in the coffin. Time to bury them.,0.0,They're in the coffin. Time to bury them.,0.0
+viper,ViperMatchStart3,I wonder if these ones will beg. They all do after a while.,i wonder if these ones will beg they all do after a while,I wonder if these ones will beg. They all do. After a while.,0.0,"I wonder if these ones will beg. They all do, after a while.",0.0
+viper,ViperMatchStartFracture,"I knew some of them, the people here. Good scientists.",i knew some of them the people here good scientists,"I knew some of them, for people here. Good scientists.",0.1,"I knew some of them, for people here. Good scientists.",0.1
+viper,ViperMeleeKill1,Not worth the bullets.,not worth the bullets,Not worth the bullets.,0.0,Not worth the bullets.,0.0
+viper,ViperNeedSomeoneB1,Someone go B.,someone go b,Someone go be!,0.3333333333333333,Someone go be!,0.3333333333333333
+viper,ViperNeedSomeoneB2,Someone go B.,someone go b,Someone go be.,0.3333333333333333,Someone go be.,0.3333333333333333
+viper,ViperPingCaution1,Careful.,careful,Careful.,0.0,Careful.,0.0
+viper,ViperPingCaution2,Careful.,careful,Careful!,0.0,Careful!,0.0
+viper,ViperRegroup2,Regroup!,regroup,Recruit!,1.0,Recruit!,1.0
+viper,ViperRoundStart10,They're nothing but flies.,they are nothing but flies,There are nothing but flies.,0.2,They're nothing but flies.,0.0
+viper,ViperRoundStart7,They will die. Hopeless and afraid.,they will die hopeless and afraid,"They will die, hopeless and afraid.",0.0,"They will die, hopeless and afraid.",0.0
+viper,ViperRoundWon3,Keep kicking them down.,keep kicking them down,Keep kicking them down.,0.0,Keep kicking them down.,0.0
+viper,ViperSneakA1,Let's sneak A.,let us sneak a,Let's sneak A.,0.0,Let's sneak A.,0.0
+viper,ViperSneakA2,Let's sneak A.,let us sneak a,Let's sneak in.,0.25,Let's sneak in.,0.25
+viper,ViperSorry1,Apologies.,apologies,Apologies.,0.0,Apologies.,0.0
+viper,ViperSorry2,Apologies.,apologies,Apologies.,0.0,Apologies.,0.0
+viper,ViperSpikeC1,Spike's C.,spike is c,Spike C.,0.3333333333333333,Spike C.,0.3333333333333333
+viper,ViperSpikeC2,Spike's C.,spike is c,Spike C!,0.3333333333333333,Spike C!,0.3333333333333333
+viper,ViperSpikePickedUp1,I have the spike.,i have the spike,I have the spike.,0.0,I have the spike.,0.0
+viper,ViperSpikePickedUp2,I have the spike.,i have the spike,I have the spike.,0.0,I have the spike.,0.0
+viper,ViperSpikeSpottedDSpawn1,Spike's in Defender Spawn.,spike is in defender spawn,Spikes and Defender Spawn.,0.6,Spikes and Defender Spawn.,0.6
+viper,ViperSpikeSpottedDSpawn2,Spike's in Defender Spawn.,spike is in defender spawn,Spikes and defender spawn.,0.6,Spikes and defender spawn.,0.6
+viper,ViperUltDown1,My ultimate isn't ready.,my ultimate is not ready,My ultimate isn't ready.,0.0,My ultimate isn't ready.,0.0
+viper,ViperUltDown2,My ultimate isn't ready.,my ultimate is not ready,My ultimate isn't ready.,0.0,My ultimate isn't ready.,0.0
+vyse,VyseAce3,"If any of you mattered, you'd be alive.",if any of you mattered you would be alive,"If any of you mattered, you'd be alive.",0.0,"If any of you mattered, you'd be alive.",0.0
+vyse,VyseAllyKAYOCommend,"I studied robotics for a time, but I've never seen anything like you, KAY/O. Remarkable.",i studied robotics for a time but i have never seen anything like you kay 0 remarkable,"I studied robotics for a time, but I've never seen anything like UKO. Remarkable.",0.17647058823529413,"I studied robotics for a time, but I've never seen anything like you, KO. Remarkable.",0.11764705882352941
+vyse,VyseAllyRazeRoundStart,"So, you use explosives to propel yourself, Raze. That's... that's creative. I think I like it.",so you use explosives to propel yourself raze that is that is creative i think i like it,"So you use explosives to propel yourself, Raze. That's creative. I think I like it.",0.1111111111111111,"So, you use explosives to propel yourself, Raze. That's, that's creative. I think I like it.",0.0
+vyse,VyseArcRoseDestroyed3,My blind is dead.,my blind is dead,My blind is dead.,0.0,My blind is dead.,0.0
+vyse,VyseArcRoseDestroyed4,My blind is dead.,my blind is dead,My blind is dead.,0.0,My blind is dead.,0.0
+vyse,VyseArcRoseHit1,Good hit.,good hit,Good hit!,0.0,Good hit.,0.0
+vyse,VyseArcRoseHit2,Good hit.,good hit,Good hit.,0.0,Good hit.,0.0
+vyse,VyseBarrierDown7,I am the master of my fate.,i am the master of my fate,I am the master of my fate.,0.0,I am the master of my fate.,0.0
+vyse,VyseBuying1,Buying.,buying,Bye!,1.0,Bye!,1.0
+vyse,VyseBuying2,Buying.,buying,Bye!,1.0,Bye!,1.0
+vyse,VyseComeback1,"Good, now we build on this success.",good now we build on this success,Good. Now we build on the success.,0.14285714285714285,"Good, now we build on the success.",0.14285714285714285
+vyse,VyseCommend3,Well done.,well done,Well done.,0.0,Well done.,0.0
+vyse,VyseDefuseLate2,"Okay, okay.",okay okay,Okay. Okay.,0.0,Okay. Okay.,0.0
+vyse,VyseEnemyB1,Enemy spotted B.,enemy spotted b,"Enemy spotted, be.",0.3333333333333333,"Enemy spotted, B.",0.0
+vyse,VyseEnemyB2,Enemy spotted B.,enemy spotted b,"Enemy spotted, be.",0.3333333333333333,"Enemy spotted, B.",0.0
+vyse,VyseEnemyBrimstoneRoundStart,Their Brimstone will learn what real leadership looks like.,their brimstone will learn what real leadership looks like,Their brimstone will learn what real leadership looks like.,0.0,Their Brimstone will learn what real leadership looks like.,0.0
+vyse,VyseEnemyViperBarrierDown,Leave me with Viper.,leave me with viper,Leave me with Viper.,0.0,Leave me with Viper.,0.0
+vyse,VyseForgotSpike1,I thought the spike was an integral part of our plan.,i thought the spike was an integral part of our plan,I thought the spike was an integral part of our plan.,0.0,I thought the spike was an integral part of our plan.,0.0
+vyse,VyseKill5,Irrelevant.,irrelevant,irrelevant.,0.0,Irrelevant.,0.0
+vyse,VyseLowHP2,This is nothing.,this is nothing,This is nothing.,0.0,This is nothing.,0.0
+vyse,VyseMatchStart7,"This is what we trained for. Pick a weapon, choose your sector and fight for your future.",this is what we trained for pick a weapon choose your sector and fight for your future,"This is what we trained for. Pick a weapon, choose your sector, and fight for your future.",0.0,"This is what we trained for. Pick a weapon, choose your sector, and fight for your future.",0.0
+vyse,VyseMatchStartIcebox,"So this is the project that sapped my funding all those years ago. Looks like it worked out well for you, Kingdom.",so this is the project that sapped my funding all those years ago looks like it worked out well for you kingdom,"So this is the project that sat my funding all those years ago. Looks like it worked out well for you, Kingdom.",0.045454545454545456,"So this is the project that sat my funding all those years ago. Looks like it worked out well for you, Kingdom.",0.045454545454545456
+vyse,VyseNeedSomeoneC1,Someone go C.,someone go c,Someone go see.,0.3333333333333333,Someone go see.,0.3333333333333333
+vyse,VyseNeedSomeoneC2,Someone go C.,someone go c,Someone go see.,0.3333333333333333,Someone go see.,0.3333333333333333
+vyse,VysePushOut1,Let's push out.,let us push out,Let's push out.,0.0,Let's push out!,0.0
+vyse,VysePushOut2,Let's push out.,let us push out,Let's push out.,0.0,Let's push out.,0.0
+vyse,VyseQuadra1,Four.,4,Four!,0.0,Floor!,1.0
+vyse,VyseQuadra2,Four.,4,Four.,0.0,Four.,0.0
+vyse,VyseRazorvineActivate3,Thorns are live.,thorns are live,Thorns are alive.,0.3333333333333333,Thorns are alive.,0.3333333333333333
+vyse,VyseRazorvineActivate4,Thorns are live.,thorns are live,Thorns are alive.,0.3333333333333333,Thurn's our line.,1.3333333333333333
+vyse,VyseRazorvineRecall3,Retrieving thorns.,retrieving thorns,Retrieving Thorns.,0.0,Retrieving Thorns.,0.0
+vyse,VyseRazorvineRecall4,Retrieving thorns.,retrieving thorns,Retrieving thorns.,0.0,Retrieving thorns,0.0
+vyse,VyseRoundStart5,I'll isolate the problem. You crush it.,i will isolate the problem you crush it,I'll isolate the problem. You crush it.,0.0,I'll isolate the problem. You crush it.,0.0
+vyse,VyseRoundWon1,"Hm, I'm partial to winning. Let's do more of it.",hm i am partial to winning let us do more of it,Hmm. I'm partial to winning. Let's do more of it.,0.08333333333333333,"Hmm, I'm partial to winning. Let's do more of it.",0.08333333333333333
+vyse,VyseRush1,Rush them.,rush them,Rush them.,0.0,Rush them.,0.0
+vyse,VyseRush2,Rush them.,rush them,Rush them.,0.0,Rush them.,0.0
+vyse,VyseSpikePlanted1,Spike planted.,spike planted,Spike planted!,0.0,Spike planted.,0.0
+vyse,VyseSpikePlanted2,Spike planted.,spike planted,Spoke planted.,0.5,Spike planted.,0.0
+vyse,VyseStackB1,Let's stack B.,let us stack b,Let's stack B.,0.0,Let's stack B.,0.0
+vyse,VyseStackB2,Let's stack B.,let us stack b,Let's set B.,0.25,Let's set B.,0.25
+vyse,VyseUltEnemyCast,Adapt or die!,adapt or die,Adapt or die!,0.0,Adapt or die!,0.0
+vyse,VyseYes1,Absolutely.,absolutely,Absolutely.,0.0,Absolutely.,0.0
+yoru,YoruAllyKilljoyCommend,"It seems your science shit has some use after all, Killjoy.",it seems your science shit has some use after all killjoy,"It seems that science shit has some use after all, killjoy.",0.09090909090909091,"It seems that science shit has some use after all, Killjoy.",0.09090909090909091
+yoru,YoruAllySkyeChat,"Hey, flower girl. I found some leaves. Do you want them?",hey flower girl i found some leaves do you want them,"Hey, Flaga! I've found some leaves. Do you want some?",0.36363636363636365,"Hey, Flaga, I've found some leaves. Do you want some?",0.36363636363636365
+yoru,YoruCantUse1,Can't use that.,can not use that,You can't use that.,0.25,Can't use that.,0.0
+yoru,YoruCantUse2,Can't use that.,can not use that,I can't use that.,0.25,I can't use that.,0.25
+yoru,YoruDefuseComplete1,"Good try, idiots.",good try idiots,"Good try, idiots.",0.0,"Good try, idiots.",0.0
+yoru,YoruEnemyYoruMatchStart,"That's me over there! Great, now I can kick my own ass.",that is me over there great now i can kick my own ass,That's me over there. Great. Now I can kick my own ass.,0.0,That's me over there. Great. Now I can kick my own ass.,0.0
+yoru,YoruGoingB1,Going B.,going b,going B.,0.0,Going B.,0.0
+yoru,YoruGoingB2,Going B.,going b,Going B.,0.0,Going B.,0.0
+yoru,YoruGoingC1,Going C.,going c,Going C.,0.0,Going C.,0.0
+yoru,YoruGoingC2,Going C.,going c,Going C.,0.0,Going C.,0.0
+yoru,YoruHeadshot5,Headshot.,headshot,Headshot.,0.0,Headshot.,0.0
+yoru,YoruKill3,Don't get up.,do not get up,Still get up.,0.5,Still get up.,0.5
+yoru,YoruLastKillMVP1,You tried to be a hero. Great job.,you tried to be a hero great job,You try to be a hero. Great job.,0.125,You try to be a hero. Great job.,0.125
+yoru,YoruLastKillMelee1,Wow. You really suck.,wow you really suck,"Wow, you really suck.",0.0,"Wow, you really suck.",0.0
+yoru,YoruLastRound1,Spend your money now. There's no bank in hell.,spend your money now there is no bank in hell,Spend your money now. There's no bank in hell.,0.0,Spend your money now. There's no bank in hell.,0.0
+yoru,YoruLastRound2,Spend your money now. There's no bank in hell.,spend your money now there is no bank in hell,Spend your money now. There's no bank in hell.,0.0,Spend your money now. There's no bank in hell.,0.0
+yoru,YoruLetsRushB1,Let's rush B.,let us rush b,Let's rush B.,0.0,Let's rush B.,0.0
+yoru,YoruLetsRushB2,Let's rush B.,let us rush b,Let's rust be.,0.5,Let's rush B.,0.0
+yoru,YoruMatchStart7,These guys caught me in a mood. Bad luck for them.,these guys caught me in a mood bad luck for them,These guys called me in a mood. Bad luck for them.,0.09090909090909091,These guys called me in a mood. Bad luck for them.,0.09090909090909091
+yoru,YoruMatchStartDefense1,"If they keep stealing our radianite, I'll have to take it personally.",if they keep stealing our radianite i will have to take it personally,"If they keep stealing our radianite, I'll have to take it personally.",0.0,"If they keep stealing our radianite, I'll have to take it personally.",0.0
+yoru,YoruNiceTry1,Nice try.,nice try,Nice try.,0.0,Nice try.,0.0
+yoru,YoruNiceTry2,Nice try.,nice try,Nice try.,0.0,Nice try.,0.0
+yoru,YoruNiceTry3,Nice try.,nice try,Nice try.,0.0,Nice try.,0.0
+yoru,YoruOffer1,I can buy for you. What do you want?,i can buy for you what do you want,I can buy for you. What do you want?,0.0,I can buy for you. What do you want?,0.0
+yoru,YoruOffer2,I can buy for you. What do you want?,i can buy for you what do you want,I can buy for you. What do you want?,0.0,I can buy for you. What do you want?,0.0
+yoru,YoruPingUtility1,Enemy utility here.,enemy utility here,Enemy utility here.,0.0,Enemy utility here.,0.0
+yoru,YoruPingUtility2,Enemy utility here.,enemy utility here,Enemy utility here.,0.0,Enemy utility here.,0.0
+yoru,YoruQuadra2,Four.,4,Thor.,1.0,Thor.,1.0
+yoru,YoruReloading1,Reloading.,reloading,Reloading.,0.0,Reloading.,0.0
+yoru,YoruReloading2,Reloading.,reloading,Reloading.,0.0,Reloading.,0.0
+yoru,YoruRoundWon1,They forgot who they're dealing with.,they forgot who they are dealing with,They forgot who they're dealing with.,0.0,They forgot who they're dealing with.,0.0
+yoru,YoruRunnerUp1,Fine for now.,fine for now,Fine for now.,0.0,Fine for now.,0.0
+yoru,YoruRunnerUp3,I'll show off next time.,i will show off next time,I'll show off next time.,0.0,I'll show off next time.,0.0
+yoru,YoruSneakB1,Let's sneak B.,let us sneak b,Let's sneak B.,0.0,Let's sneak B.,0.0
+yoru,YoruSneakB2,Let's sneak B.,let us sneak b,Let's sneak B.,0.0,Let's sneak B.,0.0
+yoru,YoruSpikeSpottedMid1,Spike is Mid.,spike is mid,Spike is mid.,0.0,Spike is Mid.,0.0
+yoru,YoruSpikeSpottedMid2,Spike is Mid.,spike is mid,Spike is mid.,0.0,Spike his mid.,0.3333333333333333
+yoru,YoruStack1,Let's stack up.,let us stack up,Let's stack up.,0.0,Let's stack up.,0.0
+yoru,YoruStack2,Let's stack up.,let us stack up,Let's stack up.,0.0,Let's stack up.,0.0
+yoru,YoruUltEnemyCast,Who's next?,who is next,Who's next?,0.0,Who's next?,0.0

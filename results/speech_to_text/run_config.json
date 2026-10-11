@@ -1,0 +1,36 @@
+{
+  "seed": 42,
+  "dataset": "NgThVinh/ValorantAgentVoiceLines",
+  "dataset_revision": "c2e0d3493f44da5be07090d6ebb9b69ebbcb2060",
+  "splits_csv": {
+    "url": "https://raw.githubusercontent.com/EthanIsaac/valorant-voiceline-qa/2837dcb342749a346d4370e63545c575ba5c2a07/results/agent_classifier/splits.csv",
+    "sha256": "72b658b97258de7bc3e77a2b88908080dd46be76d0162c8905cceff2c903dd7d"
+  },
+  "test_clips": 1070,
+  "validation_clips": 1059,
+  "candidates": {
+    "wav2vec2": "facebook/wav2vec2-base-960h",
+    "whisper_tiny": "openai/whisper-tiny.en",
+    "whisper_base": "openai/whisper-base.en"
+  },
+  "audio": {
+    "sampling_rate": 16000,
+    "trimmed": false
+  },
+  "decoding": "greedy, one clip at a time",
+  "text_normalizer": "transformers EnglishTextNormalizer (Whisper)",
+  "selection_rule": "lowest test WER; ties within 0.01 go to lowest cpu_ms_per_clip",
+  "selected_model": "whisper_base",
+  "prompt_experiment": {
+    "prompt": "VALORANT callouts: A site, B site, C site, Mid, spike, plant, defuse, attackers, defenders. Agents: Astra, Breach, Brimstone, Chamber, Clove, Cypher, Deadlock, Fade, Gekko, Harbor, Iso, Jett, KAY/O, Killjoy, Neon, Omen, Phoenix, Raze, Reyna, Sage, Skye, Sova, Tejo, Viper, Vyse, Yoru.",
+    "rule": "adopt the prompt only if it lowers the validation WER",
+    "adopted": false
+  },
+  "versions": {
+    "transformers": "4.57.6",
+    "torch": "2.11.0+cu130",
+    "jiwer": "4.0.0"
+  },
+  "gpu": "Tesla T4",
+  "run_at_utc": "2026-10-11T02:29:15+00:00"
+}

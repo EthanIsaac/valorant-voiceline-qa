@@ -12,7 +12,7 @@ STEP_NAMES = ["Identifying agent", "Transcribing voice line", "Translating to Sp
 
 
 st.markdown(
-    "<p>Checks a VALORANT voice-line recording before release. Select a sample or upload a recording "
+    "<p>Checks a VALORANT voice-line recording before release. Select a test clip or upload a recording "
     "to run three checks:</p>"
     '<ol class="vq-steps">'
     "<li><b>Right agent:</b> identifies which of the 26 agents is speaking, catching recordings filed under "

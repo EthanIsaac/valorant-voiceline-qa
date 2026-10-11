@@ -1,0 +1,592 @@
+line_id,source,opus_mt,m2m100,nllb,protected_terms,opus_mt_terms_preserved,m2m100_terms_preserved,nllb_terms_preserved
+0,A little help.,Un poco de ayuda.,Un poco de ayuda.,Un poco de ayuda.,[],,,
+1,Absolutely.,Por supuesto.,absolutamente .,- Claro que sí.,[],,,
+2,Adapt or die!,¡Adaptarse o morir!,Adaptar o morir.,Adaptarse o morir!,[],,,
+3,Agreed.,De acuerdo.,de acuerdo .,Estoy de acuerdo.,[],,,
+4,"Ah, my genius doesn't stop in the lab!",¡Mi genio no se detiene en el laboratorio!,"¡Ah, mi genio no se detiene en el laboratorio!",¡Mi genio no se detiene en el laboratorio!,[],,,
+5,"Ah, you forget. I've always been a killer.",Siempre he sido un asesino.,"Ah, te olvides, siempre he sido un asesino.","Ah, olvida, siempre he sido un asesino.",[],,,
+6,Ain't much room for improvement!,¡No hay mucho margen para mejorar!,¡No hay mucho espacio para mejorar!,¡No hay mucho espacio para mejorar!,[],,,
+7,Alley-oop!,¡Alley-oop!,¡Alley Op!,¡Alley-oop!,[],,,
+8,"An enemy Astra. Powerful, but killable.","Un enemigo Astra, poderoso, pero matable.","Un enemigo Astra. poderoso, pero mortal.","Un enemigo Astra, poderoso, pero asesino.",['Astra'],True,True,True
+9,And that's how it gets done!,¡Y así es como se hace!,Y así es como se hace!,¡Y así es como se hace!,[],,,
+10,And that's how we do it.,Y así es como lo hacemos.,Y así es como lo hacemos.,Y así es como lo hacemos.,[],,,
+11,Another site on the brink of destruction. At least we're consistent.,"Otro sitio al borde de la destrucción, al menos somos consistentes.",Otro lugar en el rincón de la destrucción. al menos estamos consistentes.,Otro sitio al borde de la destrucción.,[],,,
+12,"Any cheaper, and it'd be just me and a bottle of scotch.","Si fuera más barato, sería sólo yo y una botella de whisky.","Cualquier más barato, y sería sólo yo y una botella de escocés.","Cualquier más barato, y sería sólo yo y una botella de whisky.",[],,,
+13,Anyone else want to try me?!,¿Alguien más quiere probarme?,¿Alguien más me quiere probar?,¿Alguien más quiere probarme?,[],,,
+14,Anyone need something?,¿Alguien necesita algo?,¿Alguien necesita algo?,¿Alguien necesita algo?,[],,,
+15,Apologies.,Disculpas.,las disculpas.,Me disculpo.,[],,,
+16,As one!,¡Como uno!,¡Como uno!,¡Como uno!,[],,,
+17,"Astra, your perspective is so vast. I have so much I'd like to learn from you.","Astra, tu perspectiva es tan vasta. Tengo tanto que me gustaría aprender de ti.","Astra, tu perspectiva es tan amplia.Tengo tanto que me gustaría aprender de ti.","Astra, tu perspectiva es muy amplia, tengo mucho que aprender de ti.",['Astra'],True,True,True
+18,At least they kept it interesting.,Al menos lo mantuvieron interesante.,Al menos lo mantuvieron interesante.,Al menos lo mantuvieron interesante.,[],,,
+19,Be at rest.,Descansa.,Estás en reposo.,Quédate en reposo.,[],,,
+20,"Be careful, KAY/O. I don't know how many times I can bring you back.","Ten cuidado, KAY/O. No sé cuántas veces puedo traerte de vuelta.","Cuidado, KAY/O. No sé cuántas veces te puedo devolver.","Cuidado, Kay, no sé cuántas veces puedo traerte de vuelta.",['KAY/O'],True,True,False
+21,Blinded.,Cegado.,y ciegos.,Está ciego.,[],,,
+22,Blocking movement.,Bloqueo del movimiento.,bloquear el movimiento.,Bloqueo de movimiento.,[],,,
+23,Blocking vision.,Bloqueando la visión.,bloquear la visión.,Bloqueo de la visión.,[],,,
+24,Boo.,Boo.,El bo.,Eso es todo.,[],,,
+25,Boom!,¡Boom!,¡El Boom!,¡Bum! ¡Bum! ¡Bum! ¡Bum!,[],,,
+26,"Brand new, that one!","¡A estrenar, ése!","¡Nueva marca, esa nueva!","¡Nuevo de todo, ese!",[],,,
+27,"Breach, after this, billiards. I like taking your money.","Violación, después de esto, billares, me gusta tomar tu dinero.",¿Por qué? ¿por qué? ¿por qué? ¿por qué? ¿por qué? ¿por qué? ¿por qué? ¿por qué? ¿por qué? ¿por qué? ¿por qué?,"Breach, después de esto, billar. Me gusta tomar tu dinero.",['Breach'],False,False,True
+28,"Breach, you big beaut, get up here. The front line's got room for one more animal.","Breach, gran belleza, ven aquí, la primera línea tiene espacio para un animal más.","Breach, tú big beaut, sube aquí. la línea del frente tiene espacio para un animal más.","Breach, gran belleza, sube aquí, la línea del frente tiene espacio para un animal más.",['Breach'],True,True,True
+29,"Breach, you still haven't apologized to me for that job you tried in Bengaluru.","Breach, aún no me has pedido disculpas por el trabajo que intentaste en Bengaluru.","Breach, todavía no me has despedido por ese trabajo que has intentado en Bengaluru.","Breach, todavía no me has disculpado por ese trabajo que intentaste en Bengaluru.",['Breach'],True,True,True
+30,Bunch of guys here!,¡Un montón de chicos aquí!,¡Bunch de los chicos aquí!,¡Un montón de chicos aquí!,[],,,
+31,Buying.,Comprando.,Comprar →,Estoy comprando.,[],,,
+32,C Site.,C Sitio.,Sitio web C.,El sitio C.,['C'],True,True,True
+33,Can I get a drop?,¿Me das una gota?,¿Puedo obtener una caída?,¿Puedo tener una gota?,[],,,
+34,Can I get this?,¿Puedo atender esto?,¿Puedo obtener esto?,¿Puedo coger esto?,[],,,
+35,Can't go there.,No puedo ir allí.,No se puede ir allí.,No puedo ir allí.,[],,,
+36,"Can't plant the spike if we leave it here, people!","¡No podemos plantar el pico si lo dejamos aquí, gente!","No se puede plantar la espina si la dejamos aquí, gente!","¡No podemos plantar el palo si lo dejamos aquí, gente!",[],,,
+37,Can't use that yet,No puedo usar eso todavía.,No se puede utilizar aún,No puedo usar eso todavía.,[],,,
+38,Can't use that.,No puedo usar eso.,No se puede utilizar eso.,No puedo usar eso.,[],,,
+39,Careful here.,Cuidado aquí.,Cuidado aquí.,Cuidado aquí.,[],,,
+40,Careful there.,Cuidado ahí.,Cuidado allí.,Cuidado ahí.,[],,,
+41,Careful.,Cuidado.,Cuidado .,¡Cuidado!,[],,,
+42,Catch a breath. Not that I need to of course.,"Respira, no es que tenga que hacerlo, por supuesto.","Toma un respiro, no lo que necesito, por supuesto.","Toma un aliento, no que yo necesite, por supuesto.",[],,,
+43,Caught one.,Atraparon a uno.,Se capturó uno.,Captó a uno.,[],,,
+44,"Cheers, mate!","¡Salud, amigo!",¡Buenos días mate!,"¡Saludos, amigo!",[],,,
+45,Clear here.,Despejado aquí.,Claro aquí.,Despeje aquí.,[],,,
+46,Clear this area.,Despejen esta área.,Limpiar esta zona.,Despejen este área.,[],,,
+47,Clone killed.,Clon muerto.,Los clones murieron.,El clone muerto.,[],,,
+48,Clove's antics stop now.,Las payasadas de Clove se detienen ahora.,La antigüedad de Clove se detiene ahora.,Las bromas de Clove se detienen ahora.,['Clove'],True,True,True
+49,Come on then!,¡Vamos entonces!,¡Ven ahora!,¡Vamos entonces!,[],,,
+50,"Come on, Gekko. Let's get it!","Vamos, Gekko. ¡Vamos!","¡Ven, Gekko, vamos a conseguirlo!","Vamos, Gekko, vamos a hacerlo.",['Gekko'],True,True,True
+51,Core systems restored.,Sistemas centrales restaurados.,Sistemas centrales restaurados.,Los sistemas centrales restaurados.,[],,,
+52,"Cypher, I'm so sorry about breaking all your stuff. I mean, I won't stop, but I am sorry.","Cypher, siento mucho haber roto todas tus cosas, quiero decir, no voy a parar, pero lo siento.","Cypher, me siento muy arrepentido por romper todas tus cosas. me digo, no me detengo, pero me siento arrepentido.","Cypher, siento mucho haber roto todas tus cosas, no me detendré, pero lo siento.",['Cypher'],True,True,True
+53,"Cypher, my condenser cables are missing from the lab again. Put them back please, thank you.","Cypher, mis cables de condensador han desaparecido del laboratorio otra vez.","Cypher, mis cables de condensador están faltando de nuevo del laboratorio. póngalos de vuelta por favor, gracias.","Cypher, mis cables de condensador faltan de nuevo en el laboratorio.",['Cypher'],True,True,True
+54,Damn it!,¡Maldita sea!,¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡,¡Maldita sea! ¡Maldita sea!,[],,,
+55,Damn right we're crushing it!,¡Claro que lo estamos aplastando!,¡Damn justo lo estamos rompiendo!,¡Maldita sea que lo estamos aplastando!,[],,,
+56,"Damn, Jett, have you ever considered a life of crime? I have contacts. Let me know.","Diablos, Jett, ¿alguna vez has considerado una vida de crimen?","Damn, Jett, ¿ha considerado alguna vez una vida de delito? tengo contactos.","Jett, ¿alguna vez has considerado una vida de crimen?",['Jett'],True,True,True
+57,"Deadlock, that was textbook. Well done!","Deadlock, eso era un libro de texto. ¡Bien hecho!","Deadlock, eso fue un libro de texto. ¡Bien hecho!","Deadlock, eso fue un libro de texto.",['Deadlock'],True,True,True
+58,Deep breath.,Respira profundo.,respiración profunda.,Respiración profunda.,[],,,
+59,Defuse it!,¡Deshazte de él!,¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡,¡Desactivadlo!,[],,,
+60,Defuse the spike!,¡Desactiva el pico!,¡Destruye el Spike!,¡Desactivar el picón!,[],,,
+61,Deployment failed.,El despliegue falló.,La implantación falleció.,El despliegue falló.,[],,,
+62,Did you see Breach back there? That's how it's done.,¿Viste a Breach allá atrás?,¿Has visto la brecha de vuelta allí? así es como se hace.,¿Has visto a Breach ahí atrás?,['Breach'],True,False,True
+63,"Did you see their faces? Sorry, I should not laugh.","Lo siento, no debería reírme.","¿Has visto sus rostros?Sorro, no debería rir.","Lo siento, no debería reír.",[],,,
+64,Didn't see me coming.,No me vi venir.,No me vi venir.,No me veía venir.,[],,,
+65,Didn't think I was that quiet!,¡No pensé que fuera tan callada!,¡No pensé que estuviera tan tranquilo!,¡No pensé que estuviera tan callado!,[],,,
+66,Die meaningless.,Muere sin sentido.,Muere sin sentido.,Muere sin sentido.,[],,,
+67,Dizzy's up!,¡Dizzy está arriba!,¡Dizzy está arriba!,¡El mareo está arriba!,[],,,
+68,"Don't get back up, sweetheart.","No te levantes, cariño.","No te vuelves, dulce.","No vuelvas a levantarte, cariño.",[],,,
+69,Don't get up.,No te levantes.,No te levantes.,No te levantes.,[],,,
+70,Don't interrupt me again.,No me interrumpas otra vez.,No me interrumpan de nuevo.,No me interrumpas de nuevo.,[],,,
+71,Don't mess with an old soldier.,No te metas con un viejo soldado.,No confusas con un viejo soldado.,No te metas con un viejo soldado.,[],,,
+72,Drop that mystic healer!,¡Suelte a ese curandero místico!,¡Destruye ese misterioso curador!,¡Tira ese sanador místico!,[],,,
+73,Eagle-eyed.,Ojos de águila.,El ojo de Eagle.,Tiene ojos de águila.,[],,,
+74,"Easy, Sage.","Tranquilo, Sage.",fácil y sabio.,"Tranquilo, Sage.",['Sage'],True,False,True
+75,"Eh, Phoenix, chalk it to all this aggrandizement.","Fénix, acéptalo a todo este engrandecimiento.","Ah, Phoenix, chatearlo a toda esta agrandización.","Phoenix, se lo atribuye a todo este agrandamiento.",['Phoenix'],False,True,True
+76,"Eh, what're you doin'?!","Eh, ¿qué estás haciendo?",¿Qué es lo que haces?!,¿Qué estás haciendo?,[],,,
+77,Ended.,Terminado.,terminado .,Se acabó.,[],,,
+78,Enemies Attacker Spawn!,¡Enemigos Atacantes Spawn!,¡Los enemigos atacan!,¡Los enemigos del atacante Spawn!,[],,,
+79,Enemies close.,Enemigos cercanos.,Los enemigos cercanos.,Los enemigos se acercan.,[],,,
+80,Enemies close. Eyes up.,"Enemigos cerrados, ojos arriba.","Los enemigos cercanos, los ojos arriba.",Los enemigos se cierran.,[],,,
+81,Enemies in Defender Spawn!,¡Enemigos en Defender Spawn!,¡Los enemigos en Defender Spawn!,Los enemigos en Defender Spawn!,[],,,
+82,Enemy A.,Enemigo A.,El enemigo A.,El enemigo A.,['A'],True,True,True
+83,Enemy C.,Enemigo C.,El enemigo C.,El enemigo C.,['C'],True,True,True
+84,Enemy activity.,Actividad enemiga.,La actividad enemiga.,La actividad del enemigo.,[],,,
+85,Enemy close.,Enemigo cercano.,El enemigo está cerca.,El enemigo está cerca.,[],,,
+86,Enemy in Attacker Spawn.,Enemigo en Atacante Spawn.,El enemigo en Attacker Spawn.,El enemigo en el Spawn del atacante.,[],,,
+87,Enemy in Defender Spawn.,Enemigo en Defender Spawn.,El enemigo en Defender Spawn.,Enemigo en Defender Spawn.,[],,,
+88,Enemy spotted A.,Enemigo vio A.,El enemigo encontró a.,El enemigo vio a A.,['A'],True,False,True
+89,Enemy spotted B.,Enemigo manchado B.,El enemigo ha visto B.,El enemigo vio a B.,['B'],True,True,True
+90,Enemy spotted C.,Enemigo vio a C.,El enemigo encontró C.,El enemigo vio a C.,['C'],True,True,True
+91,Enemy spotted Mid.,El enemigo vio a Mid.,El enemigo se agarró en medio.,El enemigo vio a Mid.,['Mid'],True,False,True
+92,Enemy spotted.,Enemigo visto.,El enemigo se ve.,El enemigo es visto.,[],,,
+93,Enemy utility here.,Aquí la utilidad enemiga.,utilidad del enemigo aquí.,Servicio enemigo aquí.,[],,,
+94,"Everyone makes fun of German efficiency, haha. Just keep laughing as you use all my gear.","Todo el mundo se burla de la eficiencia alemana, jaja, sigue riendo mientras usas todo mi equipo.","Todo el mundo se divierte en la eficiencia alemana, haha. Sólo sigue rindo mientras usa todo mi dispositivo.",Todo el mundo se burla de la eficiencia alemana.,[],,,
+95,Experiment complete.,Experimento completado.,El experimento completo.,El experimento completado.,[],,,
+96,"Explosives ready, Raze!","¡Explosivos listos, Raze!","¡Las explosiones están listas, Raze!","¡Los explosivos listos, Raze!",['Raze'],True,True,True
+97,"Fade, now you're just showing off.","Fade, ahora sólo estás presumiendo.","Fade, ahora estás solo mostrando.","Fade, ahora sólo te estás presumiendo.",['Fade'],True,True,True
+98,Fall back.,Retrocedan.,caer de vuelta.,Retroceda.,[],,,
+99,Farewell.,Adiós.,Bueno →,- ¿Qué quieres decir?,[],,,
+100,Fear me mortals!,¡Temedme a los mortales!,¡Tienes miedo a los mortales!,¡Temed a mí mortales!,[],,,
+101,"Fight till the end, no matter what.","Pelea hasta el final, pase lo que pase.","Lucha hasta el final, no importa lo que sea.","Lucha hasta el final, sin importar lo que pase.",[],,,
+102,Fight!,¡Pelea!,La lucha!,¡Luchad!,[],,,
+103,"Find the weak point, and break it.",Encuentra el punto débil y rómpelo.,Encontrar el punto débil y romperlo.,"Encontrar el punto débil, y romperlo.",[],,,
+104,"Find them, Cypher.","Encuéntralos, Cypher.","Encuentralos, Cypher","Encuentralas, Cypher.",['Cypher'],True,True,True
+105,Fine for now.,Bien por ahora.,Perfecto para ahora.,Está bien por ahora.,[],,,
+106,Finished.,Terminado.,terminado .,He terminado.,[],,,
+107,Fire needs oxygen. Let me replace this Phoenix's air.,"El fuego necesita oxígeno, déjame reemplazar el aire de este Fénix.","El fuego necesita oxígeno, que me sustituya el aire de Phoenix.","El fuego necesita oxígeno, permítanme reemplazar el aire de Phoenix.",['Phoenix'],False,True,True
+108,Five suppressed.,Cinco suprimidos.,Cinco oprimidos.,Cinco suprimidos.,[],,,
+109,Flush this area out.,Arroja esta área.,Flush esta zona fuera.,Elimine este área.,[],,,
+110,"Focus your hate at the enemy, KAY/O, it is wasted on me.","Concéntrate en tu odio hacia el enemigo, KAY/O, está desperdiciado en mí.","Concentra tu odio en el enemigo, KAY/O, está perdido en mí.","Concentra tu odio en el enemigo, KAY/O, está desperdiciado en mí.",['KAY/O'],True,True,True
+111,Forgive me if I overextend. Old habit.,"Perdóname si extiendo demasiado, viejo hábito.",Perdón me si me extiendo. viejo hábito.,"Perdóneme si exagero, viejo hábito.",[],,,
+112,Four.,Cuatro.,Los cuatro.,- ¿Qué? - Cuatro.,[],,,
+113,Get off my lawn!,¡Fuera de mi césped!,¡Lleva mi launa!,¡Vete de mi césped!,[],,,
+114,"Ghost boy, bye bye!","¡Chico fantasma, adiós!","Hijo de fantasma, ¡Bienvenido!","Muchacho fantasma, adiós!",[],,,
+115,"Give me a challenge, ya?","Dame un reto, ¿sí?","¡Dadme un reto, ¿no?","Dame un desafío, ¿sí?",[],,,
+116,Go away!,¡Vete!,¡Vaya a lejos!,¡Vete de aquí!,[],,,
+117,Going A.,A la A.,Vuelve a.,Vamos a la A.,['A'],True,False,True
+118,Going B.,Voy a B.,Voy a B.,Vamos a la B.,['B'],True,True,True
+119,Going C.,Voy a C.,Voy a C.,Vamos a C.,['C'],True,True,True
+120,Goner.,Goner.,más rápido.,Se fue.,[],,,
+121,Good hit.,Buen golpe.,Un buen hit.,Un buen golpe.,[],,,
+122,Good on ya.,Bien por ti.,Bueno en sí.,Bien hecho.,[],,,
+123,Good riddance.,Buena suerte.,Buen rescate .,Buen deshacerse.,[],,,
+124,"Good try, idiots.","Buen intento, idiotas.",Buen intento idiotas.,"Buen intento, idiotas.",[],,,
+125,Good try.,Buen intento.,Buen intento .,Un buen intento.,[],,,
+126,"Good, now we build on this success.","Bien, ahora nos basamos en este éxito.","Bueno, ahora nos basamos en este éxito.","Bien, ahora construimos sobre este éxito.",[],,,
+127,Got the spike.,Tengo el pico.,Tiene el Spike.,Tengo el pico.,[],,,
+128,Got their Vyse.,Tengo su Vyse.,Obtuvo su visado.,Tienen su Vyse.,['Vyse'],True,False,True
+129,Got three.,Tengo tres.,Tiene tres.,Tengo tres.,[],,,
+130,"Got your back, Neon!","¡Te cubro la espalda, Neon!","¡Toma tu espalda, Neon!","¡Te tengo la espalda, Neon!",['Neon'],True,True,True
+131,Gotcha.,Te tengo.,en Gotcha.,Ya lo tengo.,[],,,
+132,Grenade!,¡Granada!,Granada en Granada!,¡Granada!,[],,,
+133,Gun here.,Pistola aquí.,La pistola aquí.,El arma aquí.,[],,,
+134,Ha det bra.,Ha det bra.,¡Ha lo bueno!,Hay un sujetador.,[],,,
+135,Ha! Got one!,¡Tengo uno!,¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡,¡Tengo uno!,[],,,
+136,Have a kip!,¡Toma un kip!,¡Tenga un Kip!,¡Toma una copa!,[],,,
+137,Heading Mid.,Se dirige a Mid.,La cabeza en medio.,Me dirijo a la mitad.,['Mid'],True,False,False
+138,Headshot!,¡Disparo en la cabeza!,¡El cabecera!,¡Una bala en la cabeza!,[],,,
+139,Headshot.,Disparos en la cabeza.,El Headshot.,Un disparo en la cabeza.,[],,,
+140,Healer killed.,Mataron a sanador.,El curador fue asesinado.,El sanador muerto.,[],,,
+141,"Heh, not bad.",No está mal.,"Ah, no es malo.",No está mal.,[],,,
+142,Hell yeah! Who's up for another?,¿Quién quiere otro?,¡Hello sí! ¿Quién está por otro?,¿Quién quiere otro?,[],,,
+143,"Hell yeah, Brimstone! The best defense, is a good offense.","Claro que sí, Brimstone, la mejor defensa es una buena ofensa.","Hell yeah, Brimstone! la mejor defensa, es una buena ofensa.",La mejor defensa es una buena ofensiva.,['Brimstone'],True,True,False
+144,Hello.,Hola.,Saludos →,- ¿Cómo estás?,[],,,
+145,Her slow fields are so annoying!,¡Sus campos lentos son tan molestos!,Sus campos lentos son tan molestos!,Sus campos lentos son tan molestos!,[],,,
+146,"Here's the plan; whatever they got, tear it down.","Este es el plan, lo que sea que tengan, destrúyelo.","Aquí está el plan; lo que quieren, la derramen.","Este es el plan; lo que sea que tengan, derribenlo.",[],,,
+147,"Hey Brimmy, remind me to play you this riff I recorded once we're done. I-I think it's a winner.","Brimmy, recuérdame tocarte este riff que grabé una vez que terminamos.","Hey Brimmy, recuerda a mí para jugarte este riff que he grabado una vez que lo hemos hecho.","Hey Brimmy, recuerda que te toque este riff que grabé una vez terminamos. Creo que es un ganador.",[],,,
+148,"Hey other me, sorry in advance!","Hey otro yo, lo siento por adelantado!","¡Oh otro mío, perdón por adelante!","¡Otro yo, lo siento por adelantado!",[],,,
+149,"Hey, flower girl. I found some leaves. Do you want them?","Hola, chica de las flores, encontré unas hojas. ¿Las quieres?","Hola, chica de flores. he encontrado algunas hojas. ¿les quieres?","Hey, chica de flores, encontré algunas hojas. ¿Las quieres?",[],,,
+150,"Hey, who has a good song for 'we were losing but now things are looking up'? You know, like uh, redemption arc.","¿Quién tiene una buena canción para ""estamos perdiendo pero ahora las cosas están mejorando""?","Hey, ¿quién tiene una buena canción para 'nos perdieron pero ahora las cosas están mirando hacia arriba'?","Oye, ¿quién tiene una buena canción para ""perdimos pero ahora las cosas están mejorando""?",[],,,
+151,History has already forgotten you.,La historia ya te ha olvidado.,La historia ya te ha olvidado.,La historia ya te ha olvidado.,[],,,
+152,Hit them back!,¡Devuélveles el golpe!,¡Toma de vuelta a ellos!,¡Tómalo de vuelta!,[],,,
+153,"Hm, I'm partial to winning. Let's do more of it.","Estoy a favor de ganar, vamos a hacer más.","Hm, estoy parcialmente para ganar, vamos a hacer más de eso.","No quiero ganar, vamos a hacer más.",[],,,
+154,Hold our ground.,Mantengan nuestro terreno.,Mantenga nuestro suelo.,Manténgase firme.,[],,,
+155,Holding position.,Manteniendo la posición.,Mantener la posición.,Posición de mantenimiento.,[],,,
+156,Hostile KIA.,KIA hostil.,El hostil Kia.,Un KIA hostil.,[],,,
+157,How about I only bring a ruler next time,¿Qué tal si solo traigo un gobernante la próxima vez?,¿Por qué sólo llevo a un gobernante la próxima vez?,¿Qué tal si sólo traigo una regla la próxima vez?,[],,,
+158,How did they think this would end?,¿Cómo pensaron que esto terminaría?,¿Cómo creían que esto acabaría?,¿Cómo pensaban que esto terminaría?,[],,,
+159,How sad. You're just like everyone else.,Eres como todos los demás.,"Qué triste, eres como todos los demás.","Qué triste, eres como todos los demás.",[],,,
+160,I am pleased.,Me alegro.,Estoy contento.,Estoy muy contento.,[],,,
+161,I am the master of my fate.,Soy el amo de mi destino.,Yo soy el maestro de mi destino.,Soy el amo de mi destino.,[],,,
+162,I can buy for you. What do you want?,Puedo comprar para ti. ¿Qué quieres?,¿Puedo comprar para ti? ¿qué quieres?,Puedo comprarte. ¿Qué quieres?,[],,,
+163,"I can buy, who needs what?","Puedo comprar, ¿quién necesita qué?","¿Puedo comprar, ¿quién necesita qué?","Puedo comprar, ¿quién necesita qué?",[],,,
+164,I can't miss!,¡No puedo fallar!,¡No puedo faltar!,¡No puedo perderme!,[],,,
+165,I can't use that.,No puedo usar eso.,No puedo usar eso.,No puedo usar eso.,[],,,
+166,I cannot use that.,No puedo usar eso.,No puedo usar eso.,No puedo usar eso.,[],,,
+167,I could've left my arms at home.,Podría haber dejado mis brazos en casa.,Puedo dejar mis brazos en casa.,Podría haber dejado mis brazos en casa.,[],,,
+168,I did? I did. Wingman... stole my wallet?,¿Wingman robó mi billetera?,¿Había? ¿había? ¿había? ¿había? ¿había? ¿había?,Wingman... ¿me robó la billetera?,[],,,
+169,I didn't expect that!,¡No me lo esperaba!,¡No lo esperaba eso!,¡No lo esperaba!,[],,,
+170,"I don't need these arms to fight, but they're fun. Might as well use 'em.","No necesito estos brazos para pelear, pero son divertidos.","No necesito estos brazos para luchar, pero son divertidos.","No necesito estos brazos para luchar, pero son divertidos.",[],,,
+171,I don't quit.,Yo no renuncio.,Yo no dejo.,No voy a renunciar.,[],,,
+172,"I feel bad for them, I really do. Just not enough to stop winning.","Me siento mal por ellos, pero no lo suficiente como para dejar de ganar.","Me siento mal para ellos, realmente lo hago.Sólo no lo suficiente para dejar de ganar.","Me siento mal por ellos, pero no lo suficiente como para dejar de ganar.",[],,,
+173,I feel like myself. Catch them. Again.,"Me siento como yo mismo, atrápalos, otra vez.",Me siento como yo mismo. capturarlos. de nuevo.,Me siento como si fuera yo mismo.,[],,,
+174,"I feel something over there. Can't place it. Like us, but, different.","Siento algo por allá, no puedo ubicarlo, como nosotros, pero diferente.","Me siento algo por encima. no puedo ponerlo. como nosotros, pero, diferente.","Siento algo ahí, no puedo colocarlo, como nosotros, pero diferente.",[],,,
+175,I got Iso.,Tengo a Iso.,Tengo eso.,Tengo a Iso.,['Iso'],True,False,True
+176,I got enough time to go into the astral form.,Tengo tiempo suficiente para entrar en la forma astral.,Tengo tiempo suficiente para entrar en la forma astral.,Tengo tiempo suficiente para entrar en la forma astral.,[],,,
+177,I have the spike.,Tengo el pico.,Tengo la espina.,Tengo el picón.,[],,,
+178,I hope this one's exciting.,Espero que este sea emocionante.,Espero que esto sea emocionante.,Espero que esta sea emocionante.,[],,,
+179,"I knew some of them, the people here. Good scientists.","Conocí a algunos de ellos, la gente de aquí.","Conozco a algunos de ellos, a la gente aquí, buenos científicos.","Conocí a algunos de ellos, la gente de aquí, buenos científicos.",[],,,
+180,"I like flowers and stuff, but this place no give flavor. No gold, where's the signs, the bling-blings, come on!","Me gustan las flores y esas cosas, pero este lugar no da sabor. ¡No hay oro, dónde están las señales, los bling-blings, vamos!","Me gustan las flores y las cosas, pero este lugar no da sabor. ¡No hay oro, donde están los signos, los bling-blings, vienen!","Me gustan las flores y esas cosas, pero este lugar no da sabor. ¡No hay oro, dónde están las señales, los bling-blings, vamos!",[],,,
+181,I love war.,Me encanta la guerra.,Me encanta la guerra.,Me encanta la guerra.,[],,,
+182,I need help!,¡Necesito ayuda!,Necesito ayuda!,¡Necesito ayuda!,[],,,
+183,I saw their desperation. Let's use that.,"Vi su desesperación, usemos eso.","He visto su desesperación, vamos a usarlo.",He visto su desesperación.,[],,,
+184,I stopped their Raze.,Detuve su Raze.,Dejó de hacer su raza.,Yo detuve su Raze.,['Raze'],True,False,True
+185,"I studied robotics for a time, but I've never seen anything like you, KAY/O. Remarkable.","Estudié robótica durante un tiempo, pero nunca he visto nada como tú, KAY/O. Extraordinario.","Estudé robótica durante un tiempo, pero nunca he visto nada como usted, KAY/O.","Estudié robótica durante un tiempo, pero nunca he visto nada como tú, KAY-O.",['KAY/O'],True,True,False
+186,I suggest we keep winning.,Sugiero que sigamos ganando.,Yo sugiero que sigamos ganando.,Sugiro que sigamos ganando.,[],,,
+187,I thought the spike was an integral part of our plan.,Pensé que el pico era una parte integral de nuestro plan.,Creí que el pico era una parte integral de nuestro plan.,Pensé que el picado era parte integral de nuestro plan.,[],,,
+188,I will buy.,Voy a comprar.,Voy a comprar.,Lo compraré.,[],,,
+189,I won't settle for a draw!,¡No me conformaré con un empate!,¡No me voy a arreglar por un dibujo!,¡No me conformaré con un empate!,[],,,
+190,I wonder if these ones will beg. They all do after a while.,Me pregunto si estos me rogarán después de un tiempo.,Quiero preguntarnos si todos ellos lo hacen después de un tiempo.,Me pregunto si estos suplicarán después de un tiempo.,[],,,
+191,I wonder what torture their Omen is going through. Is it like ours? Poor soul.,Me pregunto por qué tortura está pasando su Omen. ¿Es como la nuestra? Pobre alma.,Me pregunto qué tortura su Omen está pasando. ¿Es como nuestro?,Me pregunto qué tortura está pasando su Omen. ¿Es como la nuestra?,['Omen'],True,True,True
+192,I would hate working here. You couldn't pay me to sit at a desk.,"Odiaría trabajar aquí, no podías pagarme para que me sentara en un escritorio.",Me odiaría trabajar aquí.No podía pagarme para sentarme en una mesa.,No me podías pagar para sentarme en un escritorio.,[],,,
+193,I'll crush their Sova's spirit.,Aplastaré el espíritu de su Sova.,Voy a romper el espíritu de su Sova.,Voy a aplastar el espíritu de su Sova.,['Sova'],True,True,True
+194,I'll destroy their Sage!,¡Destruiré a su Sabio!,¡Destruiré a su sabio!,¡Destruiré a su Sabio!,['Sage'],False,False,False
+195,I'll find their Cypher.,Encontraré a su Cypher.,Encontraré su Cifra.,Encontraré su cifrador.,['Cypher'],True,False,False
+196,I'll isolate the problem. You crush it.,Aislaré el problema.,"Yo me iré a soltar el problema, tú lo quebras.","Voy a aislar el problema, tú lo aplastas.",[],,,
+197,I'll make that Killjoy cry!,¡Haré llorar a ese Killjoy!,¡Voy a hacer que Killjoy llore!,¡Voy a hacer llorar a ese Killjoy!,['Killjoy'],True,True,True
+198,I'll make them remember... they're only human.,Haré que recuerden... que sólo son humanos.,Yo los haré recordar... son sólo humanos.,Haré que recuerden... que son sólo humanos.,[],,,
+199,I'll show off next time.,Voy a presumir la próxima vez.,Lo mostraré la próxima vez.,La próxima vez me mostraré.,[],,,
+200,I'll show that Brimstone true power!,¡Le mostraré el verdadero poder de Brimstone!,¡Mostraré que Brimstone es el verdadero poder!,¡Le mostraré el verdadero poder de Brimstone!,['Brimstone'],True,True,True
+201,"I'll show you scary, Omen.","Te mostraré el miedo, Omen.","Te mostraré miedo, Omen.","Te mostraré lo que es aterrador, Omen.",['Omen'],True,True,True
+202,"I'll survive a dent or two, can't say the same for you fragile humans.","Sobreviviré a una o dos abolladuras, no puedo decir lo mismo de los humanos frágiles.","Voy a sobrevivir un diente o dos, no puedo decir lo mismo para ustedes humanos frágiles.","Sobreviviré una dentada o dos, no puedo decir lo mismo por ustedes humanos frágiles.",[],,,
+203,I'll take point.,Voy a tomar el punto.,Tomaré el punto.,Yo tomaré el punto.,[],,,
+204,I'm built different.,Estoy hecho diferente.,Estoy construido diferente.,Estoy hecha diferente.,[],,,
+205,I'm faking B.,Estoy fingiendo B.,Yo estoy falsificando B.,Estoy fingiendo B.,['B'],True,True,True
+206,I'm faking C.,Estoy fingiendo C.,Yo estoy falsificando C.,Estoy fingiendo C.,['C'],True,True,True
+207,I'm faking.,Estoy fingiendo.,Yo estoy falsificando.,Estoy fingiendo.,[],,,
+208,I'm gonna buy.,Voy a comprar.,Voy a comprar.,Voy a comprar.,[],,,
+209,I'm gonna save.,Voy a salvar.,Voy a salvarme.,Voy a ahorrar.,[],,,
+210,I'm lurking.,Estoy acechando.,Yo estoy engañando.,Estoy acechando.,[],,,
+211,I'm pushing out.,Estoy empujando hacia fuera.,Yo estoy empujando.,Estoy empujando.,[],,,
+212,I'm rushing A.,Me estoy apresurando.,Estoy acercando a.,Me estoy apresurando A.,['A'],False,False,True
+213,I'm saving.,Estoy ahorrando.,Yo estoy ahorrando.,Estoy ahorrando.,[],,,
+214,I'm sorry.,Lo siento.,Lo siento.,- Lo siento mucho.,[],,,
+215,"I'm used to difficult work, this is not so difficult.","Estoy acostumbrado al trabajo difícil, esto no es tan difícil.","Estoy acostumbrado a trabajar duro, esto no es tan difícil.","Estoy acostumbrado al trabajo difícil, esto no es tan difícil.",[],,,
+216,I'm... impressed.,Estoy... impresionada.,Estoy... impresionada.,Estoy... impresionado.,[],,,
+217,"I've got cash, anyone need something?","Tengo efectivo, ¿alguien necesita algo?","Tengo dinero, ¿alguien necesita algo?",Tengo dinero en efectivo. ¿Alguien necesita algo?,[],,,
+218,"I've stood over so many corpses. A few more, does not matter.","Me he parado sobre tantos cadáveres, unos pocos más, no importa.","He estado por encima de tantos cuerpos. unos pocos más, no importa.","He estado de pie sobre tantos cadáveres, unos cuantos más, no importa.",[],,,
+219,I've survived much worse than you.,He sobrevivido mucho peor que tú.,He sobrevivido mucho peor que tú.,He sobrevivido mucho peor que tú.,[],,,
+220,"If any of you mattered, you'd be alive.","Si alguno de ustedes importara, estaría vivo.","Si alguno de vosotros importaba, estarías vivo.","Si alguno de ustedes importara, estarían vivos.",[],,,
+221,"If they keep stealing our radianite, I'll have to take it personally.","Si siguen robando nuestra radianita, tendré que tomarla como algo personal.","Si continúan robando nuestro radianito, tendré que tomarlo personalmente.","Si siguen robando nuestra radianita, tendré que tomarlo personalmente.",[],,,
+222,"If you die today, I will remember you forever. It has been an honor.","Si mueres hoy, te recordaré para siempre, ha sido un honor.","Si hoy mueres, yo te recordaré para siempre, ha sido un honor.","Si mueres hoy, te recordaré para siempre.",[],,,
+223,"If you've never seen a massacre, this is what it looks like.","Si nunca has visto una masacre, esto es lo que parece.","Si nunca has visto una masacre, eso es lo que parece.","Si nunca has visto una masacre, así es como se ve.",[],,,
+224,Imposter killed.,Un impostor asesinado.,El impuesto ha muerto.,El impostor muerto.,[],,,
+225,Irrelevant.,Irrelevante.,irreversible .,Es irrelevante.,[],,,
+226,Is Killjoy here? I could use some repairs.,Me vendrían bien algunas reparaciones.,¿Está Killjoy aquí? pude utilizar algunas reparaciones.,¿Está aquí Killjoy?,['Killjoy'],False,True,True
+227,Is that the best you've got?,¿Es lo mejor que tienes?,¿Esto es lo mejor que tienes?,¿Es lo mejor que tienes?,[],,,
+228,Is there no one else?,¿No hay nadie más?,¿No hay nadie más?,¿No hay nadie más?,[],,,
+229,"Iso, take them one by one.","Iso, tómalos uno por uno.","Iso, tome los uno por uno.","Iso, tomalas una por una.",['Iso'],True,True,True
+230,"Isolate them, and kill them.",Aíslalos y mátalos.,Aislándolos y matándolos.,Aislándolos y matándolos.,[],,,
+231,"It is strange, Sage. Where I'm from, you're no medic, only a weapon.","Es extraño, Sage, de donde soy, no eres médico, sólo un arma.","Dónde estoy, tú no eres un médico, sólo una arma.","Es extraño, Sage, donde yo vengo, no eres médico, sólo un arma.",['Sage'],True,False,True
+232,"It seems your science shit has some use after all, Killjoy.","Parece que tu mierda de ciencia tiene algún uso después de todo, Killjoy.","Parece que tu ción científica tiene algún beneficio después de todo, Killjoy.","Parece que tu mierda de ciencia tiene algún uso después de todo, Killjoy.",['Killjoy'],True,True,True
+233,"It's been grand, but I've got places to avoid and people to ignore, so let's finish this thing!","Ha sido grandioso, pero tengo lugares que evitar y gente que ignorar, ¡así que terminemos con esto!","Ha sido genial, pero tengo lugares para evitar y la gente para ignorar, así que vamos a terminar esto!","Ha sido grandioso, pero tengo lugares a evitar y gente a ignorar, así que terminemos con esto!",[],,,
+234,It's not over.,No ha terminado.,No ha terminado.,No ha terminado.,[],,,
+235,It's you and me!,¡Somos tú y yo!,¡Es tú y yo!,¡Somos tú y yo!,[],,,
+236,Just swag.,Sólo swag.,Sólo el swag.,Sólo esbozar.,[],,,
+237,Keep hitting them like that and this job is done.,Sigue golpeándolos así y este trabajo está hecho.,Continúe golpeándolos así y este trabajo está hecho.,Sigue golpeándolos así y este trabajo está hecho.,[],,,
+238,Keep hunting them down! Their Sage cannot protect them all.,Su Sabio no puede protegerlos a todos.,¡Mantened la caza! su sabio no puede protegerlos todos!,Su Sabio no puede protegerlos a todos.,['Sage'],False,False,False
+239,Keep kicking them down.,Sigue pateándolos.,Sigue echándolos abajo.,Sigue pateándolos.,[],,,
+240,Kick them out.,Échalos.,¡Las quita fuera!,Ejecutadlos.,[],,,
+241,"Kill everyone, and our job gets a whole lot easier.","Matar a todos, y nuestro trabajo se hace mucho más fácil.","Matad a todos, y nuestro trabajo se hace mucho más fácil.","Matar a todos, y nuestro trabajo se hace mucho más fácil.",[],,,
+242,Killed.,Asesinado.,asesinado .,Fue asesinado.,[],,,
+243,"Killjoy, control your bots! That turret keeps looking at me funny.","¡Killjoy, controla tus bots! Esa torreta sigue mirándome raro.","Killjoy, control sus bots! esa torreta sigue mirando a mí divertido.","¡Killjoy, controla a tus robots!",['Killjoy'],True,True,True
+244,"Killjoy, don't overthink it! Sometimes, you just need to hit them with explosives.","¡Killjoy, no lo pienses demasiado! A veces, sólo tienes que golpearlos con explosivos.","Killjoy, no lo sobrepenses! a veces, sólo tienes que golpearlos con explosivos.",A veces sólo tienes que golpearlos con explosivos.,['Killjoy'],True,True,False
+245,Killjoy. You and me until the end.,"Killjoy, tú y yo hasta el final.",Tu y yo hasta el final.,Tú y yo hasta el final.,['Killjoy'],True,False,False
+246,Knock knock.,Toc toc.,El Knock Knock.,¡Tocar a la puerta!,[],,,
+247,Leave me with Viper.,Déjame con Viper.,Dejome con Viper.,Déjame con Viper.,['Viper'],True,True,True
+248,Leave that Sova to me.,Déjame a mí esa Sova.,Deja ese sueño a mí.,Deja esa Sova a mí.,['Sova'],True,False,True
+249,Let that Phoenix run his mouth. We'll shut him up soon enough.,"Deja que Fénix hable, lo callaremos pronto.",Deja que Phoenix corra su boca. lo cerraremos pronto lo suficiente.,"Dejemos que el Fénix se mueva, lo callaremos pronto.",['Phoenix'],False,True,False
+250,Let them try to get through me.,Deja que intenten atravesarme.,Deja que tratan de pasar por mí.,Deja que intenten pasarme.,[],,,
+251,Let's attack.,Ataquemos.,Vamos a atacar.,Vamos a atacar.,[],,,
+252,Let's crack them open.,Vamos a abrirlas.,Vamos a romperlos abiertos.,Vamos a abrirlos.,[],,,
+253,Let's flush them out.,Vamos a tirarlos.,Vamos a flotarlos.,Vamos a echarlos.,[],,,
+254,Let's get the advantage.,Vamos a conseguir la ventaja.,Vamos a obtener la ventaja.,Vamos a obtener la ventaja.,[],,,
+255,Let's get this done.,Terminemos con esto.,Vamos a hacer esto.,Vamos a hacer esto.,[],,,
+256,Let's go A.,Vamos A.,Vamos a ir a.,Vamos a A.,['A'],True,False,True
+257,Let's go B.,Vamos B.,Vamos a B.,Vamos B.,['B'],True,True,True
+258,Let's go C.,Vamos C.,Vamos a C.,Vamos a C.,['C'],True,True,True
+259,Let's go here.,Vamos aquí.,Vamos a ir aquí.,Vamos a ir por aquí.,[],,,
+260,Let's go kill them all again.,Vamos a matarlos a todos de nuevo.,Vamos a matarlos todos de nuevo.,Vamos a matarlos a todos de nuevo.,[],,,
+261,Let's go!,¡Vamos!,¡Vamos a ir!,¡Vamos a irnos! ¡Vamos a irnos!,[],,,
+262,"Let's go, Brim. Ex-Kingdom represent!","Vamos, Brim. ¡El ex Rey representa!","¡Vamos, Brim. Ex-Kingdom representa!","¡Vamos, Brim, ex representante del Reino!",[],,,
+263,Let's hold positions.,Mantengamos posiciones.,Vamos a tener posiciones.,Mantengamos las posiciones.,[],,,
+264,Let's make 'em dance!,¡Hagámoslos bailar!,¡Vamos a hacer 'em danza!,¡Vamos a hacer que bailen!,[],,,
+265,Let's pack it up.,Vamos a empacar.,Vamos a pactarlo.,Vamos a hacer las maletas.,[],,,
+266,Let's play slow.,Juguemos despacio.,Vamos a jugar lentamente.,Juguemos con calma.,[],,,
+267,Let's push out.,Empujémonos.,Vamos a empujar.,Vamos a empujar hacia fuera.,[],,,
+268,Let's push.,Vamos a empujar.,Vamos a empujar.,Vamos a empujar.,[],,,
+269,"Let's roll, Neon. Show us what that K-SEC training did for ya.","Vamos, Neon, muéstranos lo que ese entrenamiento de K-SEC hizo por ti.","Vamos a girar, Neon. Mostra lo que el entrenamiento K-SEC hizo para sí.","Vamos, Neon, muéstranos lo que hizo ese entrenamiento de K-SEC para ti.",['Neon'],True,True,True
+270,Let's rotate.,Vamos a rotar.,Vamos a girar.,Vamos a girar.,[],,,
+271,Let's rush A.,Vamos a apresurar A.,Vamos a acelerar a.,Vamos a acelerar A.,['A'],True,False,True
+272,Let's rush B.,Vamos a apresurar a B.,Vamos a acelerar B.,Vamos a apresurarnos a B.,['B'],True,True,True
+273,Let's rush C.,Vamos a apresurar a C.,Nos apresuramos con C.,Vamos a apresurarnos a C.,['C'],True,True,True
+274,Let's rush them.,Vamos a apurarlos.,Vamos a apresurarlos.,Vamos a apresurarlos.,[],,,
+275,Let's see their Jett fight without wind.,Vamos a ver su lucha Jett sin viento.,Vamos a ver su Jett lucha sin viento.,Veamos a sus Jett pelear sin viento.,['Jett'],True,True,True
+276,Let's sneak A.,A hurtadillas.,Vamos a escapar a.,Vamos a hacer un A.,['A'],True,False,True
+277,Let's sneak B.,Vamos a colarnos en B.,Vamos a ver B.,Vamos a escondernos a B.,['B'],True,True,True
+278,Let's sneak C.,Vamos a colarnos en C.,Vamos a ver C.,Vamos a escondernos a C.,['C'],True,True,True
+279,Let's sneak Mid.,Vamos a colarnos en Mid.,Vamos a escapar en medio.,Vamos a camuflar a mediados.,['Mid'],True,False,False
+280,Let's spread out.,Vamos a separarnos.,Vamos a difundir.,Vamos a extendernos.,[],,,
+281,Let's stack A.,Vamos a apilar A.,Vamos a estancar a.,Vamos a apilar A.,['A'],True,False,True
+282,Let's stack B.,Vamos a apilar B.,Vamos a estancar B.,Vamos a apilar B.,['B'],True,True,True
+283,Let's stack C.,Vamos a apilar C.,Vamos a hacer c.,Vamos a apilar C.,['C'],True,False,True
+284,Let's stack Mid.,Vamos a apilar Mid.,Vamos a estar en medio.,Vamos a apilar el medio.,['Mid'],True,False,False
+285,Let's stack up.,Vamos a apilar.,Vamos a estancar.,Vamos a apilarnos.,[],,,
+286,"Level heads until we're home, yes? Good.","Cabezas de nivel hasta que lleguemos a casa, ¿sí?","El nivel de las cabezas hasta que estemos en casa, sí?","Haga frente hasta que lleguemos a casa, ¿sí?",[],,,
+287,Lone wolf.,Lobo solitario.,El lobo solitario.,Un lobo solitario.,[],,,
+288,"Look at me, and know that I am by your side.","Mírame, y sé que estoy a tu lado.","Mira a mí, y sé que estoy a tu lado.","Mire a mí, y sepa que estoy a su lado.",[],,,
+289,"Look out for us, coach.","Cuidado con nosotros, entrenador.","Mira a nosotros, entrenador.","Cuidado con nosotros, entrenador.",[],,,
+290,"Look, I'm glad you're all here. There, I said it.","Mira, me alegro de que estén todos aquí.","Mirad, me alegro de que todos estéis aquí, aquí, lo dije.","Mira, me alegro de que todos estén aquí.",[],,,
+291,"MVP me-o! Was this a dream-o? Chale, give me pinch-o!","¿Esto fue un sueño? ¡Chale, dame un pellizco!","MVP me-o! ¿Esto es un sueño-o? chale, déme pinch-o!","¿Fue un sueño? ¡Chale, dame un pinchazo!",[],,,
+292,"Mad love, Sage. Come on, girl. That win's gotta be worth a smile!","Vamos, chica. ¡Esa victoria tiene que valer la pena una sonrisa!","Mad love, Sage. Come on, girl. That win's gotta be worth a smile! - ¡Venga, chica! - ¡Este gotta de la victoria vale la pena un sonrisa!","¡Vamos, esa victoria tiene que valer la pena una sonrisa!",['Sage'],False,True,False
+293,Many enemies C!,¡Muchos enemigos C!,¡Muchos enemigos C!,¡Muchos enemigos C!,['C'],True,True,True
+294,Many enemies Mid!,¡Muchos enemigos Mid!,¡Muchos enemigos en medio!,¡Muchos enemigos en medio!,['Mid'],True,False,False
+295,Many enemies here.,Hay muchos enemigos aquí.,Muchos enemigos aquí.,Muchos enemigos aquí.,[],,,
+296,Maybe they'll surprise us.,Tal vez nos sorprendan.,Quizás nos sorprenderán.,Tal vez nos sorprendan.,[],,,
+297,Mid.,Medio.,en medio.,En el medio.,['Mid'],False,False,False
+298,"Monsieur Brimstone, as promised I have found your next recruit. You are off the hook, as they say. Forgive me for doing your job!","Monsieur Brimstone, como prometí, he encontrado a su próximo recluta.","Señor Brimstone, como prometió, he encontrado tu siguiente recrutamiento. estás fuera de la cuna, como dicen. perdón por hacer tu trabajo!","Señor Brimstone, como prometí, encontré a su próximo recluta.",['Brimstone'],True,True,True
+299,Multiple enemies B!,¡Múltiples enemigos B!,¡Muchos enemigos B!,¡Múltiples enemigos B!,['B'],True,True,True
+300,Multiple enemies Defender Spawn!,Múltiples enemigos Defensor Spawn!,¡Múltiples enemigos Defender Spawn!,¡Múltiples enemigos Defender Spawn!,[],,,
+301,Multiple targets Attacker Spawn!,Múltiples objetivos Atacante Spawn!,¡Múltiples objetivos Attacker Spawn!,¡Múltiples objetivos del atacante Spawn!,[],,,
+302,Multiple targets C!,¡Múltiples objetivos C!,¡Múltiples objetivos C!,¡Múltiples objetivos C!,['C'],True,True,True
+303,Multiple targets Mid!,¡Múltiples objetivos Mid!,¡Múltiples objetivos en medio!,¡Múltiples objetivos en medio!,['Mid'],True,False,False
+304,My blind is dead.,Mi ciego está muerto.,Mi ciego está muerto.,Mi ciego está muerto.,[],,,
+305,My burden never ends.,Mi carga nunca termina.,Mi carga nunca termina.,Mi carga nunca termina.,[],,,
+306,"My power does not ebb. Ask for aid, and you shall receive.","Mi poder no se desploma, pide ayuda, y recibirás.","Mi poder no se desvanece; pida ayuda, y recibirás.","Mi poder no disminuye, pide ayuda y lo recibirás.",[],,,
+307,My thanks.,Gracias.,Mi gracias.,Gracias por eso.,[],,,
+308,My ult's almost ready.,Mi ult está casi listo.,Mi ultra está casi listo.,Mi úlcera está casi lista.,[],,,
+309,My ult's not ready.,Mi ult no está listo.,Mi ultra no está listo.,Mi úlcera no está lista.,[],,,
+310,My ultimate isn't ready.,Mi final no está listo.,Mi final no está listo.,Mi final no está listo.,[],,,
+311,Need healing.,Necesito que te cures.,Necesita la curación.,Necesitamos curación.,[],,,
+312,Need more astral stars.,Necesito más estrellas astrales.,Necesitan más estrellas astrales.,Necesitamos más estrellas astrales.,[],,,
+313,Need util here.,Necesito usar aquí.,Necesita utilidad aquí.,Necesitamos ayuda aquí.,[],,,
+314,"Neon, how much power do you generate, exactly? If I could just attach this meter-","Neon, ¿cuánta energía generas exactamente?","Neon, ¿cuánta energía generas, exactamente? si yo solo pude adjuntar este metro...","Neon, ¿cuánta energía generas exactamente?",['Neon'],True,True,True
+315,Neutralized.,Neutralizado.,Se neutraliza.,Neutralizado.,[],,,
+316,Never back down.,Nunca retrocedas.,Nunca de vuelta abajo.,Nunca te dejes atrás.,[],,,
+317,"Never been in a knife fight, have you?","Nunca has estado en una pelea de cuchillos, ¿verdad?","Nunca ha estado en una lucha de cuchillo, ¿no?","Nunca has estado en una pelea con cuchillos, ¿verdad?",[],,,
+318,Next time I'm gettin' first place!,¡La próxima vez tendré el primer lugar!,¡La próxima vez seré el primer lugar de Gettin!,¡La próxima vez voy a conseguir el primer lugar!,[],,,
+319,Next.,Siguiente.,El siguiente.,Lo siguiente.,[],,,
+320,Nice try.,Buen intento.,Muy bueno probar.,Qué buen intento.,[],,,
+321,No bother.,No te molestes.,No te preocupes.,No te molestes.,[],,,
+322,No charges.,Sin cargos.,No hay cargos.,No hay cargos.,[],,,
+323,No loose ends.,Sin cabos sueltos.,No hay fin de lujo.,No hay extremos sueltos.,[],,,
+324,No more.,No más.,No más nada.,No hay más.,[],,,
+325,No need to suffer.,No hay necesidad de sufrir.,No hay necesidad de sufrir.,No hay necesidad de sufrir.,[],,,
+326,No one left to send a message? Oh well,¿No queda nadie para enviar un mensaje?,¿Nadie ha dejado para enviar un mensaje?,¿No queda nadie para enviar un mensaje?,[],,,
+327,No rebirth for you.,No hay renacimiento para ti.,No hay renacimiento para ti.,No hay renacimiento para ti.,[],,,
+328,No.,No.,No no.,- No es así.,[],,,
+329,None of this nonsense. We should win big and look good doing it.,Deberíamos ganar en grande y lucir bien haciéndolo.,No hay nada de este absurdo.Debemos ganar grandes y parecer buenos haciendo eso.,Deberíamos ganar en grande y lucir bien haciéndolo.,[],,,
+330,Not bad.,No está mal.,No es malo.,No está mal.,[],,,
+331,Not ready yet.,Aún no está listo.,No está preparado todavía.,Aún no estoy listo.,[],,,
+332,Not the worst.,No es lo peor.,No lo peor.,No es lo peor.,[],,,
+333,Not worth the bullets.,No vale la pena las balas.,No vale la pena las balas.,No vale la pena las balas.,[],,,
+334,Nothing stays hidden from me. Nothing.,Nada se me oculta.,"Nada se esconde de mí, nada.",Nada se queda oculto de mí.,[],,,
+335,Nothing there.,No hay nada ahí.,Nada allí.,No hay nada ahí.,[],,,
+336,Now four.,Ahora cuatro.,Ahora cuatro.,Ahora cuatro.,[],,,
+337,Now roll over them!,¡Ahora lánzate sobre ellos!,¡Rolla por encima de ellos!,¡Ahora vuelve sobre ellos!,[],,,
+338,Now they are nervous.,Ahora están nerviosos.,Ahora están nerviosos.,Ahora están nerviosos.,[],,,
+339,"Oh Astra with the galaxy brain, yeah!","¡Oh Astra con el cerebro de la galaxia, sí!","¡Oh Astra con el cerebro galáctico, sí!","¡Oh Astra con el cerebro de la galaxia, sí!",['Astra'],True,True,True
+340,"Oh man, just awful. A tragedy.","Oh, hombre, es horrible, una tragedia.","¡Oh hombre, sólo terrible, una tragedia!","Qué terrible, una tragedia.",[],,,
+341,"Oh, eternity blesses us!","¡Oh, la eternidad nos bendice!","¡Oh, la eternidad nos bendeza!","¡Oh, la eternidad nos bendice!",[],,,
+342,"Oh, oh dear no sweetheart! We must protect you.","Oh, oh querido, no cariño, debemos protegerte.","Oh, oh querido no dulces!Tenemos que protegernos.","No, querida, tenemos que protegerte.",[],,,
+343,"Oh, this is a much better trajectory!","¡Oh, esta es una trayectoria mucho mejor!",¡Es una trayectoria mucho mejor!,"¡Oh, esta es una trayectoria mucho mejor!",[],,,
+344,"Okay Raze, fine, your tinkering may... have made my tech better. Nice work.","De acuerdo Raze, bien, tus retoques pueden... haber mejorado mi tecnología.","Okay Raze, bueno, tu tintura puede... ha hecho que mi tecnología sea mejor.","Está bien Raze, bien, tus trucos pueden haber mejorado mi tecnología.",['Raze'],True,True,True
+345,"Okay humans, now you can swim.","Bien, humanos, ahora puedes nadar.","Bueno hombres, ahora puedes nadar.","Bien humanos, ahora pueden nadar.",[],,,
+346,"Okay, I only have, like, seventy-eight grenades left? Hopefully that's enough.","Vale, ¿sólo me quedan como 78 granadas?","Bueno, sólo tengo, como si, setenta y ocho granadas que quedan?",¿Sólo me quedan setenta y ocho granadas?,[],,,
+347,"Okay, okay.","Está bien, está bien.",Bueno y bien.,"Está bien, está bien.",[],,,
+348,Okay.,De acuerdo.,Bueno .,"Está bien, está bien.",[],,,
+349,Omen's gone.,Omen se ha ido.,Omen se ha ido.,Omen se ha ido.,['Omen'],True,True,True
+350,"Omen, they say that once you took a contract, their death was inescapable. Anyway, I'm glad we're friends.","Omen, dicen que una vez que aceptaste un contrato, su muerte fue ineludible.","Omen, dicen que una vez que tomaste un contrato, su muerte era inescapable.","Omen, dicen que una vez que tomaste un contrato, su muerte era inevitable.",['Omen'],True,True,True
+351,"Omen, with me. Nightmare thrives in the dark.","Omen, conmigo, la pesadilla prospera en la oscuridad.","Omen, conmigo, el pesadilla florece en la oscuridad.","Omen, conmigo, la pesadilla prospera en la oscuridad.",['Omen'],True,True,True
+352,On my way.,Voy para allá.,En mi camino.,Ya estoy en camino.,[],,,
+353,One down.,Uno menos.,Uno hacia abajo.,Uno abajo.,[],,,
+354,"One dream ends, another begins.","Un sueño termina, otro comienza.","Un sueño termina, otro comienza.","Un sueño termina, otro comienza.",[],,,
+355,One last kill.,Una última muerte.,Un último asesinato.,Un último asesinato.,[],,,
+356,One more.,Uno más.,Y uno más.,- Un poco más.,[],,,
+357,One suppressed.,Uno suprimido.,Uno de los oprimidos.,Uno suprimido.,[],,,
+358,"Oops, no one to interrogate!","¡Oops, nadie a quien interrogar!","¡Oops, ¡no hay nadie que interroga!",¡Nadie para interrogar!,[],,,
+359,Ouch.,Ouch.,Y también.,¿Qué es eso?,[],,,
+360,Our spike carrier is dead.,Nuestro portador de picos está muerto.,Nuestro portador de espadas está muerto.,Nuestro portador de espigas está muerto.,[],,,
+361,Our spike carrier is killed.,Nuestro portador de picos ha muerto.,Nuestro portador de espadas está muerto.,Nuestro portaaviones está muerto.,[],,,
+362,Our spike's down.,Nuestro pico ha caído.,Nuestro Spike está abajo.,Nuestro pico ha bajado.,[],,,
+363,Out of charges.,Fuera de cargos.,Fuera de las acusaciones.,No hay cargos.,[],,,
+364,Out of range.,Fuera de alcance.,Fuera del rango.,Fuera de alcance.,[],,,
+365,"Outside of this gig, immortality doesn't have as many day to day benefits as you think.","Fuera de este concierto, la inmortalidad no tiene tantos beneficios día a día como piensas.","Fuera de este gig, la inmortalidad no tiene tantos beneficios día a día como piensas.","Fuera de este concierto, la inmortalidad no tiene tantos beneficios diarios como piensas.",[],,,
+366,Paint? Check. Charges? Check. Brakes? ''chuckles'' Nowhere in sight.,¿Pintura? Comprobación. Cargas. Comprobación. Frenos?,Paint? check. charges? check. brakes? 'chucles' En ningún lugar en vista.,"¿Pintura, verificación, cargas, verificación, frenos?",[],,,
+367,Pardon.,Perdón.,y perdón.,Lo siento mucho.,[],,,
+368,Perfect accuracy.,Perfecta precisión.,La exactitud perfecta.,Precisión perfecta.,[],,,
+369,Phenomenal! We trained for this.,"Fenomenal, entrenamos para esto.",¡Fenomenal! hemos entrenado para esto.,Nos entrenamos para esto.,[],,,
+370,"Phoenix! Our little star, keep that furnace burning, okay?","Nuestra pequeña estrella, mantenga ese horno ardiendo, ¿de acuerdo?","Phoenix! nuestra pequeña estrella, mantenga que el forno se quema, ¿cómo?","Phoenix, nuestra pequeña estrella, mantén el horno en llamas, ¿de acuerdo?",['Phoenix'],False,True,True
+371,"Phoenix, if you keep pulling stunts like that, you can brag as much as you like.","Phoenix, si sigues haciendo acrobacias como esa, puedes presumir tanto como quieras.","Phoenix, si continúas atraviendo tonterías como ésta, puedes tragar tanto como te gusta.","Phoenix, si sigues haciendo acrobacias así, puedes jactarte tanto como quieras.",['Phoenix'],True,True,True
+372,Pitiful.,Qué lástima.,de tristeza.,Eso es patético.,[],,,
+373,Placing swarm grenade.,Colocando granada de enjambre.,Colocación de granada.,Colocando una granada enjambre.,[],,,
+374,Plant the spike!,¡Planta el pico!,¡Plante la espina!,¡Planta el palo!,[],,,
+375,Play for picks.,Juega a las elecciones.,Juega por los picks.,Juega por las escogidas.,[],,,
+376,"Push a button, save the day, easy.","Presiona un botón, salva el día, con calma.","Pulsa un botón, ahorra el día, fácil.","Pulsa un botón, ahorra el día, fácilmente.",[],,,
+377,Push forward.,Empuja hacia adelante.,Push hacia adelante.,Empuje hacia adelante.,[],,,
+378,Push them back!,¡Empújalos hacia atrás!,¡Pulsándolos de vuelta!,¡Empujalas hacia atrás!,[],,,
+379,Put down.,Bájate.,Desciende por debajo.,Deje de lado.,[],,,
+380,"Raze, plug me into the tunes, yeah, I know you got the good stuff.","Raze, enchúfame a las melodías, sí, sé que tienes lo bueno.","Raze, me envuelve en los tunes, sí, sé que tienes las cosas buenas.","Raze, conectame a las canciones, sí, sé que tienes las buenas cosas.",['Raze'],True,True,True
+381,Regroup!,¡Reagrupaos!,Reuniones !,¡Reagruparse!,[],,,
+382,Reloading.,Recargando.,La recarga.,Se vuelve a cargar.,[],,,
+383,"Remember fam, winning takes sacrifice, right Cypher? Sacrifice? Like chess? Our chess game? Come on, I know you got it.","¿Recuerdas que ganar es sacrificio, verdad Cypher? ¿Sacrificio? ¿Como el ajedrez? ¿Nuestro juego de ajedrez? Vamos, sé que lo tienes.","Recuerde la fama, ganar toma sacrificio, justo Cífero? sacrificio? como el ajedrez? nuestro juego de ajedrez?","¿Recuerdas que ganar requiere sacrificio, Cypher? ¿Sacrificio? Como el ajedrez? Nuestro juego de ajedrez? Vamos, sé que lo tienes.",['Cypher'],True,False,True
+384,"Remember, the rift walker is over there. Never think you're safe.","Recuerda, el andador de la grieta está por allí, nunca pienses que estás a salvo.","Recuerde, el corredor de rift está por encima de allí. nunca piense que estás seguro.","Recuerda, el caminante de grietas está ahí.",[],,,
+385,"Rest in peace, Mateo.","Descansa en paz, Mateo.","Descanse en paz, Mateo.","Descansa en paz, Mateo.",[],,,
+386,Resuming your termination.,Reanudando tu despido.,Resumir su finalización.,Reanudar su despido.,[],,,
+387,Retrieving thorns.,Recuperando espinas.,Retirando las torres.,Recuperando espinas.,[],,,
+388,Return to dust.,Vuelve al polvo.,Volver a la polvo.,Volver al polvo.,[],,,
+389,Reyna killed.,Reyna mató.,Reina fue asesinada.,Reyna lo mató.,['Reyna'],True,False,True
+390,"Reyna, jeez! Leave some for the rest of us! Or don't! I'm-I-I am sorry.","Reyna, deja un poco para el resto de nosotros o no lo hagas, lo siento.","Reyna, jeez! ¡Deja algo para el resto de nosotros! o no! soy-yo-me disculpa.","Reyna, Dios mío, deja algo para el resto de nosotros o no lo hagas, lo siento.",['Reyna'],True,True,True
+391,"Reyna, the souls you consume. Do you hear their voices as I do?","Reyna, las almas que consumes. ¿Oyes sus voces como yo?","Reyna, las almas que consumas.¿Escochas sus voces como yo lo hago?","Reyna, las almas que consumes. ¿Escuchas sus voces como yo?",['Reyna'],True,True,True
+392,"Reyna, there are better ways to survive than your path.","Reyna, hay mejores maneras de sobrevivir que tu camino.","Reyna, hay mejores maneras de sobrevivir que tu camino.","Reyna, hay mejores formas de sobrevivir que tu camino.",['Reyna'],True,True,True
+393,Rotating.,Rotando.,La rotación.,Está girando.,[],,,
+394,Round of applause for Mister Top Brass!,¡Una ronda de aplausos para el señor Top Brass!,¡Un aplauso a Mister Top Brass!,¡Ronda de aplausos para el Sr. Top Brass!,[],,,
+395,Rush them.,Apresúralos.,Rush a ellos.,Rápidamente.,[],,,
+396,"Sabine, look at the monsters we've become. At least you have flesh to hide your horror.","Sabine, mira los monstruos en los que nos hemos convertido al menos tienes carne para ocultar tu horror.","Sabine, mira los monstruos que hemos convertido. al menos tienes carne para ocultar tu horror.","Sabine, mira los monstruos que nos hemos convertido, al menos tienes carne para ocultar tu horror.",[],,,
+397,Sad fools standing in our way.,Tristes tontos que se interponen en nuestro camino.,Los tristes estúpidos están en nuestro camino.,Tontos tristes que se interponen en nuestro camino.,[],,,
+398,Sage killed.,Sage mató.,El sabio asesinado.,El sabio fue asesinado.,['Sage'],True,False,False
+399,Saving.,Salvando.,El ahorro.,El ahorro.,[],,,
+400,"See you on the front lines, Phoenix. Save some enemies for me.","Nos vemos en el frente, Phoenix, guarda algunos enemigos para mí.","Verte en las líneas delanteras, Phoenix. salvar a algunos enemigos para mí.","Te veo en las líneas del frente, Phoenix.",['Phoenix'],True,True,True
+401,Sending recon B.,Enviando reconocimiento B.,Envío de recon B.,Enviando reconocimiento B.,['B'],True,True,True
+402,Sending recon C.,Enviando reconocimiento C.,Envío de C.,Enviando reconocimiento C.,['C'],True,True,True
+403,Shadows traveling.,Sombras viajando.,Las sombras viajan.,Las sombras viajan.,[],,,
+404,She's not ready.,No está lista.,Ella no está listo.,Ella no está lista.,[],,,
+405,She's still gunning for ya!,¡Todavía te está disparando!,¡Sólo está arrojando por sí!,¡Todavía te está disparando!,[],,,
+406,Shoot them! Always works.,"¡Dispárales, siempre funciona!",¡Las tiras! siempre funciona!,Dispararlos siempre funciona.,[],,,
+407,Shot down.,Derribado.,disparar hacia abajo.,Fue abatido.,[],,,
+408,"Show us how it's done, Reyna.","Muéstranos cómo se hace, Reyna.","Mostra cómo se está haciendo, Reyna.","Muéstranos cómo se hace, Reyna.",['Reyna'],True,True,True
+409,"Silence, dream seer!","¡Silencio, vidente de sueños!","El silencio, el sueño!","¡Silencio, vidente de sueños!",[],,,
+410,Simple and clean! Well done!,¡Simple y limpio!,¡Simple y limpio! ¡Bien hecho!,¡Simple y limpio!,[],,,
+411,Sit down!,¡Siéntate!,¡Siéntate abajo!,¡Siéntese!,[],,,
+412,"Skye the life weaver. The power to create, to destroy. Which path will you embrace, I wonder?","Skye el tejedor de vida, el poder de crear, de destruir, ¿qué camino abrazarás, me pregunto?","El poder para crear, para destruir, ¿cuál es el camino que abrazas, me pregunto?","Skye, el tejedor de la vida, el poder de crear, destruir, ¿qué camino vas a seguir, me pregunto?",['Skye'],True,False,True
+413,"Skye, no matter where you start the fight, we finish it together.","Skye, no importa dónde empieces la pelea, la terminamos juntos.","Skye, no importa dónde comience la lucha, lo terminamos juntos.","Skye, no importa dónde empieces la pelea, la terminaremos juntos.",['Skye'],True,True,True
+414,So long as it's leg day!,¡Mientras sea día de piernas!,¡Tanto sea el día de los pies!,Siempre y cuando sea el día de la pierna!,[],,,
+415,So they got a Cypher. He'll see what we want him to see.,"Así que tienen un Cypher, verá lo que queremos que vea.",Así que tienen un Cífero; él verá lo que queremos que vea.,"Así que tienen un Cifre, verá lo que queremos que vea.",['Cypher'],True,False,False
+416,"So this is the project that sapped my funding all those years ago. Looks like it worked out well for you, Kingdom.",Así que este es el proyecto que arruinó mi financiación hace todos esos años.,"Así que este es el proyecto que ahogó mi financiación hace todos esos años.Parece que ha funcionado bien para usted, Reino.",Así que este es el proyecto que arruinó mi financiamiento hace tantos años.,[],,,
+417,"So, Yoru, you painted over the priceless samurai mask? Huh, interesting choice.","Entonces, Yoru, ¿has pintado sobre la preciosa máscara de samurai?","Así que, Yoru, usted pintó sobre la máscara de samurai sin precio?","Yoru, ¿pintaste sobre la invaluable máscara de samurai?",['Yoru'],True,True,True
+418,"So, you use explosives to propel yourself, Raze. That's... that's creative. I think I like it.","Así que usas explosivos para propulsarte, Raze, eso es creativo, creo que me gusta.","Así que usas explosivos para impulsarte, Raze. Eso es... eso es creativo. creo que me gusta.","Entonces, usas explosivos para impulsarte, Raze. Eso es creativo. Creo que me gusta.",['Raze'],True,True,True
+419,Solid try.,Inténtalo bien.,Intento sólido.,Un buen intento.,[],,,
+420,Someone go A.,Que alguien vaya a la A.,Alguien va a.,Alguien va a A.,['A'],True,False,True
+421,Someone go B.,Que alguien vaya a B.,Alguien va a B.,Alguien vaya a B.,['B'],True,True,True
+422,Someone go C.,Que alguien vaya a C.,Alguien va a C.,Alguien vaya a C.,['C'],True,True,True
+423,Someone go Mid.,Que alguien se vaya a Mid.,Alguien va en medio.,Alguien vaya a mediados.,['Mid'],True,False,False
+424,Someone's close.,Alguien está cerca.,Alguien está cerca.,Alguien está cerca.,[],,,
+425,Sorry to spoil the party.,Siento estropear la fiesta.,Perdón por despojar la fiesta.,Siento arruinar la fiesta.,[],,,
+426,Sorry.,Lo siento.,Lo disculpa.,Lo siento mucho.,[],,,
+427,Spend everything on this one.,Gasta todo en esto.,Paga todo en esta.,Gasta todo en esto.,[],,,
+428,Spend those creds before we lose them.,Gasta esas credenciales antes de que las perdamos.,Pasemos esos créditos antes de que los perdamos.,Gasta esos créditos antes de que los perdamos.,[],,,
+429,"Spend your cash, don't look back.","Gasta tu dinero, no mires atrás.","Paga tu dinero, no mires de vuelta.","Gasta tu dinero, no mires hacia atrás.",[],,,
+430,Spend your money now. There's no bank in hell.,"Gasta tu dinero ahora, no hay banco en el infierno.",Paga tu dinero ahora.No hay banco en el infierno.,"Gasta tu dinero ahora, no hay banco en el infierno.",[],,,
+431,Spike C.,Spike C.,El Spike C.,Spike C.,['C'],True,True,True
+432,Spike dropped.,Spike cayó.,Spike cayó.,Spike se cayó.,[],,,
+433,Spike in Attacker Spawn.,Spike en Atacante Spawn.,Encuentros en Attacker Spawn.,Spike en el Spawn del atacante.,[],,,
+434,Spike in Defender Spawn.,Spike en Defender Spawn.,Encuentros en Defender Spawn.,Spike en Defender Spawn.,[],,,
+435,Spike is A.,Spike es A.,Spike es A.,Spike es A.,['A'],True,True,True
+436,Spike is Mid.,Spike es Mid.,Spike está en medio.,Spike es el medio.,['Mid'],True,False,False
+437,Spike is down.,Spike ha caído.,Spike está abajo.,Spike está abajo.,[],,,
+438,Spike is here.,Spike está aquí.,Spike está aquí.,Spike está aquí.,[],,,
+439,Spike is in Attacker Spawn.,Spike está en Attacker Spawn.,Spike está en Attacker Spawn.,Spike está en Attacker Spawn.,[],,,
+440,Spike planted.,Spike plantó.,La espina plantada.,Spike plantado.,[],,,
+441,Spike spotted B.,Spike vio a B.,Spike ha encontrado B.,Spike ha visto B.,['B'],True,True,True
+442,Spike spotted Mid.,Spike vio a Mid.,Spike se agarró en medio.,Spike vio a Mid.,['Mid'],True,False,True
+443,Spike's A.,Spike es A.,El A de Spike.,Es el A de Spike.,['A'],True,True,True
+444,Spike's B.,Spike's B.,El B de Spike.,Es el B de Spike.,['B'],True,True,True
+445,Spike's C.,La C de Spike.,El C de Spike.,Es el C de Spike.,['C'],True,True,True
+446,Spike's Mid.,Spike's Mid.,La mitad de Spike.,Es el medio de Spike.,['Mid'],True,False,False
+447,Spike's in Defender Spawn.,Spike está en Defender Spawn.,Spike es en Defender Spawn.,Spike está en Defender Spawn.,[],,,
+448,Squashed the last bug.,Destrozó el último bicho.,Descargar el último bug.,Aplasté el último insecto.,[],,,
+449,"Stay alive! I want their life, not yours.","Quiero su vida, no la tuya.","Quiero su vida, no su.","Quiero su vida, no la tuya.",[],,,
+450,Steady Viper.,Viper firme.,El Steady Viper.,Viper firme.,['Viper'],True,True,True
+451,Stick together.,Permanezcan juntos.,Póngase juntos.,Manténganse unidos.,[],,,
+452,Stop their Breach before he stops us.,Detengan su violación antes de que él nos detenga.,Dejarán de su brecha antes de que nos detenga.,Detenga su Breach antes de que él nos detenga.,['Breach'],False,False,True
+453,Stop them! This is our turf!,¡Este es nuestro territorio!,¡Hay que dejarlos! ¡Este es nuestro torfo!,¡Esto es nuestro territorio!,[],,,
+454,Strong finish. Could be even stronger.,"Acabado fuerte, podría ser aún más fuerte.","Confinado, podría ser más fuerte.","Un acabado fuerte, podría ser aún más fuerte.",[],,,
+455,Tack-tack.,Tack-tack.,Gracias por el tacto.,- ¿Qué es eso?,[],,,
+456,"Tag, you're out.","Tag, estás fuera.","Tag, usted está fuera.","Tag, estás fuera.",[],,,
+457,Take them out before they even pull the trigger.,Sácalos antes de que aprieten el gatillo.,Toma de ellos antes de que incluso retire el trigger.,Sacalos antes de que apliquen el gatillo.,[],,,
+458,Target 86'd.,Objetivo 86'd.,Objetivo 86 d.,Objetivo 86'd.,[],,,
+459,Target A.,Objetivo A.,Objetivo A.,Objetivo A.,['A'],True,True,True
+460,Target Attacker Spawn.,Atacante objetivo Spawn.,El atacante objetivo es espinado.,El atacante objetivo Spawn.,[],,,
+461,Target Defender Spawn.,Defender objetivo Spawn.,Los defensores de los goles.,El objetivo Defender Spawn.,[],,,
+462,Target down.,Objetivo hacia abajo.,El objetivo hacia abajo.,El objetivo hacia abajo.,[],,,
+463,"Technology at its finest, well done KAY/O.","La tecnología en su mejor, bien hecho KAY / O.","Tecnología en su mejor, bien hecho KAY/O.","Tecnología en su mejor estado, bien hecho KAY/O.",['KAY/O'],False,True,True
+464,That Killjoy thinks a few bots will keep her safe? Give me a break!,¿Que Killjoy cree que unos cuantos robots la mantendrán a salvo?,Que Killjoy piensa que unos pocos bots la mantendrán segura?,¿Que Killjoy cree que unos botes la mantendrán a salvo?,['Killjoy'],True,True,True
+465,That Sova's gonna put his eye out with all that tech. Mhm. His other eye I mean.,Esa Sova va a sacarle el ojo con toda esa tecnología.,Que Sova pondrá su ojo con toda esa tecnología.Mhm. Su otro ojo yo quiero decir.,Que Sova va a sacarse el ojo con toda esa tecnología.,['Sova'],True,True,True
+466,That creature is dead.,Esa criatura está muerta.,Esta criatura está muerta.,Esa criatura está muerta.,[],,,
+467,That goes there.,Eso va ahí.,Eso va allí.,Eso va ahí.,[],,,
+468,That was unpleasant.,Eso fue desagradable.,Eso fue desagradable.,Eso fue desagradable.,[],,,
+469,"That was worrisome, Reyna.","Eso fue preocupante, Reyna.","Eso fue muy preocupante, Reina.","Eso fue preocupante, Reyna.",['Reyna'],True,False,True
+470,That's four.,Son cuatro.,Eso es cuatro.,Eso es cuatro.,[],,,
+471,"That's me over there! Great, now I can kick my own ass.","¡Ése soy yo! Genial, ahora puedo patearme el culo.","¡Mucho, ahora puedo echar mi propio culo!","Muy bien, ahora puedo patearme el culo.",[],,,
+472,"That's right, you tell 'em.","Así es, díselo tú.","Eso es correcto, dice ‘em.","Así es, tú les lo dices.",[],,,
+473,That's the last of 'em.,Ese es el último de ellos.,Este es el último de 'em.,Es el último de ellos.,[],,,
+474,That's three.,Son tres.,Eso son tres.,Eso es tres.,[],,,
+475,"The Astra is gone, and her mysteries with her.","El Astra se ha ido, y sus misterios con ella.","La Astra se ha ido, y sus misterios con ella.","La Astra se ha ido, y sus misterios con ella.",['Astra'],True,True,True
+476,"The crisp air, the crunch of ice, reminds me of home.","El aire crujiente, el crujido de hielo, me recuerda a casa.","El crisp de aire, el crunch de hielo, me recuerda de casa.","El aire fresco, el crujido del hielo, me recuerda a casa.",[],,,
+477,The greatest battles ever fought are written in storybooks. May they write about this one.,Las batallas más grandes jamás peleadas están escritas en libros de cuentos.,Las mayores batallas jamás luchadas están escritas en historiadores.,Las batallas más grandes de la historia se escriben en libros de cuentos.,[],,,
+478,"The pillars on that domed building are Corinthian, the last of the three classical orders. How are you not excited?!","Los pilares de ese edificio abovedado son corintios, el último de los tres órdenes clásicos. ¿Cómo no estás emocionado?","Los pilares en ese edificio domado son Corinthian, el último de los tres órdenes clásicos.","Los pilares de ese edificio cúpulo son corintios, el último de los tres órdenes clásicos. ¿Cómo no estás emocionado?!",[],,,
+479,Their Brimstone will learn what real leadership looks like.,Su Brimstone aprenderá cómo es el verdadero liderazgo.,Su Brimstone aprenderá cómo se ve el verdadero liderazgo.,Su Brimstone aprenderá cómo es el verdadero liderazgo.,['Brimstone'],True,True,True
+480,Their Jett has nothin' on me. I got her.,Su Jett no tiene nada contra mí.,"Su Jett no tiene nada sobre mí, yo la tengo.",Su Jett no tiene nada contra mí.,['Jett'],True,True,True
+481,"Their Jett is playing hard to get. Alright, I'll play.",Su Jett se está haciendo el difícil de conseguir.,"Su Jett está jugando duro para llegar.Alright, voy a jugar.",Su Jett está jugando difícil de conseguir.,['Jett'],True,True,True
+482,Their Phoenix may feel immortal. I shall remind him just how mortal he truly is.,Su Fénix puede sentirse inmortal. Le recordaré lo mortal que es de verdad.,Su Phoenix puede sentirse inmortal; lo recordaré exactamente cuán mortal es realmente.,Su Fénix puede sentirse inmortal. Le recordaré lo mortal que realmente es.,['Phoenix'],False,True,False
+483,Their spike is defused.,Su pico está desactivado.,Su espada se desvanece.,Su punta está desactivada.,[],,,
+484,There's a Chamber over there. Guy can't go three steps without bringing all his fancy guns.,El tipo no puede dar tres pasos sin traer todas sus armas de lujo.,Guy no puede ir tres pasos sin traer todas sus armas de fantasía.,Un tipo no puede dar tres pasos sin traer todas sus armas de lujo.,['Chamber'],False,False,False
+485,"There's my bombshell! Crushed it, girl.",¡Ahí está mi bomba!,"¡Tienes mi bombilla! lo rompió, chica.","Ahí está mi bomba. ¡La aplasté, chica!",[],,,
+486,"There's something about you, KAY/O. Don't know what it is yet, but I like it.","Hay algo en ti, KAY/O. Aún no sé qué es, pero me gusta.","Hay algo sobre usted, KAY/O. No sabe lo que es todavía, pero me gusta.","Hay algo en ti, KAY/O. Aún no sé qué es, pero me gusta.",['KAY/O'],True,True,True
+487,There.,Ahí.,Y allí.,Ahí tienes.,[],,,
+488,These guys caught me in a mood. Bad luck for them.,"Estos tipos me atraparon de mal humor, mala suerte para ellos.",Estos chicos me capturaron en un estado de ánimo. mala suerte para ellos.,Estos tipos me atraparon en un estado de ánimo.,[],,,
+489,They are terrified.,Están aterrorizados.,Ellos están asustados.,Están aterrorizados.,[],,,
+490,They can throw the whole playbook at us. I've seen it all before.,Pueden tirarnos todo el libro de jugadas.,Pueden echar todo el playbook a nosotros. lo he visto todo antes.,Pueden lanzarnos todo el libro de jugadas.,[],,,
+491,They can't defuse a spike if they're dead.,No pueden desactivar un pico si están muertos.,No pueden despejar una espiga si están muertos.,No pueden desactivar un picón si están muertos.,[],,,
+492,They didn't move?!,¡¿No se movieron?!,¿No se moveron?,¿No se movieron?,[],,,
+493,They forgot who they're dealing with.,Olvidaron con quién están tratando.,olvidaron con quién están tratando.,Se olvidaron con quién están tratando.,[],,,
+494,"They got a Jett too? Nah, there's only one wind girl, and she's ours. That's a fake!","No, sólo hay una chica de viento, y es nuestra. ¡Eso es falso!","¿Tienes un Jett también?Bueno, sólo hay una chica de viento, y ella es nuestra.","No, sólo hay una chica del viento, y es nuestra. ¡Eso es falso!",['Jett'],False,True,False
+495,They had no right to do this.,No tenían derecho a hacer esto.,No tenían derecho a hacerlo.,No tenían derecho a hacer esto.,[],,,
+496,They had their fun. Now it's my turn.,"Se divirtieron, ahora es mi turno.",Tuvieron su diversión.Ahora es mi vuelta.,"Se divirtieron, ahora es mi turno.",[],,,
+497,They picked the wrong day to mess with our world.,Escogieron el día equivocado para meterse con nuestro mundo.,Ellos tomaron el día equivocado para confundir con nuestro mundo.,Eligieron el día equivocado para meterse con nuestro mundo.,[],,,
+498,They think they put us in the dirt! They're gonna find out we weren't buried! Just planted.,¡Creen que nos han metido en la tierra y van a descubrir que no fuimos enterrados!,Ellos piensan que nos pusieron en la suciedad!Van a descubrir que no estábamos enterrados!,Creen que nos han metido en el suelo y descubrirán que no estábamos enterrados.,[],,,
+499,They were in my sights.,Estaban en mi mira.,Estuvieron en mis ojos.,Ellos estaban en mi mira.,[],,,
+500,They will die. Hopeless and afraid.,Morirán sin esperanza y con miedo.,"Voy a morir, sin esperanza y sin miedo.",Morirán desesperados y temerosos.,[],,,
+501,They're concussed.,Están concusionados.,Están concusados.,Están con conmociones cerebrales.,[],,,
+502,They're done! Who's up next?,¿Quién sigue?,¿Quién está arriba? ¿quién está arriba?,"Ya han terminado, ¿quién es el siguiente?",[],,,
+503,They're in for a rude awakenin'.,Les espera una grosera despertación.,Están por un duro despertar”.,Ellos están en un despertamiento grosero.,[],,,
+504,They're in the coffin. Time to bury them.,"Están en el ataúd, es hora de enterrarlos.","Están en la cabaña, es hora de enterrarlos.","Están en el ataúd, es hora de enterrarlos.",[],,,
+505,They're nothing but flies.,No son más que moscas.,No son nada más que vuelos.,No son más que moscas.,[],,,
+506,They're starting to panic. I can feel their pulse quickening from here.,"Están empezando a entrar en pánico, puedo sentir que su pulso se acelera desde aquí.",Ellos están empezando a pánico.Puedo sentir su pulso quickening desde aquí.,Comienzan a entrar en pánico. Puedo sentir su pulso acelerándose desde aquí.,[],,,
+507,They've got one ugly lookin' crew. No offense to any of us.,"Tienen una tripulación fea, sin ofender a ninguno de nosotros.",Ellos tienen un mal lookin' tripulación. sin ofensa a ninguno de nosotros.,"Tienen un equipo feo, sin ofender a ninguno de nosotros.",[],,,
+508,Think I'll stay!,¡Creo que me quedaré!,¡Pensad que me quedaré!,¡Creo que me quedaré!,[],,,
+509,This artifact is not my only source of strength.,Este artefacto no es mi única fuente de fuerza.,Este artefacto no es mi única fuente de fuerza.,Este artefacto no es mi única fuente de fuerza.,[],,,
+510,This city is safe once more.,Esta ciudad está a salvo una vez más.,Esta ciudad es segura una vez más.,Esta ciudad es segura una vez más.,[],,,
+511,"This enemy's nothing special. Still human, still mortal.","Este enemigo no es nada especial, sigue siendo humano, sigue siendo mortal.","Este enemigo no es nada especial; todavía humano, todavía mortal.","Este enemigo no es nada especial, sigue siendo humano, sigue siendo mortal.",[],,,
+512,This is nothing.,Esto no es nada.,Esto no es nada.,Esto no es nada.,[],,,
+513,This is our victory.,Esta es nuestra victoria.,Esta es nuestra victoria.,Esta es nuestra victoria.,[],,,
+514,"This is what we trained for. Pick a weapon, choose your sector and fight for your future.","Para esto entrenamos. Escoge un arma, elige tu sector y lucha por tu futuro.","Póngase una arma, elija tu sector y lucha por tu futuro.","Elige un arma, elige tu sector y lucha por tu futuro.",[],,,
+515,This place gives me the creeps. Feels like we're being watched.,Este lugar me da escalofríos.,Este lugar me da los crepes. me siento como si estuviera observado.,"Este lugar me da miedo, me siento como si estuviéramos siendo observados.",[],,,
+516,"This place. I can feel its pain, it aches for redemption.","Puedo sentir su dolor, me duele la redención.","Puedo sentir su dolor, es para la redención.","Este lugar, puedo sentir su dolor, su dolor por la redención.",[],,,
+517,This poor place. It clings to life. A city after my own heart,"Este pobre lugar se aferra a la vida, una ciudad tras mi corazón.",Este lugar pobre. se une a la vida. una ciudad después de mi propio corazón,"Este pobre lugar, se adhiere a la vida, una ciudad a mi propio corazón.",[],,,
+518,This should do.,Esto debería bastar.,Esto debe hacer.,Esto debería ser suficiente.,[],,,
+519,Thorns are live.,Las espinas están vivas.,Las torres están vivas.,Las espinas están vivas.,[],,,
+520,Thrash got 'em!,¡Thrash los tiene!,Thrash tiene 'em!,¡Trash los tiene!,[],,,
+521,Thrash is almost ready.,Thrash está casi listo.,Thrash está casi listo.,Thrash está casi listo.,[],,,
+522,Three kills!,¡Tres muertos!,¡Tres personas matan!,¡Tres asesinatos!,[],,,
+523,Throwing charge.,Lanzando carga.,lanzar la carga.,Arrojar carga.,[],,,
+524,"Together, we will bury them under their transgressions.","Juntos, los enterraremos bajo sus transgresiones.",Juntos los enterraremos bajo sus transgresiones.,"Juntos, los enterraremos bajo sus transgresiones.",[],,,
+525,Trick shot.,Trick Shot.,Título de tiro.,Un tiro de truco.,[],,,
+526,Try again.,Inténtalo de nuevo.,Prueba de nuevo.,Inténtalo de nuevo.,[],,,
+527,"Ugh, I hate visiting underground doctors.",Odio visitar médicos clandestinos.,"Ugh, odio visitar a médicos subterráneos.",Odio visitar a médicos clandestinos.,[],,,
+528,"Ugh, turret down.","Ugh, torreta hacia abajo.","Ugh, se desciende.",Baja la torreta.,[],,,
+529,Ultimate ready.,Ultimate listo.,Ultimato pronto.,El máximo listo.,[],,,
+530,Unscathed! I'm delighted.,Estoy encantada.,¡Maldito! me alegro mucho,Estoy encantado.,[],,,
+531,"Viper, I'm speechless, and I always have something to say.","Viper, estoy sin palabras, y siempre tengo algo que decir.","Viper, estoy sin hablar, y siempre tengo algo que decir.","Viper, estoy sin palabras, y siempre tengo algo que decir.",['Viper'],True,True,True
+532,"Viper, your suit is a little stifling, no? When you go meet the new agent, maybe pack something light, Manila is quite warm this time of year.","Viper, tu traje es un poco sofocante, no? Cuando vas a conocer al nuevo agente, tal vez empacar algo ligero, Manila es bastante caliente en esta época del año.","Viper, su vestido es un poco estúpido, no?Cuando vas a conocer al nuevo agente, tal vez paquete algo de luz, Manila es bastante caliente esta vez del año.","Viper, tu traje es un poco sofocante, no? Cuando vayas a conocer al nuevo agente, tal vez empaques algo ligero, Manila es bastante cálida en esta época del año.",['Viper'],True,True,True
+533,"Wait, wait, wait. I have a rock in my shoe. Nice, free rock.","Espera, espera, tengo una roca en mi zapato.","Espere, espere, espere. tengo una roca en mi zapatero.",Tengo una roca en el zapato.,[],,,
+534,Watch them run.,Mira cómo corren.,Mira que se corren.,Mira cómo corren.,[],,,
+535,Watching here.,Mirando aquí.,Mirando aquí.,Estoy viendo aquí.,[],,,
+536,Watching this spot.,Mirando este lugar.,Mirando este lugar.,Mirando este lugar.,[],,,
+537,Watching this.,Viendo esto.,Mirando esto.,Viendo esto.,[],,,
+538,We are too damn good at this.,Somos muy buenos en esto.,Estamos muy bien en esto.,Somos muy buenos en esto.,[],,,
+539,We bring enough body bags?,¿Traemos suficientes bolsas de cadáveres?,¿Las bolsas de cuerpo son suficientes?,¿Traemos suficientes bolsas de cadáveres?,[],,,
+540,We can do this.,Podemos hacerlo.,Podemos hacer esto.,Podemos hacer esto.,[],,,
+541,We can end it now. Once more!,Podemos terminarlo ahora. ¡Una vez más!,"¡Se puede terminar ahora, ¡una vez más!",Podemos ponerle fin ahora. ¡Una vez más!,[],,,
+542,We can't take anything with us after this.,No podemos llevar nada con nosotros después de esto.,No podemos tomar nada con nosotros después de esto.,No podemos llevar nada con nosotros después de esto.,[],,,
+543,We got this.,Nosotros nos encargamos.,Tenemos esto.,Nos encargamos de esto.,[],,,
+544,We gotta get our land back.,Tenemos que recuperar nuestras tierras.,Vamos a recuperar nuestra tierra.,Tenemos que recuperar nuestra tierra.,[],,,
+545,"We saw the beginning, and the continuation. Now, the end.","Vimos el principio, y la continuación. Ahora, el fin.","Vimos el comienzo, y la continuación, ahora, el final.",Vimos el comienzo y la continuación.,[],,,
+546,We'll catch them!,¡Los atraparemos!,¡Los vamos a capturar!,¡Los atraparemos!,[],,,
+547,"We're close, hit them hard!","¡Estamos cerca, golpéalos fuerte!","¡Estamos cerca, los golpeamos duro!","¡Estamos cerca, golpee fuerte!",[],,,
+548,"We're fighting a Phoenix? Book your vacations now, this is gonna be exhausting.","Reserva tus vacaciones ahora, esto va a ser agotador.","¿Estamos luchando contra un Phoenix?Bonja tus vacaciones ahora, esto será exhaustivo.","Reserva tus vacaciones ahora, esto va a ser agotador.",['Phoenix'],False,True,False
+549,We've got this.,Nosotros nos encargamos.,Tenemos esto.,Tenemos esto.,[],,,
+550,Weapon here.,Arma aquí.,Las armas aquí.,El arma aquí.,[],,,
+551,Well done.,Bien hecho.,Bueno hecho .,Muy bien hecho.,[],,,
+552,Well fought.,Bien peleado.,Bueno lo luchó.,Bien luchado.,[],,,
+553,"What would you have become, Skye? Ugh, it doesn't matter now.","¿En qué te habrías convertido, Skye?","¿Qué habría sido usted, Skye? Ugh, no importa ahora.","¿En qué te habrías convertido, Skye?",['Skye'],True,True,True
+554,"What's the mission? Kill contract? Sorry, I forgot to read the brief.","Lo siento, olvidé leer el informe.","¿Qué es la misión? el contrato de matar? perdón, me olvidé de leer el breve.","Lo siento, me olvidé de leer el informe.",[],,,
+555,What's up?,¿Qué pasa?,¿Qué es arriba?,¿Qué pasa? ¿Qué pasa?,[],,,
+556,"When we are at peace, I would meet you again.","Cuando estemos en paz, nos volveremos a encontrar.","Cuando estemos en paz, te volveré a ver.","Cuando estemos en paz, me reuniría contigo de nuevo.",[],,,
+557,"Where should we go, rift walker? They cannot watch everywhere at once.","¿Adónde deberíamos ir, caminante de grieta? No pueden mirar por todas partes a la vez.","¿Dónde debemos ir, rift walker?No pueden ver en todas partes de una vez.",No pueden ver por todas partes a la vez.,[],,,
+558,"Wherever they run, I will find them.","Dondequiera que corran, los encontraré.","Dónde quieren, los encontraré.","Donde quiera que corran, los encontraré.",[],,,
+559,"Who else is havin' a great time? Just me? Tsk, ah, I'm gutted!",¿Quién más lo está pasando bien?,"¿Quién más es un gran tiempo?Sólo yo?Tsk, oh, estoy maldito!","¿Quién más se está divirtiendo, sólo yo?",[],,,
+560,Who will heal their healer?,¿Quién curará a su sanador?,¿Quién va a curar a su cura?,¿Quién va a curar a su sanador?,[],,,
+561,Who's next?,¿Quién sigue?,¿Quién es el siguiente?,¿Quién es el siguiente?,[],,,
+562,"Wind, show me where to go.","Viento, muéstrame a dónde ir.",El viento me muestra a dónde ir.,"Viento, muéstrame a dónde ir.",[],,,
+563,Work with me Reyna. Your enthusiasm and my caution both have qualities on the battlefield.,"Trabaja conmigo Reyna, tu entusiasmo y mi cautela tienen cualidades en el campo de batalla.",Trabaj conmigo Reyna. tu entusiasmo y mi cuidado ambos tienen cualidades en el campo de batalla.,Su entusiasmo y mi precaución tienen cualidades en el campo de batalla.,['Reyna'],True,True,False
+564,"Wow, we are destroying them!","¡Wow, los estamos destruyendo!","¡Wow, ¡los estamos destruyendo!","¡Wow, los estamos destruyendo!",[],,,
+565,Wow. You really suck.,Realmente apestas.,"¡Voy, tú realmente sabes!",Eres una mierda.,[],,,
+566,"Yeah, it's like that!","¡Sí, es así!","¡Sí, eso es así!","¡Sí, es así!",[],,,
+567,"Yes, yes, it's me, autographs if we survive, yeah?","Sí, sí, soy yo, autógrafos si sobrevivimos, ¿sí?","Sí, sí, es yo, los autógrafos si sobrevivimos, sí?","Sí, sí, soy yo, autógrafos si sobrevivimos, ¿sí?",[],,,
+568,Yes.,Sí.,Sí sí.,"- Sí, es cierto.",[],,,
+569,"Yo Brim, don't go tweaking your back out there. Leave the fancy stuff to the young'uns.","Brim, no te pongas la espalda ahí fuera, deja las cosas elegantes a los jovencitos.","Yo Brim, no vayas tu espalda por ahí.Deja las cosas fantásticas a los jóvenes.","Yo Brim, no te vayas a hacer las cosas, deja las cosas a los jóvenes.",[],,,
+570,Yoru can't hide from me.,Yoru no puede esconderse de mí.,Yoru no puede esconderse de mí.,Yoru no puede esconderse de mí.,['Yoru'],True,True,True
+571,"Yoru, good luck!","¡Yoru, buena suerte!","Yoru, buena suerte!","¡Yoru, buena suerte!",['Yoru'],True,True,True
+572,"You did well, Breach. Don't expect a hug.","Lo hiciste bien, Breach, no esperes un abrazo.","Te has hecho bien, Breach, no esperes un abrazo.","Lo hiciste bien, Breach, no esperes un abrazo.",['Breach'],True,True,True
+573,"You did well, little mouse. Keep it up.","Lo hiciste bien, ratoncito.","Te has hecho bien, pequeño ratón.","Lo hiciste bien, ratóncito.",[],,,
+574,You don't need nightmare powers to see them shaking.,No necesitas poderes de pesadilla para verlos temblar.,No necesitas poderes de pesadilla para verlos chocar.,No necesitas poderes de pesadilla para verlos temblar.,[],,,
+575,You forget your place.,Olvidas tu lugar.,Usted se olvida su lugar.,Olvidas tu lugar.,[],,,
+576,"You have such a way with information, Cypher. After this, let's trade notes.","Después de esto, cambiemos las notas.","Usted tiene tal manera con la información, Cypher. Después de esto, vamos a tener notas de comercio.","Después de esto, vamos a intercambiar billetes.",['Cypher'],False,True,False
+577,"You know, Viper, the name Sabine really fits you.","Sabes, Viper, el nombre de Sabine te queda muy bien.","Tú sabes, Viper, el nombre Sabine realmente te encaija.","Sabes, Viper, el nombre Sabine te encaja mucho.",['Viper'],True,True,True
+578,"You made this happen, Sage.","Tú hiciste que esto sucediera, Sage.","Así lo has hecho, sabio.","Usted hizo que esto sucediera, Sage.",['Sage'],True,False,True
+579,You only thought that was close.,Sólo pensabas que estaba cerca.,Sólo pensó que estaba cerca.,Sólo pensabas que estaba cerca.,[],,,
+580,You see? There's still plenty of fun to be had.,Todavía hay un montón de diversión para ser tenido.,¿Sabes? todavía hay mucha diversión a tener.,Aún hay mucho diversión por tener.,[],,,
+581,You should pay more attention.,Deberías prestar más atención.,Debes prestar más atención.,Deberías prestar más atención.,[],,,
+582,You think you can kill me?,¿Crees que puedes matarme?,¿Crees que puedes matarme?,¿Crees que puedes matarme?,[],,,
+583,You tried to be a hero. Great job.,Trataste de ser un héroe.,"Se trató de ser un héroe, un gran trabajo.",Intentaste ser un héroe.,[],,,
+584,You tried.,Lo intentaste.,Usted ha intentado.,Lo intentaste.,[],,,
+585,You want to survive? Bring the right gun.,¿Quieres sobrevivir?,¿Quieres sobrevivir? traer la arma correcta.,"Si quieres sobrevivir, trae el arma adecuada.",[],,,
+586,You were a mistake.,Fuiste un error.,Usted fue un error.,Fuiste un error.,[],,,
+587,"You've earned this win, let's make it official!","¡Te has ganado esta victoria, hagámoslo oficial!","¡Has ganado esta victoria, ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡","¡Te has ganado esta victoria, hagámosla oficial!",[],,,
+588,"Your party stumbles upon the rubble of a science experiment gone wrong. The souls of the dead wander the halls, it reeks of Kingdom.","Su partido tropieza con los escombros de un experimento científico que salió mal. Las almas de los muertos vagan por los pasillos, apesta al Reino.","Tu partido se derrumba sobre la rubia de un experimento científico que se equivocó.Las almas de los muertos escalaban las salas, rega del Reino.","Su partido se topó con los escombros de un experimento científico que salió mal las almas de los muertos vagan por los pasillos, huele a Reino.",[],,,
+589,"Your star shines bright, Phoenix.","Tu estrella brilla, Phoenix.","Tu estrella brilla brillante, Phoenix.","Tu estrella brilla brillante, Fénix.",['Phoenix'],True,True,False
+590,Zapped!,¡Zopped!,¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡,¡Se ha aplastado!,[],,,

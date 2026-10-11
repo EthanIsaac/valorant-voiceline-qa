@@ -1,0 +1,91 @@
+line_id,source,option,model,translation,score
+48,Clove's antics stop now.,A,m2m100,La antigüedad de Clove se detiene ahora.,3
+48,Clove's antics stop now.,B,nllb,Las bromas de Clove se detienen ahora.,4
+48,Clove's antics stop now.,C,opus_mt,Las payasadas de Clove se detienen ahora.,5
+50,"Come on, Gekko. Let's get it!",A,opus_mt,"Vamos, Gekko. ¡Vamos!",4
+50,"Come on, Gekko. Let's get it!",B,m2m100,"¡Ven, Gekko, vamos a conseguirlo!",5
+50,"Come on, Gekko. Let's get it!",C,nllb,"Vamos, Gekko, vamos a hacerlo.",5
+53,"Cypher, my condenser cables are missing from the lab again. Put them back please, thank you.",A,opus_mt,"Cypher, mis cables de condensador han desaparecido del laboratorio otra vez.",2
+53,"Cypher, my condenser cables are missing from the lab again. Put them back please, thank you.",B,m2m100,"Cypher, mis cables de condensador están faltando de nuevo del laboratorio. póngalos de vuelta por favor, gracias.",4
+53,"Cypher, my condenser cables are missing from the lab again. Put them back please, thank you.",C,nllb,"Cypher, mis cables de condensador faltan de nuevo en el laboratorio.",2
+74,"Easy, Sage.",A,nllb,"Tranquilo, Sage.",5
+74,"Easy, Sage.",B,opus_mt,"Tranquilo, Sage.",5
+74,"Easy, Sage.",C,m2m100,fácil y sabio.,1
+106,Finished.,A,m2m100,terminado .,4
+106,Finished.,B,opus_mt,Terminado.,4
+106,Finished.,C,nllb,He terminado.,5
+114,"Ghost boy, bye bye!",A,nllb,"Muchacho fantasma, adiós!",4
+114,"Ghost boy, bye bye!",B,m2m100,"Hijo de fantasma, ¡Bienvenido!",2
+114,"Ghost boy, bye bye!",C,opus_mt,"¡Chico fantasma, adiós!",5
+216,I'm... impressed.,A,nllb,Estoy... impresionado.,5
+216,I'm... impressed.,B,m2m100,Estoy... impresionada.,5
+216,I'm... impressed.,C,opus_mt,Estoy... impresionada.,5
+236,Just swag.,A,opus_mt,Sólo swag.,2
+236,Just swag.,B,nllb,Sólo esbozar.,1
+236,Just swag.,C,m2m100,Sólo el swag.,2
+245,Killjoy. You and me until the end.,A,nllb,Tú y yo hasta el final.,2
+245,Killjoy. You and me until the end.,B,opus_mt,"Killjoy, tú y yo hasta el final.",5
+245,Killjoy. You and me until the end.,C,m2m100,Tu y yo hasta el final.,2
+247,Leave me with Viper.,A,opus_mt,Déjame con Viper.,5
+247,Leave me with Viper.,B,m2m100,Dejome con Viper.,5
+247,Leave me with Viper.,C,nllb,Déjame con Viper.,5
+261,Let's go!,A,nllb,¡Vamos a irnos! ¡Vamos a irnos!,3
+261,Let's go!,B,m2m100,¡Vamos a ir!,4
+261,Let's go!,C,opus_mt,¡Vamos!,5
+262,"Let's go, Brim. Ex-Kingdom represent!",A,opus_mt,"Vamos, Brim. ¡El ex Rey representa!",2
+262,"Let's go, Brim. Ex-Kingdom represent!",B,nllb,"¡Vamos, Brim, ex representante del Reino!",5
+262,"Let's go, Brim. Ex-Kingdom represent!",C,m2m100,"¡Vamos, Brim. Ex-Kingdom representa!",3
+291,"MVP me-o! Was this a dream-o? Chale, give me pinch-o!",A,m2m100,"MVP me-o! ¿Esto es un sueño-o? chale, déme pinch-o!",2
+291,"MVP me-o! Was this a dream-o? Chale, give me pinch-o!",B,nllb,"¿Fue un sueño? ¡Chale, dame un pinchazo!",2
+291,"MVP me-o! Was this a dream-o? Chale, give me pinch-o!",C,opus_mt,"¿Esto fue un sueño? ¡Chale, dame un pellizco!",2
+296,Maybe they'll surprise us.,A,m2m100,Quizás nos sorprenderán.,4
+296,Maybe they'll surprise us.,B,nllb,Tal vez nos sorprendan.,5
+296,Maybe they'll surprise us.,C,opus_mt,Tal vez nos sorprendan.,5
+301,Multiple targets Attacker Spawn!,A,nllb,¡Múltiples objetivos del atacante Spawn!,2
+301,Multiple targets Attacker Spawn!,B,opus_mt,Múltiples objetivos Atacante Spawn!,5
+301,Multiple targets Attacker Spawn!,C,m2m100,¡Múltiples objetivos Attacker Spawn!,4
+321,No bother.,A,nllb,No te molestes.,2
+321,No bother.,B,m2m100,No te preocupes.,5
+321,No bother.,C,opus_mt,No te molestes.,2
+369,Phenomenal! We trained for this.,A,opus_mt,"Fenomenal, entrenamos para esto.",5
+369,Phenomenal! We trained for this.,B,nllb,Nos entrenamos para esto.,2
+369,Phenomenal! We trained for this.,C,m2m100,¡Fenomenal! hemos entrenado para esto.,4
+377,Push forward.,A,opus_mt,Empuja hacia adelante.,5
+377,Push forward.,B,m2m100,Push hacia adelante.,3
+377,Push forward.,C,nllb,Empuje hacia adelante.,5
+396,"Sabine, look at the monsters we've become. At least you have flesh to hide your horror.",A,opus_mt,"Sabine, mira los monstruos en los que nos hemos convertido al menos tienes carne para ocultar tu horror.",5
+396,"Sabine, look at the monsters we've become. At least you have flesh to hide your horror.",B,nllb,"Sabine, mira los monstruos que nos hemos convertido, al menos tienes carne para ocultar tu horror.",4
+396,"Sabine, look at the monsters we've become. At least you have flesh to hide your horror.",C,m2m100,"Sabine, mira los monstruos que hemos convertido. al menos tienes carne para ocultar tu horror.",3
+413,"Skye, no matter where you start the fight, we finish it together.",A,opus_mt,"Skye, no importa dónde empieces la pelea, la terminamos juntos.",4
+413,"Skye, no matter where you start the fight, we finish it together.",B,nllb,"Skye, no importa dónde empieces la pelea, la terminaremos juntos.",5
+413,"Skye, no matter where you start the fight, we finish it together.",C,m2m100,"Skye, no importa dónde comience la lucha, lo terminamos juntos.",4
+422,Someone go C.,A,opus_mt,Que alguien vaya a C.,5
+422,Someone go C.,B,nllb,Alguien vaya a C.,5
+422,Someone go C.,C,m2m100,Alguien va a C.,4
+435,Spike is A.,A,opus_mt,Spike es A.,5
+435,Spike is A.,B,nllb,Spike es A.,5
+435,Spike is A.,C,m2m100,Spike es A.,5
+437,Spike is down.,A,nllb,Spike está abajo.,3
+437,Spike is down.,B,opus_mt,Spike ha caído.,5
+437,Spike is down.,C,m2m100,Spike está abajo.,3
+453,Stop them! This is our turf!,A,m2m100,¡Hay que dejarlos! ¡Este es nuestro torfo!,1
+453,Stop them! This is our turf!,B,opus_mt,¡Este es nuestro territorio!,2
+453,Stop them! This is our turf!,C,nllb,¡Esto es nuestro territorio!,2
+457,Take them out before they even pull the trigger.,A,opus_mt,Sácalos antes de que aprieten el gatillo.,3
+457,Take them out before they even pull the trigger.,B,m2m100,Toma de ellos antes de que incluso retire el trigger.,3
+457,Take them out before they even pull the trigger.,C,nllb,Sacalos antes de que apliquen el gatillo.,3
+484,There's a Chamber over there. Guy can't go three steps without bringing all his fancy guns.,A,m2m100,Guy no puede ir tres pasos sin traer todas sus armas de fantasía.,2
+484,There's a Chamber over there. Guy can't go three steps without bringing all his fancy guns.,B,opus_mt,El tipo no puede dar tres pasos sin traer todas sus armas de lujo.,2
+484,There's a Chamber over there. Guy can't go three steps without bringing all his fancy guns.,C,nllb,Un tipo no puede dar tres pasos sin traer todas sus armas de lujo.,2
+486,"There's something about you, KAY/O. Don't know what it is yet, but I like it.",A,opus_mt,"Hay algo en ti, KAY/O. Aún no sé qué es, pero me gusta.",5
+486,"There's something about you, KAY/O. Don't know what it is yet, but I like it.",B,m2m100,"Hay algo sobre usted, KAY/O. No sabe lo que es todavía, pero me gusta.",3
+486,"There's something about you, KAY/O. Don't know what it is yet, but I like it.",C,nllb,"Hay algo en ti, KAY/O. Aún no sé qué es, pero me gusta.",5
+487,There.,A,opus_mt,Ahí.,5
+487,There.,B,m2m100,Y allí.,3
+487,There.,C,nllb,Ahí tienes.,5
+542,We can't take anything with us after this.,A,opus_mt,No podemos llevar nada con nosotros después de esto.,5
+542,We can't take anything with us after this.,B,nllb,No podemos llevar nada con nosotros después de esto.,5
+542,We can't take anything with us after this.,C,m2m100,No podemos tomar nada con nosotros después de esto.,5
+559,"Who else is havin' a great time? Just me? Tsk, ah, I'm gutted!",A,m2m100,"¿Quién más es un gran tiempo?Sólo yo?Tsk, oh, estoy maldito!",3
+559,"Who else is havin' a great time? Just me? Tsk, ah, I'm gutted!",B,opus_mt,¿Quién más lo está pasando bien?,2
+559,"Who else is havin' a great time? Just me? Tsk, ah, I'm gutted!",C,nllb,"¿Quién más se está divirtiendo, sólo yo?",2

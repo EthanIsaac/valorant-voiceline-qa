@@ -1,0 +1,38 @@
+{
+  "seed": 42,
+  "splits_csv": {
+    "url": "https://raw.githubusercontent.com/EthanIsaac/valorant-voiceline-qa/2837dcb342749a346d4370e63545c575ba5c2a07/results/agent_classifier/splits.csv",
+    "sha256": "72b658b97258de7bc3e77a2b88908080dd46be76d0162c8905cceff2c903dd7d"
+  },
+  "test_lines": 591,
+  "candidates": {
+    "opus_mt": {
+      "model": "Helsinki-NLP/opus-mt-en-es"
+    },
+    "m2m100": {
+      "model": "facebook/m2m100_418M",
+      "src_lang": "en",
+      "tgt_lang": "es"
+    },
+    "nllb": {
+      "model": "facebook/nllb-200-distilled-600M",
+      "src_lang": "eng_Latn",
+      "tgt_lang": "spa_Latn"
+    }
+  },
+  "generation": {
+    "num_beams": 4,
+    "max_new_tokens": 128
+  },
+  "rated_lines": 30,
+  "ratings_url": "https://raw.githubusercontent.com/EthanIsaac/valorant-voiceline-qa/main/results/translation/human_ratings.csv",
+  "ratings_found": true,
+  "selection_rule": "highest mean human score; ties within 0.25 go to lowest cpu_ms_per_line",
+  "selected_model": "opus_mt",
+  "versions": {
+    "transformers": "4.57.6",
+    "torch": "2.11.0+cu130"
+  },
+  "gpu": "Tesla T4",
+  "run_at_utc": "2026-10-11T21:39:18+00:00"
+}

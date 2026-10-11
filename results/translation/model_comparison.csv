@@ -1,0 +1,4 @@
+model,model_id,params_millions,terms_preserved,gpu_seconds_test_lines,cpu_load_s,cpu_ms_per_line,cpu_agreement,human_score_mean,human_score_std,share_usable_4_or_5,selected
+opus_mt,Helsinki-NLP/opus-mt-en-es,77.9,0.8767123287671232,85.4,2.74,729.3,1.0,4.033333333333333,1.3256965204630418,0.7,True
+m2m100,facebook/m2m100_418M,483.9,0.7191780821917808,141.1,2.36,3593.3,1.0,3.3666666666666667,1.1885468767200222,0.4666666666666667,False
+nllb,facebook/nllb-200-distilled-600M,615.1,0.8082191780821918,168.6,3.23,4244.6,1.0,3.6666666666666665,1.4223180044375192,0.5666666666666667,False

@@ -1,23 +1,15 @@
 """Performance test: accuracy and runtime of the deployed app on held-out test clips (report §9.4)."""
 
-from pathlib import Path
-
 import streamlit as st
 
 from ui.components import loading_bar
-from ui.resources import get_voiceline_qa
+from ui.resources import TEST_CLIPS_DIR, get_voiceline_qa, load_test_clips
 from voiceline_qa.agents import AGENTS
-from voiceline_qa.evaluation import (EvaluationClip, PerformanceRun, agent_accuracy_by_agent, load_evaluation_set,
-                                     run_performance_test, runtime_by_stage, script_accuracy_by_subset,
-                                     summarize_accuracy, summarize_runtime, summary_table)
+from voiceline_qa.evaluation import (EvaluationClip, PerformanceRun, agent_accuracy_by_agent, run_performance_test,
+                                     runtime_by_stage, script_accuracy_by_subset, summarize_accuracy,
+                                     summarize_runtime, summary_table)
 
-EVALUATION_DIR = Path(__file__).parents[1] / "evaluation"
 RUN_KEY = "performance_run"
-
-
-@st.cache_data
-def load_clips() -> list[EvaluationClip]:
-    return load_evaluation_set(EVALUATION_DIR)
 
 
 def run_with_progress(clips: list[EvaluationClip]) -> PerformanceRun:
@@ -30,7 +22,7 @@ def run_with_progress(clips: list[EvaluationClip]) -> PerformanceRun:
         loading_bar(progress, f"Testing {AGENTS[clip.agent].name} · {clip.file}", f"{index + 1}/{len(clips)}",
                     done_segments=index * agents // len(clips), total_segments=agents)
 
-    run = run_performance_test(qa, clips, EVALUATION_DIR, on_clip_start=show_progress)
+    run = run_performance_test(qa, clips, TEST_CLIPS_DIR, on_clip_start=show_progress)
     progress.empty()
     return run
 
@@ -95,7 +87,7 @@ def show_downloads(run: PerformanceRun) -> None:
                            icon=":material/download:")
 
 
-clips = load_clips()
+clips = load_test_clips()
 agent_count = len({clip.agent for clip in clips})
 st.header("Performance test")
 st.markdown(

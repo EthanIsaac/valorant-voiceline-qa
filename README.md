@@ -9,24 +9,32 @@ ISOM5240 (HKUST) project, with **Riot Games** as the case study. Every VALORANT 
 ## Repository layout
 
 ```
-notebooks/            Google Colab notebooks (fine-tuning and model comparisons)
-results/              metrics produced by the notebooks (CSV/JSON) and the experiment results Excel
+model_development/        how the models were built and chosen (Google Colab)
+  notebooks/              01 agent classifier fine-tuning · 02 speech-to-text comparison
+                          03 Whisper fine-tuning · 04 Spanish subtitle comparison
+  results/                metrics produced by the notebooks (CSV/JSON, SHA-256 fingerprints)
 
-streamlit_app.py      app entry point: page setup, shared layout, navigation
-app_pages/
-  qa_check.py         QA check: a tester checks one recording
-  performance.py      performance test: the app's accuracy on held-out test clips (linked from the footer)
-voiceline_qa/         business layer (no Streamlit): audio loading, the three checks, evaluation
-ui/                   presentation layer: theme, stylesheet, visual components
-tests/                unit tests of the business layer (python -m pytest tests)
+app/                      the Streamlit app deployed on Streamlit Community Cloud
+  streamlit_app.py        entry point: page setup, shared layout, navigation
+  app_pages/              qa_check.py (a tester checks one recording) · performance.py (accuracy and runtime test)
+  voiceline_qa/           business layer (no Streamlit): audio loading, the three checks, evaluation
+  ui/                     presentation layer: theme, stylesheet, visual components
+  test_clips/             104 held-out test clips (4 per agent) with their script lines
+  static/                 images: banner (composed from official agent portraits) and author portrait
+  tests/                  unit tests of the business layer
+  requirements.txt        app dependencies (CPU-only PyTorch)
 
-samples/              five held-out test clips offered as examples in the QA check
-evaluation/           performance-test set: 104 held-out test clips (4 per agent) and their script lines
-static/               app images: banner (composed from official agent portraits) and author portrait
-requirements.txt      app dependencies (CPU-only PyTorch)
+.streamlit/config.toml    app theme and server settings (read from the repository root)
 ```
 
-Run the app locally: `pip install -r requirements.txt && streamlit run streamlit_app.py`
+Run the app from the repository root:
+
+```bash
+pip install -r app/requirements.txt
+streamlit run app/streamlit_app.py
+```
+
+Run the unit tests: `cd app && python -m pytest tests`
 
 ## Dataset
 

@@ -2,8 +2,8 @@
 
 Entry point: page setup, shared layout and navigation. Two workflows:
 - QA check (app_pages/qa_check.py): a tester checks one recording.
-- Performance test (app_pages/performance.py): measures the app's accuracy on held-out test clips; kept out of the
-  tester's navigation and linked from the footer.
+- Performance test (app_pages/performance.py): measures the app's accuracy and runtime on held-out test clips;
+  kept out of the tester's navigation and linked from the footer.
 Business logic lives in voiceline_qa/ and the visual components in ui/.
 """
 

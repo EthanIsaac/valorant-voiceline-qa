@@ -1,6 +1,6 @@
 """Performance of the deployed app on a fixed sample of held-out test clips (report §9.4): accuracy and runtime.
 
-The sample (evaluation/manifest.csv) holds 4 clips per agent drawn with a fixed seed from the English test
+The sample (test_clips/manifest.csv) holds 4 clips per agent drawn with a fixed seed from the English test
 split of notebook 01; none was used to train or select a model. Each clip goes through the same code path as a
 tester's check (decode the audio, then VoiceLineQA.run with the clip's script line), and every stage is timed.
 """

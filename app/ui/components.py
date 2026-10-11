@@ -44,13 +44,6 @@ def author_button() -> None:
         author_dialog()
 
 
-def show_author_once() -> None:
-    """Opens the author dialog the first time a visitor opens the app."""
-    if not st.session_state.get("author_dialog_shown"):
-        st.session_state.author_dialog_shown = True
-        author_dialog()
-
-
 def agent_strip() -> None:
     portraits = "".join(f'<img src="{agent.image_url()}" alt="{agent.name}" title="{agent.name}" loading="lazy">'
                         for agent in AGENTS.values())

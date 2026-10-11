@@ -31,6 +31,9 @@ MAX_UPLOAD_SECONDS = 30       # voice lines are a few seconds; Whisper reads at 
 TRANSLATION_SETTINGS = {"num_beams": 4, "max_new_tokens": 128}   # as evaluated in notebook 04
 
 SAMPLES_DIR = Path(__file__).parent / "samples"
+# Images in static/ are served by Streamlit (server.enableStaticServing) and cached by the browser
+PORTRAIT_URL = "app/static/student_portrait.webp"
+BANNER_URL = "app/static/banner.webp"   # agent line-up composed from official agent portraits (1920 x 600)
 GITHUB_URL = "https://github.com/EthanIsaac/valorant-voiceline-qa"
 
 # Official in-game agent art, served by the community asset CDN (valorant-api.com): label -> (name, asset id, colour)
@@ -150,12 +153,31 @@ def queued(slot, step):
                   f'<span>{step + 1}/{len(STEPS)}</span></div></div>', unsafe_allow_html=True)
 
 
+@st.dialog("Author", width="medium")
+def student_dialog():
+    st.markdown(
+        f'<div class="vq-dossier"><img src="{PORTRAIT_URL}" alt="Ethan Isaac Bautista Trevizo">'
+        '<div class="info"><div class="vq-kicker">Student dossier</div>'
+        '<div class="name">Ethan Isaac<span>Bautista Trevizo</span></div>'
+        '<div class="role">Role · Sentinel <small>(guards voice-line quality)</small></div></div></div>'
+        '<dl class="vq-facts">'
+        "<dt>Course</dt><dd>ISOM5240 · The Hong Kong University of Science and Technology (HKUST)</dd>"
+        "<dt>Project</dt><dd>VALORANT Voice-Line QA &amp; Localization Assistant: checks that a voice-line "
+        "recording comes from the right agent and matches its script word for word, and drafts its Spanish "
+        "subtitle.</dd>"
+        "<dt>Company case</dt><dd>Riot Games (case study; no affiliation with Riot Games)</dd>"
+        f'<dt>Links</dt><dd><a href="https://github.com/EthanIsaac">GitHub</a> · '
+        '<a href="https://huggingface.co/eibautistat">Hugging Face models</a></dd></dl>', unsafe_allow_html=True)
+    if st.button("Start QA", type="primary", icon=":material/play_arrow:", width="stretch"):
+        st.rerun()
+
+
 def footer():
     """Riot's required notice, shown on every page state."""
     st.markdown(
         f'<div class="vq-footer">Voice-Line QA was created under Riot Games\' "Legal Jibber Jabber" policy using assets '
         "owned by Riot Games. Riot Games does not endorse or sponsor this project.<br>"
-        "This is a non-commercial student project for HKUST ISOM5240 and is not an official Riot Games website or tool. "
+        "Non-commercial course project for HKUST ISOM5240; not an official Riot Games website or tool. "
         "Voice lines from the NgThVinh/ValorantAgentVoiceLines dataset; agent art via valorant-api.com. "
         f'Models: <a href="https://huggingface.co/{CLASSIFIER_ID}">agent classifier</a>, '
         f'<a href="https://huggingface.co/{ASR_ID}">speech-to-text</a>, '
@@ -172,8 +194,18 @@ st.markdown("""
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 h1, h2, h3, .vq-display { font-family: 'Anton', sans-serif !important; text-transform: uppercase;
                           letter-spacing: .02em; font-weight: 400 !important; }
-.vq-notice { border: 1px solid #FF465566; background: #FF465514; padding: .5rem .8rem;
-             font-size: .85rem; margin-bottom: 1rem; }
+/* Full-width banner: breaks out of the centred column to the window edges, flush with the top of the page;
+   its text stays aligned with the column (Streamlit's centred layout is 46rem wide) */
+[data-testid="stMainBlockContainer"] { padding-top: 0; }
+[data-testid="stHeader"] { background: transparent; }   /* let the banner run under Streamlit's toolbar */
+[data-testid="stMain"] { overflow-x: hidden; }
+.vq-hero { position: relative; min-height: 300px; display: flex; flex-direction: column; justify-content: flex-end;
+           width: 100vw; margin: -3.75rem 0 1.2rem calc(50% - 50vw);
+           padding: 4rem max(1rem, calc(50vw - 23rem)) 1.4rem; box-sizing: border-box;
+           background-size: cover; background-position: 65% top; border-bottom: 4px solid #FF4655; }
+.vq-hero .vq-title { text-shadow: 0 2px 12px #0F1923cc; }
+.vq-tag { position: absolute; bottom: 1.4rem; right: max(1rem, calc(50vw - 23rem)); background: #0F1923cc; border: 1px solid #ECE8E14d;
+          padding: .15rem .55rem; font-size: .72rem; letter-spacing: .08em; text-transform: uppercase; }
 .vq-kicker { color: #FF4655; font-weight: 700; letter-spacing: .2em; font-size: .8rem; text-transform: uppercase; }
 .vq-title { font-family: 'Anton', sans-serif; font-size: clamp(2.4rem, 8vw, 3.6rem); line-height: 1;
             text-transform: uppercase; margin: .2rem 0 .4rem; }
@@ -216,22 +248,56 @@ h1, h2, h3, .vq-display { font-family: 'Anton', sans-serif !important; text-tran
 @keyframes vq-sweep { from { left: -45%; } to { left: 100%; } }
 @keyframes vq-dots { 0% { content: ""; } 25% { content: "."; } 50% { content: ".."; } 75% { content: "..."; } }
 @media (prefers-reduced-motion: reduce) { .vq-load .seg.active::after, .vq-load .dots::after { animation: none; } }
+.vq-dossier { display: flex; flex-wrap: wrap; align-items: flex-end; gap: .4rem 1rem; padding: .8rem 1rem 0;
+              background: linear-gradient(135deg, #FF4655aa, #1F2731 62%); overflow: hidden;
+              clip-path: polygon(0 0, 100% 0, 100% calc(100% - 18px), calc(100% - 18px) 100%, 0 100%); }
+.vq-dossier img { height: 250px; margin: 0 0 0 -1rem; display: block; }   /* flush with the card's left and bottom edges */
+.vq-dossier .info { flex: 1; min-width: 12rem; padding-bottom: 1rem; }
+.vq-dossier .name { font-family: 'Anton', sans-serif; font-size: 2.3rem; line-height: 1; text-transform: uppercase; }
+.vq-dossier .name span { display: block; color: #FF4655; font-size: 1.6rem; }
+.vq-dossier .role { margin-top: .5rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; font-size: .85rem; }
+.vq-dossier .role small { font-weight: 400; letter-spacing: 0; text-transform: none; opacity: .8; }
+.vq-facts { margin: 1rem 0 .4rem; }
+.vq-facts dt { color: #FF4655; font-weight: 700; letter-spacing: .15em; font-size: .72rem; text-transform: uppercase; }
+.vq-facts dd { margin: 0 0 .7rem; }
+@keyframes vq-glow { 0%, 100% { box-shadow: 0 0 0 0 #FF465500; } 50% { box-shadow: 0 0 22px 6px #FF4655aa; } }
+.vq-steps { margin: .2rem 0 .6rem 1.2rem; padding: 0; } .vq-steps li { margin: .25rem 0; }
+.vq-steps li::marker { color: #FF4655; font-weight: 700; }
 .vq-footer { font-size: .8rem; opacity: .75; border-top: 1px solid #ECE8E133; margin-top: 2rem; padding-top: .8rem; }
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown(
-    '<div class="vq-notice"><b>Educational project, not a Riot Games site.</b> '
-    "Built by a student for the HKUST ISOM5240 course. It is not affiliated with, endorsed by "
-    "or sponsored by Riot Games.</div>", unsafe_allow_html=True)
-
 strip = "".join(f'<img src="{agent_image(k)}" alt="{v[0]}" title="{v[0]}" loading="lazy">' for k, v in AGENTS.items())
 st.markdown(
+    f'<div class="vq-hero" style="background-image: linear-gradient(90deg, #0F1923e6 0%, #0F192366 40%, '
+    f'#0F192300 70%), linear-gradient(0deg, #0F1923 0%, #0F192300 60%), url({BANNER_URL});">'
+    '<span class="vq-tag">Unofficial · educational project</span>'
     '<div class="vq-kicker">VALORANT · audio &amp; localization QA</div>'
-    '<div class="vq-title">Voice-line <span>QA</span></div>'
-    "Check a recorded voice line in one step: <b>who</b> is speaking, whether the recording <b>matches the "
-    "script</b>, and a <b>draft Spanish subtitle</b> for the localization team."
+    '<div class="vq-title">Voice-line <span>QA</span></div></div>'
+    "<p>Checks a VALORANT voice-line recording before release. Select a sample or upload a recording "
+    "to run three checks:</p>"
+    '<ol class="vq-steps">'
+    "<li><b>Right agent:</b> identifies which of the 26 agents is speaking, catching recordings filed under "
+    "the wrong agent.</li>"
+    "<li><b>Matches the script:</b> transcribes the recording and compares it with the script line word by word, "
+    "flagging missing, extra or misheard words.</li>"
+    "<li><b>Spanish subtitle draft:</b> translates the line for localization and flags agent names or callouts "
+    "(A, B, C site) lost in translation.</li></ol>"
     f'<div class="vq-strip">{strip}</div>', unsafe_allow_html=True)
+
+# Author information: shown once when a visitor first opens the app, and on demand afterwards.
+# The button glows until it is clicked for the first time.
+if st.session_state.get("student_info"):
+    st.session_state.student_info_clicked = True
+if not st.session_state.get("student_info_clicked"):
+    st.markdown("<style>.st-key-student_info button { animation: vq-glow 1.6s ease-in-out infinite; }"
+                "@media (prefers-reduced-motion: reduce) { .st-key-student_info button { animation: none; "
+                "box-shadow: 0 0 14px 3px #FF465599; } }</style>", unsafe_allow_html=True)
+if st.button("Author · Ethan Bautista", icon=":material/badge:", type="primary", key="student_info"):
+    student_dialog()
+elif "student_dialog_seen" not in st.session_state:
+    st.session_state.student_dialog_seen = True
+    student_dialog()
 
 # ---------------------------------------------------------------- input
 
@@ -240,7 +306,7 @@ source = st.radio("Voice line", ["Sample from the test set", "Upload a recording
 
 if source == "Sample from the test set":
     options = {f'{AGENTS[r.agent][0]}: "{r.script_line}"': r for r in samples.itertuples()}
-    choice = options[st.selectbox("Sample (a test-set clip, not used in training)", list(options))]
+    choice = options[st.selectbox("Sample voice line (held-out test set, not used in training)", list(options))]
     audio_bytes = (SAMPLES_DIR / choice.file).read_bytes()
     audio_format = "audio/flac"
     expected_agent, default_script = choice.agent, choice.script_line

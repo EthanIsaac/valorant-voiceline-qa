@@ -1,6 +1,6 @@
 # VALORANT Voice-Line QA & Localization Assistant
 
-ISOM5240 (HKUST) project for **Riot Games**. Every VALORANT agent ships with hundreds of voice lines, recorded and localized for many languages. This app checks a voice-line recording automatically:
+ISOM5240 (HKUST) project, with **Riot Games** as the case study. Every VALORANT agent ships with hundreds of voice lines, recorded and localized for many languages, and audio QA testers must check each recording against its script. This app automates that check:
 
 1. **Who is speaking?** A fine-tuned audio classifier identifies which of the 26 agents is speaking.
 2. **What is said?** Speech-to-text transcribes the line so it can be checked against the script.
@@ -14,6 +14,7 @@ results/            metrics produced by the notebooks (CSV/JSON) and the experim
 streamlit_app.py    Streamlit app (deployed on Streamlit Community Cloud)
 requirements.txt    app dependencies (CPU-only PyTorch)
 samples/            five test-set voice lines used as app examples
+static/             app images: banner (composed from official agent portraits) and author portrait
 ```
 
 Run the app locally: `pip install -r requirements.txt && streamlit run streamlit_app.py`
@@ -24,6 +25,6 @@ Run the app locally: `pip install -r requirements.txt && streamlit run streamlit
 
 ## Disclaimer
 
-This is a non-commercial student project for HKUST ISOM5240. It is not an official Riot Games website or tool.
+Non-commercial course project for HKUST ISOM5240. Not an official Riot Games website or tool, and not affiliated with Riot Games.
 
 VALORANT Voice-Line QA was created under Riot Games' "Legal Jibber Jabber" policy using assets owned by Riot Games. Riot Games does not endorse or sponsor this project.

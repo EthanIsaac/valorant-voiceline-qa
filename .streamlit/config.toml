@@ -7,3 +7,4 @@ textColor = "#ECE8E1"
 
 [server]
 maxUploadSize = 10
+enableStaticServing = true   # serves static/ (banner, portrait) as cacheable files

@@ -1,4 +1,4 @@
-"""Performance test: accuracy and runtime of the deployed app on held-out test clips (report §9.4)."""
+"""Performance test: accuracy of the app on held-out test clips (report §9.4)."""
 
 import streamlit as st
 
@@ -6,8 +6,7 @@ from ui.components import loading_bar
 from ui.resources import TEST_CLIPS_DIR, get_voiceline_qa, load_test_clips
 from voiceline_qa.agents import AGENTS
 from voiceline_qa.evaluation import (EvaluationClip, PerformanceRun, agent_accuracy_by_agent, run_performance_test,
-                                     runtime_by_stage, script_accuracy_by_subset, summarize_accuracy,
-                                     summarize_runtime, summary_table)
+                                     script_accuracy_by_subset, summarize_accuracy, summary_table)
 
 RUN_KEY = "performance_run"
 
@@ -53,27 +52,6 @@ def show_accuracy(run: PerformanceRun) -> None:
                                                                             min_value=0, max_value=1)})
 
 
-def show_runtime(run: PerformanceRun) -> None:
-    runtime = summarize_runtime(run.results)
-    st.subheader("Runtime on this server")
-    with st.container(horizontal=True):
-        st.metric("Mean per clip", f"{runtime.mean_seconds_per_clip:.2f} s", border=True,
-                  help="Decode audio + the three checks, per clip")
-        st.metric("Median per clip", f"{runtime.median_seconds_per_clip:.2f} s", border=True)
-        st.metric("95th percentile", f"{runtime.p95_seconds_per_clip:.2f} s", border=True,
-                  help="95% of clips were checked within this time")
-        st.metric("Real-time factor", f"{runtime.real_time_factor:.2f}", border=True,
-                  help="Processing time divided by audio length; below 1 means faster than the audio plays")
-    st.caption(f"Model loading: {run.model_load_seconds:.0f} s, once per server start · whole test: "
-               f"{run.total_seconds / 60:.1f} min · {run.environment['cpu_count']} CPUs · "
-               f"{run.environment['platform']}")
-    st.dataframe(runtime_by_stage(run.results),
-                 column_config={"mean": st.column_config.NumberColumn("Mean (s)", format="%.3f"),
-                                "median": st.column_config.NumberColumn("Median (s)", format="%.3f"),
-                                "p95": st.column_config.NumberColumn("95th percentile (s)", format="%.3f"),
-                                "share": st.column_config.NumberColumn("Share of check", format="percent")})
-
-
 def show_downloads(run: PerformanceRun) -> None:
     with st.expander("All results"):
         st.dataframe(run.results, hide_index=True,
@@ -91,13 +69,12 @@ clips = load_test_clips()
 agent_count = len({clip.agent for clip in clips})
 st.header("Performance test")
 st.markdown(
-    f"Measures the **accuracy** and **runtime** of this deployed app on **{len(clips)} held-out test clips**: "
+    f"Measures the **accuracy** of this app on **{len(clips)} held-out test clips**: "
     f"{len(clips) // agent_count} per agent for all {agent_count} agents, drawn with a fixed seed from the test "
     "split, so no clip was used to train or select a model. Each clip runs through the same code as a QA check "
-    "(decode the audio, identify the agent, transcribe and compare with its script line, translate), and every "
-    "stage is timed on this server's CPU.")
-st.caption(f"{sum(clip.duration_s for clip in clips):.0f} s of audio; the test takes about 5–10 minutes on "
-           "Streamlit Cloud. Keep this tab open until it finishes.")
+    "(decode the audio, identify the agent, transcribe and compare with its script line, translate). "
+    "Accuracy does not depend on the machine, so the test can run locally or on Streamlit Cloud.")
+st.caption(f"{sum(clip.duration_s for clip in clips):.0f} s of audio. Keep this tab open until the test finishes.")
 
 if st.button("Run performance test", type="primary", icon=":material/speed:"):
     st.session_state[RUN_KEY] = run_with_progress(clips)
@@ -105,5 +82,4 @@ if st.button("Run performance test", type="primary", icon=":material/speed:"):
 if RUN_KEY in st.session_state:
     performance_run = st.session_state[RUN_KEY]
     show_accuracy(performance_run)
-    show_runtime(performance_run)
     show_downloads(performance_run)

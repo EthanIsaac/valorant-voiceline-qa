@@ -13,8 +13,8 @@ import soundfile as sf
 
 from voiceline_qa.audio import InvalidRecordingError, load_recording
 from voiceline_qa.config import SAMPLING_RATE
-from voiceline_qa.evaluation import (EvaluationClip, run_performance_test, runtime_by_stage, script_accuracy_by_subset,
-                                     summarize_accuracy, summarize_runtime, summary_table)
+from voiceline_qa.evaluation import (EvaluationClip, run_performance_test, script_accuracy_by_subset,
+                                     summarize_accuracy, summary_table)
 from voiceline_qa.service import VoiceLineQA, split_sentences
 from voiceline_qa.terminology import lost_terms, protected_terms
 
@@ -118,7 +118,7 @@ def test_article_a_is_not_a_site():
 
 # ---------------------------------------------------------------- evaluation
 
-def test_performance_test_measures_accuracy_and_runtime(tmp_path):
+def test_performance_test_measures_accuracy(tmp_path):
     (tmp_path / "clips").mkdir()
     (tmp_path / "clips" / "clip.wav").write_bytes(wav_bytes(1.0))
     clips = [EvaluationClip("clip.wav", "jett", "Let's rush C.", 1.0, True),
@@ -135,12 +135,6 @@ def test_performance_test_measures_accuracy_and_runtime(tmp_path):
     assert accuracy.word_error_rate == pytest.approx(1 / 8)  # 1 error over 2 x 4 normalised words ("let us rush c")
     assert accuracy.clips_with_protected_terms == 2 and accuracy.protected_terms_kept == 1.0
     assert list(script_accuracy_by_subset(run.results).index) == ["Unseen lines", "Seen lines"]
-
-    runtime = summarize_runtime(run.results)
-    assert 0 < runtime.median_seconds_per_clip <= runtime.max_seconds_per_clip
-    assert runtime.real_time_factor == pytest.approx(runtime.mean_seconds_per_clip / 1.0)
-    assert runtime_by_stage(run.results).loc["Whole check", "share"] == pytest.approx(1.0)
-    assert run.total_seconds >= run.results[["seconds_agent", "seconds_script", "seconds_subtitle"]].sum().sum()
 
     summary = summary_table(run).set_index("metric")["value"]
     assert summary["accuracy.agent_accuracy"] == 0.5 and "environment.cpu_count" in summary

@@ -17,8 +17,7 @@ from voiceline_qa.terminology import lost_terms, protected_terms
 class VoiceLineQA:
     """Identifies the agent, checks the recording against its script and drafts the Spanish subtitle."""
 
-    def __init__(self, classifier, speech_recognizer, translator, load_seconds: float = 0.0):
-        self.load_seconds = load_seconds   # time taken to download (first time only) and load the models
+    def __init__(self, classifier, speech_recognizer, translator):
         self._classifier = classifier
         self._speech_recognizer = speech_recognizer
         self._translator = translator
@@ -28,11 +27,9 @@ class VoiceLineQA:
     @classmethod
     def from_pretrained(cls) -> "VoiceLineQA":
         """Downloads (first time only) and loads the three models on CPU."""
-        start = time.perf_counter()
-        models = (pipeline("audio-classification", model=CLASSIFIER_ID, device=-1),
-                  pipeline("automatic-speech-recognition", model=ASR_ID, device=-1),
-                  pipeline("translation", model=TRANSLATOR_ID, device=-1))
-        return cls(*models, load_seconds=time.perf_counter() - start)
+        return cls(pipeline("audio-classification", model=CLASSIFIER_ID, device=-1),
+                   pipeline("automatic-speech-recognition", model=ASR_ID, device=-1),
+                   pipeline("translation", model=TRANSLATOR_ID, device=-1))
 
     def run(self, recording: Recording, script_line: str = "") -> QAReport:
         agent = self.identify_agent(recording)

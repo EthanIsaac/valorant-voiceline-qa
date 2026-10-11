@@ -1,0 +1,12 @@
+# CPU-only PyTorch: Streamlit Community Cloud has no GPU, and the CPU build is far smaller
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.11.0
+transformers==4.57.6
+sentencepiece==0.2.2
+sacremoses==0.2.0
+streamlit==1.64.0
+jiwer==4.0.0
+soundfile==0.14.0
+soxr==1.1.0
+pandas
+numpy

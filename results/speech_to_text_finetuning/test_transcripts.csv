@@ -1,0 +1,1071 @@
+agent,audio_name,spoken_text,reference,seen_in_train,whisper_tiny_pretrained,whisper_base_pretrained,whisper_tiny_finetuned,whisper_base_finetuned
+astra,AstraAllyPhoenixRoundStart,"Eh, Phoenix, chalk it to all this aggrandizement.",eh phoenix chalk it to all this aggrandizement,False,"Hey, Phoenix, chocolates with all this aggrandizement!","Hey, Phoenix, chocolates with all this are grand dice mints.","Hey, Phoenix, chocolates with all this aggrandizement!","Hey, Phoenix, chocolates with all this are grand dice mints."
+astra,AstraAllySageCommend,"Mad love, Sage. Come on, girl. That win's gotta be worth a smile!",mad love sage come on girl that win has got to be worth a smile,False,"Mad love, Sage. Come on, girl. That wind's got to be worth a smile.","Mad love, Sage. Come on girl, that wind's gonna be worth a smile.","Med love, Sage! Come on girl! That wind's gotta be worth a smile!","Mad love, Sage! Come on girl, that wind's gonna be worth a smile!"
+astra,AstraAstralFormNoCharges1,Need more astral stars.,need more astral stars,False,Need more astrostas!,Need more astro-stars?,Need more astral stars.,Need more astral stars.
+astra,AstraAstralFormNoCharges2,Need more astral stars.,need more astral stars,False,Need more astrostas!,Need more astrostars?,Need more astral stars.,Need more astral stars.
+astra,AstraAstralFormReminder1,I got enough time to go into the astral form.,i got enough time to go into the astral form,False,I got enough time to go into the Astro 4.,I got enough time to go into the astrofoam.,I got enough time to go into the astral form?,I got enough time to go into the astral form?
+astra,AstraBarrierDown5,"Oh, eternity blesses us!",0 eternity blesses us,False,"Oh, eternity blesses us!","Oh, eternity blesses us!","Ooo, eternity blesses us!","Ooh, eternity blesses us!"
+astra,AstraCalloutMid1,Mid.,mid,True,MINT!,mid,Mid.,Mid.
+astra,AstraCantUse1,I cannot use that.,i cannot use that,True,I cannot use that.,I cannot use that.,I cannot use that.,I cannot use that.
+astra,AstraCantUse2,I cannot use that.,i cannot use that,True,I cannot use that.,I cannot use that.,I cannot use that.,I cannot use that.
+astra,AstraCaution1,Enemy activity.,enemy activity,False,enemy activity.,Enemy activity.,Enemy activity.,Enemy activity.
+astra,AstraCaution2,Enemy activity.,enemy activity,False,enemy activity!,Enemy activity!,Enemy activity.,Enemy activity.
+astra,AstraEnemyC1,Enemy spotted C.,enemy spotted c,True,Enemy spotted sea!,Enemy spotted sea.,Enemy spotted C.,Enemy spotted C.
+astra,AstraEnemyC2,Enemy spotted C.,enemy spotted c,True,"Enemy spotted, see!","Enemy spotted, C.",Enemy spotted C.,Enemy spotted C.
+astra,AstraEnemyOmenKill,"Ghost boy, bye bye!",ghost boy bye bye,False,"Close boy, bye-bye!","Ghost Boy, buh-bye!","Gulls boy, bye bye!","Close boy, bye bye!"
+astra,AstraEnemyReynaKill,That creature is dead.,that creature is dead,False,That creature is dead.,That creature is dead.,That creature is dead!,That creature is dead!
+astra,AstraEnemySageBarrierDown,Drop that mystic healer!,drop that mystic healer,False,"Drop that, Mr. Killer!",Drop that Mr. Killer!,"Drop that, Mr. Killer!",Dropped that mystic healer!
+astra,AstraFakingC1,I'm faking C.,i am faking c,True,I'm faking sea.,I'm faking sea.,I'm faking C.,I'm faking C.
+astra,AstraFakingC2,I'm faking C.,i am faking c,True,I'm fake and see.,I'm fake and see.,I'm faking C.,I'm faking C.
+astra,AstraHello3,Hello.,hello,True,Hello!,Hello!,Hello!,Hello!
+astra,AstraKill12,Just swag.,just swag,False,Just swag!,Just swag!,Just swag!,Just swag!
+astra,AstraLetsGoC1,Let's go C.,let us go c,True,Let's go see.,Let's go see.,Let's go C.,Let's go C.
+astra,AstraLetsGoC2,Let's go C.,let us go c,True,Let's go see!,Let's go see!,Let's go C.,Let's go C.
+astra,AstraLetsRotate1,Let's rotate.,let us rotate,True,Let's rotate!,Let's rotate!,Let's rotate.,Let's rotate.
+astra,AstraLetsRotate2,Let's rotate.,let us rotate,True,Let's rotate!,Let's rotate!,Let's rotate.,Let's rotate.
+astra,AstraLetsRushC1,Let's rush C.,let us rush c,True,Let's rush sea.,Let's rush see.,Let's rush C.,Let's rush C.
+astra,AstraLetsRushC2,Let's rush C.,let us rush c,True,"Let's rush, see!",Let's rush sea.,Let's rush C.,Let's rush C.
+astra,AstraMatchMVP1,"MVP me-o! Was this a dream-o? Chale, give me pinch-o!",mvp me 0 was this a dream 0 chale give me pinch 0,False,"MVP Mio, was this a dreamer? Charlie can we pinch her?",M-V-P-M-E-O? Was this the dream or... Shall I give me a picture?,"MVP, me-o. Was this a dream-o? Charlie, give me pinch-o!","MVP, Mio. Was this the dream-o? Chale, give me pinch-o!"
+astra,AstraMatchPoint2,"We saw the beginning, and the continuation. Now, the end.",we saw the beginning and the continuation now the end,False,We saw the beginning and the continuation. Now the end.,"We saw the beginning and the continuation. Now, the end.","We saw the beginning and the continuation. Now, the end!","We saw the beginning, and the continuation. Now, the end."
+astra,AstraMatchStartSplit,"I like flowers and stuff, but this place no give flavor. No gold, where's the signs, the bling-blings, come on!",i like flowers and stuff but this place no give flavor no gold where is the signs the bling blings come on,False,"I like flowers and stuff, but this place no gift flavor. No gold! Where's the size? The blame please! Come on!",I like flowers and stuff. But this plays no gift flavor. No gold! Who's the size? The bling bling bling! Come on!,"I like flowers and stuff, but this place no gift flavor. No gold! Where's the size, the plain place, come on!","I like flowers and stuff, but this place no gift flavor. No gold, who's the size, the bling blings, come on!"
+astra,AstraNebulaCast1,Blocking vision.,blocking vision,False,looking vision.,blocking vision.,Blocking vision.,Blocking vision.
+astra,AstraNebulaCast2,Blocking vision.,blocking vision,False,blocking vision!,Blocking Vision!,Blocking vision.,Blocking vision.
+astra,AstraNeedSomeoneMid1,Someone go Mid.,someone go mid,True,Someone go mid!,Someone go mid.,Someone go Mid.,Someone go Mid.
+astra,AstraNeedSomeoneMid2,Someone go Mid.,someone go mid,True,Someone go mid.,Someone go mid.,Someone go Mid.,Someone go Mid.
+astra,AstraPingCaution1,Careful here.,careful here,True,Careful here.,Careful here.,Careful here.,Careful here.
+astra,AstraPingCaution2,Careful here.,careful here,True,Careful here!,Careful here!,Careful here.,Careful here.
+astra,AstraPingSpike1,Spike is here.,spike is here,True,Spike is here!,Spike is here.,Spike is here.,Spike is here.
+astra,AstraPingSpike2,Spike is here.,spike is here,True,Spike is here!,Spike is here!,Spike is here.,Spike is here.
+astra,AstraSpikeDown1,Our spike's down.,our spike is down,True,Our spikes don't.,I'll spikes down.,Our spike's down.,Our spike's down.
+astra,AstraSpikeDown2,Our spike's down.,our spike is down,True,I'll spikes down.,I'll spikes down.,Our spike's down.,Our spike's down.
+astra,AstraSpikePlanted1,Spike planted.,spike planted,True,Spike planted!,Spike planted!,Spike planted.,Spike planted.
+astra,AstraSpikePlanted2,Spike planted.,spike planted,True,Spike planted!,Spike planted!,Spike planted.,Spike planted.
+astra,AstraUltDown1,My ult's not ready.,my ult is not ready,True,My ult's not ready!,My ult's not ready!,My ult's not ready.,My ult's not ready.
+astra,AstraUltDown2,My ult's not ready.,my ult is not ready,True,My odds are not ready.,My old snot's ready.,My ult's not ready.,My ult's not ready.
+breach,BreachAce4,Anyone else want to try me?!,anyone else want to try me,False,Anyone else want to try me?,Anyone else want to try me?,Anyone else want to try me?,Anyone else want to try me?!
+breach,BreachAllyBrimstoneRoundStart,"Hey Brimmy, remind me to play you this riff I recorded once we're done. I-I think it's a winner.",hey brimmy remind me to play you this riff i recorded once we are done i i think it is a winner,False,"Hey, brimmy, remind me to play with this ref I recorded once we're done. I think it's a winner.","Hey, Brimmy! Remind me to play you this riff I recorded once we're done. I think it's a winner.","Hey Brimmy! Remind me to play with this ref I recorded once we're done, I-I think it's a winner.","Hey Brimmy! Remind me to play you this rough I recorded once we're done, I- I think it's a winner."
+breach,BreachAllyJettCommend,"Damn, Jett, have you ever considered a life of crime? I have contacts. Let me know.",damn jett have you ever considered a life of crime i have contacts let me know,False,"Damn, Jet, have you ever considered a life of crime? I have contacts. Let me know.","Damn, Jet, have you ever considered a life of crime? I have contacts. Let me know.","Damn Jett, have you ever considered a life of crime? I have contacts. Let me know.","Damn Jett, have you ever considered a life of crime? I have contacts. Let me know."
+breach,BreachAllyRazeChat,"Oh man, just awful. A tragedy.",0 man just awful a tragedy,False,"Oh man, just awful, a tragedy.","Oh man, just awful tragedy.","Oh man, just awful, a tragedy!","Oh man, just awful, a tragedy!"
+breach,BreachAllySkyeChat,So long as it's leg day!,so long as it is leg day,False,So long as it's leg day!,So long as it's leg day!,So long as it's leg day! Haha!,So long as it's leg day!
+breach,BreachBarrierDown7,Hit them back!,hit them back,False,Hit them back!,Hit them back.,Hit them back!,Hit them back!
+breach,BreachClutch4,Is that the best you've got?,is that the best you have got,True,Is that the best you've got?,Is that the best you've got?,Is that the best you've got?,Is that the best you've got?
+breach,BreachEnemyCypherLastKill,Didn't see me coming.,did not see me coming,False,Didn't see me coming.,Didn't see me coming.,Didn't see me coming.,Didn't see me coming.
+breach,BreachEnemyKilljoyBarrierDown,I'll make that Killjoy cry!,i will make that killjoy cry,False,"Oh, make that killjoy cry!",I'll make that Killjoy cry!,I'll make that Killjoy cry!,I'll make that Killjoy cry!
+breach,BreachEnemyPhoenixMatchStart,Let that Phoenix run his mouth. We'll shut him up soon enough.,let that phoenix run his mouth we will shut him up soon enough,False,Let that Phoenix run as mouth will shut them up soon enough.,Let that phoenix run his mouth. We'll shut them up soon enough.,Let that Phoenix run his mouth. We'll shut them up soon enough.,Let that Phoenix runner's mouth will shut them up soon enough.
+breach,BreachEnemySageBarrierDown,I'll destroy their Sage!,i will destroy their sage,False,I'll destroy their sage.,I'll destroy their sage.,I'll destroy their Sage!,I'll destroy their Sage.
+breach,BreachFaking1,I'm faking.,i am faking,True,I'm ficking!,I'm faking!,I'm faking.,I'm faking!
+breach,BreachFaking2,I'm faking.,i am faking,True,I'm feeking.,I'm faking.,I'm faking.,I'm faking.
+breach,BreachFlawless4,I could've left my arms at home.,i could have left my arms at home,False,I could have left my arms at home.,I could have left my arms at home.,I could have left my arms at home.,I could've left my arms at home!
+breach,BreachLastKill3,We bring enough body bags?,we bring enough body bags,False,We bring enough body bags?,We bring enough body bags?,We bring enough body bags?,We bring enough body bags?
+breach,BreachLastKill5,"Kill everyone, and our job gets a whole lot easier.",kill everyone and our job gets a whole lot easier,False,Kill everyone and our job gets a whole lot easier.,"Kill everyone, and our job gets a whole lot easier.","Kill everyone, and our job gets a whole lot easier.","Kill everyone, and our job gets a whole lot easier."
+breach,BreachLastKillMelee1,"Never been in a knife fight, have you?",never been in a knife fight have you,False,Never been in a knife fight have you?,"Never been in a knife fight, have you?","Never been in a knife fight, have you?","Never been in a knife fight, have you?"
+breach,BreachLurking1,I'm lurking.,i am lurking,True,I'm lurking!,I'm lurking!,I'm lurking.,I'm lurking!
+breach,BreachLurking2,I'm lurking.,i am lurking,True,I'm learning.,I'm lurking.,I'm lurking.,I'm lurking.
+breach,BreachMatchStart7,"I don't need these arms to fight, but they're fun. Might as well use 'em.",i do not need these arms to fight but they are fun might as well use em,False,"I don't need these arms to fight, but they're fun. Might as well use them.","I don't need these arms to fight, but they're fun. Might as well use them.","I don't need these arms to fight, but they're fun. Might as well use them.","I don't need these arms to fight, but they're fun, might as well use them."
+breach,BreachMatchWin1,Hell yeah! Who's up for another?,hell yeah who is up for another,False,Hell yeah! Who's up for another?,Hell yeah! Who's up for another?,Hell yeah! Who's up for another?!,Hell yeah! Who's that poor another?
+breach,BreachNeedSomeoneA1,Someone go A.,someone go a,True,Someone go A.,Someone go A.,Someone go A.,Someone go A.
+breach,BreachNeedSomeoneA2,Someone go A.,someone go a,True,Someone go A.,Someone go A.,Someone go A.,Someone go A.
+breach,BreachNoCharges1,Out of charges.,out of charges,True,Out of charges.,Alt of charges.,Out of charges.,Out of charges.
+breach,BreachPingUtility1,Enemy utility here.,enemy utility here,True,Enemy utility here.,Enemy utility here.,Enemy utility here.,Enemy utility here.
+breach,BreachPingUtility2,Enemy utility here.,enemy utility here,True,enemy utility here.,Enemy utility here.,Enemy utility here.,Enemy utility here.
+breach,BreachRotating1,Rotating.,rotating,True,Rotating.,Rotating.,Rotating.,Rotating.
+breach,BreachRotating2,Rotating.,rotating,True,Rotating.,Rotating.,Rotating.,Rotating.
+breach,BreachRush1,Rush them.,rush them,True,RUSTHM!,Rush them!,Rush them.,Rush them.
+breach,BreachRush2,Rush them.,rush them,True,Rush them!,Rush them!,Rush them.,Rush them.
+breach,BreachSneakB1,Let's sneak B.,let us sneak b,True,Let's sneak beat!,Let's sneak B!,Let's sneak B.,Let's sneak B.
+breach,BreachSneakB2,Let's sneak B.,let us sneak b,True,Let's sneak B!,Let's sneak B!,Let's sneak B.,Let's sneak B.
+breach,BreachSpikeA1,Spike's A.,spike is a,True,Spikes A!,Spikes A!,Spike's A.,Spike's A.
+breach,BreachSpikeA2,Spike's A.,spike is a,True,Spikes A!,Spikes A!,Spike's A.,Spike's A.
+breach,BreachSpikePickedUp1,Got the spike.,got the spike,True,Got the spike?,Got the spike!,Got the spike?,Got the spike!
+breach,BreachSpikePickedUp2,Got the spike.,got the spike,True,Got the spike!,Got the spike!,Got the spike.,Got the spike!
+breach,BreachStackC1,Let's stack C.,let us stack c,True,Let's stack C!,Let's stack C!,Let's stack C.,Let's stack C.
+breach,BreachStackC2,Let's stack C.,let us stack c,True,Let's stack C!,Let's stack C!,Let's stack C.,Let's stack C.
+breach,BreachThanks1,Tack-tack.,tack tack,False,Socktock.,Suck Tuck.,Tock-tock.,Tock-tock.
+breach,BreachThanks2,Tack-tack.,tack tack,False,"Talk, talk, talk.","Talk, touch.",Tuck touch.,Tock-tock!
+brimstone,BrimstoneAce1,Get off my lawn!,get off my lawn,False,Get off my lawn!,Get off my lawn!,Get off my lawn!,Get off my lawn!
+brimstone,BrimstoneAllyBreachCommend,"You did well, Breach. Don't expect a hug.",you did well breach do not expect a hug,False,"You did well, breach. Don't expect a hug.","You did well, Breach. Don't expect a hug.","You did well, Breach. Don't expect a hug.","You did well, Breach. Don't expect a hug."
+brimstone,BrimstoneAllyKAYOMatchStart,"There's something about you, KAY/O. Don't know what it is yet, but I like it.",there is something about you kay 0 do not know what it is yet but i like it,False,"There's something about UKL. Don't know what it is yet, but I like it.","There's something about you, Kale. Don't know what it is yet, but I like it.","There's something about you, KAYL. Don't know what it is yet, but I like it.","There's something about you, Kale. Don't know what it is yet, but I like it."
+brimstone,BrimstoneAllyKilljoyRoundStart,"Killjoy, control your bots! That turret keeps looking at me funny.",killjoy control your bots that turret keeps looking at me funny,False,"Killjoy, control your bots. That turret keeps looking at me funny.","Killjoy, control your bots. That turret keeps looking at me funny.","Killjoy, control your bots. That turret keeps looking at me funny.","Killjoy, control your bots. That turret keeps looking at me funny."
+brimstone,BrimstoneAllyNeonRoundStart,"Let's roll, Neon. Show us what that K-SEC training did for ya.",let us roll neon show us what that k sec training did for ya,False,Let's roll on the on. Show us what that K-sec training did for you.,Let's roll me on. Show us what that K-Sec training did for you.,Let's roll on the on. Show us what that K-sec training did for ya.,"Let's roll, Neon. Show us what that K-Sec training did for ya."
+brimstone,BrimstoneAllyPhoenixCommend,"Phoenix, if you keep pulling stunts like that, you can brag as much as you like.",phoenix if you keep pulling stunts like that you can brag as much as you like,False,"Phoenix, if you keep pulling stunts like that, you can brag as much as you like.","Phoenix, if you keep pulling stunts like that, you can brag as much as you like.","Phoenix, if you keep pulling stunts like that, you can brag as much as you like.","Phoenix, if you keep pulling stunts like that, you can brag as much as you like."
+brimstone,BrimstoneAllyViperBarrierDown,Steady Viper.,steady viper,False,"Steady, Viper.","Steady, Viper.","Steady, Viper.","Steady, Viper."
+brimstone,BrimstoneDefuseComplete2,Sorry to spoil the party.,sorry to spoil the party,False,Sorry to spoil the party.,Sorry to spoil the party.,Sorry to spoil the party.,Sorry to spoil the party.
+brimstone,BrimstoneEnemyCypherRoundStart,So they got a Cypher. He'll see what we want him to see.,so they got a cipher he will see what we want him to see,False,So they got a cipher. He'll see what we want him to see.,So they got a cipher. He'll see what we want him to see.,So they got a Cypher. He'll see what we want him to see.,"So they got a Cypher, he'll see what we want them to see."
+brimstone,BrimstoneEnemyPhoenixMatchStart,"We're fighting a Phoenix? Book your vacations now, this is gonna be exhausting.",we are fighting a phoenix book your vacations now this is going to be exhausting,False,We're fighting a Phoenix? Book your vacations now. This is gonna be exhausting.,We're fighting a phoenix? Book your vacations now. This is gonna be exhausting.,"We're fighting a Phoenix? Book your vacations now, this is gonna be exhausting.","We're fighting a Phoenix? Book your vacations now, this is gonna be exhausting."
+brimstone,BrimstoneFlawless2,Ain't much room for improvement!,aint much room for improvement,False,Ain't much room for improvement.,Ain't much room for improvement.,Ain't much room for improvement.,Ain't much room for improvement.
+brimstone,BrimstoneHeadshot1,Headshot!,headshot,True,Headshot!,Headshot.,Headshot.,Headshot.
+brimstone,BrimstoneHello3,Hello.,hello,True,Hello.,Hello?,Hello!,Hello.
+brimstone,BrimstoneKill3,Goner.,goner,False,Gunner!,Gunner.,Gunner.,Gunner.
+brimstone,BrimstoneKill8,Gotcha.,gotcha,True,Gotcha.,Gotcha.,Gotcha.,Gotcha!
+brimstone,BrimstoneMatchPoint1,"You've earned this win, let's make it official!",you have earned this win let us make it official,False,You've earned this win. Let's make it official.,You've earned this win. Let's make it official.,"You've earned this win, let's make it official!",You've earned this win! Let's make it official!
+brimstone,BrimstoneMatchStart2,They can throw the whole playbook at us. I've seen it all before.,they can throw the whole playbook at us i have seen it all before,False,They can throw the whole playbook at us. I've seen it all before.,They can throw the whole playbook at us. I've seen it all before.,They can throw the whole playbook at us. I've seen it all before.,They can throw the whole playbook at us. I've seen it all before.
+brimstone,BrimstoneMatchStart5,They've got one ugly lookin' crew. No offense to any of us.,they have got one ugly lookin crew no offense to any of us,False,They've got one ugly looking crew. No offense to any of us.,They've got one ugly looking crew. No offense to any of us.,They've got one ugly looking crew. No offense to any of us.,They've got one ugly looking crew. No offense to any of us.
+brimstone,BrimstoneMatchStartDefense1,They picked the wrong day to mess with our world.,they picked the wrong day to mess with our world,False,They picked the wrong day to mess with our world.,They picked the wrong day to mess with our world.,They pick the wrong day to mess with our world.,They picked the wrong day to mess with our world.
+brimstone,BrimstoneMatchStartSplit,I would hate working here. You couldn't pay me to sit at a desk.,i would hate working here you could not pay me to sit at a desk,False,I would hate working here. You couldn't pay me to sit at a desk.,I would hate working here. You couldn't pay me to sit at a desk.,I would hate working here. You couldn't pay me to sit at a desk.,I would hate working here. You couldn't pay me to sit at a desk.
+brimstone,BrimstoneNeedSomeoneMid1,Someone go Mid.,someone go mid,True,Someone go mid.,Someone go mid.,Someone go Mid.,Someone go Mid.
+brimstone,BrimstoneNeedSomeoneMid2,Someone go Mid.,someone go mid,True,Someone go mid.,Someone go mid.,Someone go Mid.,Someone go Mid.
+brimstone,BrimstoneOffer1,"I've got cash, anyone need something?",i have got cash anyone need something,False,"I've got cash, anyone needs something?",I've got cash. Anyone need something?,"I've got cash, anyone need something?","I've got cash, anyone need something?"
+brimstone,BrimstoneOffer2,"I've got cash, anyone need something?",i have got cash anyone need something,False,I've got cash. Anyone need something?,I've got cash. Anyone need something?,"I've got cash, anyone need something?","I've got cash, anyone need something?"
+brimstone,BrimstoneOnMyWay1,On my way.,on my way,True,I'm my way.,On my way.,On my way.,On my way.
+brimstone,BrimstoneOnMyWay2,On my way.,on my way,True,I'm away.,On my way.,On my way.,On my way.
+brimstone,BrimstoneRush1,Rush them.,rush them,True,Rush them!,Rush them.,Rush them.,Rush them.
+brimstone,BrimstoneRush2,Rush them.,rush them,True,Rush them!,Rush them!,Rush them.,Rush them.
+brimstone,BrimstoneSorry1,Sorry.,sorry,True,Sorry.,Sorry.,Sorry.,Sorry.
+brimstone,BrimstoneSorry2,Sorry.,sorry,True,Sorry.,Sorry.,Sorry.,Sorry.
+brimstone,BrimstoneSpikeSpottedDSpawn1,Spike in Defender Spawn.,spike in defender spawn,True,Spike and Defender spawn.,Spike and Defender spawn.,Spike in Defender Spawn.,Spike in Defender Spawn.
+brimstone,BrimstoneSpikeSpottedDSpawn2,Spike in Defender Spawn.,spike in defender spawn,True,Spike and Defender spawn.,Spike and defender spawn.,Spike in Defender Spawn.,Spike in Defender Spawn.
+brimstone,BrimstoneSpreadOut1,Let's spread out.,let us spread out,True,Let's spread out.,Let's spread out.,Let's spread out.,Let's spread out.
+brimstone,BrimstoneSpreadOut2,Let's spread out.,let us spread out,True,Let's spread out.,Let's spread out.,Let's spread out.,Let's spread out.
+brimstone,BrimstoneStickTogether1,Stick together.,stick together,True,Stick together.,Stick together.,Stick together.,Stick together.
+brimstone,BrimstoneStickTogether2,Stick together.,stick together,True,Stick together.,Stick together.,Stick together.,Stick together.
+brimstone,BrimstoneThrifty1,"Any cheaper, and it'd be just me and a bottle of scotch.",any cheaper and it would be just me and a bottle of scotch,False,any cheaper to be just me in a bottle of scotch.,Any cheaper to be just me and a bottle of scotch.,"Any cheaper, to be just me in a bottle of scotch.",Any cheaper to be just me and a bottle of scotch?
+brimstone,BrimstoneWatching1,Watching here.,watching here,True,Watching here.,Watching here.,Watching here.,Watching here.
+brimstone,BrimstoneWatching2,Watching here.,watching here,True,Watching here.,Watching here.,Watching here.,Watching here.
+chamber,ChamberAllyBrimstoneMatchStart2,"Monsieur Brimstone, as promised I have found your next recruit. You are off the hook, as they say. Forgive me for doing your job!",monsieur brimstone as promised i have found your next recruit you are off the hook as they say forgive me for doing your job,False,"Most of your brimstone, as promised I have found your next recruit, you are off the hook as they say. Forgive me for doing your job.","Mercy of Brimstone, as promised I have found your next recruit. You are off-sea hook, as they say. Forgive me for doing your job.","Missy Brimstone, as promised I have found your next recruit. You are off the hook, as they say. Forgive me for doing your job.","Miss you, Brimstone! As promised I have found your next recruit. You are off the hook, as they say. Forgive me for doing your job!"
+chamber,ChamberAllyViperMatchStart2,"Viper, your suit is a little stifling, no? When you go meet the new agent, maybe pack something light, Manila is quite warm this time of year.",viper your suit is a little stifling no when you go meet the new agent maybe pack something light manila is quite warm this time of year,False,"Viper, your suit is a little stifling, no? When you go meet the new agent, maybe pack something light. Manila is quite warm this time of year.","Viper, your suit is a little stifling, no? When you go meet the new agent, maybe pack something light. Manila is quite warm this time of year.","Viper, your suit is a little stifling, no? When you go meet the new agent, maybe pack something light. Manila is quite warm this time of year.","Viper, your suit is a little stifling, no? When you go meet the new agent, maybe pack something light. Manila is quite warm this time of year."
+chamber,ChamberBarrierDown2,Kick them out.,kick them out,False,Kick them out!,Kick them out.,Kick them out.,Kick them out.
+chamber,ChamberCaution1,Someone's close.,someone is close,False,Someone's close.,Someone's close.,Someone's close.,Someone's close.
+chamber,ChamberCaution2,Someone's close.,someone is close,False,Someone's close.,Someone's close.,Someone's close.,Someone's close.
+chamber,ChamberClearThisArea1,Clear here.,clear here,True,Clear here.,Clear here.,Clear here.,Clear here.
+chamber,ChamberClearThisArea2,Clear here.,clear here,True,Clear here.,Clear here.,Clear here.,Clear here.
+chamber,ChamberClutch3,"Did you see their faces? Sorry, I should not laugh.",did you see their faces sorry i should not laugh,False,"Did you seize our faces? Sorry, I should not laugh.","Did you seize our faces? Sorry, I should not laugh.","Did you seize our faces? Sorry, I should not laugh.","Did you seize our faces? Sorry, I should not laugh."
+chamber,ChamberComeback3,Now they are nervous.,now they are nervous,False,Now they are nervous.,Now they are nervous.,Now they are nervous.,Now they are nervous.
+chamber,ChamberEnemyChamberBarrierDown,No loose ends.,no loose ends,False,No loose ends.,No loose ends.,No loose ends.,No loose ends.
+chamber,ChamberFlawless2,How did they think this would end?,how did they think this would end,False,"How did they sink, this would end?",How did they sink this would end?,How did they sink this would end?,How did they think this would end?
+chamber,ChamberGoingB1,Going B.,going b,True,Going B.,Going B.,Going B.,Going B.
+chamber,ChamberGoingB2,Going B.,going b,True,Going B.,Going B.,Going B.,Going B.
+chamber,ChamberHeadshot4,I can't miss!,i can not miss,False,I can't miss.,I can't miss.,I can't miss.,I can't miss.
+chamber,ChamberHealing1,Need healing.,need healing,True,Neat healing.,Neat healing.,Need healing.,Need healing.
+chamber,ChamberHealing2,Need healing.,need healing,True,Need healing.,Need healing.,Need healing.,Need healing.
+chamber,ChamberLetsRushC1,Let's rush C.,let us rush c,True,Let's rush sea.,Let's rush C.,Let's rush C.,Let's rush C.
+chamber,ChamberLetsRushC2,Let's rush C.,let us rush c,True,Let's rush sea!,Let's rush sea.,Let's rush C.,Let's rush C.
+chamber,ChamberLurking1,I'm lurking.,i am lurking,True,I'm lurking.,I'm lurking.,I'm lurking.,I'm lurking.
+chamber,ChamberLurking2,I'm lurking.,i am lurking,True,I'm lurking.,I'm lurking.,I'm lurking.,I'm lurking.
+chamber,ChamberMatchStart3,"If you die today, I will remember you forever. It has been an honor.",if you die today i will remember you forever it has been an honor,False,"If you die today, I will remember you forever. It has been an honor.","If you die today, I will remember you forever. It has been an honor.","If you die today, I will remember you forever. It has been an honor.","If you die today, I will remember you forever. It has been an honor."
+chamber,ChamberMatchStart4,None of this nonsense. We should win big and look good doing it.,none of this nonsense we should win big and look good doing it,False,"None of this, our win is a win nonsense. We should win big and look good doing it.",None of this a win is a win nonsense. We should win big and look good doing it.,"Man of this, our win is a win, none sense. We should win big and look good doing it.","None of this, a win is a win, nonsense. We should win big and look good doing it."
+chamber,ChamberNeedUtilityHere1,Need util here.,need util here,True,Need you till here.,Need you till here.,Need util here.,Need util here.
+chamber,ChamberNeedUtilityHere2,Need util here.,need util here,True,Need you till here.,Need you till here!,Need util here.,Need util here.
+chamber,ChamberPingCaution1,Careful there.,careful there,True,Careful there.,Careful's there.,Careful there.,Careful there.
+chamber,ChamberPingCaution2,Careful there.,careful there,True,Careful there.,Careful there.,Careful there.,Careful there.
+chamber,ChamberRendezvousCantPlace1,Out of range.,out of range,False,Out of range.,Out of range.,Out of range.,Out of range.
+chamber,ChamberRendezvousCantPlace2,Out of range.,out of range,False,Out of range.,Out of range.,Out of range.,Out of range.
+chamber,ChamberRendezvousKill1,Farewell.,farewell,True,There will!,Farewell!,They're well.,They're well!
+chamber,ChamberRendezvousPlaceFirst1,This should do.,this should do,False,This should do.,This should do.,This should do.,This should do.
+chamber,ChamberResurrect,That was unpleasant.,that was unpleasant,False,That was unpleasant.,That was unpleasant.,That was unpleasant.,That was unpleasant.
+chamber,ChamberSneakC1,Let's sneak C.,let us sneak c,True,Let's sneak see.,Let's sneak see.,Let's sneak C.,Let's sneak C.
+chamber,ChamberSneakC2,Let's sneak C.,let us sneak c,True,Let's sneak see.,Let's sneak sea.,Let's sneak C.,Let's sneak C.
+chamber,ChamberSpikeDown1,Spike is down.,spike is down,True,Spike is down.,Spike is down.,Spike is down.,Spike is down.
+chamber,ChamberSpikeDown2,Spike is down.,spike is down,True,Spike is down.,Spike is down.,Spike is down.,Spike is down.
+chamber,ChamberSpikeSpottedASpawn1,Spike in Attacker Spawn.,spike in attacker spawn,True,Spike in to take our spawn.,Spake in to take our spawn!,Spike in Attacker Spawn.,Spike in Attacker Spawn.
+chamber,ChamberSpikeSpottedASpawn2,Spike in Attacker Spawn.,spike in attacker spawn,True,Spiking Attackers spawn.,Spiking attacker spawn.,Spike in Attacker Spawn.,Spike in Attacker Spawn.
+chamber,ChamberStackB1,Let's stack B.,let us stack b,True,Let's stack B.,Let's stack B.,Let's stack B.,Let's stack B.
+chamber,ChamberStackB2,Let's stack B.,let us stack b,True,Let's stack B.,Let's stack B.,Let's stack B.,Let's stack B.
+chamber,ChamberStackMid1,Let's stack Mid.,let us stack mid,True,Let's stack mid.,Let's stack mid.,Let's stack Mid.,Let's stack Mid.
+chamber,ChamberStackMid2,Let's stack Mid.,let us stack mid,True,Let's stack mid!,Let's stack mid!,Let's stack Mid.,Let's stack Mid.
+clove,CloveAce3,Fear me mortals!,fear me mortals,False,Fear me mortals!,Fear me mortals!,Fear me mortals!,Fear me mortals!
+clove,CloveBarrierDown4,Come on then!,come on then,False,Come on in!,Come on in!,Come on then.,Come on in!
+clove,CloveBarrierDown7,I don't quit.,i do not quit,False,I don't quit.,I don't quit.,I don't quit.,I don't quit.
+clove,CloveBarrierDown9,I won't settle for a draw!,i will not settle for a draw,False,I want settle for the draw!,I won't settle for the draw!,I want settle for the draw!,I won't settle for a draw!
+clove,CloveBuying1,I'm gonna buy.,i am going to buy,True,I'm gonna buy.,I'm gonna buy.,I'm gonna buy.,I'm gonna buy.
+clove,CloveBuying2,I'm gonna buy.,i am going to buy,True,I'm gonna buy.,I'm gonna buy.,I'm gonna buy.,I'm gonna buy.
+clove,CloveCantUse1,I can't use that.,i can not use that,True,I can't use that.,I can't use that.,I can't use that.,I can't use that.
+clove,CloveCantUse2,I can't use that.,i can not use that,True,I can't use that.,I can't use that.,I can't use that.,I can't use that.
+clove,CloveCantUseDead1,I can't use that.,i can not use that,True,I can't use that!,I can't use that!,I can't use that.,I can't use that!
+clove,CloveCantUseDead2,I can't use that.,i can not use that,True,I can't use that.,I can't use that.,I can't use that.,I can't use that!
+clove,CloveClutch1,"Brand new, that one!",brand new that one,False,Have you ever had a new that one?,I knew that one.,"Blah, knew that one!","Brah, knew that one!"
+clove,CloveEnemyBreachBarrierDown,Stop their Breach before he stops us.,stop their breach before he stops us,False,Stop their bleach before he stops us.,stop their breach before he stops us.,Stop their Breach before he stops us.,Stop their Breach before he stops us.
+clove,CloveEnemyMid1,Enemy spotted Mid.,enemy spotted mid,True,"Enemy spotted, med.",Enemy spotted med.,Enemy spotted Mid.,Enemy spotted Mid.
+clove,CloveEnemyMid2,Enemy spotted Mid.,enemy spotted mid,True,Enemy spotted med.,"Enemy spotted, med.",Enemy spotted Mid.,Enemy spotted Mid.
+clove,CloveFaking1,I'm faking.,i am faking,True,I'm faking.,I'm faking.,I'm faking.,I'm faking.
+clove,CloveFaking2,I'm faking.,i am faking,True,I'm faking.,I'm faking!,I'm faking.,I'm faking.
+clove,CloveHeadshot4,No bother.,no bother,False,No bother!,No bother!,No bother.,No bother.
+clove,CloveHoldingPosition1,Holding position.,holding position,True,Holding position.,Holding position.,Holding position.,Holding position.
+clove,CloveHoldingPosition2,Holding position.,holding position,True,Holding position.,Holding position.,Holding position.,Holding position.
+clove,CloveKill2,Have a kip!,have a kip,False,Have a kep!,of a cat.,Have a kip!,Have a cat!
+clove,CloveLastKill2,"Don't get back up, sweetheart.",do not get back up sweetheart,False,"Don't get back up, sweetheart!",Don't get back up sweetheart.,"Don't get back up, sweetheart!","Don't get back up, sweetheart!"
+clove,CloveLead2,"I feel bad for them, I really do. Just not enough to stop winning.",i feel bad for them i really do just not enough to stop winning,False,"I feel bad for them, I really do. Just not enough to stop winning.",I feel bad for them. I really do. Just not enough to stop winning.,"I feel bad for them, I really do. Just not enough to stop winning?","I feel bad for them, I really do. Just not enough to stop winning!"
+clove,CloveLetsRush1,Let's rush them.,let us rush them,True,Let's rush them!,Let's rush them!,Let's rush them.,Let's rush them.
+clove,CloveLetsRush2,Let's rush them.,let us rush them,True,Let's rush them!,Let's rush them!,Let's rush them.,Let's rush them.
+clove,CloveMatchPoint2,"It's been grand, but I've got places to avoid and people to ignore, so let's finish this thing!",it has been grand but i have got places to avoid and people to ignore so let us finish this thing,False,"It's been grand, but I've got places to avoid and people to ignore, so let's finish this hang.","It's been grand, but I've got places to avoid and people to ignore, so let's finish this hang.","Let's be grand, but I've got places to avoid and people to ignore, so let's finish this hang.","It's been grand, but I've got places to avoid and people to ignore, so let's finish this hang."
+clove,CloveMatchStart9,"Wait, wait, wait. I have a rock in my shoe. Nice, free rock.",wait wait wait i have a rock in my shoe nice free rock,False,"Wait, wait, wait. Other rock in my shoe. Nice. Free rock.","Wait, wait, wait, have a rock in my shoe. Nice, free rock.","Wait, wait, wait, other rock in my shoe. Nice, free rock.","Wait wait wait, ever rock in my shoe? Nice, free rock."
+clove,CloveMatchStartFracture,"Your party stumbles upon the rubble of a science experiment gone wrong. The souls of the dead wander the halls, it reeks of Kingdom.",your party stumbles upon the rubble of a science experiment gone wrong the souls of the dead wander the halls it reeks of kingdom,False,Your party stumbles upon the rubble of a science experiment gone wrong. The souls of the dead wander the halls at reeks of kingdom.,"Your party stumbles upon the rubble of a science experiment gone wrong. The souls of the dead wander the halls, at reeks of kingdom.","Your party stumbles upon the rubble of a science experiment gone wrong. The souls of the dead wonder the halls, at ricks of Kingdom.","Your party stumbles upon the rubble of a science experiment gone wrong. The souls of the dead wander the halls, at reeks of Kingdom."
+clove,CloveMeleeKill1,Knock knock.,knock knock,True,"No, knock!",Knock knock!,Knock knock!,Knock knock!
+clove,CloveNeedSomeoneA1,Someone go A.,someone go a,True,Someone go A.,Someone go eat.,Someone go A.,Someone go A.
+clove,CloveNeedSomeoneA2,Someone go A.,someone go a,True,Someone go away!,Someone go away!,Someone go A.,Someone go A.
+clove,ClovePlantSpike1,Plant the spike!,plant the spike,True,Plant the spike!,Plant the spike!,Plant the spike!,Plant the spike!
+clove,ClovePlantSpike2,Plant the spike!,plant the spike,True,Plant the spike.,Plant the spike.,Plant the spike!,Plant the spike!
+clove,ClovePush1,Let's push.,let us push,True,Let's push.,Let's push!,Let's push.,Let's push.
+clove,ClovePush2,Let's push.,let us push,True,Let's push!,Let's push!,Let's push.,Let's push.
+clove,CloveRoundStart9,"Outside of this gig, immortality doesn't have as many day to day benefits as you think.",outside of this gig immortality does not have as many day to day benefits as you think,False,"Outside of this gig, immortality doesn't have as many day-to-day benefits as you'd think.","Outside of this gig, immortality doesn't have as many day-to-day benefits as you think.","Oops, I do this gig. In mortality, doesn't have as many day-to-day benefits as you think.","Oat side of this gig, immortality doesn't have as many day-to-day benefits as you think."
+clove,CloveRoundWon3,Simple and clean! Well done!,simple and clean well done,False,Simple and clean. Well done.,Simple and clean! Well done!,Simple and clean! Well done!,Simple and clean! Well done.
+clove,CloveSpikeC1,Spike's C.,spike is c,True,Spike C!,Spike C!,Spike's C.,Spike's C.
+clove,CloveSpikeC2,Spike's C.,spike is c,True,Spikes! See!,Spikes See!,Spike's C.,Spike's C.
+clove,CloveSpikePlanted1,Spike planted.,spike planted,True,Spike planted.,Spike planted.,Spike planted.,Spike planted.
+clove,CloveSpikePlanted2,Spike planted.,spike planted,True,Spike planted!,Spike planted!,Spike planted.,Spike planted.
+clove,CloveStackB1,Let's stack B.,let us stack b,True,Let's stack B.,Let's stack B.,Let's stack B.,Let's stack B.
+clove,CloveStackB2,Let's stack B.,let us stack b,True,Let's stock B.,Let's Stock Be!,Let's stack B.,Let's stack B.
+clove,CloveStickTogether1,Stick together.,stick together,True,Stick together.,Stick together.,Stick together.,Stick together.
+clove,CloveStickTogether2,Stick together.,stick together,True,Stick together!,Stick together!,Stick together.,Stick together.
+clove,CloveUltKill3,Think I'll stay!,think i will stay,False,"Thank you, Steve.",Think I'll stay.,Think I'll stay.,Think I'll stay.
+cypher,CypherAce2,"Ah, you forget. I've always been a killer.",ah you forget i have always been a killer,False,Are you forget? I've always been a killer.,"Are you forget, I'm always being a killer.",Are you forget? I've always been a killer.,Are you forget? I've always been a killer.
+cypher,CypherAllyKilljoyChat,"Oh, oh dear no sweetheart! We must protect you.",00 dear no sweetheart we must protect you,False,"Oh, oh dear, no sweetheart! We must protect you!","Oh, oh dear, no sweetheart! We must protect you!","Oh, oh they are no sweetheart! We must protect you!","Oh, oh dear, no, sweetheart! We must protect you!"
+cypher,CypherAllyPhoenixRoundStart,"Phoenix! Our little star, keep that furnace burning, okay?",phoenix our little star keep that furnace burning okay,False,"Phoenix, our little star. Keep that furnace burning, okay?","Phoenix, our little star. Keep that furnace burning, okay?","Phoenix, our little star. Keep that furnace burning, okay?","Phoenix, our little star. Keep that furnace burning okay?"
+cypher,CypherAllyReynaCommend,"Reyna, jeez! Leave some for the rest of us! Or don't! I'm-I-I am sorry.",reyna jeez leave some for the rest of us or do not i am i i am sorry,False,Rain a cheese. Leave some for the rest of us. Or don't. I am sorry.,"Rain a cheese, leave some for the rest of us. Or don'ts. I am sorry.","Reyna, Jeez! Leave some for the rest of us! Or don't, so I'm sorry.","Reyna, geez! Leave some for the rest of us! Or don'ts! Hehe, I-I am sorry."
+cypher,CypherAllyViperChat,"You know, Viper, the name Sabine really fits you.",you know viper the name sabine really fits you,False,"You know, Viper, the name's Sabine really fits you.","You know, Viper, the name Sabine really fits you.","You know, Viper? The name's Sabine, really fits you.","You know Viper, the name Sabine really fits you."
+cypher,CypherClearThisArea1,Clear this area.,clear this area,True,clear this area.,Clear this area.,Clear this area.,Clear this area.
+cypher,CypherClearThisArea2,Clear this area.,clear this area,True,clear this area.,Clear this area.,Clear this area.,Clear this area.
+cypher,CypherDefuseSpike1,Defuse the spike!,defuse the spike,True,diffuse the spike.,Defuse the spike.,Defuse the spike!,Defuse the spike!
+cypher,CypherDefuseSpike2,Defuse the spike!,defuse the spike,True,If you use the spike.,if you use the spike.,If you use the spike.,Defuse the spike!
+cypher,CypherEnemiesC1,Many enemies C!,many enemies c,True,Many enemies see.,Many enemies see.,Many enemies C!,Many enemies C!
+cypher,CypherEnemiesC2,Many enemies C!,many enemies c,True,Many enemies see.,Many enemies see.,Many enemies C!,Many enemies C!
+cypher,CypherEnemyPhoenixLastKill,No rebirth for you.,no rebirth for you,False,No rebirth for you.,Nor rebirth for you.,No rebirth for you.,No rebirth for you.
+cypher,CypherEnemySageKill,Healer killed.,healer killed,False,Killer killed.,Killer killed.,Healer killed.,Healer killed.
+cypher,CypherEnemyYoruRoundStart,"Remember, the rift walker is over there. Never think you're safe.",remember the rift walker is over there never think you are safe,False,"Remember, the Riftwalker is over there. Never think you're safe.","Remember, the Riftwalker is over there. Never think you're safe.","Remember, the rift walker is over there. Never think you're safe.","Remember, the rift walker is over there. Never think you're safe."
+cypher,CypherFallBack1,Fall back.,fall back,True,Fall back.,Fall back.,Fall back.,Fall back.
+cypher,CypherFallBack2,Fall back.,fall back,True,Fall back.,Fall back.,Fall back.,Fall back.
+cypher,CypherFlawless3,No one left to send a message? Oh well,no one left to send a message 0 well,False,No one left to send a message. Oh well.,No one left to send a message. Oh well.,"Hehehe, no one left to send a message. Oh well.",Haha! No one left to send a message! Oh well.
+cypher,CypherGoHere1,Let's go here.,let us go here,True,Let's go here.,Let's go here.,Let's go here.,Let's go here.
+cypher,CypherGoHere2,Let's go here.,let us go here,True,Let's go here.,Let's go here.,Let's go here.,Let's go here.
+cypher,CypherHeadshot3,Eagle-eyed.,eagle eyed,False,Eagle-eyed.,Eagle-eyed.,Eagle-eyed.,Eagle-eyed.
+cypher,CypherHeadshot5,Trick shot.,trick shot,True,Thanks for watching!,Trick shots.,Trick shots.,Trick shots.
+cypher,CypherKill2,Put down.,put down,True,Put down.,Put down.,Put down.,Put down.
+cypher,CypherLastKill1,"Oops, no one to interrogate!",oops no one to interrogate,False,Oops. No one to interrogate.,Oops. No one to interrogate.,"Oops, no one to interrogate.","Oops, no one to interrogate."
+cypher,CypherLastKill2,Squashed the last bug.,squashed the last bug,False,Squash the last bug.,Squash the last bug.,Squash the last bug!,Squash the last bug.
+cypher,CypherLetsGoA1,Let's go A.,let us go a,True,Let's go A.,Let's go A!,Let's go A.,Let's go A.
+cypher,CypherLetsGoA2,Let's go A.,let us go a,True,Let's go A.,Let's go A.,Let's go A.,Let's go A.
+cypher,CypherLetsGoHere1,Let's go here.,let us go here,True,Let's go here.,Let's go here.,Let's go here.,Let's go here.
+cypher,CypherLetsGoHere2,Let's go here.,let us go here,True,Let's go here.,Let's go here.,Let's go here.,Let's go here.
+cypher,CypherLowHP2,"Ugh, I hate visiting underground doctors.",ugh i hate visiting underground doctors,False,I hate visiting underground doctors.,I hate visiting underground doctors.,"Ugh, I hate visiting underground doctors.","Ugh, I hate visiting underground doctors."
+cypher,CypherMatchPoint1,I saw their desperation. Let's use that.,i saw their desperation let us use that,False,I saw the desperation. Let's use that.,I saw the desperation. Let's use that.,I saw the desperation. Let's use that.,I saw the desperation. Let's use that.
+cypher,CypherOnMyWay1,On my way.,on my way,True,on my way.,on my way.,On my way.,On my way.
+cypher,CypherOnMyWay2,On my way.,on my way,True,on my way.,on my way.,On my way.,On my way.
+cypher,CypherPick,Nothing stays hidden from me. Nothing.,nothing stays hidden from me nothing,False,Nothing stays hidden from me. Nothing.,Nothing stays hidden from me. Nothing.,Nothing stays hidden from me. Nothing.,Nothing stays hidden from me. Nothing.
+cypher,CypherPlaceUtility4,That goes there.,that goes there,False,Let's go there.,That goes there.,Let's go there.,That goes there.
+cypher,CypherPlaySlow1,Let's play slow.,let us play slow,True,Let's play slow.,Let's play slow.,Let's play slow.,Let's play slow.
+cypher,CypherPlaySlow2,Let's play slow.,let us play slow,True,Let's play slow.,Let's play slow.,Let's play slow.,Let's play slow.
+cypher,CypherSpikeDown1,Our spike carrier is killed.,our spike carrier is killed,False,Our spike carrier is killed.,Our spike carrier is killed.,Our spike carrier is killed.,Our spike carrier is killed.
+cypher,CypherSpikeDown2,Our spike carrier is killed.,our spike carrier is killed,False,Our spike carrier is killed.,Our spy carrier is killed.,Our spike carrier is killed.,Our spike carrier is killed.
+cypher,CypherThanks1,My thanks.,my thanks,False,My thanks.,My thanks.,My thanks.,My thanks.
+cypher,CypherThanks2,My thanks.,my thanks,False,My thanks.,My thanks.,My thanks.,My thanks.
+cypher,CypherThanks3,My thanks.,my thanks,False,"Bye, thanks.",May thanks.,My thanks.,My thanks.
+cypher,CypherWatching1,Watching this spot.,watching this spot,True,watching this spot.,watching this spot.,Watching this spot.,Watching this spot.
+cypher,CypherWatching2,Watching this spot.,watching this spot,True,Watching this spot.,Watching this spot.,Watching this spot.,Watching this spot.
+deadlock,DeadlockAce4,Is there no one else?,is there no one else,False,Is there no one else?,Is there no one else?,Is there no one else?,Is there no one else?!
+deadlock,DeadlockAllyFadeCommend,"Fade, now you're just showing off.",fade now you are just showing off,False,"Fade, now you're just showing off.","Fade, now you're just showing off.","Fade, now you're just showing off.","Fade, now you're just showing off."
+deadlock,DeadlockAllyKAYOCommend,"Technology at its finest, well done KAY/O.",technology at its finest well done kay 0,False,"technology at its finest. Well done, KO.","technology at its finest. Well done, KO.","Technology at its finest. Well done, KAYO!","Technology at its finest. Well done, KAY-O!"
+deadlock,DeadlockAllySkyeMatchStart,"Skye, no matter where you start the fight, we finish it together.",skye no matter where you start the fight we finish it together,False,"Sky, no matter where you start the fight, we finish it together.","Skye, no matter where you start the fight, we finish it together.","Skye, no matter where you start the fight, we finish it together.","Skye, no matter where you start the fight, we finish it together."
+deadlock,DeadlockBarrierMeshCast1,Blocking movement.,blocking movement,False,He's walking movement.,blocking movement.,Blocking movement.,Blocking movement.
+deadlock,DeadlockBarrierMeshCast3,Blocking movement.,blocking movement,False,Blocking movement!,blocking movement.,Blocking movement.,Blocking movement.
+deadlock,DeadlockBarrierMeshUnviable1,Deployment failed.,deployment failed,False,Deployment failed.,Deployment failed.,Deployment failed!,Deployment failed.
+deadlock,DeadlockBarrierMeshUnviable2,Deployment failed.,deployment failed,False,The employment failed.,Deployment failed.,Deployment failed.,Deployment failed.
+deadlock,DeadlockEncouraging1,We can do this.,we can do this,True,We can do this!,We can do this!,We can do this.,We can do this.
+deadlock,DeadlockEncouraging2,We can do this.,we can do this,True,We can do this.,We can do this.,We can do this.,We can do this.
+deadlock,DeadlockEncouraging3,We can do this.,we can do this,True,We can do this!,We can do this.,We can do this.,We can do this.
+deadlock,DeadlockEnemiesASpawn1,Multiple targets Attacker Spawn!,multiple targets attacker spawn,True,Multiple targets attack respond.,Multiple targets attack respawn.,Multiple targets Attacker Spawn!,Multiple targets Attacker Spawn!
+deadlock,DeadlockEnemiesASpawn2,Multiple targets Attacker Spawn!,multiple targets attacker spawn,True,Multiple targets attack your spawn.,Multiple targets attack or spawn.,Multiple targets Attacker Spawn!,Multiple targets Attacker Spawn!
+deadlock,DeadlockEnemiesMid1,Multiple targets Mid!,multiple targets mid,True,"Multiple targets, mid.","Multiple targets, mid.",Multiple targets Mid!,Multiple targets Mid!
+deadlock,DeadlockEnemiesMid2,Multiple targets Mid!,multiple targets mid,True,"Multiple targets, mid.","Multiple targets, MIG!",Multiple targets Mid!,Multiple targets Mid!
+deadlock,DeadlockFakingC1,I'm faking C.,i am faking c,True,I'm faking sea.,I'm faking sea.,I'm faking C.,I'm faking C.
+deadlock,DeadlockFakingC2,I'm faking C.,i am faking c,True,I'm faking sea.,I'm faking sea.,I'm faking C.,I'm faking C.
+deadlock,DeadlockGoingB1,Going B.,going b,True,Going B.,Going B.,Going B.,Going B.
+deadlock,DeadlockGoingB2,Going B.,going b,True,Going B.,Going B.,Going B.,Going B.
+deadlock,DeadlockHeadshot2,Good riddance.,good riddance,False,Good riddance!,Good riddance.,Good riddance.,Good riddance.
+deadlock,DeadlockKill10,Ha det bra.,ha det bra,False,Hollager!,Hologra!,Hologra.,Hologra.
+deadlock,DeadlockKill5,Target down.,target down,True,Target down!,Target down.,Target down.,Target down.
+deadlock,DeadlockMatchStart3,The greatest battles ever fought are written in storybooks. May they write about this one.,the greatest battles ever fought are written in storybooks may they write about this one,False,The greatest battles ever fought are written in storybooks. May they write about this one.,The greatest battles ever fought are written in storybooks. Made they write about this one.,The greatest battles ever fought are written in storybooks. May they write about this one.,The greatest battles ever fought are written in storybooks. Made they write about this one.
+deadlock,DeadlockMatchStartIcebox,"The crisp air, the crunch of ice, reminds me of home.",the crisp air the crunch of ice reminds me of home,False,"The crisp air, the crunch of ice, reminds me of home.",The crisp air. The crunch of ice. Reminds me of home.,"Ugh, the crisp air. The crunch of ice reminds me of home.","Oh, the crisp air, the crunch of ice. Reminds me of home."
+deadlock,DeadlockMatchWin1,This is our victory.,this is our victory,False,This is our victory.,This is our victory.,This is our victory.,This is our victory.
+deadlock,DeadlockNeedSomeoneA1,Someone go A.,someone go a,True,Someone go A.,Someone go A!,Someone go A.,Someone go A.
+deadlock,DeadlockNeedSomeoneA2,Someone go A.,someone go a,True,Someone go A.,Someone go A.,Someone go A.,Someone go A.
+deadlock,DeadlockPlayForPicks1,Play for picks.,play for picks,True,Play for picks.,Play for picks.,Play for picks.,Play for picks.
+deadlock,DeadlockPlayForPicks2,Play for picks.,play for picks,True,Play for picks.,Play for picks.,Play for picks.,Play for picks.
+deadlock,DeadlockSorry1,Sorry.,sorry,True,Sorry.,Sorry.,Sorry.,Sorry.
+deadlock,DeadlockSorry2,Sorry.,sorry,True,Sorry.,Sorry.,Sorry.,Sorry.
+deadlock,DeadlockSorry3,Sorry.,sorry,True,Sorry.,Sorry.,Sorry.,Sorry.
+deadlock,DeadlockSpikeSpottedB1,Spike spotted B.,spike spotted b,True,Spike spotted B.,Spike spotted B.,Spike spotted B.,Spike spotted B.
+deadlock,DeadlockSpikeSpottedB2,Spike spotted B.,spike spotted b,True,Spike spotted B.,Spike spotted B.,Spike spotted B.,Spike spotted B.
+deadlock,DeadlockSpikeSpottedMid1,Spike spotted Mid.,spike spotted mid,True,Spike spotted mid.,Spike spotted mid.,Spike spotted Mid.,Spike spotted Mid.
+deadlock,DeadlockSpikeSpottedMid2,Spike spotted Mid.,spike spotted mid,True,Spike spotted mid.,Spike spotted mid.,Spike spotted Mid.,Spike spotted Mid.
+deadlock,DeadlockUltMissed1,Nothing there.,nothing there,False,Nothing there.,Nothing there.,Nothing there.,Nothing there.
+deadlock,DeadlockUltMissed2,Nothing there.,nothing there,False,Nothing there.,Nothing there.,Nothing there.,Nothing there.
+fade,FadeAllyCypherRoundStart,"You have such a way with information, Cypher. After this, let's trade notes.",you have such a way with information cipher after this let us trade notes,False,"You have such a way with information cipher. After this, let's trade notes.","You have such a way with information cipher. After this, let's trade notes.","You have such a way with information, Cypher. After this, let's trade notes.","You have such a way with information, Cypher. After this, let's trade notes."
+fade,FadeAllyOmenMatchStart,"Omen, with me. Nightmare thrives in the dark.",omen with me nightmare thrives in the dark,False,"Omen, with me, nightmare thrives in the dark.","Omen, with me! Nightmare thrives in the dark.",Omen with me. Nightmare thrives in the dark.,"Omen, with me! Nightmare thrives in the dark."
+fade,FadeBarrierDown1,Push them back!,push them back,False,Push them back.,Push them back!,Push them back.,Push them back.
+fade,FadeBarrierDown2,They are terrified.,they are terrified,False,They are terrified.,They are terrified.,They are terrified.,They are terrified.
+fade,FadeBarrierDown9,"Give me a challenge, ya?",give me a challenge ya,False,"Give me a challenge, ya!","Give me a challenge, ya.","Give me a challenge, ya?","Give me a challenge, yeah?"
+fade,FadeBuying1,I will buy.,i will buy,False,I will bye.,I will bye.,I will buy.,I will buy.
+fade,FadeBuying2,I will buy.,i will buy,False,I will bye.,I will buy.,I will buy.,I will buy.
+fade,FadeComeback1,You see? There's still plenty of fun to be had.,you see there is still plenty of fun to be had,False,"You see, there's still plenty of fun to be had.","You see, there's still plenty of fun to be had.",You see? There's still plenty of fun to be had.,You see? There's still plenty of fun to be had.
+fade,FadeCommend1,Not bad.,not bad,True,Not bad.,Not bad.,Not bad.,Not bad.
+fade,FadeCommend2,Not bad.,not bad,True,Not bad.,Not bad!,Not bad.,Not bad.
+fade,FadeCommend3,Not bad.,not bad,True,Not bad.,Not bad.,Not bad.,Not bad.
+fade,FadeDefuseComplete1,"Push a button, save the day, easy.",push a button save the day easy,False,"Pusha button, say the day, easy.","Push a button, save the day, easy.","Push a button, say the day, easy.","Push a button, save the day, easy."
+fade,FadeEncouraging1,We've got this.,we have got this,True,We've got this.,We've got this.,We've got this.,We've got this.
+fade,FadeEncouraging2,We've got this.,we have got this,True,We've got this.,We've got this.,We've got this.,We've got this.
+fade,FadeEncouraging3,We've got this.,we have got this,True,We've got this.,We've got this.,We've got this.,We've got this.
+fade,FadeEnemiesASpawn1,Enemies Attacker Spawn!,enemies attacker spawn,True,enemies attack respond,Enemies attack or spawn.,Enemies Attacker Spawn!,Enemies Attacker Spawn!
+fade,FadeEnemiesASpawn2,Enemies Attacker Spawn!,enemies attacker spawn,True,"enemies, attack or spawn.",Enemies. Attack or spawn.,"Enemies, Attacker Spawn.",Enemies Attacker Spawn!
+fade,FadeEnemyFadeKill,"Silence, dream seer!",silence dream seer,False,"Silence, Dreamseer.","Silence, Dreamseer.","Silence, dream's here.","Silence, dream seer."
+fade,FadeEnemyYoruBarrierDown,Yoru can't hide from me.,yoru can not hide from me,False,Eurocans hike from me.,Yoro can't hide from me.,Yoru can't hide from me.,Yoru can't hide from me.
+fade,FadeFakingC1,I'm faking C.,i am faking c,True,I'm faking sea.,I'm faking sea.,I'm faking C.,I'm faking C.
+fade,FadeFakingC2,I'm faking C.,i am faking c,True,I'm faking sea.,I'm faking sea.,I'm faking C.,I'm faking C.
+fade,FadeLead3,You don't need nightmare powers to see them shaking.,you do not need nightmare powers to see them shaking,False,You don't need nightmare powers to see them shaking.,You don't need nightmare powers to see them shaking.,You don't need nightmare powers to see them shaking.,You don't need nightmare powers to see them shaking.
+fade,FadeLetsGoC1,Let's go C.,let us go c,True,Let's go see.,Let's go see.,Let's go C.,Let's go C.
+fade,FadeLetsGoC2,Let's go C.,let us go c,True,Let's go see.,Let's go see.,Let's go C.,Let's go C.
+fade,FadeLetsRotate1,Let's rotate.,let us rotate,True,Let's rotate!,Let's rotate.,Let's rotate.,Let's rotate.
+fade,FadeLetsRotate2,Let's rotate.,let us rotate,True,Let's rotate.,Let's rotate.,Let's rotate.,Let's rotate.
+fade,FadeNo1,No.,no,True,No.,No.,No.,No.
+fade,FadePingGun1,Weapon here.,weapon here,True,Whoopin' here.,Weapon here.,Whoopin' here.,Weapon here.
+fade,FadePingGun2,Weapon here.,weapon here,True,We've been here.,Weapon here.,Wapping here.,Weapon here.
+fade,FadeRoundStart1,"One dream ends, another begins.",one dream ends another begins,False,"One dream ends, another begins.","One dream ends, another begins.","One dream ends, another begins.","One dream ends, another begins."
+fade,FadeRoundWon2,Keep hitting them like that and this job is done.,keep hitting them like that and this job is done,False,Keep hitting them like that and this job is done.,Keep hitting them like that and this job is done.,Keep hitting them like that and this job is done.,Keep hitting them like that and this job is done.
+fade,FadeSeizeCast3,We'll catch them!,we will catch them,False,We'll catch them.,We'll catch them.,We'll catch them.,We'll catch them.
+fade,FadeSeizeCast4,We'll catch them!,we will catch them,False,We'll catch them!,We'll catch them.,We'll catch them.,We'll catch them.
+fade,FadeSneakMid1,Let's sneak Mid.,let us sneak mid,True,Let's sneak mid.,Let's sneak mid!,Let's sneak Mid.,Let's sneak Mid.
+fade,FadeSneakMid2,Let's sneak Mid.,let us sneak mid,True,Let's sneak mid.,Let's sneak mid.,Let's sneak Mid.,Let's sneak Mid.
+fade,FadeSorry1,Pardon.,pardon,False,Parton.,pardon,Part on.,Pardon.
+fade,FadeSorry2,Pardon.,pardon,False,Pardon.,Pardon.,Pardon.,Pardon?
+fade,FadeSorry3,Pardon.,pardon,False,Pardon.,Pardon.,Partle.,Pardon?
+fade,FadeSpikeC1,Spike's C.,spike is c,True,Spike C!,Spike C.,Spike's C.,Spike's C.
+fade,FadeSpikeC2,Spike's C.,spike is c,True,Spike C.,Spike C.,Spike's C.,Spike's C.
+fade,FadeSpikeSpottedC1,Spike C.,spike c,False,Spike C.,Spike C.,Spike's C.,Spike's C.
+fade,FadeSpikeSpottedC2,Spike C.,spike c,False,Spike C.,Spike C.,Spike's C.,Spike's C.
+fade,FadeStackMid1,Let's stack Mid.,let us stack mid,True,Let's stack mid.,Let's stack mid!,Let's stack Mid.,Let's stack Mid.
+fade,FadeStackMid2,Let's stack Mid.,let us stack mid,True,Let's stack mid.,Let's stack mid.,Let's stack Mid.,Let's stack Mid.
+fade,FadeWatching1,Watching here.,watching here,True,Watching here.,watching here.,Watching here.,Watching here.
+fade,FadeWatching2,Watching here.,watching here,True,Watching here.,Watching here.,Watching here.,Watching here.
+gekko,GekkoAllyHarborBarrierDown,"Look out for us, coach.",look out for us coach,False,Look out for his coach.,"Look out for us, coach.","Look out for us, coach!","Look out for us, coach!"
+gekko,GekkoAllyNeonBarrierDown,"Got your back, Neon!",got your back neon,False,"Gotcha back, neon.","Got your back, neon.","Got your back, Neon.","Got your back, Neon!"
+gekko,GekkoAllyNeonChat,I did? I did. Wingman... stole my wallet?,i did i did wingman stole my wallet,False,I did. I did. Wingman stole my wallet.,I did. I did. Wingman stole my wallet.,"Uh, I did? I did. Wingman stole my wallet?",I did? I did. Wingman stole my wallet?
+gekko,GekkoAllyReynaBarrierDown,"Show us how it's done, Reyna.",show us how it is done reyna,False,"Show us how it's done, Rayna.","Show us how it's done, Reina!","Show us how it's done, Reyna!","Show us how it's done, Reyna!"
+gekko,GekkoAllyYoruBarrierDown,"Yoru, good luck!",yoru good luck,False,"Yoru, good luck.","Yoru, good luck!","Yoru, good luck.","Yoru, good luck."
+gekko,GekkoCaution1,Enemy close.,enemy close,True,Enemy close.,Enemy close!,Enemy close.,Enemy close.
+gekko,GekkoCaution2,Enemy close.,enemy close,True,Enemy close.,Enemy close.,Enemy close.,Enemy close.
+gekko,GekkoClutch1,Let's go!,let us go,True,Let's go!,Let's go!,Let's go!,Let's go!
+gekko,GekkoDizzyCast2,Dizzy's up!,dizzy is up,False,Disney's up!,Dizzy's up!,Dizzy's up.,Dizzy's up!
+gekko,GekkoEnemyA1,Enemy A.,enemy a,True,NMEA.,Enemy A!,Enemy A.,Enemy A.
+gekko,GekkoEnemyA2,Enemy A.,enemy a,True,NMEA.,Enemy A!,Enemy A.,Enemy A.
+gekko,GekkoEnemyC1,Enemy C.,enemy c,True,NMEC!,Enemy C.,Enemy C.,Enemy C.
+gekko,GekkoEnemyC2,Enemy C.,enemy c,True,NMEC.,Enemy C.,Enemy C.,Enemy C.
+gekko,GekkoEnemyGekkoBarrierDown,"Hey other me, sorry in advance!",hey other me sorry in advance,False,"Hey, other me! Sorry in advance!","Hey, other me! Sorry in advance!",Hey other me! Sorry in advance!,Hey other me! Sorry in advance!
+gekko,GekkoHeadshot4,"Yeah, it's like that!",yeah it is like that,False,"Yeah, it's like that.","Yeah, it's like that.","Yeah, it's like that.","Yeah, it's like that."
+gekko,GekkoLastKill4,"That's right, you tell 'em.",that is right you tell em,False,"That's right, you tell him.","That's right, you tell him.","That's right, you tell them.","That's right, you tell them."
+gekko,GekkoLead2,We are too damn good at this.,we are too damn good at this,False,We are too damn good at this.,We are too damn good at this.,We had two damn good at this.,We are too damn good at this.
+gekko,GekkoLetsGoB1,Let's go B.,let us go b,True,Let's go be.,Let's go be.,Let's go B.,Let's go B.
+gekko,GekkoLetsGoB2,Let's go B.,let us go b,True,Let's go be.,Let's go be.,Let's go B.,Let's go B.
+gekko,GekkoLetsRushB1,Let's rush B.,let us rush b,True,Let's rush B.,Let's rush B.,Let's rush B.,Let's rush B.
+gekko,GekkoLetsRushB2,Let's rush B.,let us rush b,True,Let's rush B.,Let's first be.,Let's rush B.,Let's rush B.
+gekko,GekkoMeleeKill2,"Tag, you're out.",tag you are out,False,"Tag, you're out.","Tag, you're out.","Tag, you're out!","Tag, you're out."
+gekko,GekkoOneKillLeft1,One more.,one more,True,One more.,One more.,One more.,One more.
+gekko,GekkoOneKillLeft2,One more.,one more,True,One more.,One more.,One more.,One more.
+gekko,GekkoPingGun1,Gun here.,gun here,True,Gun here.,Gun here!,Gun here.,Gun here.
+gekko,GekkoPushingOut1,I'm pushing out.,i am pushing out,True,I'm pushing out.,I'm pushing out.,I'm pushing out.,I'm pushing out.
+gekko,GekkoPushingOut2,I'm pushing out.,i am pushing out,True,I'm pushing out.,I'm pushing out.,I'm pushing out.,I'm pushing out.
+gekko,GekkoReconB1,Sending recon B.,sending recon b,False,Sending Recon B.,Sending recon be.,Sending recon B.,Sending recon B.
+gekko,GekkoReconB2,Sending recon B.,sending recon b,False,Send your recon B.,Sennie Reconby.,Sending recon B.,Sending recon B.
+gekko,GekkoReconC1,Sending recon C.,sending recon c,False,Sending Recon Sea.,Sending Reconcie.,Sending recon C.,Sending recon C.
+gekko,GekkoReconC2,Sending recon C.,sending recon c,False,Sennie Reconcie.,Senni Reconcie,Sending recon C.,Sending recon C.
+gekko,GekkoRunnerUp2,"Heh, not bad.",heh not bad,False,"Hey, not bad.","Hey, not bad.","Hey, not bad.","Hey, not bad."
+gekko,GekkoRushingA1,I'm rushing A.,i am rushing a,False,I'm Russian A.,I'm Russian A.,I'm rushing A.,I'm rushing A.
+gekko,GekkoRushingA2,I'm rushing A.,i am rushing a,False,I'm rushing A.,I'm rushing A.,I'm rushing A.,I'm rushing A.
+gekko,GekkoSpreadOut1,Let's spread out.,let us spread out,True,Let's spread out.,Let's spread out.,Let's spread out.,Let's spread out.
+gekko,GekkoUltAlmost1,Thrash is almost ready.,thrash is almost ready,False,Rast is almost ready.,Bash is almost ready.,Rash is almost ready.,Bash is almost ready.
+gekko,GekkoUltAlmost2,Thrash is almost ready.,thrash is almost ready,False,Thrast is almost ready.,Thresh is almost ready.,Thrash is almost ready.,Thrash is almost ready.
+gekko,GekkoUltDown1,She's not ready.,she is not ready,False,She's not ready.,She's not ready.,She's not ready.,She's not ready.
+gekko,GekkoUltDown2,She's not ready.,she is not ready,False,She's not ready.,She's not ready.,She's not ready.,She's not ready.
+gekko,GekkoUltEnemyRecast2,She's still gunning for ya!,she is still gunning for ya,False,She's still gunning for ya!,She's still gunning for ya!,She's still gunning for ya!,She's still gunning for ya!
+gekko,GekkoUltHit3,Thrash got 'em!,thrash got em,False,The rest got him!,Thresh got him!,Thrash got them.,Thrash god them!
+harbor,HarborAllyBreachChat,"Breach, you still haven't apologized to me for that job you tried in Bengaluru.",breach you still have not apologized to me for that job you tried in bengaluru,False,Reach! You still haven't apologized to me for that job you tried in Bengaluru.,Breach! You still haven't apologized to me for that job you tried in Bengaluru.,Breach! You still haven't apologized to me for that job you tried in Bengaluru.,Breach! You still haven't apologized to me for that job you tried in Bengaluru.
+harbor,HarborAllyBrimstoneCommend,Round of applause for Mister Top Brass!,round of applause for mister top brass,False,Round of applause for Mr. Dump Brass.,Round of applause for Mr. Topbrass.,Round of applause for Mr. Dump brass!,Round of applause for Mr. Top brass!
+harbor,HarborAllyYoruMatchStart,"So, Yoru, you painted over the priceless samurai mask? Huh, interesting choice.",so yoru you painted over the priceless samurai mask huh interesting choice,False,"So, Yoru, you painted over the priceless samurai mask? Interesting choice.","So, Yoru, you painted over the priceless samurai mask? Interesting choice.","So, Yoru, you painted over the priceless samurai mask? Interesting choice.","Show, Yoru, you painted over the priceless samurai mask? Huh, interesting choice."
+harbor,HarborBarrierDown12,It's not over.,it is not over,False,It's not over.,It's not over.,It's not over.,It's not over.
+harbor,HarborBarrierDown2,Now roll over them!,now roll over them,False,Now roll over them.,Now roll over them.,Now roll over them.,Now roll over them.
+harbor,HarborBarrierDown8,Maybe they'll surprise us.,maybe they will surprise us,False,Maybe they'll surprise us.,Maybe they'll surprise us.,"Hm, maybe they'll surprise us.","Hm, maybe they'll surprise us."
+harbor,HarborEnemiesC1,Multiple targets C!,multiple targets c,True,"Multiple targets, see.","Multiple Daggett, see.",Multiple targets C!,Multiple targets C!
+harbor,HarborEnemiesC2,Multiple targets C!,multiple targets c,True,"Multiple targets, see!",Multiple dog at sea.,Multiple targets C!,Multiple targets C!
+harbor,HarborEnemyA1,Target A.,target a,False,Talk it day!,Target A!,Target A.,Target A.
+harbor,HarborEnemyA2,Target A.,target a,False,Docate!,Talk-a-tee!,Target A.,Target A.
+harbor,HarborEnemyASpawn1,Target Attacker Spawn.,target attacker spawn,False,"Target, attack a spawn!","Target, attack a spawn.",Target Attacker Spawn!,Target Attacker Spawn.
+harbor,HarborEnemyASpawn2,Target Attacker Spawn.,target attacker spawn,False,"Target, attack us, spawn!","Target, attack a spawn.",Target Attacker Spawn!,Target Attacker Spawn.
+harbor,HarborEnemyChamberMatchStart,There's a Chamber over there. Guy can't go three steps without bringing all his fancy guns.,there is a chamber over there guy can not go 3 steps without bringing all his fancy guns,False,There's a chamber over there. Guy can't go three steps without bringing all his fancy guns.,There's a chamber over there. Guy can't go three steps without bringing all his fancy guns.,There's a Chamber over there. Guy can't go three steps without bringing all his fancy guns.,There's a Chamber over there. Guy can't go three steps without bringing all his fancy guns.
+harbor,HarborEnemyHarborLastKill,"When we are at peace, I would meet you again.",when we are at peace i would meet you again,False,"When we are at peace, I would meet you again.","When we are at peace, I would meet you again.","When we are at peace, I would meet you again.","When we are at peace, I would meet you again."
+harbor,HarborEnemyYoruKill,Lone wolf.,lone wolf,False,"Haha, lone wolf.","Ha, lone wolf.","Tha, load both.","Hah, lone wolf."
+harbor,HarborForgotSpike2,"Can't plant the spike if we leave it here, people!",can not plant the spike if we leave it here people,False,"Can't plant the spike if we leave it here, people!","Can't plant the spike if we leave it here, people!","Can't plant the spike if we leave it here, people!","Can't plant the spike if we leave it here, people!"
+harbor,HarborHoldPositions1,Let's hold positions.,let us hold positions,True,Let's hold positions.,Let's hold positions.,Let's hold positions.,Let's hold positions.
+harbor,HarborHoldPositions2,Let's hold positions.,let us hold positions,True,Let's hold positions.,Let's hold positions.,Let's hold positions.,Let's hold positions.
+harbor,HarborLead3,"Wow, we are destroying them!",wow we are destroying them,False,"Wow, we are destroying them!","Wow, we are destroying them!","Wow, we are destroying them!","Wow, we are destroying them!"
+harbor,HarborLetsAttack1,Let's attack.,let us attack,True,Let's attack!,Let's attack.,Let's attack.,Let's attack.
+harbor,HarborLetsAttack2,Let's attack.,let us attack,True,Let's attack!,Let's attack!,Let's attack.,Let's attack.
+harbor,HarborMatchStart6,This artifact is not my only source of strength.,this artifact is not my only source of strength,False,This artifact is not my only source of strength.,This artifact is not my only source of strength.,This artifact is not my only source of strength.,This artifact is not my only source of strength.
+harbor,HarborMatchStartAscent,"The pillars on that domed building are Corinthian, the last of the three classical orders. How are you not excited?!",the pillars on that domed building are corinthian the last of the 3 classical orders how are you not excited,False,"The pillars on that domed building are Corinthian, last of the three classical orders. How are you not excited?",The pillars on that domed building are Corinthian. Last of the three classical orders. How are you not excited?,"The pillars on that domed building are Corinthian, last of the three classical orders. How are you not excited?","The pillars on that domed building are Corinthian, last of the three classical orders. How are you not excited?"
+harbor,HarborNoCharges1,No charges.,no charges,True,No charges.,No charges.,No charges.,No charges.
+harbor,HarborNoCharges2,No charges.,no charges,True,No charges.,No charges.,No charges.,No charges.
+harbor,HarborRoundStart9,Take them out before they even pull the trigger.,take them out before they even pull the trigger,False,Take them out before they even ball the trigger.,Take them out before they even bowl the trigger.,Take them out before they even pull the trigger.,Take them out before they even bowl the trigger.
+harbor,HarborSneakC1,Let's sneak C.,let us sneak c,True,Let's sneak see.,Let's sneak see.,Let's sneak C.,Let's sneak C.
+harbor,HarborSneakC2,Let's sneak C.,let us sneak c,True,Let's sneak see.,Let's nique see.,Let's sneak C.,Let's sneak C.
+harbor,HarborSpikeB1,Spike's B.,spike is b,True,Spikes B!,Spikes B!,Spike's B.,Spike's B.
+harbor,HarborSpikeB2,Spike's B.,spike is b,True,Spikes B.,Spikes B.,Spike's B.,Spike's B.
+harbor,HarborSpikeC1,Spike's C.,spike is c,True,Spike C!,Spike C.,Spike's C.,Spike's C.
+harbor,HarborSpikeC2,Spike's C.,spike is c,True,Spike C.,Spike C.,Spike's C.,Spike's C.
+harbor,HarborSpikeMid1,Spike's Mid.,spike is mid,True,Spikes Mid!,Spike's Mid!,Spike's Mid.,Spike's Mid.
+harbor,HarborSpikeMid2,Spike's Mid.,spike is mid,True,Spikes Mid.,Spike's Mid.,Spike's Mid.,Spike's Mid.
+harbor,HarborStack1,Let's stack up.,let us stack up,True,Let's stack up!,Let's stack up!,Let's stack up.,Let's stack up.
+harbor,HarborStack2,Let's stack up.,let us stack up,True,Let's stack up.,Let's stack up.,Let's stack up.,Let's stack up.
+harbor,HarborStickTogether1,Stick together.,stick together,True,Stick together!,Stick together.,Stick together.,Stick together.
+harbor,HarborStickTogether2,Stick together.,stick together,True,Stick together!,Stick together!,Stick together.,Stick together.
+harbor,HarborTriple1,Got three.,got 3,True,Got three.,Got three.,Got three!,Got three!
+harbor,HarborTriple2,Got three.,got 3,True,Got three.,Got three.,Got three.,Got three.
+harbor,HarborUltReady1,Ultimate ready.,ultimate ready,False,Ultimate ready!,Ultimate Ready!,Ultimate ready.,Ultimate ready.
+harbor,HarborUltReady2,Ultimate ready.,ultimate ready,False,Ultimate ready.,Ultimate Ready!,Ultimate ready.,Ultimate ready.
+iso,IsoAllyDeadlockCommend,"Deadlock, that was textbook. Well done!",deadlock that was textbook well done,False,"That lock, that was textbook. Well done.",That lock? That was textbook. Well done.,"That lock, that was textbook. Well done.","Deadlock, that was textbook. Well done."
+iso,IsoAllyOmenMatchStart,"Omen, they say that once you took a contract, their death was inescapable. Anyway, I'm glad we're friends.",omen they say that once you took a contract their death was inescapable anyway i am glad we are friends,False,"They say that once you took a contract, their death was inescapable. Anyway, I'm glad we're friends.","They say that once you took a contract, their death was inescapable. Anyway, I'm glad we're friends.","Omen, they say that once you took a contract, their death was inescapable. Anyway, I'm glad we're friends.","Omen, they say that once you took a contract, their death was inescapable. Anyway, I'm glad we're friends."
+iso,IsoBarrierDown18,I hope this one's exciting.,i hope this one is exciting,False,I hope this one's exciting.,I hope this one's exciting.,I hope this one's exciting.,I hope this one's exciting.
+iso,IsoBarrierDown5,"We're close, hit them hard!",we are close hit them hard,False,We're close. Hit them hard.,We're close. Hit them hard.,We're close. Hit them hard.,We're close. Hit them hard!
+iso,IsoComeback2,"Hey, who has a good song for 'we were losing but now things are looking up'? You know, like uh, redemption arc.",hey who has a good song for we were losing but now things are looking up you know like redemption arc,False,"Hey, who has a good song for? We were losing, but now things are looking up, you know, like a redemption arc.","Hey, who has a good song for we were losing, but now things are looking up, you know, like a redemption arc?","Hey, who has a good song for? We were losing, but now things are looking up, you know, like a redemption arc.","Hey, who has a good song for, we were losing but now things are looking up, you know, like a redemption arc?"
+iso,IsoEnemyA1,Enemy spotted A.,enemy spotted a,True,Enemy spotted A.,"Enemy spotted, A.",Enemy spotted A.,Enemy spotted A.
+iso,IsoEnemyA2,Enemy spotted A.,enemy spotted a,True,Enemy spotted A.,Enemy spotted A.,Enemy spotted A.,Enemy spotted A.
+iso,IsoEnemyIsoKill,I got Iso.,i got iso,False,I got ISIL.,I got ISIL.,I got Iso.,I got Iso.
+iso,IsoEnemyOmenKill,Omen's gone.,omen has gone,False,Almond's gone.,Omen's gone.,Omen's gone.,Omen's gone.
+iso,IsoEnemyRazeKill,I stopped their Raze.,i stopped their raze,False,I stopped their raise.,I stopped to raise.,I stopped their Raze.,I stopped their Raze.
+iso,IsoKill8,Next.,next,True,Next.,Next.,Next.,Next.
+iso,IsoLastKill1,Let's pack it up.,let us pack it up,False,Let's pick it up.,Let's pack it up.,Let's pack it up.,Let's pack it up.
+iso,IsoLastRound1,Spend everything on this one.,spend everything on this one,False,Spend everything on this one.,Spend everything on this one.,Spend everything on this one.,Spend everything on this one.
+iso,IsoLetsGoA1,Let's go A.,let us go a,True,Let's go A.,Let's go A.,Let's go A.,Let's go A.
+iso,IsoLetsGoA2,Let's go A.,let us go a,True,Let's go A.,Let's go A!,Let's go A.,Let's go A.
+iso,IsoLetsRushA1,Let's rush A.,let us rush a,True,Let's rush A.,Let's rush A.,Let's rush A.,Let's rush A.
+iso,IsoLetsRushA2,Let's rush A.,let us rush a,True,Let's rush A.,Let's rush A.,Let's rush A.,Let's rush A.
+iso,IsoLetsRushB1,Let's rush B.,let us rush b,True,Let's rush B.,Let's rush B.,Let's rush B.,Let's rush B.
+iso,IsoLetsRushB2,Let's rush B.,let us rush b,True,Let's rush B.,Let's rush B.,Let's rush B.,Let's rush B.
+iso,IsoMatchStart3,"What's the mission? Kill contract? Sorry, I forgot to read the brief.",what is the mission kill contract sorry i forgot to read the brief,False,What's the mission? Kill contract? Sorry. I forgot to read the brief.,What's the mission? Kill contract? Sorry. I forgot to read the brief.,"What's the mission? Kill contract? Sorry, I forgot to read the brief.","What's the mission? Kill contract? Sorry, I forgot to read the brief."
+iso,IsoMatchStartAttack2,They can't defuse a spike if they're dead.,they can not defuse a spike if they are dead,False,they can't defuse a spike at their dead.,They can diffuse a spike if they're dead.,They can't defuse a spike at their dead.,They can't defuse a spike if they're dead.
+iso,IsoNeedSomeoneA1,Someone go A.,someone go a,True,Someone go A.,Someone go A.,Someone go A.,Someone go A.
+iso,IsoNeedSomeoneA2,Someone go A.,someone go a,True,Someone go A.,Someone go A.,Someone go A.,Someone go A.
+iso,IsoNeedUtilityHere1,Need util here.,need util here,True,Need you to hear.,Need you till here.,Need util here.,Need util here.
+iso,IsoNeedUtilityHere2,Need util here.,need util here,True,Need you tell here.,Need you tell here.,Need util here.,Need util here.
+iso,IsoPushingOut1,I'm pushing out.,i am pushing out,True,I'm pushing out.,I'm pushing out.,I'm pushing out.,I'm pushing out.
+iso,IsoPushingOut2,I'm pushing out.,i am pushing out,True,I'm pushing out.,I'm pushing out.,I'm pushing out.,I'm pushing out.
+iso,IsoReloading1,Reloading.,reloading,True,Reloading.,Reloading.,Reloading.,Reloading.
+iso,IsoRoundStart8,Forgive me if I overextend. Old habit.,forgive me if i overextend old habit,False,Forgive me if I will extend. I would have it.,"Forgive me of our extend, old habit.",Forgive me if I will extend. I would have it.,Forgive me if I were to extend. Old habit.
+iso,IsoSorry1,I'm sorry.,i am sorry,True,I'm sorry.,I'm sorry.,I'm sorry.,I'm sorry.
+iso,IsoSorry2,I'm sorry.,i am sorry,True,I'm sorry.,I'm sorry.,I'm sorry.,I'm sorry.
+iso,IsoSorry3,I'm sorry.,i am sorry,True,I'm sorry.,I'm sorry.,I'm sorry.,I'm sorry.
+iso,IsoSpikePickedUp1,Got the spike.,got the spike,True,Got the spike.,got the spike.,Got the spike.,Got the spike.
+iso,IsoSpikePickedUp2,Got the spike.,got the spike,True,Got the spike.,Got the spike.,Got the spike.,Got the spike.
+iso,IsoSpikePlanted1,Spike planted.,spike planted,True,Spike planted.,Spike planted.,Spike planted.,Spike planted.
+iso,IsoSpikePlanted2,Spike planted.,spike planted,True,Spike Planet.,Spike Planet.,Spike planted.,Spike planted.
+iso,IsoUltEnemyCast,It's you and me!,it is you and me,False,It's you and me!,It's you and me!,It's you and me!,It's you and me!
+iso,IsoUltKill2,Well fought.,well fought,False,Wellfought.,Well fought.,Well fought.,Well fought.
+jett,JettAllyBrimstoneCommend,"Hell yeah, Brimstone! The best defense, is a good offense.",hell yeah brimstone the best defense is a good offense,False,"Hallelujah, brimstone. The best defense is a good offense.","Hell yeah, Brimstone. The best defense is a good offense.","Hell yeah, Brimstone! The best defense is a good offense.","Hell yeah, Brimstone! The best defense is a good offense."
+jett,JettAllyGekkoBarrierDown,"Come on, Gekko. Let's get it!",come on gekko let us get it,False,"Come on, get go. Let's get it.","Come on, Gecko, let's get it.","Come on, Gekko! Let's get it!","Come on Gekko, let's get it!"
+jett,JettAllyRazeCommend,"There's my bombshell! Crushed it, girl.",there is my bombshell crushed it girl,False,"There's my bombshell. Crushed it, girl.","There's my bombshell! Crushed it, girl.","There's my bombshell, crushed a girl.","There's my bomb shell! Crushed it, girl!"
+jett,JettBarrierDown13,Let's crack them open.,let us crack them open,False,Let's crack them open.,Let's crack them open.,Let's crack them open.,Let's crack them open.
+jett,JettCalloutC1,C Site.,c site,True,See you soon!,See you soon!,C Site.,C Site.
+jett,JettCalloutC2,C Site.,c site,True,seaside!,See you soon!,C Site.,C Site.
+jett,JettCantUse1,I can't use that.,i can not use that,True,I can't use that.,I can't use that.,I can't use that.,I can't use that.
+jett,JettDefuseSpike1,Defuse the spike!,defuse the spike,True,diffuse the spike.,defuse the spike.,Defuse the spike!,Defuse the spike!
+jett,JettDefuseSpike2,Defuse the spike!,defuse the spike,True,diffuse the spike.,Diffuse the spike.,Defuse the spike!,Defuse the spike!
+jett,JettEnemyCypherBarrierDown,I'll find their Cypher.,i will find their cipher,True,I'll find their cipher.,I'll find their cipher.,I'll find their Cypher.,I'll find their Cypher.
+jett,JettEnemyJettKill,Clone killed.,clone killed,False,Clone killed.,Clone killed.,Clone killed.,Clone killed.
+jett,JettEnemyJettRoundStart,Their Jett has nothin' on me. I got her.,their jett has nothin on me i got her,False,Their jet has nothing on me. I got her.,Their jet has nothing on me. I got her.,Their Jett has nothing on me. I got her.,Their Jett has nothing on me. I got her.
+jett,JettEnemyOmenBarrierDown,"I'll show you scary, Omen.",i will show you scary omen,False,"I'll show you scary, Omen.",I'll show you Scary Omen.,"I'll show you scary, Omen.","I'll show you scary, Omen."
+jett,JettEnemySageRoundStart2,Her slow fields are so annoying!,her slow fields are so annoying,False,Her slow fields are so annoying.,Her slow fields are so annoying.,Her slow feels are so annoying!,Our slow fields are so annoying!
+jett,JettLead2,Damn right we're crushing it!,damn right we are crushing it,False,"Damn right, we're crushing it.","Damn right, we're crushing it!","Damn right, we're crushing it.",Damn right we're crushing it!
+jett,JettLetsGoB1,Let's go B.,let us go b,True,Let's go be.,Let's go be.,Let's go B.,Let's go B.
+jett,JettLetsGoB2,Let's go B.,let us go b,True,Let's go be.,Let's go be.,Let's go B.,Let's go B.
+jett,JettLetsRushC1,Let's rush C.,let us rush c,True,Let's rush see.,Let's rush see.,Let's rush C.,Let's rush C.
+jett,JettLetsRushC2,Let's rush C.,let us rush c,True,Let's rush see.,Let's rush C.,Let's rush C.,Let's rush C.
+jett,JettMatchStartLotus,This place gives me the creeps. Feels like we're being watched.,this place gives me the creeps feels like we are being watched,False,This place gives me the creeps. Feels like we're being watched.,This place gives me the crepes. Feels like we're being watched.,This place gives me the creeps. Feels like we're being watched.,This place gives me the creeps. Feels like we're being watched.
+jett,JettNeedSomeoneC1,Someone go C.,someone go c,True,Someone go see.,Someone go see.,Someone go C.,Someone go C.
+jett,JettNeedSomeoneC2,Someone go C.,someone go c,True,Someone go see.,Someone go see.,Someone go C.,Someone go C.
+jett,JettReloading1,Reloading.,reloading,True,Reloading!,Reloading!,Reloading.,Reloading.
+jett,JettReloading2,Reloading.,reloading,True,reloading.,reloading.,Reloading.,Reloading.
+jett,JettRoundStart3,"Wind, show me where to go.",wind show me where to go,False,"Wind, show me where to go.","Wind, show me where to go.","Wind, show me where to go.",Wind. Show me where to go.
+jett,JettSaving1,I'm gonna save.,i am going to save,True,I'm gonna save.,I'm gonna save.,I'm gonna save.,I'm gonna save.
+jett,JettSaving2,I'm gonna save.,i am going to save,True,I'm gonna save.,I'm gonna save.,I'm gonna save.,I'm gonna save.
+jett,JettSpikeA1,Spike's A.,spike is a,True,Spikes A!,Spikes A!,Spike's A.,Spike's A.
+jett,JettSpikeA2,Spike's A.,spike is a,True,Spikes A.,Spikes A.,Spike's A.,Spike's A.
+jett,JettSpreadOut1,Let's spread out.,let us spread out,True,Let's spread out.,Let's spread out.,Let's spread out.,Let's spread out.
+jett,JettSpreadOut2,Let's spread out.,let us spread out,True,Let's spread out.,Let's spread out.,Let's spread out.,Let's spread out.
+jett,JettStack1,Let's stack up.,let us stack up,True,Let's stack up.,Let's stack up.,Let's stack up.,Let's stack up.
+jett,JettStack2,Let's stack up.,let us stack up,True,Let's stack up.,Let's stack up!,Let's stack up.,Let's stack up.
+jett,JettTakePoint1,I'll take point.,i will take point,True,I'll take point.,I'll take point.,I'll take point.,I'll take point.
+jett,JettTakePoint2,I'll take point.,i will take point,True,I'll take point.,I'll take point.,I'll take point.,I'll take point.
+jett,JettUltAlmost1,My ult's almost ready.,my ult is almost ready,True,My ult's almost ready.,My alt's almost ready.,My ult's almost ready.,My ult's almost ready.
+jett,JettUltAlmost2,My ult's almost ready.,my ult is almost ready,True,My alt's almost ready.,My alt's almost ready.,My ult's almost ready.,My ult's almost ready.
+jett,JettWatching1,Watching here.,watching here,True,watching here.,watching here.,Watching here.,Watching here.
+jett,JettWatching2,Watching here.,watching here,True,Watching here.,watching here.,Watching here.,Watching here.
+kayo,KAYOAllyBreachMatchStart,"Breach, after this, billiards. I like taking your money.",breach after this billiards i like taking your money,False,"Breach, after this, billions. I like taking your money.","Breach, after this, fill it. I like taking your money.","Breach, after this, billions. I like taking your money.","Breach, after this? Billiot, I like taking your money."
+kayo,KAYOAllyRazeBarrierDown,"Explosives ready, Raze!",explosives ready raze,False,"Explacence ready, race.",EXPLOSENCE RAY RAYS!,"Explosions ready, Raze.","Explosions ray, Raze."
+kayo,KAYOAllySageMatchStart,"It is strange, Sage. Where I'm from, you're no medic, only a weapon.",it is strange sage where i am from you are no medic only a weapon,False,"It is strange sage, where I'm from, you're nomadic, only a weapon.","It is strange sage. Where I'm from, you're nomadic. Only a weapon.","It is strange, Sage. Where I'm from, you're nomadic, only a weapon.","It is strange, Sage. Where I'm from, you're no medic, only a weapon."
+kayo,KAYOBarrierDown18,Let's get this done.,let us get this done,False,Let's get this done.,Let's get this done.,Let's get this done.,Let's get this done.
+kayo,KAYOClutch3,I'm built different.,i am built different,False,I'm Bill Diford.,I'm Bill different.,I'm built different.,I'm built different.
+kayo,KAYOComeback1,Never back down.,never back down,False,Never back down.,Never back down.,Never back down.,Never back down.
+kayo,KAYODefuseComplete1,Try again.,try again,True,Try again!,Try again.,Try again.,Try again.
+kayo,KAYOEnemyASpawn1,Target Attacker Spawn.,target attacker spawn,False,Target Attackers Fun!,Target Attackers Spa.,Target Attacker Spawn.,Target Attacker Spawn.
+kayo,KAYOEnemyASpawn2,Target Attacker Spawn.,target attacker spawn,False,"Torg, attack us far!",Target Attackers Bar!,Target Attacker Spawn!,Target Attacker Spawn!
+kayo,KAYOEnemyAstraMatchStart,"An enemy Astra. Powerful, but killable.",an enemy astra powerful but killable,False,"An enemy astro, powerful, but killable.","An enemy astra, powerful, but killable.","Enemy Astra, powerful, but killable.","An enemy Astra, powerful, but killable."
+kayo,KAYOEnemyDSpawn1,Target Defender Spawn.,target defender spawn,False,Target to Fender Spa.,Target Defender Spot!,Target Defender Spawn.,Target Defender Spawn.
+kayo,KAYOEnemyDSpawn2,Target Defender Spawn.,target defender spawn,False,Target to Fender Spa!,Target Defender Spa!,Target Defender Spawn!,Target Defender Spawn!
+kayo,KAYOEnemyJettRoundStart,Let's see their Jett fight without wind.,let us see their jett fight without wind,False,Let's see if there's any fight without waiting.,Let's see their jet fight without wind.,Let's see their Jett fight without win.,Let's see their Jett fight without wind.
+kayo,KAYOFRAGMENTCast2,Throwing charge.,throwing charge,False,Throw it short!,Throwing thought.,Throwing's hard.,Throwing thought.
+kayo,KAYOFRAGMENTCast3,Grenade!,grenade,False,Grunay!,Grenade!,Grenade!,Grenade.
+kayo,KAYOFRAGMENTCast5,Grenade!,grenade,False,For nays!,Grenades!,Brenade!,Grenade!
+kayo,KAYOFRAGMENTCast7,Throwing charge.,throwing charge,False,They're all in charge.,They're all in charge.,Throwing charge.,Throwing charge.
+kayo,KAYOHoldPositions1,Let's hold positions.,let us hold positions,True,Let's hold positions.,Let's hold positions.,Let's hold positions.,Let's hold positions.
+kayo,KAYOHoldPositions2,Let's hold positions.,let us hold positions,True,Let's hope positions.,Let's hold positions.,Let's hold positions.,Let's hold positions.
+kayo,KAYOKill8,Hostile KIA.,hostile kia,False,"Hust out, can I?","Lost out, KIA!","Hust out, can I A?",Ust out KIA!
+kayo,KAYOKill9,Target 86'd.,target 86 would,False,Target 86!,Target 86.,Target A6!,Target 86.
+kayo,KAYOLetsAttack1,Let's attack.,let us attack,True,Let's attack!,Let's attack!,Let's attack.,Let's attack.
+kayo,KAYOLetsAttack2,Let's attack.,let us attack,True,Let's attack!,Let's attack!,Let's attack.,Let's attack.
+kayo,KAYOLowHP2,Is Killjoy here? I could use some repairs.,is killjoy here i could use some repairs,False,It's killed right here. I could use some repairs.,It's Killjoy here. I can use some repairs.,"It's killed right here, I can use some repairs.",Is Killjoy here? I could use some repairs.
+kayo,KAYOLurking1,I'm lurking.,i am lurking,True,I'm looking.,I'm lucky.,I'm lurking.,I'm looking.
+kayo,KAYOLurking2,I'm lurking.,i am lurking,True,I'm looking.,I'm looking!,I'm looking.,I'm looking.
+kayo,KAYOMatchWinBreeze,"Okay humans, now you can swim.",okay humans now you can swim,False,"Okay humans, now you can swim.","Okay humans, now you can swim.","Okay humans, now you can swim.","Okay humans, now you can swim."
+kayo,KAYOPing1,There.,there,True,That's it!,There!,There.,They're...
+kayo,KAYOPing2,There.,there,True,There.,There!,There.,There.
+kayo,KAYORoundStart3,Catch a breath. Not that I need to of course.,catch a breath not that i need to of course,False,"Catch a breath. Not that I need to, of course.","Catch a breath. Not that I need to, of course.","Get your breath. Not that I need to, of course.","Get your breath! Not that I need to, of course."
+kayo,KAYORoundStart9,"I'll survive a dent or two, can't say the same for you fragile humans.",i will survive a dent or 2 can not say the same for you fragile humans,False,I'll survive it denser too. Can't say the same for you fragile units.,I'll survive a dent or two. Can't say the same for you fragile humans.,I'll survive in danger too. Can't say the same for you fragile humans.,I'll survive their dinner too. Can't say the same for you fragile humans.
+kayo,KAYORoundWon1,Let's go kill them all again.,let us go kill them all again,False,Let's go kill them all again!,Let's go kill them all again.,Let's go kill them all again.,Let's go kill them all again.
+kayo,KAYORoundWon4,I love war.,i love war,False,I love war.,I love war!,I love war.,I love war.
+kayo,KAYORunnerUp2,They were in my sights.,they were in my sights,False,They were in my sight.,They were in my sight!,They were in my fight.,They were in my sight.
+kayo,KAYOTriple1,Three kills!,3 kills,False,Three kids!,Three kills!,Three games!,Three kills!
+kayo,KAYOTriple2,Three kills!,3 kills,False,Three kills!,Three kills!,Three kills!,Three kills!
+kayo,KAYOUltDown1,My ult's not ready.,my ult is not ready,True,My odds are not ready.,My ult is not ready.,My ult's not ready.,My ult's not ready.
+kayo,KAYOUltDown2,My ult's not ready.,my ult is not ready,True,My ult's not ready!,My ult's not ready!,My ult's not ready.,My ult's not ready.
+kayo,KAYOUltReboot2,Core systems restored.,core systems restored,False,Our systems restored.,Core systems restored.,Our system's restored.,Core systems restored.
+kayo,KAYOUltReboot5,Resuming your termination.,resuming your termination,False,Resuming your termination.,Resuming your termination.,Resuming your termination.,Resuming determination.
+kayo,KAYOWatching1,Watching here.,watching here,True,Watching here.,watching here,Watching here.,Watching here.
+kayo,KAYOWatching2,Watching here.,watching here,True,Watching here.,watching here,Watching here.,Watching here.
+killjoy,KilljoyAllyCypherMatchStart,"Cypher, my condenser cables are missing from the lab again. Put them back please, thank you.",cipher my condenser cables are missing from the lab again put them back please thank you,False,"Cypher, my condenser cables are missing from the lab again. Put them back, please. Thank you.","Cypher, my condenser cables are missing from the lab again. Put them back please, thank you.","Cypher, my condenser cables are missing from the lab again. Put them back please, thank you.","Cypher, my condenser cables are missing from the lab again. Put them back please, thank you."
+killjoy,KilljoyAllyNeonChat,"Neon, how much power do you generate, exactly? If I could just attach this meter-",neon how much power do you generate exactly if i could just attach this meter,False,"Nana, how much power do you generate? Exactly. If I could just attach this meter?","Niana, how much power do you generate, exactly? If I could just attach this meter?","Neon, how much power do you generate? Exactly. If I could just attach this meter?","Neon, how much power do you generate, exactly? If I could just attach this meter?"
+killjoy,KilljoyAllyRazeCommend,"Okay Raze, fine, your tinkering may... have made my tech better. Nice work.",okay raze fine your tinkering may have made my tech better nice work,False,"Okay, Raze, fine. Your tinkering may have made my tech better. Nice work.","Okay, raise fine. Your tinkering may have made my tech better. Nice work.","Okay Raze, fine, you're tinkering. May, I've made my tech better. Nice work.","Okay Raze, fine. Your tinkering may have made my tech better. Nice work."
+killjoy,KilljoyAllyViperCommend,"Viper, I'm speechless, and I always have something to say.",viper i am speechless and i always have something to say,False,"Viper, I'm speechless. And I always have something to say.","Viper, I'm speechless. And I always have something to say.","Viper, I'm speechless, and I always have something to say.","Viper, I'm speechless, and I always have something to say."
+killjoy,KilljoyBotAssist2,Alley-oop!,alley oop,False,L-U-P!,"Allie, oop!",Elleoop!,Allie-oop!
+killjoy,KilljoyClearThisArea1,Flush this area out.,flush this area out,False,Blushes area out.,Blush this area out.,Blush this area out.,Blash this area out.
+killjoy,KilljoyClearThisArea2,Flush this area out.,flush this area out,False,Flush this area out!,Flash this area out!,Flash this area out.,Flash this area out.
+killjoy,KilljoyComeback3,"Oh, this is a much better trajectory!",0 this is a much better trajectory,False,"Oh, this is a much better trajectory.","Oh, this is a much better trajectory.","Oh, this is a much better trajectory.","Oh, this is a much better trajectory."
+killjoy,KilljoyEnemyReynaKill,Reyna killed.,reyna killed,True,Raina killed!,Rayna killed!,Reyna killed.,Reyna killed.
+killjoy,KilljoyEnemySageKill,Sage killed.,sage killed,True,Sage killed.,Sage Killed,Sage killed.,Sage killed.
+killjoy,KilljoyGoingB1,Going B.,going b,True,Going B.,I'm going B.,Going B.,Going B.
+killjoy,KilljoyGoingB2,Going B.,going b,True,Going B.,Going B.,Going B.,Going B.
+killjoy,KilljoyHeadshot4,Perfect accuracy.,perfect accuracy,False,Perfect accuracy.,Perfect accuracy.,Perfect accuracy.,Perfect accuracy.
+killjoy,KilljoyKill9,Finished.,finished,True,Finished!,Finished!,Finished!,Finished.
+killjoy,KilljoyLastKill2,You tried.,you tried,False,You tried.,You tried.,You tried.,You tried.
+killjoy,KilljoyMatchMVP1,"Ah, my genius doesn't stop in the lab!",ah my genius does not stop in the lab,True,Oh my genius doesn't stop in the lab.,"Oh, my genius doesn't stop in the lab.","Ah, my genius doesn't stop in the lab!","Ah, my genius doesn't stop in the lab."
+killjoy,KilljoyNanoswarmCast1,Placing swarm grenade.,placing swarm grenade,False,placing swarm grenade.,Placing Swamp Grenade.,Placing swarm grenade.,Placing swarm grenade.
+killjoy,KilljoyNanoswarmCast2,Placing swarm grenade.,placing swarm grenade,False,placing swamp grenade.,Placing Swarm Grenade.,Placing swamp grenade.,Placing swarm grenade.
+killjoy,KilljoyNiceTry1,Good try.,good try,True,Good try!,Good try!,Good try.,Good try.
+killjoy,KilljoyNiceTry2,Good try.,good try,True,Go try!,Good try!,Good try.,Good try.
+killjoy,KilljoyNiceTry3,Good try.,good try,True,Good try.,Good try!,Good try.,Good try.
+killjoy,KilljoyNo1,No.,no,True,No.,No.,No.,No.
+killjoy,KilljoyNo2,No.,no,True,No.,No.,No.,No.
+killjoy,KilljoyOnCooldown1,Can't use that yet,can not use that yet,True,I can't use that yet.,Can't use that yet.,Can't use that yet.,Can't use that yet.
+killjoy,KilljoyOnCooldown2,Can't use that yet,can not use that yet,True,I can't use that yet.,Can't use that yet.,Can't use that yet.,Can't use that yet.
+killjoy,KilljoyPushOut1,Let's push out.,let us push out,True,Let's push out!,Let's push out.,Let's push out.,Let's push out.
+killjoy,KilljoyPushOut2,Let's push out.,let us push out,True,Let's push out!,Let's push out!,Let's push out.,Let's push out.
+killjoy,KilljoyRequest1,Can I get this?,can i get this,False,Can I get this?,Can I get this?,Can I get this?,Can I get this?
+killjoy,KilljoyRequest2,Can I get this?,can i get this,False,Can I get this?,Can I get this?,Can I get this?,Can I get this?
+killjoy,KilljoyRoundStart4,"Everyone makes fun of German efficiency, haha. Just keep laughing as you use all my gear.",everyone makes fun of german efficiency haha just keep laughing as you use all my gear,False,Everyone makes fun of German efficiency. Just keep laughing as you use all my gear.,Everyone makes fun of German efficiency. Ha ha! Just keep laughing as you use all my gear.,Everyone makes fun of German efficiency! Haha! Just keep laughing as you use all my gear.,Everyone makes fun of German efficiency! Haha! Just keep laughing as you use all my gear.
+killjoy,KilljoySaving1,I'm saving.,i am saving,True,I'm saving.,I'm saving.,I'm saving.,I'm saving.
+killjoy,KilljoySaving2,I'm saving.,i am saving,True,I'm saving.,I'm saving.,I'm saving.,I'm saving.
+killjoy,KilljoySpikeDown1,Our spike carrier is dead.,our spike carrier is dead,True,Our spike carrier is dead.,Our spike carrier is dead.,Our spike carrier is dead.,Our spike carrier is dead.
+killjoy,KilljoySpikeDown2,Our spike carrier is dead.,our spike carrier is dead,True,I'll spy carrier is dead.,Ask bike carrier is dead!,Our spike carrier is dead.,Our spike carrier is dead.
+killjoy,KilljoyThrifty1,How about I only bring a ruler next time,how about i only bring a ruler next time,False,How about I only bring a ruler next time?,How about I only bring a ruler next time?,How about I only bring a ruler next time?,How about I only bring a ruler next time?
+killjoy,KilljoyTurretDestroyed1,"Ugh, turret down.",ugh turret down,False,"Ugh, tear it down!","Ugh, throw it down!","Ah, tear it down!","Ugh, turret down!"
+killjoy,KilljoyTurretDestroyed2,"Ugh, turret down.",ugh turret down,False,"Oh, turn it down!","Ugh, turn it down!","Ah, tear it down.","Ugh, turn it down!"
+killjoy,KilljoyUltCaught1,Caught one.,caught one,False,Caught one.,COT 1,Caught one.,Caught one.
+killjoy,KilljoyUltDown1,My ult's not ready.,my ult is not ready,True,my health's not ready.,My elf's not ready.,My ult's not ready.,My ult's not ready.
+killjoy,KilljoyUltDown2,My ult's not ready.,my ult is not ready,True,"My ults, not ready.",My earlts not ready.,My ult's not ready.,My ult's not ready.
+killjoy,KilljoyWatching1,Watching this.,watching this,False,Watching this.,Watching this.,Watching this.,Watching this.
+killjoy,KilljoyWatching2,Watching this.,watching this,False,Watching this.,watching this.,Watching this.,Watching this.
+neon,NeonAllyBrimstoneRoundStart,"Let's go, Brim. Ex-Kingdom represent!",let us go brim ex kingdom represent,False,"Let's go, Brim! X Kingdom, represent!","Let's go, Rim! X Kingdom represents!","Let's go, Brim! X-king them represent!","Let's go, Brim! X-Kingdom represent!"
+neon,NeonBarrierDown4,Shoot them! Always works.,shoot them always works,False,Shoot them! Always works!,Shoot them! Always works!,"Shook them, always works.","Shoot them, always works."
+neon,NeonBarrierDown5,I suggest we keep winning.,i suggest we keep winning,False,I suggest we keep winning.,I suggest we keep winning!,I suggest we keep winning.,I suggest we keep winning.
+neon,NeonEncouraging1,We've got this.,we have got this,True,We've got this!,We've got this!,We've got this.,We've got this.
+neon,NeonEncouraging2,We've got this.,we have got this,True,We've got this!,We've got this!,We've got this.,We've got this.
+neon,NeonEncouraging3,We've got this.,we have got this,True,We've got this.,We've got this!,We've got this.,We've got this.
+neon,NeonEnemy1,Enemy spotted.,enemy spotted,True,Enemy spotted.,Enemy spotted!,Enemy spotted.,Enemy spotted.
+neon,NeonEnemy2,Enemy spotted.,enemy spotted,True,Enemy spotted!,Enemy spotted!,Enemy spotted.,Enemy spotted.
+neon,NeonEnemyC1,Enemy C.,enemy c,True,"Enemy, see!",Enemy C.,Enemy C.,Enemy C.
+neon,NeonEnemyC2,Enemy C.,enemy c,True,Let me see.,Let me see.,Enemy C.,Enemy C.
+neon,NeonFaking1,I'm faking.,i am faking,True,I'm faking.,I'm faking.,I'm faking.,I'm faking.
+neon,NeonFaking2,I'm faking.,i am faking,True,I'm faking.,I'm faking.,I'm faking.,I'm faking.
+neon,NeonHoldPositions1,Let's hold positions.,let us hold positions,True,Let's all positions.,That's all positions.,Let's hold positions.,Let's hold positions.
+neon,NeonHoldPositions2,Let's hold positions.,let us hold positions,True,Let's hold positions.,Let's hold positions.,Let's hold positions.,Let's hold positions.
+neon,NeonKill7,Go away!,go away,True,Go away!,Go away.,Go away!,Go away.
+neon,NeonLastRound1,"Spend your cash, don't look back.",spend your cash do not look back,False,"Spend your gosh, don't look back.",Spend your cash. Don't look back.,"Spend your cash, don't look back.","Spend your cash, don't look back."
+neon,NeonLetsRotate1,Let's rotate.,let us rotate,True,Let's rotate.,Let's rotate.,Let's rotate.,Let's rotate.
+neon,NeonLetsRotate2,Let's rotate.,let us rotate,True,Let's rotate.,Let's rotate!,Let's rotate.,Let's rotate.
+neon,NeonMatchStart4,Another site on the brink of destruction. At least we're consistent.,another site on the brink of destruction at least we are consistent,False,Another site on the brink of destruction. At least we're consistent.,Another site on the brink of destruction. At least we're consistent.,Another sight on the brink of destruction. At least we're consistent.,Another sight on the brink of destruction. At least we're consistent.
+neon,NeonMatchStart5,"Look, I'm glad you're all here. There, I said it.",look i am glad you are all here there i said it,False,"Look, I'm glad you're all here. There, I said it.","Look, I'm glad you're all here. There, I said it.","Look, I'm glad you're all here. There, I said it.","Look, I'm glad you're all here. There, I said it."
+neon,NeonMatchStartAttack2,"Here's the plan; whatever they got, tear it down.",here is the plan whatever they got tear it down,False,"Here's the plan. Whatever they got, tear it down.","Here's the plan. Whatever they got, tear it down.","Here's the plan. Whatever they got, tear it down.","Here's the plan. Whatever they got, tear it down."
+neon,NeonNeedSomeoneB1,Someone go B.,someone go b,True,Someone go be.,Someone go be.,Someone go B.,Someone go B.
+neon,NeonNeedSomeoneB2,Someone go B.,someone go b,True,Someone go be.,Someone go be.,Someone go B.,Someone go B.
+neon,NeonOffer1,"I can buy, who needs what?",i can buy who needs what,False,I can buy. Who needs what?,I can buy. Who needs what?,"I can buy, who needs what?",I can buy. Who needs what?
+neon,NeonOffer2,"I can buy, who needs what?",i can buy who needs what,False,I can buy. Who needs what?,I can buy. Who needs what?,"I can buy, who needs what?","I can buy, who needs what?"
+neon,NeonOnCooldown1,Not ready yet.,not ready yet,True,Not ready yet.,Not ready yet.,Not ready yet.,Not ready yet.
+neon,NeonOnCooldown2,Not ready yet.,not ready yet,True,Not ready yet.,Not ready yet.,Not ready yet.,Not ready yet.
+neon,NeonPingGun1,Gun here.,gun here,True,Gun here!,Gun here!,Gun here.,Gun here.
+neon,NeonPingGun2,Gun here.,gun here,True,Gun here!,Gun here!,Gun here.,Gun here.
+neon,NeonPlantSpike1,Plant the spike!,plant the spike,True,Plant the spike!,Plant the spike!,Plant the spike!,Plant the spike!
+neon,NeonPlantSpike2,Plant the spike!,plant the spike,True,Let the spike.,Black the Spike.,Plant the spike!,Plant the spike!
+neon,NeonRoundStart7,"Fight till the end, no matter what.",fight till the end no matter what,False,Fight till the end. No matter what.,"Fight till the end, no matter what.",Fight till the end. No matter what.,"Fight till the end, no matter what."
+neon,NeonRunnerUp3,Not the worst.,not the worst,False,Not the worst.,Not the worst.,Not the worst.,Not the worst!
+neon,NeonSneakC1,Let's sneak C.,let us sneak c,True,Let's make see.,Let's snake see!,Let's sneak C.,Let's sneak C.
+neon,NeonSneakC2,Let's sneak C.,let us sneak c,True,Let's sneak see.,Let's sneak see.,Let's sneak C.,Let's sneak C.
+neon,NeonSpikeC1,Spike's C.,spike is c,True,Spikesee!,Spike C!,Spike's C.,Spike's C.
+neon,NeonSpikeC2,Spike's C.,spike is c,True,Spikesee!,Spike C.,Spike's C.,Spike's C.
+neon,NeonSpikeDown1,Our spike's down.,our spike is down,True,or spikes down.,Our spike's down.,Our spike's down.,Our spike's down.
+neon,NeonSpikeDown2,Our spike's down.,our spike is down,True,Our spikes down.,Our spikes down!,Our spike's down.,Our spike's down.
+neon,NeonSpikeSpottedC1,Spike C.,spike c,False,Spike Zee!,Spike C.,Spike's C.,Spike's C.
+neon,NeonSpikeSpottedC2,Spike C.,spike c,False,Spike Z!,Spike C,Spike's C.,Spike's C.
+neon,NeonSpreadOut1,Let's spread out.,let us spread out,True,Let's spread out.,Let's spread out.,Let's spread out.,Let's spread out.
+neon,NeonSpreadOut2,Let's spread out.,let us spread out,True,Let's spread out.,Let's spread out.,Let's spread out.,Let's spread out.
+neon,NeonUltKill3,Zapped!,zapped,False,ZAPT!,Zapped!,Zapped!,Zapped!
+omen,OmenAffirmation1,Agreed.,agreed,False,Agreed.,Agreed.,A breed.,Agreed.
+omen,OmenAffirmation2,Agreed.,agreed,False,Agreed!,Agreed.,Agreed.,Agreed.
+omen,OmenAllyIsoBarrierDown,"Iso, take them one by one.",iso take them one by one,False,I soon take them one by one.,"I so, take them one by one.","Iso, take them one by one.","Iso, take them one by one."
+omen,OmenAllyReynaMatchStart,"Reyna, the souls you consume. Do you hear their voices as I do?",reyna the souls you consume do you hear their voices as i do,False,"Rayna, the souls you consume. Do you hear their voices as I do?","Rayna, the souls you consume, do you hear their voices as I do?","Reyna, the souls you consume. Do you hear their voices as I do?","Reyna, the souls you consume, do you hear their voices as I do?"
+omen,OmenAllySkyeMatchStart,"Skye the life weaver. The power to create, to destroy. Which path will you embrace, I wonder?",skye the life weaver the power to create to destroy which path will you embrace i wonder,False,"Sky the life weaver, the power to create, to destroy. Which path will you embrace, I wonder?","Sky the life weaver. The power to create, to destroy. Which path will you embrace, I wonder?","Skye the life weaver. The power to create, to destroy. Which path will you embrace, I wonder?","Skye the life weaver. The power to create, to destroy. Which path will you embrace, I wonder?"
+omen,OmenAllyViperMatchStart2,"Sabine, look at the monsters we've become. At least you have flesh to hide your horror.",sabine look at the monsters we have become at least you have flesh to hide your horror,False,"Sabine, look at the monsters we've become. At least you have flesh to hide your horror.","Sabine, look at the monsters we've become. At least you have flesh to hide your horror.","Sabine, look at the monsters we've become. At least you have fleshed to hide your horror.","Sabine, look at the monsters we've become. At least you have flesh to hide your horror."
+omen,OmenAllyYoruRoundStart,"Where should we go, rift walker? They cannot watch everywhere at once.",where should we go rift walker they cannot watch everywhere at once,False,"Where should we go, Riftwalker? They cannot watch everywhere at once.","Where should we go, Riftwalker? They cannot watch everywhere at once.","Where shall we go, rift walker? They cannot watch everywhere at once.","Where should we go, rift walker? They cannot watch everywhere at once."
+omen,OmenBarrierDown2,Hold our ground.,hold our ground,False,Hold our ground.,Hold our ground.,Hold our ground.,Hold our ground.
+omen,OmenClutch1,You forget your place.,you forget your place,False,You forget your place.,You forget your place.,You forget your place.,You forget your place.
+omen,OmenComeback2,I feel like myself. Catch them. Again.,i feel like myself catch them again,False,I feel like myself. Catch them. Again.,I feel like myself. Catch them. Again.,"I feel like myself. Catch them, again.","I feel like myself. Catch them, again."
+omen,OmenDarkCoverCast3,Shadows traveling.,shadows traveling,False,Cheto's traveling.,Shadows traveling.,Jettos traveling.,Jettos traveling.
+omen,OmenDarkCoverCast4,Shadows traveling.,shadows traveling,False,Shadows traveling.,Shadows traveling.,Shadows traveling.,Shadows traveling.
+omen,OmenDefuseComplete1,Their spike is defused.,their spike is defused,False,The spike is diffused.,The spike is diffused.,Their spike is defused.,The spike is defused.
+omen,OmenEnemyAstraLastKill,"The Astra is gone, and her mysteries with her.",the astra is gone and her mysteries with her,False,"The Astro's gone, and her mysteries with her.","The Astra is gone, and her mysteries with her.","The Astra is gone, and her mysteries with her.","The Astra is gone, and her mysteries with her."
+omen,OmenEnemyCloveBarrierDown,Clove's antics stop now.,clove is antics stop now,False,Cloves antics stop now.,Cloves antics stop now.,Clove's antics stop now.,Cove's antics stop now.
+omen,OmenEnemySageRoundStart,Keep hunting them down! Their Sage cannot protect them all.,keep hunting them down their sage cannot protect them all,False,Keep hunting them down. The sage cannot protect them all.,Keep hunting them down. This age cannot protect them all.,Keep hunting them down. Their Sage cannot protect them all.,Keep hunting them down. Their Sage cannot protect them all.
+omen,OmenEnemySkyeLastKill,"What would you have become, Skye? Ugh, it doesn't matter now.",what would you have become skye ugh it does not matter now,False,"What would you have become, Sky? It doesn't matter now.","What would you have become, Skye? It doesn't matter now.","What would you have become, Skye? It doesn't matter now.","What would you have become, Skye? Eh, it doesn't matter now."
+omen,OmenEnemyViperKill,Experiment complete.,experiment complete,False,Experiment complete.,experiment complete.,Experiment complete.,Experiment complete.
+omen,OmenFlawless3,History has already forgotten you.,history has already forgotten you,False,History has already forgotten you.,History has already forgotten you.,History has already forgotten you.,History has already forgotten you.
+omen,OmenHeadshot3,Pitiful.,pitiful,True,Pitiful.,Pitiful.,Pitiful.,Pitiful.
+omen,OmenHeadshot5,You were a mistake.,you were a mistake,False,You were a mistake.,You were a mistake.,You were a mistake.,You were a mistake.
+omen,OmenKill10,No more.,no more,True,No more!,No more.,No more.,No more.
+omen,OmenKill4,Killed.,killed,True,Tilt.,killed.,Killed.,Killed.
+omen,OmenLead2,Sad fools standing in our way.,sad fools standing in our way,False,Sad fool standing in our way,Sad fools standing in our way.,Set fool standing in our way!,Sat fool standing in our way.
+omen,OmenLowHP1,You think you can kill me?,you think you can kill me,True,You think you can kill me.,You think you can kill me?,You think you can kill me?,You think you can kill me?
+omen,OmenNeedSomeoneC1,Someone go C.,someone go c,True,Someone go see.,Someone go see.,Someone go C.,Someone go C.
+omen,OmenNeedSomeoneC2,Someone go C.,someone go c,True,Someone go see.,Someone go see.,Someone go C.,Someone go C.
+omen,OmenParanoiaKill3,Boo.,boo,True,Ooh.,Boo!,Boo.,Boo!
+omen,OmenParanoiaKill4,Boo.,boo,True,Go!,Go!,Boom.,Boo!
+omen,OmenRoundStart1,I'll make them remember... they're only human.,i will make them remember they are only human,False,I'll make them remember. They're only human.,I'll make them remember. They're only human.,I'll make them remember. They're only human.,I'll make them remember. They're only human.
+omen,OmenRoundStart2,My burden never ends.,my burden never ends,False,My gluten never ends.,My burden never ends.,My burden ever ends.,My burden never ends.
+omen,OmenShroudedStepUnviable1,Can't go there.,can not go there,False,Can't go there.,Can't go there.,Can't go there.,Can't go there.
+omen,OmenShroudedStepUnviable2,Can't go there.,can not go there,False,Can't cool there.,Can't go there.,Can't go there.,Can't go there.
+omen,OmenSpikePlanted1,Spike planted.,spike planted,True,Spike planted.,Spike planted.,Spike planted.,Spike planted.
+omen,OmenSpikePlanted2,Spike planted.,spike planted,True,Spike planted.,Spike planted.,Spike planted.,Spike planted.
+omen,OmenStackMid1,Let's stack Mid.,let us stack mid,True,Let's talk mid.,Let's stack mid!,Let's stack Mid.,Let's stack Mid.
+omen,OmenStackMid2,Let's stack Mid.,let us stack mid,True,Let's stack mid.,Let's stack mid.,Let's stack Mid.,Let's stack Mid.
+omen,OmenUltAllyCast,Watch them run.,watch them run,False,Watch them run.,Watch them run.,Watch them run.,Watch them run.
+omen,OmenUltInterrupt1,Damn it!,damn it,False,Damn it!,Damn it!,Down it.,Damn it!
+omen,OmenUltInterrupt2,Damn it!,damn it,False,Damn it!,Damn it!,Damn it.,Damn it!
+omen,OmenUltKill2,Boo.,boo,True,Ooh.,Boo.,Ooh.,Boo!
+phoenix,PhoenixAllyAstraCommend,"Oh Astra with the galaxy brain, yeah!",0 astra with the galaxy brain yeah,False,"Oh, Astro with the Galaxy Brave, yeah!","Oh, Astro with that galaxy brain, yeah!","Oh, Astra with their galaxy brain, yeah!","Oh, Astra with their galaxy brain, yeah!"
+phoenix,PhoenixAllyBrimstoneMatchStart,"Yo Brim, don't go tweaking your back out there. Leave the fancy stuff to the young'uns.",yo brim do not go tweaking your back out there leave the fancy stuff to the young uns,False,"Your brim, don't go tweak in the back out there. Leave the fancy stuff to the youngens.","Yo, brim, don't go tweaking your back out there. Lead the fancy stuff to the youngins.","Yo Brim, don't go tweaking the back out there. Lead the fancy stuff to the youngens.","Yo, Brim, don't go tweaking your back out there! Leave the fancy stuff to the youngins!"
+phoenix,PhoenixAllyCypherMatchStart,"Remember fam, winning takes sacrifice, right Cypher? Sacrifice? Like chess? Our chess game? Come on, I know you got it.",remember fam winning takes sacrifice right cipher sacrifice like chess our chess game come on i know you got it,False,"Remember fam, winning takes sacrifice. Right cypher? Sacrifice? Like chess? Our chess game? Come on, I know you got it.","Remember fam, winning takes sacrifice. Right cypher? Sacrifice? Like chess? Our chess game? Come on, I know you got it.","Remember fam, winning takes sacrifice. Right Cypher? Sacrifice? Like chess? I will chess game? Come on, I know you got it.","Remember fam, winning takes sacrifice, right Cypher? Sacrifice? Like chess? Our chess game? Come on, I know you got it."
+phoenix,PhoenixAllyRazeRoundStart,"Raze, plug me into the tunes, yeah, I know you got the good stuff.",raze plug me into the tunes yeah i know you got the good stuff,False,"Raise, plug me into the tunes. Yeah, I know you got the good stuff.","Raise. Plug me into the tunes. Yeah, I know you got the good stuff.","Raze, plug me into the tunes, yeah I know you got the good stuff.","Raze, plug me into the tunes, yeah I know you got the good stuff!"
+phoenix,PhoenixBarrierDown2,Stop them! This is our turf!,stop them this is our turf,False,Stop them! This is our turf!,Stop them! This is our turf!,Stop them! This is all tough!,Stop them! This is our turf!
+phoenix,PhoenixBarrierDown5,Let's get the advantage.,let us get the advantage,False,Let's get the advantage!,Let's get the advantage.,Let's get the advantage.,Let's get the advantage.
+phoenix,PhoenixCantUse1,Can't use that.,can not use that,True,Can't use that.,Can't use that.,Can't use that.,Can't use that.
+phoenix,PhoenixComeback3,They're in for a rude awakenin'.,they are in for a rude awakenin,False,Darren for a rude awakening.,Darren for a rude awakening.,They're in for a rude awakening.,They're in for a rude awakening.
+phoenix,PhoenixEncouraging1,We got this.,we got this,True,We got this.,We've got this!,We got this.,We got this.
+phoenix,PhoenixEncouraging2,We got this.,we got this,True,We got this.,We got this.,We got this.,We got this.
+phoenix,PhoenixEncouraging3,We got this.,we got this,True,We've got this.,We've got this.,We've got this.,We got this.
+phoenix,PhoenixEnemies1,Bunch of guys here!,bunch of guys here,False,Once you guys here.,Bunch of guys here.,Bunch of guys here!,Bunch of guys here!
+phoenix,PhoenixEnemies2,Bunch of guys here!,bunch of guys here,False,bunch of guys here.,Don't you guys hear?,Bunch of guys here.,Bunch of guys here!
+phoenix,PhoenixEnemyJettMatchStart,"They got a Jett too? Nah, there's only one wind girl, and she's ours. That's a fake!",they got a jett too nah there is only one wind girl and she is ours that is a fake,False,"They got a jet too! Nah, there's only one window and she's ours. That's a fake.","They got a jet, too. Nah. There's only one wingo, and she's ours. That's a fake.","They got a Jett too? Nah, there's only one Wingo, and she's ours. That's a fake!","They got a JIT too? Nah, there's only one Wingo and she's ours. That's a fake!"
+phoenix,PhoenixEnemySageLastKill,"Easy, Sage.",easy sage,False,Easy Sage!,Easy Sage!,Easy Sage.,"Easy, Sage!"
+phoenix,PhoenixGoingA1,Going A.,going a,True,Goin' A!,Go in A!,Going A.,Going A.
+phoenix,PhoenixHeadshot1,Sit down!,sit down,True,Sit down!,Sit down!,Sit down!,Sit down!
+phoenix,PhoenixHeadshot5,"Eh, what're you doin'?!",eh what are you doin,False,What are you doing?,What are you doing?,What are you doing?,What are you doing?
+phoenix,PhoenixHello3,What's up?,what is up,True,What's up?,What's up?,What's up?,What's up?
+phoenix,PhoenixHoldingPosition1,Holding position.,holding position,True,Hold in position.,Hold in position.,Holding position.,Holding position.
+phoenix,PhoenixHoldingPosition2,Holding position.,holding position,True,Hold in position.,Hold in position.,Holding position.,Holding position.
+phoenix,PhoenixLead3,"Who else is havin' a great time? Just me? Tsk, ah, I'm gutted!",who else is havin a great time just me tsk ah i am gutted,False,"Who else is having a great time? Just me. Oh, I'm gutted.","Who else is having a great time? Just me. Oh, I'm gutted.","Who else is having a great time? Just me? Ah, I'm gutted.","Who else is having a great time? Just me! Ugh, I'm gutted!"
+phoenix,PhoenixLetsAttack1,Let's attack.,let us attack,True,Let's attack!,Let's attack!,Let's attack.,Let's attack.
+phoenix,PhoenixLetsAttack2,Let's attack.,let us attack,True,Let's attack.,Let's attack!,Let's attack.,Let's attack.
+phoenix,PhoenixLetsRushA1,Let's rush A.,let us rush a,True,Let's Russia!,Let's Rushy!,Let's rush A.,Let's rush A.
+phoenix,PhoenixLetsRushA2,Let's rush A.,let us rush a,True,Let's rush you.,Let's Roshi!,Let's rush A.,Let's rush A.
+phoenix,PhoenixManyEnemiesHere1,Many enemies here.,many enemies here,False,Many enemies here.,Many enemies here.,Many enemies here!,Many enemies here!
+phoenix,PhoenixManyEnemiesHere2,Many enemies here.,many enemies here,False,Many enemies here.,Many enemies here.,Many enemies here!,Many enemies here!
+phoenix,PhoenixMatchStart3,"Yes, yes, it's me, autographs if we survive, yeah?",yes yes it is me autographs if we survive yeah,False,"Yes, yes, it's me autographs if we survive yet.","Yes, yes, it's me, autographs if we survive, yeah?","Yes, yes, it's me, autographs if we survive, yeah?","Yes, yes it's me, autographs if we survive, yeah?"
+phoenix,PhoenixMatchWin3,They're done! Who's up next?,they are done who is up next,False,They're done! Who's up next?,They're done! Who's up next?,They're done! Who's up next?,They're done! Who's up next?
+phoenix,PhoenixMatchWin4,And that's how it gets done!,and that is how it gets done,False,And that's how it gets done!,And that's how it gets done.,And that's how it gets done!,And that's how it gets done.
+phoenix,PhoenixOffer1,Anyone need something?,anyone need something,True,Anyone needs something?,Anyone needs something.,Anyone need something?,Anyone need something?
+phoenix,PhoenixOffer2,Anyone need something?,anyone need something,True,Anyone needs something.,Anyone needs something.,Anyone need something?,Anyone need something?
+phoenix,PhoenixOffer3,Anyone need something?,anyone need something,True,Anyone need something?,Anyone need something?,Anyone need something?,Anyone need something?
+phoenix,PhoenixPlantSpike1,Plant the spike!,plant the spike,True,It's not in the spike.,Plan the spike!,Plant the spike!,Plant the spike!
+phoenix,PhoenixPlantSpike2,Plant the spike!,plant the spike,True,Vlog the spike!,Block the spike!,Plant the spike!,Plant the spike!
+phoenix,PhoenixRunnerUp2,Next time I'm gettin' first place!,next time i am gettin 1st place,False,"Next time I'm getting first, please.","Next time I'm getting first, please.",Next time I'm getting first place.,Next time I'm getting first place.
+phoenix,PhoenixStackMid1,Let's stack Mid.,let us stack mid,True,Let's stack mid!,Let's stack mid!,Let's stack Mid.,Let's stack Mid.
+phoenix,PhoenixStackMid2,Let's stack Mid.,let us stack mid,True,Let's start commit!,Let's stack mid!,Let's stack Mid.,Let's stack Mid.
+raze,RazeAffirmation1,Okay.,okay,True,Okay!,Okay!,"Hook, yay!",Okay.
+raze,RazeAffirmation2,Okay.,okay,True,Okay!,Okay!,Okay!,Okay!
+raze,RazeAllyBreachCommend,Did you see Breach back there? That's how it's done.,did you see breach back there that is how it is done,False,Did you see Bridge back there? That's how it's done!,Did you see Breach back there? That's how it's done.,Did you see Breach back there? That's how it's done!,Did you see Breach back there? That's how it's done!
+raze,RazeAllyCypherRoundStart,"Cypher, I'm so sorry about breaking all your stuff. I mean, I won't stop, but I am sorry.",cipher i am so sorry about breaking all your stuff i mean i will not stop but i am sorry,False,"Sorry for I'm so sorry about breaking on your stuff. I mean, I won't stop, but I am sorry.","Cypher, I'm so sorry about breaking all your stuff. I mean, I won't stop, but I am sorry.","Cypher, I'm so sorry about breaking all your stuff. I mean, I won't stop, but I am sorry.","Cypher, I'm so sorry about breaking all your stuff. I mean, I won't stop, but I am sorry."
+raze,RazeAllyKilljoyBarrierDown,Killjoy. You and me until the end.,killjoy you and me until the end,False,"Killjoy, you and me until the end.","Thank you Joy, you and me until the end.","Killjoy, you and me until the end.","Killjoy, you and me until the end."
+raze,RazeAllyKilljoyRoundStart,"Killjoy, don't overthink it! Sometimes, you just need to hit them with explosives.",killjoy do not overthink it sometimes you just need to hit them with explosives,False,Kill Joy! Don't overthink it! Sometimes you just need to hit them with explosives.,"Killjoy! Don't overthink it! Sometimes, you just need to hit them with explosives.","Killjoy! Don't overthink it! Sometimes, you just need to hit them with explosives.","Killjoy, don't overthink it! Sometimes, you just need to hit them with explosives."
+raze,RazeBarrierDown16,Let's flush them out.,let us flush them out,False,Let's thrush them out!,Let's Flushing Out!,Let's flush them out.,Let's flush them out.
+raze,RazeBarrierDown17,Let's make 'em dance!,let us make em dance,False,Let's make them dance.,Let's make him dance.,Let's make them dance.,Let's make them dance!
+raze,RazeBoomBotKill3,Ouch.,ouch,True,Ouch!,Ouch!,Ouch!,Ouch!
+raze,RazeBoomBotKill4,Ouch.,ouch,True,Ouch!,Ouch!,Ouch!,Ouch!
+raze,RazeBoomBotMultiKill1,They didn't move?!,they did not move,False,They didn't move?,They didn't move?,"They did it, move!",They didn't move!
+raze,RazeBoomBotMultiKill2,They didn't move?!,they did not move,False,They didn't move!,They didn't move!,They didn't move!,They didn't move!
+raze,RazeBoomBotMultiKill3,I didn't expect that!,i did not expect that,False,Ha ha ha! I didn't expect that!,I didn't expect that!,"Haha, I didn't expect that!","Haha, I didn't expect that!"
+raze,RazeBoomBotMultiKill4,I didn't expect that!,i did not expect that,False,I didn't expect that.,Ha! I didn't expect that!,Ha! I didn't expect that!,Ha! I didn't expect that!
+raze,RazeDefuseSpike1,Defuse it!,defuse it,False,Diffuse it!,defuse it!,Defuse it!,Defuse it!
+raze,RazeDefuseSpike2,Defuse it!,defuse it,False,Diffuse it.,Use it.,Defuse it.,Decuse it.
+raze,RazeEnemiesDSpawn1,Enemies in Defender Spawn!,enemies in defender spawn,True,enemies and defenders spawn.,Enemies in Defender Spawn.,Enemies in Defender Spawn!,Enemies in Defender Spawn!
+raze,RazeEnemiesDSpawn2,Enemies in Defender Spawn!,enemies in defender spawn,True,enemies and defenders spawn.,enemies and defenders spawn.,Enemies in Defender Spawn!,Enemies in Defender Spawn!
+raze,RazeEnemyMid1,Enemy spotted Mid.,enemy spotted mid,True,Enemy spotted mid!,Enemy spotted mid.,Enemy spotted Mid.,Enemy spotted Mid.
+raze,RazeEnemyMid2,Enemy spotted Mid.,enemy spotted mid,True,Enemy spotted mid.,Enemy spotted mid.,Enemy spotted Mid.,Enemy spotted Mid.
+raze,RazeGoingA1,Going A.,going a,True,Going A.,Boeing A,Rowing A.,Rowing A.
+raze,RazeGoingA2,Going A.,going a,True,Go Engay!,Going gay.,Going A.,Going A.
+raze,RazeKill1,Ha! Got one!,ha got one,False,Got one!,Ha! Got one!,"Ha, got one!","Hah, got one!"
+raze,RazeKill2,Boom!,boom,False,Home.,Boom!,Ooh.,Boom!
+raze,RazeKill6,One down.,one down,True,One down.,One down.,One down.,One down.
+raze,RazeLastRound1,Spend those creds before we lose them.,spend those creds before we lose them,False,Spend those crads before we lose them.,Spend those cries before we lose them.,Spend those crads before we lose them.,Spend those cries before we lose them.
+raze,RazeLastRound2,Spend those creds before we lose them.,spend those creds before we lose them,False,Spend those crads before we lose them.,Spend those cries before we lose them.,Spend those crads before we lose them.,Spend those cries before we lose them.
+raze,RazeLetsRush1,Let's rush them.,let us rush them,True,Let's rush them!,Let's rush them!,Let's rush them.,Let's rush them.
+raze,RazeLetsRush2,Let's rush them.,let us rush them,True,Let's rush them.,Let's rush them.,Let's rush them.,Let's rush them.
+raze,RazePaintShellsCast1,Grenade!,grenade,False,Grenade!,Grenade!,Grenade!,Grenade!
+raze,RazePaintShellsCast2,Grenade!,grenade,False,Grenade!,Grenade!,Grenade!,Grenade!
+raze,RazePaintShellsCast3,Grenade!,grenade,False,Grenade!,Grenade!,Grenade!,Grenade!
+raze,RazePaintShellsKill3,Boom!,boom,False,Oh.,Home.,Ooh.,Home.
+raze,RazePaintShellsKill4,Boom!,boom,False,Boom!,Boom!,Boom!,Boom!
+raze,RazeRequest1,Can I get a drop?,can i get a drop,False,Can I get a drop?,Can I get a drop?,Can I get a drop?,Can I get a drop?
+raze,RazeRequest2,Can I get a drop?,can i get a drop,False,Can I get a drop?,Can I get a drop?,Can I get a drop?,Can I get a drop?
+raze,RazeRoundStart11,"Okay, I only have, like, seventy-eight grenades left? Hopefully that's enough.",okay i only have like 78 grenades left hopefully that is enough,False,"Okay, I only have like 78 grenades left. Hopefully that's enough.","Okay, I only have like 78 grenades left. Hopefully that's enough.","Okay, I only have like, 78 grenade left. Hopefully that's enough.","Okay, I only have like, 78 grenades left? Hopefully that's enough."
+raze,RazeRoundStart6,Paint? Check. Charges? Check. Brakes? ''chuckles'' Nowhere in sight.,paint check charges check brakes chuckles nowhere in sight,False,"Paint, check, charges, check, breaks, nowhere in sight.","Paint, check. Charges, check. Brakes. Nowhere in sight.","Paint, check, charges, check, breaks, no wearing sight.","Paint, check. Charges, check. Breaks. Hehe, nowhere in sight."
+raze,RazeRoundWon1,And that's how we do it.,and that is how we do it,False,And that's how we do it.,And that's how we do it.,And that's how we do it.,And that's how we do it.
+raze,RazeSneakB1,Let's sneak B.,let us sneak b,True,Let's make beer.,Let's make beer.,Let's sneak B.,Let's sneak B.
+raze,RazeSneakB2,Let's sneak B.,let us sneak b,True,Let's speak B.,Let's link B.,Let's sneak B.,Let's sneak B.
+raze,RazeSpreadOut1,Let's spread out.,let us spread out,True,It's spread out.,It's spread out.,It's spread out.,It's spread out.
+raze,RazeSpreadOut2,Let's spread out.,let us spread out,True,Let's spread out!,Let's spread out!,Let's spread out.,Let's spread out.
+raze,RazeUltKill3,Boom!,boom,False,Boom!,Boom!,Boom!,Boom!
+raze,RazeUltKill4,Boom!,boom,False,Boom!,Boom!,Boom!,Boom!
+reyna,ReynaAce3,Die meaningless.,die meaningless,False,Die meaningless!,Die meaningless.,"Die, meaningless!",Die meaningless.
+reyna,ReynaAllyKAYORoundStart,"Focus your hate at the enemy, KAY/O, it is wasted on me.",focus your hate at the enemy kay 0 it is wasted on me,False,Focus your hate at the enemy KO. It is wasted on me.,"Focus your hate at the enemy, KO. It is wasted on me.",Focus your hate at the enemy KO. It is wasted on me.,"Focus your hate at the enemy, KAYO. It is wasted on me."
+reyna,ReynaAllyPhoenixMatchStart,"See you on the front lines, Phoenix. Save some enemies for me.",see you on the front lines phoenix save some enemies for me,False,"See you in the front lines, Phoenix. Save some enemies for me.","See you in the front lines, Phoenix. Save some enemies for me.","See you on the front lines, Phoenix. Save some enemies for me.","See you on the front lines, Phoenix. Save some enemies for me."
+reyna,ReynaBarrierDown3,At least they kept it interesting.,at least they kept it interesting,False,At least they kept it interesting.,At least they kept it interesting.,Only as they kept it interesting.,At least they kept it interesting.
+reyna,ReynaCantUse1,Can't use that.,can not use that,True,Can't use that.,can use that.,Can't use that.,Can't use that.
+reyna,ReynaCantUse2,Can't use that.,can not use that,True,Can't use it.,can use it.,Can't use that.,Can't use it.
+reyna,ReynaEnemyBrimstoneBarrierDown,I'll show that Brimstone true power!,i will show that brimstone true power,False,her show that brimstone true power.,I'll show that Brimstone true power.,"I'll show that Brimstone, true power!",I'll show that Brimstone true power.
+reyna,ReynaEnemyDSpawn1,Enemy in Defender Spawn.,enemy in defender spawn,True,enemy and defender are spun.,Enemy in defender spawn.,Enemy in Defender Spawn.,Enemy in Defender Spawn.
+reyna,ReynaEnemyDSpawn2,Enemy in Defender Spawn.,enemy in defender spawn,True,"And I mean, defend respond.","And I mean, defend the respond.",Enemy in Defender Spawn.,Enemy in Defender Spawn.
+reyna,ReynaEnemyJettRoundStart,"Their Jett is playing hard to get. Alright, I'll play.",their jett is playing hard to get alright i will play,False,"They're just playing hard to get. Alright, I'll play.","their jet is playing hard to get. All right, I'll play.","Their Jett is playing hard to get. Alright, I'll play.","Their Jett is playing hard to get. Alright, I'll play."
+reyna,ReynaEnemyMid1,Enemy spotted Mid.,enemy spotted mid,True,And I was spotted me.,"Enemy spotted, meet.",Enemy spotted Mid.,Enemy spotted Mid.
+reyna,ReynaEnemyMid2,Enemy spotted Mid.,enemy spotted mid,True,And Emi spotted me.,Enemies but admit.,Enemy spotted Mid.,Enemy spotted Mid.
+reyna,ReynaEnemySageBarrierDown,Who will heal their healer?,who will heal their healer,False,Who will heal their healer?,Who will heal their healer?,Who will heal their healer?,Who will heal their healer?
+reyna,ReynaGoingA1,Going A.,going a,True,Going A.,GoING E!,Going A.,Going A.
+reyna,ReynaGoingA2,Going A.,going a,True,Going A.,Going A.,Going A.,Going A.
+reyna,ReynaHeadshot4,No need to suffer.,no need to suffer,False,No need to suffer.,No need to suffer.,No need to suffer.,No need to suffer.
+reyna,ReynaLastKillMVP2,How sad. You're just like everyone else.,how sad you are just like everyone else,False,How sad. You're just like everyone else.,How sad. You're just like everyone else.,How sad. You're just like everyone else.,How sad. You're just like everyone else.
+reyna,ReynaLead1,"If you've never seen a massacre, this is what it looks like.",if you have never seen a massacre this is what it looks like,False,"If you've never seen a massacre, this is what it looks like.","If you've never seen a massacre, this is what it looks like.","If you've never seen a massacre, this is what it looks like.","If you've never seen a massacre, this is what it looks like."
+reyna,ReynaLead3,They're starting to panic. I can feel their pulse quickening from here.,they are starting to panic i can feel their pulse quickening from here,False,They're starting to panic. I can feel their pulse quickening from here.,They're starting to panic. I can feel their pulse quickening from here.,They're starting to panic. I can feel their pulse quickening from here.,They're starting to panic. I can feel their pulse quickening from here.
+reyna,ReynaMatchStart4,"I've stood over so many corpses. A few more, does not matter.",i have stood over so many corpses a few more does not matter,False,have stood over so many corpses. A few more does not matter.,have stood over so many corpses. A few more does not matter.,"Have stood over so many corpses. A few more, does not matter.",Have stood over so many corpses. A few more does not matter.
+reyna,ReynaMatchStart5,"This enemy's nothing special. Still human, still mortal.",this enemy is nothing special still human still mortal,False,"This enemy is nothing special, still human, still mortal.",This enemy is nothing special. Still human. Still mortal.,"This enemy's nothing special. Still human, still mortal.","This enemy's nothing special. Still human, still mortal."
+reyna,ReynaMatchStartAscent,This poor place. It clings to life. A city after my own heart,this poor place it clings to life a city after my own heart,False,"Ah, this poor place, it thinks to life, as city after my own heart.","This poor place, it links to life. A city after my own heart.","Ah, this poor place, it thinks to life, as city after my own heart.","Ah, this poor place, it brings to life. A city after my own heart."
+reyna,ReynaPush1,Push forward.,push forward,True,Push forward!,Push forward.,Push forward.,Push forward.
+reyna,ReynaPush2,Push forward.,push forward,True,Push forward!,Push forward.,Push forward.,Push forward.
+reyna,ReynaPushOut1,Let's push out.,let us push out,True,Let's push out.,Let's push out.,Let's push out.,Let's push out.
+reyna,ReynaPushOut2,Let's push out.,let us push out,True,Let's push out.,Let's push out.,Let's push out.,Let's push out.
+reyna,ReynaRoundStart7,"Stay alive! I want their life, not yours.",stay alive i want their life not yours,False,Stay alive. I want their life not yours.,Still alive. I want their life not yours.,Stay alive! I want their life not yours.,Stay alive! I want their life not yours.
+reyna,ReynaSaving2,Saving.,saving,True,Saving.,Saving.,Saving.,Saving.
+reyna,ReynaSneakA1,Let's sneak A.,let us sneak a,True,Let's sneak A.,Let's sneak A.,Let's sneak A.,Let's sneak A.
+reyna,ReynaSneakA2,Let's sneak A.,let us sneak a,True,Let's sneak A.,Let's sneak A!,Let's sneak A.,Let's sneak A.
+reyna,ReynaSpikeDown1,Our spike's down.,our spike is down,True,Our spikes down.,our spikes down.,Our spike's down.,Our spike's down.
+reyna,ReynaSpikeDown2,Our spike's down.,our spike is down,True,Our spikes down.,Our spikes down.,Our spike's down.,Our spike's down.
+reyna,ReynaSpikeSpottedA1,Spike is A.,spike is a,True,Spakey say.,Spike you say.,Spike is A.,Spike is A.
+reyna,ReynaSpikeSpottedA2,Spike is A.,spike is a,True,Spike is safe.,Spiky say.,Spike is C.,Spike is C.
+sage,SageAllyAstraMatchStart,"Astra, your perspective is so vast. I have so much I'd like to learn from you.",astra your perspective is so vast i have so much i would like to learn from you,False,You're perspective is so fast. I have so much I'd like to learn from you.,"Astra, your perspective is so vast. I have so much I'd like to learn from you.","Astra, your perspective is so fast. I have so much I'd like to learn from you.","Astra, your perspective is so fast! I have so much I'd like to learn from you."
+sage,SageAllyCypherBarrierDown,"Find them, Cypher.",find them cipher,False,"Find them, Cypher.","Find them, Cypher.","Find them, Cypher.","Find them, Cypher."
+sage,SageAllyKAYOMatchStart,"Be careful, KAY/O. I don't know how many times I can bring you back.",be careful kay 0 i do not know how many times i can bring you back,False,"Be careful, Kayo. I don't know how many times I can bring you back.","Be careful, Kale. I don't know how many times I can bring you back.","Be careful, KAYL. I don't know how many times I can bring you back.","Be careful, Kale. I don't know how many times I can bring you back."
+sage,SageAllyPhoenixCommend,"Your star shines bright, Phoenix.",your star shines bright phoenix,False,"Your star shines bright, Phoenix.","Your star shines bright, Phoenix.","Your star shines bright, Phoenix.","Your star shines bright, Phoenix."
+sage,SageAllyReynaChat,"Reyna, there are better ways to survive than your path.",reyna there are better ways to survive than your path,False,"Raina, they're up better ways to survive than your path.","Reyna, there are better ways to survive than your path.","Reyna, they're up better ways to survive than your path.","Reyna, there are better ways to survive than your path."
+sage,SageAllyReynaCommend,"That was worrisome, Reyna.",that was worrisome reyna,False,That was worrisome Rayna.,"That was worrisome, Rayna.","That was worrisome, Reyna.","That was worrisome, Reyna."
+sage,SageAllyReynaMatchStart,Work with me Reyna. Your enthusiasm and my caution both have qualities on the battlefield.,work with me reyna your enthusiasm and my caution both have qualities on the battlefield,False,"Work with me, Rayna. Your enthusiasm and my caution both have qualities on the battlefield.","Work with me, Reina. Your enthusiasm and my caution both have qualities on the battlefield.","Work with me, Reyna. You're enthusiasm and my caution both have qualities on the battlefield.","Work with me, Reyna. Your enthusiasm and my caution both have qualities on the battlefield."
+sage,SageBarrierDown15,As one!,as one,False,That's one!,as one.,That's one!,As one.
+sage,SageBarrierDown16,Fight!,fight,False,Fight!,Fight!,Fight!,Fight!
+sage,SageDefuseComplete2,They had no right to do this.,they had no right to do this,False,They had no right to do this.,They had no right to do this.,They had no right to do this.,They had no right to do this.
+sage,SageEnemiesMid1,Many enemies Mid!,many enemies mid,True,Many enemies meet.,Many enemies meet.,Many enemies Mid!,Many enemies Mid!
+sage,SageEnemiesMid2,Many enemies Mid!,many enemies mid,True,Many enemies mid.,Many enemies mid.,Many enemies Mid!,Many enemies Mid!
+sage,SageEnemyASpawn1,Enemy in Attacker Spawn.,enemy in attacker spawn,True,enemy and attack respond.,Enemy and attack respawn.,Enemy in Attacker Spawn.,Enemy in Attacker Spawn.
+sage,SageEnemyASpawn2,Enemy in Attacker Spawn.,enemy in attacker spawn,True,Enemy in attack respond.,Enemy in attack respond.,Enemy in Attacker Spawn.,Enemy in Attacker Spawn.
+sage,SageEnemyOmenMatchStart,I wonder what torture their Omen is going through. Is it like ours? Poor soul.,i wonder what torture their omen is going through is it like ours poor soul,False,I wonder what torture their omen is going through. Is it like ours? Poor soul.,I wonder what torture their omen is going through. Is it like ours? Poor soul.,I wonder what torture their Omen is going through. Is it like ours? Poor soul.,I wonder what torture their Omen is going through. Is it like ours? Poor soul.
+sage,SageEnemyPhoenixRoundStart2,Their Phoenix may feel immortal. I shall remind him just how mortal he truly is.,their phoenix may feel immortal i shall remind him just how mortal he truly is,False,Their Phoenix may feel immortal. I shall remind him just how mortal he truly is.,Their phoenix may feel immortal. I shall remind him just how mortal he truly is.,Their Phoenix may feel immortal. I shall remind him just how mortal he truly is.,Their Phoenix may feel immortal. I shall remind him just how mortal he truly is.
+sage,SageEnemySageKill,Imposter killed.,imposter killed,False,Imposter killed.,Imposter killed.,Imposter killed.,Imposter killed.
+sage,SageFlawless2,Unscathed! I'm delighted.,unscathed i am delighted,False,unscathed. I'm delighted.,Unscathed. I'm delighted.,"Unscathed, I'm delighted.",Unscathed! I'm delighted.
+sage,SageGoHere1,Let's go here.,let us go here,True,Let's go here.,Let's go here.,Let's go here.,Let's go here.
+sage,SageGoHere2,Let's go here.,let us go here,True,Let's go here.,Let's go here.,Let's go here.,Let's go here.
+sage,SageHeadshot3,Headshot.,headshot,True,Headshot!,Headshot.,Headshot.,Headshot.
+sage,SageKill2,Return to dust.,return to dust,False,Return to dust.,We tend to dust.,Retend to dust.,Retend to dust.
+sage,SageLead3,Phenomenal! We trained for this.,phenomenal we trained for this,False,"Phenomenal, we trained for this.",Phenomenal. We train for this.,"Feem nominal, we trained for this.","Finomeno, we trained for this."
+sage,SageLetsGoHere1,Let's go here.,let us go here,True,Let's go here.,Let's go here.,Let's go here.,Let's go here.
+sage,SageLetsGoHere2,Let's go here.,let us go here,True,Let's go here.,Let's go here.,Let's go here.,Let's go here.
+sage,SageLetsRushB1,Let's rush B.,let us rush b,True,Let's rush B.,Let's rush B.,Let's rush B.,Let's rush B.
+sage,SageLetsRushB2,Let's rush B.,let us rush b,True,Let's brush B.,Let's brush B!,Let's rush B.,Let's rush B.
+sage,SageMatchStart3,"This place. I can feel its pain, it aches for redemption.",this place i can feel its pain it aches for redemption,False,"This place, I can feel its pain, it aches for redemption.","This place, I can feel its pain, its aches for redemption.","This place, I can feel its pain, it aches for redemption.","This place, I can feel its pain, its aches, for redemption."
+sage,SageMatchStartHaven,"This place. I can feel its pain, it aches for redemption.",this place i can feel its pain it aches for redemption,False,"This place, I can feel its pain, it aches for redemption.","This place, I can feel its pain, its aches for redemption.","This place, I can feel its pain, it aches for redemption.","This place, I can feel its pain, its aches, for redemption."
+sage,SageMatchWinBind,This city is safe once more.,this city is safe once more,False,The city is safe once more.,This city is safe once more.,This city is safe once more.,This city is safe once more.
+sage,SageRoundStart1,"My power does not ebb. Ask for aid, and you shall receive.",my power does not ebb ask for aid and you shall receive,False,My power does not ebb. Ask for aid and you shall receive.,"My power does not ebb. Ask for aid, and you shall receive.",My power does not ebb. Ask for aid and you shall receive.,My power does not end. Ask for aid and you shall receive.
+sage,SageRoundStart2,"Look at me, and know that I am by your side.",look at me and know that i am by your side,False,Look at me. I know that I am by your side.,Look at me. I know that I am by your side.,Look at me. I know that I am by your side.,Look at me. I know that I am by your side.
+sage,SageRoundStart6,"Together, we will bury them under their transgressions.",together we will bury them under their transgressions,False,"Together, we will bury them under their transgressions.","Together, we will bury them under their transgressions.","Together, we will bury them under their transgressions.","Together, we will bury them under their transgressions."
+sage,SageRoundStart7,Let them try to get through me.,let them try to get through me,False,Let them try to get through me.,Let them try to get through me.,Let them try to get through me.,Let them try to get through me.
+sage,SageSneakA1,Let's sneak A.,let us sneak a,True,Let's sneak A.,Let's sneak A.,Let's sneak A.,Let's sneak A.
+sage,SageSneakA2,Let's sneak A.,let us sneak a,True,Let's sneak A.,Let's sneak A.,Let's sneak A.,Let's sneak A.
+sage,SageSneakB1,Let's sneak B.,let us sneak b,True,Let's sneak pea.,Let's sneak B.,Let's sneak B.,Let's sneak B.
+sage,SageSneakB2,Let's sneak B.,let us sneak b,True,Let's sneak B.,Let's sneak B.,Let's sneak B.,Let's sneak B.
+sage,SageSpikeSpottedASpawn1,Spike is in Attacker Spawn.,spike is in attacker spawn,True,Spike is an attack respond.,Spike is in attack response.,Spike is in Attacker Spawn.,Spike is in Attacker Spawn.
+sage,SageSpikeSpottedASpawn2,Spike is in Attacker Spawn.,spike is in attacker spawn,True,Spike is in attack respond.,Spike is in attack response.,Spike is in Attacker Spawn.,Spike is in Attacker Spawn.
+skye,SkyeAllyBreachMatchStart,"Breach, you big beaut, get up here. The front line's got room for one more animal.",breach you big beaut get up here the front line has got room for one more animal,False,"For each a big beaut, get up here. The front line's got room for one more animal.","Preach a big butte, get up here. The front line's got room for one more animal.","Breach a big beaut, get up here. The front line's got room for one more animal?","Breach a big beaut, get up here. The front line's got room for one more animal."
+skye,SkyeBarrierDown14,"Find the weak point, and break it.",find the weak and break it,False,Find the weak point and break it.,Find the weak point and break it.,Find the weak point and break it.,"Find the weak point, and break it."
+skye,SkyeBarrierDown4,We gotta get our land back.,we got to get our land back,False,We gotta get our land back.,We gotta get our land back.,We gotta get our land back.,We gotta get our land back!
+skye,SkyeCalloutC1,C Site.,c site,True,Seasight!,Seaside.,C Site.,C Site.
+skye,SkyeCalloutC2,C Site.,c site,True,Seasight.,See site.,C Site.,C Site.
+skye,SkyeComeback1,They think they put us in the dirt! They're gonna find out we weren't buried! Just planted.,they think they put us in the dirt they are going to find out we were not buried just planted,False,"They think they put us in the dirt. They're going to find out we weren't buried, just planted.",They think they put us in the dirt. They're gonna find out we weren't buried. Just planted.,"They think they put us in the dirt? They're gonna find out we weren't buried, just planted.","They think they put us in the dirt. They're gonna find out we weren't buried, just planted."
+skye,SkyeCommend1,Good on ya.,good on ya,False,"Hold on, yeah!","Hold on, ya!","Hold on, yeah!",Coulon ya!
+skye,SkyeCommend2,Good on ya.,good on ya,False,Good on ya!,Good on ya!,Good on ya!,Good on ya.
+skye,SkyeCommend3,Good on ya.,good on ya,False,"Good one, yeah.","Good one, yeah.","Gluon, yeah.","Grown, yeah."
+skye,SkyeEnemyKilljoyMatchStart,That Killjoy thinks a few bots will keep her safe? Give me a break!,that killjoy thinks a few bots will keep her safe give me a break,False,That killed Joy thinks a few bots will keep her safe? Give me a break.,That killjoy thinks a few bots will keep her safe? Give me a break.,That Killjoy thinks a few bots will keep her safe? Give me a break!,That Killjoy thinks a few bots will keep her safe? Give me a break.
+skye,SkyeEnemyMid1,Enemy spotted Mid.,enemy spotted mid,True,Enemy spotted mid!,Enemy spotted mid!,Enemy spotted Mid.,Enemy spotted Mid.
+skye,SkyeEnemyMid2,Enemy spotted Mid.,enemy spotted mid,True,Enemy spotted mid!,Enemy spotted mid!,Enemy spotted Mid.,Enemy spotted Mid.
+skye,SkyeEnemySageLastKill,"You made this happen, Sage.",you made this happen sage,False,"You made this happen, Sage.","He made this happen, Sage.","He made this happen, Sage.","You made this happen, Sage!"
+skye,SkyeEnemySovaBarrierDown,Leave that Sova to me.,leave that sova to me,False,Leave that sover to me.,Leave that sober to me.,Leave that Sova to me.,Leave that Sova to me!
+skye,SkyeEnemySovaRoundStart,That Sova's gonna put his eye out with all that tech. Mhm. His other eye I mean.,that sova is going to put his eye out with all that tech his other eye i mean,False,"That sofa's gonna put his eye out with all that tech. His other eye, I mean.","That sofa's gonna put his eye out with all that tech. He's other eye, I mean.","That Sova's gonna put his eye out with all that tech. His other eye, I mean.",That Sova's gonna put his eye out with all that tech. His other eye I mean.
+skye,SkyeFakingB1,I'm faking B.,i am faking b,True,I'm faking bee.,I'm faking B.,I'm faking B.,I'm faking B.
+skye,SkyeFakingB2,I'm faking B.,i am faking b,True,I'm faking B.,I'm faking B.,I'm faking B.,I'm faking B.
+skye,SkyeFakingC1,I'm faking C.,i am faking c,True,I'm faking sea.,I'm faking sea.,I'm faking C.,I'm faking C.
+skye,SkyeFakingC2,I'm faking C.,i am faking c,True,I'm faking sea.,I'm faking sea.,I'm faking C.,I'm faking C.
+skye,SkyeGuidingLightHit1,Blinded.,blinded,False,Blinded!,Blinded.,Blind it.,Blinded.
+skye,SkyeGuidingLightHit2,Blinded.,blinded,False,Blinded.,Blinded.,Blinded.,Blinded.
+skye,SkyeHelp1,I need help!,i need help,True,I need help.,I need help.,I need help!,I need help!
+skye,SkyeHelp2,I need help!,i need help,True,I need help.,I need help.,I need help!,I need help!
+skye,SkyeHelp3,I need help!,i need help,True,I need help.,I need help.,I need help!,I need help!
+skye,SkyeKill6,One down.,one down,True,One down!,One down!,One down.,One down.
+skye,SkyeLastKill3,That's the last of 'em.,that is the last of em,False,That's the last of them.,It's the last of them.,That's the last of them.,That's the last of them.
+skye,SkyeLetsRushC1,Let's rush C.,let us rush c,True,"Let's rush, see!",Let's rush C.,Let's rush C.,Let's rush C.
+skye,SkyeLetsRushC2,Let's rush C.,let us rush c,True,Let's rush sea!,Let's rush C!,Let's rush C.,Let's rush C.
+skye,SkyeMeleeKill2,Didn't think I was that quiet!,did not think i was that quiet,False,didn't think I was that quiet.,I just didn't think I was that quiet.,Didn't think I was that quiet!,Didn't think I was that quiet!
+skye,SkyeNeedSomeoneB1,Someone go B.,someone go b,True,Someone go be.,Someone go B!,Someone go B.,Someone go B.
+skye,SkyeNeedSomeoneB2,Someone go B.,someone go b,True,Someone go be.,Someone go B.,Someone go B.,Someone go B.
+skye,SkyeNeedSomeoneMid1,Someone go Mid.,someone go mid,True,Someone go meet.,Someone go mid.,Someone go Mid.,Someone go Mid.
+skye,SkyeNeedSomeoneMid2,Someone go Mid.,someone go mid,True,Someone go mid!,Someone go mid!,Someone go Mid.,Someone go Mid.
+skye,SkyeNiceTry1,Solid try.,solid try,False,Solatry!,Solid try.,Solid try.,Solid try.
+skye,SkyeNiceTry2,Solid try.,solid try,False,So let's try.,Solitry!,Solid try.,Solid try.
+skye,SkyeNiceTry3,Solid try.,solid try,False,Solid try!,Solid try!,Solid try.,Solid try.
+skye,SkyeOnCooldown1,Not ready yet.,not ready yet,True,Not ready yet.,Not ready yet.,Not ready yet.,Not ready yet.
+skye,SkyeOnCooldown2,Not ready yet.,not ready yet,True,Nobody yet.,Nobody yet.,No ready yet.,No ready yet.
+skye,SkyePlayForPicks1,Play for picks.,play for picks,True,Life of Pigs!,life of pigs.,Play for picks.,Play for picks.
+skye,SkyePlayForPicks2,Play for picks.,play for picks,True,place for pigs.,Play for picks.,Play for picks.,Play for picks.
+skye,SkyeRoundStart5,"I feel something over there. Can't place it. Like us, but, different.",i feel something over there can not place it like us but different,False,"I feel something over there. Can't place it. Like us, but different.","I feel something over there. Can't place it. Like us, but different.","I feel something over there. Can't place it. Like us, but different.","I feel something over there. Can't place it. Like us, but... different."
+skye,SkyeRunnerUp2,Strong finish. Could be even stronger.,strong finish could be even stronger,False,Strong finish could be even stronger.,Strong finish could be even stronger.,Strong finish. Could be even stronger.,Strong finish. Could be even stronger.
+skye,SkyeThanks1,"Cheers, mate!",cheers mate,False,Cheers mate!,Cheers mate!,"Cheers, mate!","Cheers, mate!"
+skye,SkyeThanks2,"Cheers, mate!",cheers mate,False,She is mine.,"She is, mate.","Cheeze, mate!","Cheers, mate!"
+skye,SkyeThanks3,"Cheers, mate!",cheers mate,False,She is mate!,"Cheers, mate!","Cheers, mate!","Cheers, mate!"
+skye,SkyeTrailblazerStun1,They're concussed.,they are concussed,False,They can cost.,They can cussed!,They're concussed.,They can cost.
+skye,SkyeTrailblazerStun2,They're concussed.,they are concussed,False,They can cost.,They can cussed.,They're can cost.,They can cost.
+skye,SkyeTriple1,That's three.,that is 3,True,That's three.,That's three.,That's three.,That's three.
+skye,SkyeTriple2,That's three.,that is 3,True,That's three.,That's three.,That's three.,That's three.
+sova,SovaBarrierDown16,Deep breath.,deep breath,False,Deep breath.,Deep breath.,Deep breath.,Deep breath.
+sova,SovaEnemiesB1,Multiple enemies B!,multiple enemies b,True,Multiple enemies be.,Multiple enemies be.,Multiple enemies B!,Multiple enemies B!
+sova,SovaEnemiesB2,Multiple enemies B!,multiple enemies b,True,Multiple enemies be.,Multiple enemies be.,Multiple enemies B!,Multiple enemies B!
+sova,SovaFakingC1,I'm faking C.,i am faking c,True,I'm faking sea.,I'm faking sea.,I'm faking C.,I'm faking C.
+sova,SovaFakingC2,I'm faking C.,i am faking c,True,I'm faking sea.,I'm faking sea.,I'm faking C.,I'm faking C.
+sova,SovaGoingA1,Going A.,going a,True,Going A.,Going A.,Going A.,Going A.
+sova,SovaGoingA2,Going A.,going a,True,Going A.,Going A.,Going A.,Going A.
+sova,SovaGoingB1,Going B.,going b,True,Going B.,going to be.,Going B.,Going B.
+sova,SovaGoingB2,Going B.,going b,True,Going B.,Going B.,Going B.,Going B.
+sova,SovaHoldingPosition1,Holding position.,holding position,True,Holding position.,Holding position.,Holding position.,Holding position.
+sova,SovaHoldingPosition2,Holding position.,holding position,True,Holding position.,Holding position.,Holding position.,Holding position.
+sova,SovaKill1,Shot down.,shot down,False,Shut down.,Shot down.,Shot down.,Shut down.
+sova,SovaKill2,Neutralized.,neutralized,True,Neutralized.,Neutralized.,Neutralized.,Neutralized.
+sova,SovaLastKill5,Be at rest.,be at rest,False,Be a dress.,Be at rest.,B at rest.,Be at rest.
+sova,SovaLastKillMVP,I've survived much worse than you.,i have survived much worse than you,False,I've survived much worse than you.,I've survived much worse than you.,I've survived much worse than you.,I've survived much worse than you.
+sova,SovaLastKillMelee1,You should pay more attention.,you should pay more attention,False,You should pay more attention.,You should pay more attention.,You should pay more attention.,You should pay more attention.
+sova,SovaLetsGoA1,Let's go A.,let us go a,True,Let's go A.,Let's go A!,Let's go A.,Let's go A.
+sova,SovaLetsGoA2,Let's go A.,let us go a,True,Let's go A.,Let's go A.,Let's go A.,Let's go A.
+sova,SovaLetsGoB1,Let's go B.,let us go b,True,Let's go be.,Let's go be!,Let's go B.,Let's go B.
+sova,SovaLetsGoB2,Let's go B.,let us go b,True,Let's go be.,Let's go be.,Let's go B.,Let's go B.
+sova,SovaLetsRushB1,Let's rush B.,let us rush b,True,Let's rush pee!,Let's rush be.,Let's rush B.,Let's rush B.
+sova,SovaLetsRushB2,Let's rush B.,let us rush b,True,Let's rush B.,Let's rush B.,Let's rush B.,Let's rush B.
+sova,SovaLetsRushC1,Let's rush C.,let us rush c,True,"Let's rush, see.",Let's rush see.,Let's rush C.,Let's rush C.
+sova,SovaLetsRushC2,Let's rush C.,let us rush c,True,Let's rush thee.,Let's rush tea!,Let's rush C.,Let's rush C.
+sova,SovaLurking1,I'm lurking.,i am lurking,True,I'm lurking.,I'm lurking.,I'm lurking.,I'm lurking.
+sova,SovaLurking2,I'm lurking.,i am lurking,True,I'm learning.,I'm lurking.,I'm lurking.,I'm lurking.
+sova,SovaMatchPoint1,We can end it now. Once more!,we can end it now once more,False,We can end it now once more.,"We can end it now, once more.","We can end it now, once more!","We can end it now, once more."
+sova,SovaPick,"Wherever they run, I will find them.",wherever they run i will find them,False,"Whatever they run, I will find them.","Whatever they run, I will find them.","Whatever they run, I will find them.","Whatever they run, I will find them."
+sova,SovaPlayForPicks1,Play for picks.,play for picks,True,Play for pigs!,Play for picks!,Play for picks.,Play for picks.
+sova,SovaPlayForPicks2,Play for picks.,play for picks,True,Play for peaks.,Play for Peaks.,Play for picks.,Play for picks.
+sova,SovaQuadra1,Now four.,now 4,True,Now for...,Now for...,Now four.,Now four.
+sova,SovaQuadra2,Now four.,now 4,True,Now 4.,Now for...,Now four.,Now four.
+sova,SovaRoundStart2,"Level heads until we're home, yes? Good.",level heads until we are home yes good,False,"Level heads until we're home, yes? Good.","Level heads until we're home, yes? Good.","Level heads until we're home, yes? Good.","Level heads until we're home, yes? Good."
+sova,SovaRoundStart9,Enemies close. Eyes up.,enemies close eyes up,False,"enemies close, eyes up.",Enemies close. Eyes up.,"Enemies close, eyes up.","Enemies close, eyes up."
+sova,SovaRunnerUp3,I am pleased.,i am pleased,False,I am pleased.,I am pleased.,I am pleased.,I am pleased.
+sova,SovaSneakA1,Let's sneak A.,let us sneak a,True,Let's sneak A.,Let's sneak A!,Let's sneak A.,Let's sneak A.
+sova,SovaSneakA2,Let's sneak A.,let us sneak a,True,Let's sneak A.,Let's sneak A.,Let's sneak A.,Let's sneak A.
+sova,SovaSneakB1,Let's sneak B.,let us sneak b,True,Let's sneak B.,Let's sneak B.,Let's sneak B.,Let's sneak B.
+sova,SovaSneakB2,Let's sneak B.,let us sneak b,True,Let's sneak B.,Let's sneak B.,Let's sneak B.,Let's sneak B.
+sova,SovaSpikeDropped1,Spike dropped.,spike dropped,True,Spike dropped.,Spike dropped.,Spike dropped.,Spike dropped.
+sova,SovaSpikeDropped2,Spike dropped.,spike dropped,True,Spike dropped.,Spike dropped.,Spike dropped.,Spike dropped.
+sova,SovaStackA1,Let's stack A.,let us stack a,True,Let's stick A.,Let's stick A.,Let's stack A.,Let's stack A.
+sova,SovaStackA2,Let's stack A.,let us stack a,True,Let's stack A.,Let's stack A.,Let's stack A.,Let's stack A.
+tejo,TejoAce1,Don't mess with an old soldier.,do not mess with an old soldier,False,Don't mess with an all-soldier.,Don't mess with an old soldier.,Don't mess with an old soldier.,Don't mess with an old soldier.
+tejo,TejoAllyVyseKill,Got their Vyse.,got their vyse,False,Got their vise.,God their vice.,Got their vise.,Got their vise.
+tejo,TejoDefuseResumed2,Don't interrupt me again.,do not interrupt me again,False,Don't interrupt me again.,Don't interrupt me again.,Don't interrupt me again.,Don't interrupt me again.
+tejo,TejoEnemiesDSpawn1,Multiple enemies Defender Spawn!,multiple enemies defender spawn,True,Multiple enemies defend their spawn.,Multiple enemies defend their spawn.,Multiple enemies Defender Spawn!,Multiple enemies Defender Spawn!
+tejo,TejoEnemiesDSpawn2,Multiple enemies Defender Spawn!,multiple enemies defender spawn,True,Multiple enemies defend respond.,Multiple enemies defend respond.,Multiple enemies Defender Spawn!,Multiple enemies Defender Spawn!
+tejo,TejoEnemyGekkoLastKill,"Rest in peace, Mateo.",rest in peace mateo,False,"Rest in peace, Mateo.","Rest in peace, Mateo.","Rest in peace, Mateo.","Rest in peace, Mateo."
+tejo,TejoEnemyMid1,Enemy spotted Mid.,enemy spotted mid,True,Enemy spotted mid.,Enemy spotted mid.,Enemy spotted Mid.,Enemy spotted Mid.
+tejo,TejoEnemyMid2,Enemy spotted Mid.,enemy spotted mid,True,"Enemy spotted, mid.","Enemy spotted, mid.",Enemy spotted Mid.,Enemy spotted Mid.
+tejo,TejoFaking1,I'm faking.,i am faking,True,I'm freaking.,I'm freaking...,I'm faking.,I'm faking.
+tejo,TejoFaking2,I'm faking.,i am faking,True,I'm faking.,I'm faking.,I'm faking.,I'm faking.
+tejo,TejoHelp1,A little help.,a little help,True,I'll never help.,A little help.,A little help!,A little help!
+tejo,TejoHelp2,A little help.,a little help,True,I'll eat our help.,A little help.,A little help!,A little help!
+tejo,TejoKill9,One down.,one down,True,One down.,One down.,One down.,One down.
+tejo,TejoLastRound2,You want to survive? Bring the right gun.,you want to survive bring the right gun,False,You want to survive? Bring the right gun.,You want to survive? Bring the right gun.,You want to survive? Bring the right gun.,You want to survive? Bring the right gun.
+tejo,TejoLead1,"I'm used to difficult work, this is not so difficult.",i am used to difficult work this is not so difficult,False,use the difficult work. This is not so difficult.,I'm used to difficult work. This is not so difficult.,I'm used to difficult work. This is not so difficult.,I'm used to difficult work. This is not so difficult.
+tejo,TejoLurking1,I'm lurking.,i am lurking,True,I'm lurking.,I'm lurking.,I'm lurking.,I'm lurking.
+tejo,TejoLurking2,I'm lurking.,i am lurking,True,I'm Lurking.,I'm lurking.,I'm lurking.,I'm lurking.
+tejo,TejoOneKillLeft1,One last kill.,one last kill,False,One last kill.,One last kill.,One last kill.,One last kill.
+tejo,TejoQuadra1,That's four.,that is 4,False,That's four.,That's four.,That's four.,That's four.
+tejo,TejoQuadra2,That's four.,that is 4,False,That's four.,That's four.,That's four.,That's four.
+tejo,TejoSpikeA1,Spike is A.,spike is a,True,Spike is A.,Spike is A.,Spike is A.,Spike is A.
+tejo,TejoSpikeA2,Spike is A.,spike is a,True,Spike is A.,Spike is A.,Spike is A.,Spike is A.
+tejo,TejoSpikeSpottedB1,Spike spotted B.,spike spotted b,True,"Spikes for it, be.",Spike Sportet B.,Spike spotted B.,Spike spotted B.
+tejo,TejoSpikeSpottedB2,Spike spotted B.,spike spotted b,True,"Spikes for it, be.",Spike Sportet B.,Spike spotted B.,Spike spotted B.
+tejo,TejoSpikeSpottedMid1,Spike spotted Mid.,spike spotted mid,True,Spikes bought it mid!,SPAC SPOT AT MID.,Spike spotted Mid.,Spike spotted Mid.
+tejo,TejoSpikeSpottedMid2,Spike spotted Mid.,spike spotted mid,True,"Spikes for it, mid.","Spike Spotted, mid.",Spike spotted Mid.,Spike spotted Mid.
+tejo,TejoStealthDroneHitFive1,Five suppressed.,5 suppressed,True,5 suppressed.,Five suppressed.,Five suppressed.,Five suppressed.
+tejo,TejoStealthDroneHitFive2,Five suppressed.,5 suppressed,True,Five suppressed.,Five suppressed.,Five suppressed.,Five suppressed.
+tejo,TejoStealthDroneHitOne1,One suppressed.,one suppressed,True,One suppressed.,One suppressed.,One suppressed.,One suppressed.
+tejo,TejoStealthDroneHitOne2,One suppressed.,one suppressed,True,One suppressed.,Once we pressed.,One suppressed.,One suppressed.
+tejo,TejoYes1,Yes.,yes,True,Yes.,Yes.,Yes.,Yes.
+viper,ViperAffirmation1,Agreed.,agreed,False,Agreed.,Agreed.,A great.,Agreed.
+viper,ViperAffirmation2,Agreed.,agreed,False,Agreed.,Agreed.,Agreed.,Agreed.
+viper,ViperAllyKilljoyRoundStart,"You did well, little mouse. Keep it up.",you did well little mouse keep it up,False,"You did well, little mouse. Keep it up.","You did well, little mouse. Keep it up.","You did well, little mouse. Keep it up.","You did well, little mouse. Keep it up."
+viper,ViperBarrierDown16,"Isolate them, and kill them.",isolate them and kill them,False,I select them and kill them.,I select them and kill them.,"I select them, and kill them.","I select them, and kill them."
+viper,ViperCaution1,Enemies close.,enemies close,True,enemies close,Enemies close.,Enemies close.,Enemies close!
+viper,ViperCaution2,Enemies close.,enemies close,True,enemies close,Enemy's close.,Enemies close.,Enemies close.
+viper,ViperClutch2,You only thought that was close.,you only thought that was close,False,You only farmed that was close.,You only thought that was close.,You only farmed that was close.,You only thought that was close.
+viper,ViperComeback2,They had their fun. Now it's my turn.,they had their fun now it is my turn,False,They had their fun. Now it's my turn.,They had their fun. Now it's my turn.,They had their fun. Now it's my turn.,They had their fun. Now it's my turn.
+viper,ViperCommend1,I'm... impressed.,i am impressed,False,I'm impressed.,I'm impressed.,I'm impressed.,I'm... impressed.
+viper,ViperCommend2,I'm... impressed.,i am impressed,False,I'm impressed!,I'm impressed.,I'm impressed!,I'm impressed.
+viper,ViperEnemyPhoenixRoundStart,Fire needs oxygen. Let me replace this Phoenix's air.,fire needs oxygen let me replace this phoenix is air,False,Fire needs oxygen. Let me replace this Phoenix's air.,Fire needs oxygen. Let me replace this Phoenix's air.,Fire needs oxygen. Let me replace this Phoenix's air.,Fire needs oxygen. Let me replace this Phoenix's air.
+viper,ViperEnemySovaRoundStart,I'll crush their Sova's spirit.,i will crush their sova is spirit,False,"Oh, crush their silver spirit.","Oh, crush their sober spirit.",Oh crush their service spirit!,I'll crush their Sova's spirit.
+viper,ViperFakingB1,I'm faking B.,i am faking b,True,I'm Saking Bee.,I'm faking Bee.,I'm faking B.,I'm faking B.
+viper,ViperFakingB2,I'm faking B.,i am faking b,True,I'm second B.,I'm thinking B.,I'm faking B.,I'm faking B.
+viper,ViperGoingC1,Going C.,going c,True,Go and see.,Go and see.,Going C.,Going C.
+viper,ViperGoingC2,Going C.,going c,True,Let's go and see.,Go and see.,Going C.,Going C.
+viper,ViperGoingMid1,Heading Mid.,heading mid,True,Having good.,heading mid.,Healing Mid.,Heading Mid.
+viper,ViperKill1,Ended.,ended,True,End it.,End it.,End it.,End it.
+viper,ViperLastRound2,We can't take anything with us after this.,we can not take anything with us after this,False,We can't take anything with us after this.,We can't take anything with us after this.,We can't take anything with us after this.,We can't take anything with us after this.
+viper,ViperMatchPoint1,They're in the coffin. Time to bury them.,they are in the coffin time to bury them,False,They're in the coffin. Time to bury them.,They're in the coffin. Time to bury them.,They're in the coffin. Time to bury them.,They're in the coffin. Time to bury them.
+viper,ViperMatchStart3,I wonder if these ones will beg. They all do after a while.,i wonder if these ones will beg they all do after a while,False,I wonder if these ones will beg. They all do. After a while.,I wonder if these ones will beg. They all do. After a while.,"I wonder if these ones will beg. They all do, after a while.","I wonder if these ones will beg. They all do, after a while."
+viper,ViperMatchStartFracture,"I knew some of them, the people here. Good scientists.",i knew some of them the people here good scientists,False,There's some of them for people here. Good scientists.,"I knew some of them, for people here. Good scientists.","My near some of them, for people here. Good scientists.","I knew some of them, for people here. Good scientists."
+viper,ViperMeleeKill1,Not worth the bullets.,not worth the bullets,False,Now watch the bullets.,Not worth the bullets.,Not worth the bullets.,Not worth the bullets.
+viper,ViperNeedSomeoneB1,Someone go B.,someone go b,True,Someone copy!,Someone go be!,Someone go B.,Someone go B.
+viper,ViperNeedSomeoneB2,Someone go B.,someone go b,True,Someone go be.,Someone go be.,Someone go B.,Someone go B.
+viper,ViperPingCaution1,Careful.,careful,True,Careful.,Careful.,Careful.,Careful.
+viper,ViperPingCaution2,Careful.,careful,True,Careful!,Careful!,Careful.,Careful.
+viper,ViperRegroup2,Regroup!,regroup,True,Recruit!,Recruit!,Regroup.,Recroup.
+viper,ViperRoundStart10,They're nothing but flies.,they are nothing but flies,False,They're nothing but flies.,There are nothing but flies.,They're nothing but flies.,They're nothing but flies.
+viper,ViperRoundStart7,They will die. Hopeless and afraid.,they will die hopeless and afraid,False,"They will die, hopeless and afraid.","They will die, hopeless and afraid.",They will die. Hopeless and afraid.,"They will die, hopeless and afraid."
+viper,ViperRoundWon3,Keep kicking them down.,keep kicking them down,False,Keep kicking them down.,Keep kicking them down.,Keep kicking them down.,Keep kicking them down.
+viper,ViperSneakA1,Let's sneak A.,let us sneak a,True,"Let's see, Kay.",Let's sneak A.,Let's sneak A.,Let's sneak A.
+viper,ViperSneakA2,Let's sneak A.,let us sneak a,True,Let's sneak in.,Let's sneak in.,Let's sneak A.,Let's sneak A.
+viper,ViperSorry1,Apologies.,apologies,True,Apologies.,Apologies.,Apologies.,Apologies.
+viper,ViperSorry2,Apologies.,apologies,True,Apologies.,Apologies.,Apologies.,Apologies.
+viper,ViperSpikeC1,Spike's C.,spike is c,True,Spike C!,Spike C.,Spike's C.,Spike's C.
+viper,ViperSpikeC2,Spike's C.,spike is c,True,Spikesee!,Spike C!,Spike's C.,Spike's C.
+viper,ViperSpikePickedUp1,I have the spike.,i have the spike,True,I have this week.,I have the spike.,I have the spike.,I have the spike.
+viper,ViperSpikePickedUp2,I have the spike.,i have the spike,True,I have the spike.,I have the spike.,I have the spike.,I have the spike.
+viper,ViperSpikeSpottedDSpawn1,Spike's in Defender Spawn.,spike is in defender spawn,True,Spikes and defenders spawn.,Spikes and Defender Spawn.,Spike's in Defender Spawn.,Spike's in Defender Spawn.
+viper,ViperSpikeSpottedDSpawn2,Spike's in Defender Spawn.,spike is in defender spawn,True,Spikes and Defender spawn.,Spikes and defender spawn.,Spike's in Defender Spawn.,Spike's in Defender Spawn.
+viper,ViperUltDown1,My ultimate isn't ready.,my ultimate is not ready,True,My ultimate isn't ready.,My ultimate isn't ready.,My ultimate isn't ready.,My ultimate isn't ready.
+viper,ViperUltDown2,My ultimate isn't ready.,my ultimate is not ready,True,My ultimate isn't ready.,My ultimate isn't ready.,My ultimate isn't ready.,My ultimate isn't ready.
+vyse,VyseAce3,"If any of you mattered, you'd be alive.",if any of you mattered you would be alive,False,"If any of you mattered, you'd be alive.","If any of you mattered, you'd be alive.","If any of you mattered, you'd be alive.","If any of you mattered, you'd be alive."
+vyse,VyseAllyKAYOCommend,"I studied robotics for a time, but I've never seen anything like you, KAY/O. Remarkable.",i studied robotics for a time but i have never seen anything like you kay 0 remarkable,False,"I studied robotics for a time, but I've never seen anything like UKO. Remarkable.","I studied robotics for a time, but I've never seen anything like UKO. Remarkable.","I studied robotics for a time, but I've never seen anything like you, KAYO. Remarkable.","I studied robotics for a time, but I've never seen anything like you, KAY-O. Remarkable."
+vyse,VyseAllyRazeRoundStart,"So, you use explosives to propel yourself, Raze. That's... that's creative. I think I like it.",so you use explosives to propel yourself raze that is that is creative i think i like it,False,"So you use explosives to propel yourself, Raze. That's creative. I think I like it.","So you use explosives to propel yourself, Raze. That's creative. I think I like it.","So, you use explosives to propel yourself, Raze. That's- that's creative. I think I like it.","So, you use explosives to propel yourself, Raze. That's- that's creative. I think I like it."
+vyse,VyseArcRoseDestroyed3,My blind is dead.,my blind is dead,False,My blind is dead.,My blind is dead.,My blind is dead.,My blind is dead.
+vyse,VyseArcRoseDestroyed4,My blind is dead.,my blind is dead,False,My blind is dead.,My blind is dead.,My blind is dead.,My blind is dead.
+vyse,VyseArcRoseHit1,Good hit.,good hit,False,Good hit.,Good hit!,Good hit.,Good hit.
+vyse,VyseArcRoseHit2,Good hit.,good hit,False,Good hit.,Good hit.,Good hit.,Good hit.
+vyse,VyseBarrierDown7,I am the master of my fate.,i am the master of my fate,False,I am the master of my fate.,I am the master of my fate.,I am the master of my fate.,I am the master of my fate.
+vyse,VyseBuying1,Buying.,buying,True,Bye.,Bye!,Buying.,Buying.
+vyse,VyseBuying2,Buying.,buying,True,Bye.,Bye!,Buying.,Buying.
+vyse,VyseComeback1,"Good, now we build on this success.",good now we build on this success,False,Good. Now we build on the success.,Good. Now we build on the success.,Good. Now we build on the success.,Good. Now we build on the success.
+vyse,VyseCommend3,Well done.,well done,True,Well done.,Well done.,Well done.,Well done.
+vyse,VyseDefuseLate2,"Okay, okay.",okay okay,True,"Okay, okay.",Okay. Okay.,"Okay, okay.","Okay, okay."
+vyse,VyseEnemyB1,Enemy spotted B.,enemy spotted b,True,"Enemy spotted, be.","Enemy spotted, be.",Enemy spotted B.,Enemy spotted B.
+vyse,VyseEnemyB2,Enemy spotted B.,enemy spotted b,True,"Enemy spotted, B.","Enemy spotted, be.",Enemy spotted B.,Enemy spotted B.
+vyse,VyseEnemyBrimstoneRoundStart,Their Brimstone will learn what real leadership looks like.,their brimstone will learn what real leadership looks like,False,Their burnstone will learn what real leadership looks like.,Their brimstone will learn what real leadership looks like.,Their Brimstone will learn what real leadership looks like.,Their Brimstone will learn what real leadership looks like.
+vyse,VyseEnemyViperBarrierDown,Leave me with Viper.,leave me with viper,False,Leave me with Viper.,Leave me with Viper.,Leave me with Viper.,Leave me with Viper.
+vyse,VyseForgotSpike1,I thought the spike was an integral part of our plan.,i thought the spike was an integral part of our plan,False,I thought the spike was an integral part of our plan.,I thought the spike was an integral part of our plan.,I thought the spike was an integral part of our plan.,I thought the spike was an integral part of our plan.
+vyse,VyseKill5,Irrelevant.,irrelevant,False,irrelevant.,irrelevant.,A relevant.,Erelevant.
+vyse,VyseLowHP2,This is nothing.,this is nothing,True,This is nothing.,This is nothing.,"This, is nothing.","This, is nothing."
+vyse,VyseMatchStart7,"This is what we trained for. Pick a weapon, choose your sector and fight for your future.",this is what we trained for pick a weapon choose your sector and fight for your future,False,"This is what we trained for. Pick a weapon, choose your sector, and fight for your future.","This is what we trained for. Pick a weapon, choose your sector, and fight for your future.","This is what we trained for. Pick a weapon, choose your sector, and fight for your future.","This is what we trained for. Pick a weapon, choose your sector, and fight for your future."
+vyse,VyseMatchStartIcebox,"So this is the project that sapped my funding all those years ago. Looks like it worked out well for you, Kingdom.",so this is the project that sapped my funding all those years ago looks like it worked out well for you kingdom,False,"So this is the project that sat my funding all those years ago. Looks like it worked out well for you, Kingdom.","So this is the project that sat my funding all those years ago. Looks like it worked out well for you, Kingdom.","So this is the project that sat my funding all those years ago. Looks like it worked out well for you, Kingdom.","So this is the project that sat my funding all those years ago. Looks like it worked out well for you, Kingdom."
+vyse,VyseNeedSomeoneC1,Someone go C.,someone go c,True,Someone go see.,Someone go see.,Someone go C.,Someone go C.
+vyse,VyseNeedSomeoneC2,Someone go C.,someone go c,True,Someone go see.,Someone go see.,Someone go C.,Someone go C.
+vyse,VysePushOut1,Let's push out.,let us push out,True,Let's push out.,Let's push out.,Let's push out.,Let's push out.
+vyse,VysePushOut2,Let's push out.,let us push out,True,Let's push out.,Let's push out.,Let's push out.,Let's push out.
+vyse,VyseQuadra1,Four.,4,False,Four!,Four!,Four!,Four!
+vyse,VyseQuadra2,Four.,4,False,Four.,Four.,Four.,Four.
+vyse,VyseRazorvineActivate3,Thorns are live.,thorns are live,False,Thorns are alive.,Thorns are alive.,Thorns are alive.,Thorns are alive.
+vyse,VyseRazorvineActivate4,Thorns are live.,thorns are live,False,Clear in their lives!,Thorns are alive.,Thorns are alive.,Thorns are aligned!
+vyse,VyseRazorvineRecall3,Retrieving thorns.,retrieving thorns,False,We're tripping thorns.,Retrieving Thorns.,Retrieving thorns.,Retrieving thorns.
+vyse,VyseRazorvineRecall4,Retrieving thorns.,retrieving thorns,False,retrieving thorns.,Retrieving thorns.,Retrieving thorns.,Retrieving thorns.
+vyse,VyseRoundStart5,I'll isolate the problem. You crush it.,i will isolate the problem you crush it,False,I'll isolate the problem. You crush it.,I'll isolate the problem. You crush it.,I'll isolate the problem. You crush it.,I'll isolate the problem. You crush it.
+vyse,VyseRoundWon1,"Hm, I'm partial to winning. Let's do more of it.",hm i am partial to winning let us do more of it,False,Hmm. I'm partial to winning. Let's do more of it.,Hmm. I'm partial to winning. Let's do more of it.,"Hm, I'm partial to winning. Let's do more of it.","Hm, impartial to winning. Let's do more of it."
+vyse,VyseRush1,Rush them.,rush them,True,Rush them.,Rush them.,Rush them.,Rush them.
+vyse,VyseRush2,Rush them.,rush them,True,Rush them.,Rush them.,Rush them.,Rush them.
+vyse,VyseSpikePlanted1,Spike planted.,spike planted,True,Spike planted!,Spike planted!,Spike planted.,Spike planted.
+vyse,VyseSpikePlanted2,Spike planted.,spike planted,True,Spike planted.,Spoke planted.,Spike planted.,Spike planted.
+vyse,VyseStackB1,Let's stack B.,let us stack b,True,Let's stack B.,Let's stack B.,Let's stack B.,Let's stack B.
+vyse,VyseStackB2,Let's stack B.,let us stack b,True,Let's set B.,Let's set B.,Let's stack B.,Let's stack B.
+vyse,VyseUltEnemyCast,Adapt or die!,adapt or die,False,Adapt or die!,Adapt or die!,Adapped! Or die!,"Adept, or die!"
+vyse,VyseYes1,Absolutely.,absolutely,False,Absolutely.,Absolutely.,Absolutely.,Absolutely.
+yoru,YoruAllyKilljoyCommend,"It seems your science shit has some use after all, Killjoy.",it seems your science shit has some use after all killjoy,False,"It seems a science shit has some use after all, kill joy.","It seems that science shit has some use after all, killjoy.","It seems a science shit hasn't used after all, Killjoy.","It seems the science shit has some use after all, killjoy."
+yoru,YoruAllySkyeChat,"Hey, flower girl. I found some leaves. Do you want them?",hey flower girl i found some leaves do you want them,False,"Hey, Flowerguard! I've found some leaves. Do you want them?","Hey, Flaga! I've found some leaves. Do you want some?",Hey Flourger! I've found some leaves. Do you want them?,"Hey, flower guard! I've found some leaves. Do you want them?"
+yoru,YoruCantUse1,Can't use that.,can not use that,True,You can't use that.,You can't use that.,Can't use that.,Can't use that.
+yoru,YoruCantUse2,Can't use that.,can not use that,True,You can't use that.,I can't use that.,Can't use that.,Can't use that.
+yoru,YoruDefuseComplete1,"Good try, idiots.",good try idiots,False,"Good try, idiots.","Good try, idiots.","Good try, idiots.","Good try, idiots."
+yoru,YoruEnemyYoruMatchStart,"That's me over there! Great, now I can kick my own ass.",that is me over there great now i can kick my own ass,False,That's me over there. Great. Now I can kick my own ass.,That's me over there. Great. Now I can kick my own ass.,That's me over there. Great. Now I can kick my own ass.,That's me over there. Great. Now I can kick my own ass.
+yoru,YoruGoingB1,Going B.,going b,True,Going B.,going B.,Going B.,Going B.
+yoru,YoruGoingB2,Going B.,going b,True,Going B.,Going B.,Going B.,Going B.
+yoru,YoruGoingC1,Going C.,going c,True,going sea.,Going C.,Going C.,Going C.
+yoru,YoruGoingC2,Going C.,going c,True,going sea.,Going C.,Going C.,Going C.
+yoru,YoruHeadshot5,Headshot.,headshot,True,Headshot.,Headshot.,Headshot.,Headshot.
+yoru,YoruKill3,Don't get up.,do not get up,False,Don't get up.,Still get up.,Don't get up.,Don't get up.
+yoru,YoruLastKillMVP1,You tried to be a hero. Great job.,you tried to be a hero great job,False,You try to be a hero. Great job.,You try to be a hero. Great job.,You tried to be a hero. Great job.,You try to be a hero. Great job.
+yoru,YoruLastKillMelee1,Wow. You really suck.,wow you really suck,False,"Wow, you barely suck.","Wow, you really suck.","Wow, you barely suck.","Wow, you really suck."
+yoru,YoruLastRound1,Spend your money now. There's no bank in hell.,spend your money now there is no bank in hell,False,Spend your money now. There's no bank in hell.,Spend your money now. There's no bank in hell.,Spend your money now. There's no bank in hell.,Spend your money now. There's no bank in hell.
+yoru,YoruLastRound2,Spend your money now. There's no bank in hell.,spend your money now there is no bank in hell,False,Spend your money now. There's no bank in hell.,Spend your money now. There's no bank in hell.,Spend your money now. There's no bank in hell.,Spend your money now. There's no bank in hell.
+yoru,YoruLetsRushB1,Let's rush B.,let us rush b,True,Let's rush B.,Let's rush B.,Let's rush B.,Let's rush B.
+yoru,YoruLetsRushB2,Let's rush B.,let us rush b,True,Let's roast B.,Let's rust be.,Let's rush B.,Let's rush B.
+yoru,YoruMatchStart7,These guys caught me in a mood. Bad luck for them.,these guys caught me in a mood bad luck for them,False,These guys called me in a mood. Bad luck for them.,These guys called me in a mood. Bad luck for them.,These guys called me in a mood. Bad luck for them.,These guys called me in a mood. Bad luck for them.
+yoru,YoruMatchStartDefense1,"If they keep stealing our radianite, I'll have to take it personally.",if they keep stealing our radianite i will have to take it personally,False,"If they keep stealing our radianite, I'll have to take it personally.","If they keep stealing our radianite, I'll have to take it personally.","If they keep stealing our radianite, I'll have to take it personally.","If they keep stealing our radianite, I'll have to take it personally."
+yoru,YoruNiceTry1,Nice try.,nice try,True,Nice try.,Nice try.,Nice try.,Nice try.
+yoru,YoruNiceTry2,Nice try.,nice try,True,Nice try.,Nice try.,Nice try.,Nice try.
+yoru,YoruNiceTry3,Nice try.,nice try,True,No story.,Nice try.,Nice try.,Nice try.
+yoru,YoruOffer1,I can buy for you. What do you want?,i can buy for you what do you want,False,I can buy for you. What do you want?,I can buy for you. What do you want?,"I can buy for you, what do you want?","I can buy for you, what do you want?"
+yoru,YoruOffer2,I can buy for you. What do you want?,i can buy for you what do you want,False,I can buy for you. What do you want?,I can buy for you. What do you want?,"I can buy for you, what do you want?","I can buy for you, what do you want?"
+yoru,YoruPingUtility1,Enemy utility here.,enemy utility here,True,Enemy utility here.,Enemy utility here.,Enemy utility here.,Enemy utility here.
+yoru,YoruPingUtility2,Enemy utility here.,enemy utility here,True,Enemy utility here.,Enemy utility here.,Enemy utility here.,Enemy utility here.
+yoru,YoruQuadra2,Four.,4,False,4.,Thor.,Four.,Four.
+yoru,YoruReloading1,Reloading.,reloading,True,Reloading.,Reloading.,Reloading.,Reloading.
+yoru,YoruReloading2,Reloading.,reloading,True,Reloading.,Reloading.,Reloading.,Reloading.
+yoru,YoruRoundWon1,They forgot who they're dealing with.,they forgot who they are dealing with,False,They forgot who they're dealing with.,They forgot who they're dealing with.,They forgot who they're dealing with.,They forgot who they're dealing with.
+yoru,YoruRunnerUp1,Fine for now.,fine for now,False,Fine for now.,Fine for now.,Fine for now.,Fine for now.
+yoru,YoruRunnerUp3,I'll show off next time.,i will show off next time,False,I'll show off next time.,I'll show off next time.,I'll show off next time.,I'll show off next time.
+yoru,YoruSneakB1,Let's sneak B.,let us sneak b,True,Let's sneak B.,Let's sneak B.,Let's sneak B.,Let's sneak B.
+yoru,YoruSneakB2,Let's sneak B.,let us sneak b,True,Let's sneak B.,Let's sneak B.,Let's sneak B.,Let's sneak B.
+yoru,YoruSpikeSpottedMid1,Spike is Mid.,spike is mid,True,Spike is mid.,Spike is mid.,Spike is Mid.,Spike is Mid.
+yoru,YoruSpikeSpottedMid2,Spike is Mid.,spike is mid,True,Spike is mid.,Spike is mid.,Spike is Mid.,Spike is Mid.
+yoru,YoruStack1,Let's stack up.,let us stack up,True,Let's stack up.,Let's stack up.,Let's stack up.,Let's stack up.
+yoru,YoruStack2,Let's stack up.,let us stack up,True,Let's stack up.,Let's stack up.,Let's stack up.,Let's stack up.
+yoru,YoruUltEnemyCast,Who's next?,who is next,False,Who's next?,Who's next?,Who's next?,Who's next?

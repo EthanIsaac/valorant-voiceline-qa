@@ -1,4 +1,4 @@
-"""Accuracy of the app on a fixed sample of held-out test clips (report §9.4).
+"""Accuracy of the app on a fixed sample of held-out test clips (report, section 9.4).
 
 The sample (test_clips/manifest.csv) holds 4 clips per agent drawn with a fixed seed from the English test split
 of notebook 01; none was used to train or select a model. Each clip goes through the same code path as a tester's
@@ -95,7 +95,7 @@ def summarize_accuracy(results: pd.DataFrame) -> AccuracySummary:
 
 
 def script_accuracy_by_subset(results: pd.DataFrame) -> pd.DataFrame:
-    """Script check on lines never heard in training vs. lines whose text was (report §9.2)."""
+    """Script check on lines never heard in training vs. lines whose text was (report, section 9.2)."""
     subsets = results.assign(subset=results["seen_in_train"].map({False: "Unseen lines", True: "Seen lines"}))
     table = subsets.groupby("subset").agg(clips=("file", "size"), exact_match=("script_exact_match", "mean"),
                                           word_errors=("word_errors", "sum"), script_words=("script_words", "sum"))

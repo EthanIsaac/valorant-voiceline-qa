@@ -1,4 +1,4 @@
-"""Performance test: accuracy of the app on held-out test clips (report §9.4)."""
+"""Performance test: accuracy of the app on held-out test clips (report, section 9.4)."""
 
 import streamlit as st
 

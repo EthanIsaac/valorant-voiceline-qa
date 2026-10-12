@@ -79,5 +79,5 @@ class VoiceLineQA:
 
 
 def split_sentences(text: str) -> list[str]:
-    """Whole multi-sentence lines made the translation model silently drop a sentence (report §9.3)."""
+    """Whole multi-sentence lines made the translation model silently drop a sentence (report, section 9.3)."""
     return [sentence for sentence in re.split(r"(?<=[.!?])\s+", text.strip()) if sentence]

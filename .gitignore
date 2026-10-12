@@ -25,3 +25,6 @@ venv/
 # Local tooling (not part of the submission)
 .agents/
 .claude/
+
+# Presentation working files (the final PPT/video are submitted separately)
+presentation/

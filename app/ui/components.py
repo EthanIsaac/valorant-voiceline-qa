@@ -22,6 +22,7 @@ def author_dialog() -> None:
         '<div class="role">Role · Sentinel <small>(guards voice-line quality)</small></div></div></div>'
         '<dl class="vq-facts">'
         "<dt>Course</dt><dd>ISOM5240 · The Hong Kong University of Science and Technology (HKUST)</dd>"
+        "<dt>Home school</dt><dd>EGADE Business School, México</dd>"
         "<dt>Project</dt><dd>VALORANT Voice-Line QA &amp; Localization Assistant: checks that a voice-line "
         "recording comes from the right agent and matches its script word for word, and drafts its Spanish "
         "subtitle.</dd>"

@@ -1,7 +1,8 @@
 # Private / local only (not part of the submission)
 docs/
-report/*
-!report/*.pdf
+
+# Report, slides, video, dataset/model files and submission zips: worked on locally, submitted on Canvas
+deliverables/
 
 # Model weights and training artifacts: large, published on Hugging Face instead
 models/
@@ -25,6 +26,3 @@ venv/
 # Local tooling (not part of the submission)
 .agents/
 .claude/
-
-# Presentation working files (the final PPT/video are submitted separately)
-presentation/

@@ -15,7 +15,7 @@ model_development/        how the models were built and chosen (Google Colab)
   results/                metrics produced by the notebooks (CSV/JSON, SHA-256 fingerprints)
 
 app/                      the Streamlit app deployed on Streamlit Community Cloud
-  streamlit_app.py        entry point: page setup, shared layout, navigation
+  app.py                  entry point: page setup, shared layout, navigation
   app_pages/              qa_check.py (a tester checks one recording) · performance.py (accuracy and runtime test)
   voiceline_qa/           business layer (no Streamlit): audio loading, the three checks, evaluation
   ui/                     presentation layer: theme, stylesheet, visual components
@@ -31,7 +31,7 @@ Run the app from the repository root:
 
 ```bash
 pip install -r app/requirements.txt
-streamlit run app/streamlit_app.py
+streamlit run app/app.py
 ```
 
 Run the unit tests: `cd app && python -m pytest tests`
